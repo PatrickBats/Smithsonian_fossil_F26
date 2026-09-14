@@ -1,0 +1,6 @@
+# Preserve imported source bytes across platforms, including original line endings.
+/docs/sources/** -text
+"meeting transcriptions/*_meeting.txt" -text
+
+# The original CSV uses CRLF; recognize its carriage returns as line endings.
+/docs/sources/data/title_counts.csv whitespace=cr-at-eol

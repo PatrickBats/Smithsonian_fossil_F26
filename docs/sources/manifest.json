@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "import_date": "2026-09-14",
+  "date_policy": "Null source_date means the document date is not established; import date and archive filename are not treated as document dates.",
+  "archives": [
+    {
+      "original_filename": "Smithsonian-20260914T153813Z-1-001.zip",
+      "sha256": "0c7b992a0d153a90297bb4ab3115dd5a16c28c4e0d3cf990567450530a1ed840",
+      "size_bytes": 9336602,
+      "member_count": 5,
+      "committed": false,
+      "reason": "All five members are preserved individually; original upload remains intact."
+    }
+  ],
+  "sources": [
+    {
+      "id": "docs/sources/data/title_counts.csv",
+      "original_filename": "title_counts.csv",
+      "repository_path": "docs/sources/data/title_counts.csv",
+      "sha256": "1c6989486dbc1b01266c9a79e3dcda41de4f6180beea15da95497c7204c88d90",
+      "size_bytes": 7177,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_file",
+      "preservation": "byte-for-byte"
+    },
+    {
+      "id": "docs/sources/data/category_totals.xlsx",
+      "original_filename": "category_totals.xlsx",
+      "repository_path": "docs/sources/data/category_totals.xlsx",
+      "sha256": "c1f911944757fb8912b2f9d18ac3b34737b89944ea38a03a603a7291befdf667",
+      "size_bytes": 11955,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_file",
+      "preservation": "byte-for-byte"
+    },
+    {
+      "id": "docs/sources/presentations/Rice presentation project.pdf",
+      "original_filename": "Rice presentation project.pdf",
+      "repository_path": "docs/sources/presentations/Rice presentation project.pdf",
+      "sha256": "cf62178d6a8dabe39490bf548594010a4eefad77929ad8cfb76c5b8e0b098273",
+      "size_bytes": 3865003,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_file",
+      "preservation": "byte-for-byte"
+    },
+    {
+      "id": "docs/sources/presentations/Intro Presentation.pptx",
+      "original_filename": "Intro Presentation.pptx",
+      "repository_path": "docs/sources/presentations/Intro Presentation.pptx",
+      "sha256": "dbb565caa07184e85f81a44a4421883cac5a660f62945963fa47a42d2cacc12e",
+      "size_bytes": 35007,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_file",
+      "preservation": "byte-for-byte"
+    },
+    {
+      "id": "meeting transcriptions/2026-09-11_smithsonian_sponsor_meeting.txt",
+      "original_filename": "audio1460078399_transcript.txt",
+      "repository_path": "meeting transcriptions/2026-09-11_smithsonian_sponsor_meeting.txt",
+      "sha256": "91f864fce7ddddc0645fc81cd2ac8879e522b015231db14b9bdb509b72e23bab",
+      "size_bytes": 33130,
+      "source_date": "2026-09-11",
+      "date_basis": "Explicit Recording date in transcript header",
+      "origin": "uploaded_file",
+      "preservation": "byte-for-byte"
+    },
+    {
+      "id": "docs/sources/project/Fall_2026_D2K_Smithsonian_fossil.pdf",
+      "original_filename": "Fall_2026_D2K_Smithsonian_fossil.pdf",
+      "repository_path": "docs/sources/project/Fall_2026_D2K_Smithsonian_fossil.pdf",
+      "sha256": "475378fd1830461770bc5606ee2cfa484ac25fe5de03ba46a62668f9816ca54c",
+      "size_bytes": 164107,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_zip_member",
+      "preservation": "byte-for-byte",
+      "archive_filename": "Smithsonian-20260914T153813Z-1-001.zip",
+      "archive_member": "Smithsonian/Fall_2026_D2K_Smithsonian_fossil.pdf"
+    },
+    {
+      "id": "docs/sources/course/DSCI 435_535 Fall 2026 Syllabus.pdf",
+      "original_filename": "DSCI 435_535 Fall 2026 Syllabus.pdf",
+      "repository_path": "docs/sources/course/DSCI 435_535 Fall 2026 Syllabus.pdf",
+      "sha256": "74fb6ce0cea54d16e3770f79a74f6b39498c372236c5c208a828dc49da44b1bf",
+      "size_bytes": 148517,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_zip_member",
+      "preservation": "byte-for-byte",
+      "archive_filename": "Smithsonian-20260914T153813Z-1-001.zip",
+      "archive_member": "Smithsonian/DSCI 435_535 Fall 2026 Syllabus.pdf"
+    },
+    {
+      "id": "docs/sources/presentations/Team Self_Intro.pptx",
+      "original_filename": "Team Self_Intro.pptx",
+      "repository_path": "docs/sources/presentations/Team Self_Intro.pptx",
+      "sha256": "5b222acdc6684ceeec2f33bc0cb646afcf2beafd1e26b873445e392eea2d94cb",
+      "size_bytes": 473751,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_zip_member",
+      "preservation": "byte-for-byte",
+      "archive_filename": "Smithsonian-20260914T153813Z-1-001.zip",
+      "archive_member": "Smithsonian/Team Self_Intro.pptx"
+    },
+    {
+      "id": "docs/sources/references/Resources.docx",
+      "original_filename": "Resources.docx",
+      "repository_path": "docs/sources/references/Resources.docx",
+      "sha256": "698948740789bd663595281a0cda70ee3ad2cfb9dcc8085ab2ca0e09950727b7",
+      "size_bytes": 10208,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_zip_member",
+      "preservation": "byte-for-byte",
+      "archive_filename": "Smithsonian-20260914T153813Z-1-001.zip",
+      "archive_member": "Smithsonian/Resources.docx"
+    },
+    {
+      "id": "docs/sources/references/WACV_manuscript_for_Smithsonian_preprint.pdf",
+      "original_filename": "WACV_manuscript_for_Smithsonian_preprint.pdf",
+      "repository_path": "docs/sources/references/WACV_manuscript_for_Smithsonian_preprint.pdf",
+      "sha256": "801eee95934b373f18a25fcfe10474644c69f90a43c839e07a2f12df8e12e2be",
+      "size_bytes": 8632108,
+      "source_date": null,
+      "date_basis": null,
+      "origin": "uploaded_zip_member",
+      "preservation": "byte-for-byte",
+      "archive_filename": "Smithsonian-20260914T153813Z-1-001.zip",
+      "archive_member": "Smithsonian/WACV_manuscript_for_Smithsonian_preprint.pdf"
+    },
+    {
+      "id": "docs/sources/correspondence/2026-09-14_ingrid_romero_email.md",
+      "original_filename": null,
+      "repository_path": "docs/sources/correspondence/2026-09-14_ingrid_romero_email.md",
+      "sha256": "cca7a97e40938580d8c22d662e8f17991fffeb408e2c54d66a29c295bb81d2c4",
+      "size_bytes": 4219,
+      "source_date": null,
+      "date_basis": "No explicit full date header supplied. Filename date 2026-09-14 inferred from conversation date and relative email display; timezone unknown.",
+      "inferred_source_date": "2026-09-14",
+      "origin": "user_pasted_email",
+      "preservation": "Readable transcription: mail-client layout omitted, rich text normalized, escaped characters decoded, arXiv redirect replaced with its embedded destination. Not an original email export."
+    }
+  ]
+}

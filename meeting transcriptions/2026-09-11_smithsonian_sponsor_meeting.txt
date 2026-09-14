@@ -1,0 +1,458 @@
+COMP 449/549 Capstone – Smithsonian Sponsor Meeting
+Recording date: 2026-09-11
+
+[00:00:00] It doesn't want to connect with the headphones.
+[00:00:30] Hello, everyone.
+[00:00:36] Hello.
+[00:00:45] Today's answer to our email says they will join today.
+[00:00:49] Mm-hmm.
+[00:00:51] Okay, that's it.
+[00:01:00] Thank you.
+[00:01:09] Thank you.
+[00:01:13] Thank you.
+[00:01:18] Thank you.
+[00:01:23] Thank you.
+[00:01:36] Thank you.
+[00:01:42] Thank you.
+[00:01:48] We have to start right now or waiting Dr. Wing.
+[00:01:55] I think Dr. Wing is not coming, right?
+[00:01:58] I just saw you, Dr. Romer.
+[00:02:02] Hi.
+[00:02:03] I think we can start right now.
+[00:02:09] I don't know if Scott is coming or not.
+[00:02:13] I can text him.
+[00:02:19] Okay.
+[00:02:22] Thank you.
+[00:02:26] Thank you.
+[00:02:32] Thank you.
+[00:02:38] Okay.
+[00:02:39] I just sent him a message.
+[00:02:51] Let's see if he answers.
+[00:02:55] Okay.
+[00:02:57] I think we can start.
+[00:03:10] Oh, is that right?
+[00:03:14] Dr. Romero, probably should we start with our self introduction of our team?
+[00:03:23] Yes.
+[00:03:24] Yes.
+[00:03:25] Yes.
+[00:03:26] That sounds good.
+[00:03:27] Okay.
+[00:03:28] I will share my screen.
+[00:03:30] Do we have all our team members in here?
+[00:03:46] So, I saw an increased iPhone.
+[00:03:50] So, we are here.
+[00:03:55] Yeah.
+[00:03:56] So, I'm going to introduce myself.
+[00:04:03] My name is Kimberly Kai.
+[00:04:05] And then I'm a second year master of computer science student.
+[00:04:10] My interest is playing table tennis, watching baseball and watching movies.
+[00:04:16] And a fun fact about me is that I am a Los Angeles Dodgers fan.
+[00:04:25] Hello, everyone.
+[00:04:26] My name is Yun Fan Bao.
+[00:04:28] And you can call me Bob.
+[00:04:29] I'm a master of data science.
+[00:04:32] And I previously worked as a data engineer.
+[00:04:35] And my interests are running, travel, and I like web coding.
+[00:04:40] And the fun fact of me is that I am an amateur pianist.
+[00:04:44] Thank you.
+[00:04:46] Hello.
+[00:04:47] My name is Yeonju Kim.
+[00:04:48] And you can just call me Kim.
+[00:04:49] And I'm from South Korea.
+[00:04:50] I'm second year of master of data science.
+[00:04:52] And I like watching movies.
+[00:04:54] Like musicals or concerts.
+[00:04:55] And I also like traveling.
+[00:04:56] And recently, I started learning how to play bass guitar.
+[00:04:59] Yeah.
+[00:05:00] Thank you.
+[00:05:01] Hi.
+[00:05:02] I'm Patrick.
+[00:05:03] I'm a senior majoring in operations research and statistics.
+[00:05:07] For fun, I like to go to concerts, play pickleball, workout, and play basketball.
+[00:05:12] And I'm a senior majoring in operations research and statistics.
+[00:05:17] For fun, I like to go to concerts, play pickleball, workout, do video games, and research.
+[00:05:24] And then I have three brothers that all went to Rice.
+[00:05:28] I forgot to make my slide.
+[00:05:30] But I'm Alan.
+[00:05:31] And I'm a senior majoring in computer science.
+[00:05:34] And I'm interested in AI and ML.
+[00:05:38] Okay.
+[00:05:39] Thank you.
+[00:05:40] Thank you.
+[00:05:41] Thank you.
+[00:05:42] Thank you.
+[00:05:43] Thank you.
+[00:05:44] Thank you.
+[00:05:45] I have a part.
+[00:05:46] I have a part.
+[00:05:47] I have a part.
+[00:05:48] I have a part.
+[00:05:49] I have a part.
+[00:05:50] I have a part.
+[00:05:51] I have a part.
+[00:05:52] I have a part.
+[00:05:53] I have a part.
+[00:05:54] I have a part.
+[00:05:55] I have a part.
+[00:05:56] I have a part.
+[00:05:57] I have a part.
+[00:05:58] I have a part.
+[00:05:59] I have a part.
+[00:06:00] I have a part.
+[00:06:01] I have a part.
+[00:06:02] I have a part.
+[00:06:03] PhD student advice. My research is mostly focused on image processing using the variational space.
+[00:06:12] And yes, nice to see everyone. Nice to see you. Should we introduce ourselves as well, I guess?
+[00:06:24] Is that all of you? I actually wasn't... Yes. In this semester, we will have like
+[00:06:30] five people working in this room and like me.
+[00:06:38] Ingrid, do you want to go or... Yeah.
+[00:06:42] Hi, everyone. So I'm Ingrid Romero. I'm a PhD... I'm a doctor in plant and evolution.
+[00:06:52] One second. Let's go.
+[00:06:53] You, Ingrid.
+[00:06:55] Ingrid. Okay. I am... I'm Scott Wing and I'm a curator of paleobotany at the Smithsonian. So I work on fossil plants.
+[00:07:07] And that's... I've been here for a very long time.
+[00:07:14] I won't even say. It's almost more than 40 years.
+[00:07:18] What way do you agree?
+[00:07:21] Okay. Now... I'm sorry. So I'm a micropaleontologist. I have a PhD in plant and evolutionary biology.
+[00:07:33] I'm currently a postdoctoral fellow here at the National History Museum in the Smithsonian. I've been working with
+[00:07:43] the RISE to try to develop models for detection and identification, classification of microfossils.
+[00:08:01] And I'm excited to have you this semester, to work with you this semester.
+[00:08:13] So I think this is our first time meeting with you guys. And then I think for our team, we have some
+[00:08:32] questions about the project. And then...
+[00:08:35] First is that about the deacet is that we just received the email from Dr. Barman. And then he said that some deacet has been uploaded at Kudu.
+[00:08:53] And then we know that you guys have many previous experience, like working with this kind of project. So,
+[00:09:01] could you guys please explain and give us some introduction about the deacet and then for our project go for this semester?
+[00:09:11] Um, yes. Um, has...
+[00:09:15] Arco say anything about the project or not yet?
+[00:09:21] Other than the email that you received?
+[00:09:23] Dr. Barman has sent us like a brief introduction of the PDF file, but about like some like initial goal and then what kind of deacet we're going...
+[00:09:38] we're probably going to use, but probably some details will definitely help.
+[00:09:42] Okay, so I have a presentation.
+[00:09:47] Um, we will be working this semester in identification of fossil pollen.
+[00:09:53] So, let me see because I have...
+[00:09:59] Okay.
+[00:09:59] So, uh, first, as we already introduced, we are paleontologists and we're interested in understanding
+[00:10:07] how past climate changes in floral competition can help us to understand past environments and past climates,
+[00:10:21] especially during periods that were warmer than today.
+[00:10:25] And, and with pollen, that is the male reproductive cells of the plants, uh, we can track climatic changes because plants are very sensitive to this, uh, to the, to climate.
+[00:10:42] The distribution is limited by, by that, uh, temperature and precipitation, uh, factors.
+[00:10:51] Um, so, and pollen is also, is composed by a polymer that is known as a sputopolinine and is considered one of the most resistant, um, elements of air.
+[00:11:07] So, it's able to fossilize and preserve for millions of years.
+[00:11:13] And because if you look at flower, it can produce hundreds of pollen grains.
+[00:11:19] So, the same way, uh, the fossil record, uh, is very abundant, not only in time, but geographically widespread.
+[00:11:30] So, so that's why, uh, I personally work with pollen.
+[00:11:34] Also, I found that beautiful, but that's a little bias.
+[00:11:38] Um, so right now we, we're working with samples that are about 50 to 60 million years old.
+[00:11:48] So, we are talking about geological time.
+[00:11:52] And, uh, all the samples are from North America.
+[00:11:55] Uh, this period of time was very warm, warmer than today.
+[00:12:00] So, we want to see how plants responded and move in the latitudinal gradient through, through that time.
+[00:12:09] Uh, I don't know if Scott want to add something else before I can, I continue.
+[00:12:15] No? Okay.
+[00:12:16] So, here is the, this, the images you will be receiving.
+[00:12:21] It looks like this.
+[00:12:23] So, you have like a lot of organic matter, a lot of particles.
+[00:12:28] And inside those particles, you, there will be some that we call a polynomorph microfossils.
+[00:12:38] Um, so with that, uh, and because it's spread through the slide, uh, looking where the, the, the pollen grains are and identify it will take time.
+[00:12:55] Um, so that's why we're trying to move to, to machine learning.
+[00:12:58] Uh, this is an example how diverse, uh, the samples are between them.
+[00:13:05] And also, here is an ex, or other example of how different are.
+[00:13:12] So, all the, the circles are, are indicating pollen grains.
+[00:13:18] But you can see that, uh, the composition of the slides vary by color and by organic matter.
+[00:13:26] Uh, this is just a macro of those.
+[00:13:30] So, this year, this semester, we will be, we are trying to identify a specific pollen types that have importance, a, are biologically important.
+[00:13:45] Uh, here are the examples of, um, what we want to try to, to, to classify.
+[00:13:53] So, last semester, uh, the group that we work with, they develop a detection pro, a, a model.
+[00:14:05] And we already run it through all the slides.
+[00:14:09] So, so I don't know if you will be working over those detections or if it will be a new model, uh, and it will be based on more in the classification.
+[00:14:23] Uh, but we can talk about that a little bit more.
+[00:14:27] One thing that is important is the, the polynomercial varian preservation and color.
+[00:14:34] So, here is an example of one of them.
+[00:14:36] Um, and you can see this is called a Bisa K pollen.
+[00:14:43] And, and, and, and you can see that all of them, for me, because of my experience, I know they are always okay, but maybe for you, they don't, right?
+[00:14:55] Uh, because some are broken.
+[00:14:57] Uh, the view that is their bodies because they are three-dimensional.
+[00:15:05] Uh, so that's the other component of these images, that they are three-dimensional images composed by multiple focal planes.
+[00:15:18] Uh, and each one of them.
+[00:15:21] So, here is an example.
+[00:15:23] So, you can see variation in morphology in each one of these grains.
+[00:15:29] So, you don't see all the morphological characteristics in only one plane.
+[00:15:34] Um, and with that, I think that's, that's, I don't know, any questions?
+[00:15:43] Those are, those are nice images, Ingrid.
+[00:15:46] I like the, the, it's, I mean, well, I know I can see you put work into getting the,
+[00:15:52] everything together there.
+[00:15:53] That's really, to me, that was very helpful.
+[00:16:03] But maybe there are, do you have questions?
+[00:16:07] Students?
+[00:16:08] Students?
+[00:16:20] I'm curious to know whether the, Ingrid, can you go back to the, um, to the slide with the,
+[00:16:27] the bisacate grains on it?
+[00:16:33] Oh.
+[00:16:38] Maybe she's gone.
+[00:16:43] Yes, sorry.
+[00:16:43] Uh, I was, uh, yeah.
+[00:16:48] Uh, okay.
+[00:16:49] Let me, yes.
+[00:16:55] Yes, this one.
+[00:16:56] That one.
+[00:16:57] I'm just curious whether the people who've never looked at pollen, I assume that no one's ever looked
+[00:17:04] at pollen grains before.
+[00:17:06] Um, but I'm curious if you can see, um, you know, saccate, the sackey or the, are the little,
+[00:17:15] they're, uh, well, the word sac, uh, like bag, um, is, is the reason that word is in there.
+[00:17:24] And, and then they're by, which means they have two of them.
+[00:17:27] Can you, can you see where they are in those different grains?
+[00:17:31] Yes.
+[00:17:33] So, so if you, so before you, you guys try to answer.
+[00:17:41] So you can see, this is, uh, one of the, the, the, the, the grains that is more clear.
+[00:17:49] Uh, this pollen is, is usually from pine, pineus, a plants.
+[00:17:57] Yeah.
+[00:17:58] And, and one of the characteristics is it has a, a central, a, a structure and two, uh, little, um,
+[00:18:11] um, they, they, they, they're called saccades.
+[00:18:15] Saccades.
+[00:18:16] So it's like wings and, and it helped in the, how they, the pollen is, a transfer from one plant
+[00:18:26] to another.
+[00:18:27] So in the summer, uh, many times when you see your cars or, or the cars or everything yellow,
+[00:18:35] many times is this, this is the, the culprit of such, such yellowish.
+[00:18:44] And, um, so, so with that now, maybe you can see a little more, the, the two saccades, um,
+[00:18:56] that have a more reticulate, like net, like a structure.
+[00:19:00] I think the one that's hardest for me is the, is the one that's, um, the middle of the bottom row.
+[00:19:13] So I do have, uh, like, uh, curious questions.
+[00:19:17] Cause like, uh, usually I work with, um, um, molecules or like, uh, woman or animal tap before,
+[00:19:27] but it's the first time working with like, uh, kind of like three pollen and like four.
+[00:19:34] So five saccades pollen is like one tap of the pollen and like on the slide.
+[00:19:40] So we see it's like, um, many like different color and the stem.
+[00:19:46] And is that come from like the same, uh, I would say it's like the tap, the same tap of the tree or like different
+[00:19:57] type of tree.
+[00:19:57] And how do we, uh, that we consider each of these images is like, uh, one variable,
+[00:20:05] like one pollen we need to detect differently.
+[00:20:08] Is that correct?
+[00:20:09] Okay.
+[00:20:10] Oh, okay.
+[00:20:14] Ingrid, Ingrid, you go back to the slide with many, the many different kinds of grains on it.
+[00:20:20] Yeah.
+[00:20:20] So before I go to that one, so here, this is one type, but the variation in color, for example,
+[00:20:31] the, the yellowish against the pink is because of the preparation method that was used when the pollen was
+[00:20:42] extract from the rock.
+[00:20:43] And some people used to use a stain.
+[00:20:47] So, so that's why the coloration varies.
+[00:20:51] Uh, but I hope it's not considered like one variable for the classification model, because that is going to
+[00:21:00] be seen through the different samples in, not only in this type of grain, but in the others, it's just how
+[00:21:08] the sample was prepared overall.
+[00:21:11] But now we think of, of what you will find is a diversity of shapes and sizes.
+[00:21:21] And, and each one of them, uh, isn't there a category?
+[00:21:26] Okay. So we have this, that is kind of rounded and it has three, three apertures or perforations
+[00:21:34] that are rounded. We have this one that is more triangular. Uh, and you can see that the aperture
+[00:21:41] is a little, slightly different. We have this one, for example, that has these, uh,
+[00:21:46] a forms or how you say, um, ornamentation that, uh, structure that form in the top of the, of the wall.
+[00:21:58] And it are different from, for example, this one, uh, or this is a spore and it, it has this striation
+[00:22:07] along the, the wall. So, so all those characteristics allow us to classify, okay, this correspond to a
+[00:22:17] family or to a group of, of plants and is different from these other ones. So for example, this one is
+[00:22:26] from Betulaceae, is Betulaceae the birch, birch family? Yeah. But that, but that's, that's alder,
+[00:22:33] which might, they might have seen in, right? I mean, yes. And all their plants are common in
+[00:22:40] North America. Yes. And, and this one, for example, these two are from palms.
+[00:22:46] Uh, um, this one, Caria is, uh, Jugland daisy. This is more like a sapotase, which I'm not sure what is the,
+[00:22:59] common name, but, but anyway, so you can see this, this will be the most important part. Like this
+[00:23:08] morphological variation is really what maybe will allow us to, to do the classification and, and I will
+[00:23:19] be providing. So if you already have the images, I will be carrying the annotation files that have the,
+[00:23:28] the, the, the, the, the, the, the training set. Uh, one thing that will be different from last semester
+[00:23:41] is that, uh, or the previous semesters is that they usually the annotations were constrained
+[00:23:50] in inside. So this is one of the images, right? Of the, of the microscope slide. And, and from this image,
+[00:24:03] so all this region is the one that was a scan. I selected a small region that contains annotations
+[00:24:11] and all that. Annotations were microfossils and there are other categories there that we won't be
+[00:24:17] looking this semester. But now, uh, this semester, not all polynomials are only limited to this area.
+[00:24:29] There are probably some samples where there are a annotations outside of the, this rectangular, uh, area.
+[00:24:39] And it's because I wanted to make a more balanced dataset. So, so that you have at least 50, uh,
+[00:24:47] examples of each category. So it made the train dataset, um, better.
+[00:24:57] Okay. So one more follow up question. So I think I got the, thank you for the answer of like my
+[00:25:03] favorite question. I think I got your idea is like, when we go back to the previous slide, like, uh, the,
+[00:25:10] slide before this one is like, will be the kind of cataract tab that we need to separate. And that is
+[00:25:17] based on a juxture of like it's different tab. And like the other slide where you show those before for
+[00:25:24] the bisectase is like one tab, but it can be have like multiple different stand. And like the juxture is
+[00:25:32] like still on the same tab, but like it shows have like little bit different on the same color and the
+[00:25:38] way that show up. I think, I think if you can, can you go back and forth Ingrid just one more time?
+[00:25:46] So yeah, so this, this is like, these are all the types, almost. These are many of the types that
+[00:25:55] we would like to, these are the categories. Um, and, but only one example of each category.
+[00:26:03] Yeah. And, um, of course they aren't all identical because they're preserved differently or they're
+[00:26:11] prepared differently on the slides. So if you go, then you go back to the bisacate slide.
+[00:26:18] This, this is an example of within one category, there are nine different individual specimens.
+[00:26:25] And this is the kind of variation that you would want the model to see through, not, you know,
+[00:26:31] not to notice that, that these, there are differences, but yeah, they're not,
+[00:26:37] yeah, we don't think these are important differences.
+[00:26:39] Yeah. So those like we'll categorize.
+[00:26:42] Yeah. Yeah.
+[00:26:45] Yeah. I got that idea. And also it's like, when you say about the training set and the categorize,
+[00:26:51] can you go back to the one with the microscope slide and then your annotate.
+[00:26:58] This one?
+[00:26:59] No, the microscope.
+[00:27:01] The microscope scanning.
+[00:27:03] Oh, gotcha. Let me, let me try to, I think it's from other tabs on your computer.
+[00:27:10] Yeah. I, it's, it's, this is my remote control, my remote computer.
+[00:27:16] And I have the, yes.
+[00:27:18] So it's okay. This one.
+[00:27:21] Yeah. So from here, so we will give the, uh, the training set is the one with annotates, uh,
+[00:27:29] inside those kind of like, yes. And, and where's life. And then it's like one session of like the whole
+[00:27:41] image, like the whole dataset slide would be like the one outside. Right. And we want to do this, um,
+[00:27:51] this square through, uh, training for the model detecting the one, all the pollen outside of like the
+[00:27:59] bigger, uh, slide. So, so in this, in this case, uh, most, most of the types will be inside the square,
+[00:28:10] uh, but there is some cases in where some types will be outside of, uh, and this was because it was the best way to,
+[00:28:21] to be able to increase the sample size per, per species. Um, but this is basically, let me take the filter out.
+[00:28:33] This is what the information that, uh, one of the annotations files we have. So, so this is my
+[00:28:40] combined, um, dataset, but you will have the, the, the sample, uh, the category in this, uh, in this case,
+[00:28:51] you will, you will see more categories. We will, but we will focus on a list that I will give you.
+[00:28:58] And, and each one of them will have a center point. It will say which type of annotation is,
+[00:29:05] um, the color, but the color of the annotation is irrelevant. Um, but the most important will be
+[00:29:13] this one and you will have the, the location for each one. And I think the pre-processing of the,
+[00:29:20] of the images, uh, it can be used with one of, with the, the, uh, protocol or the routine that was
+[00:29:30] created last semester. Um, but, uh, as I mentioned, we also have, uh, images that were, that already
+[00:29:41] passed through that detection model. So they have a bunch of annotations without the identification.
+[00:29:48] So one of the goals at the end of the semester is that after the model of classification has been
+[00:29:55] trained, can the now be used in any of these detections to try to classify the, the pollen types.
+[00:30:03] Okay. Yeah. So the goals of the classification is like, uh, we fit the training set on there,
+[00:30:18] but it can detect is any of like, kind of like, uh, the data we fit in on that. But I just wondering,
+[00:30:25] because like, I, I do sort of stay in color is different on like, uh, maybe different slide. And then like, uh, we use our small size inside a full dataset to train that. And like, is that considered the, um,
+[00:30:46] um, yeah, or so this at the sample, if we pick like once where, for example, it's like, uh, 20 by 20, uh, pixels on this image and annotates on those pollen. And then we use that at the training dataset.
+[00:31:06] So, so the training dataset includes, uh, 82 images with the annotations that has been identified.
+[00:31:18] Like the one I, uh, the one I show before, this one is one of those images in which that a detection model was already gone through.
+[00:31:29] So here, so let me go to this one. So if I go to this, uh, example, let's say go here, you can see pollen pollen in this case will be no.
+[00:31:50] Right. So it will, it will have a name, but in the one that will be maybe for validation or to see how
+[00:31:59] the model is working, uh, the model is working will be maybe one of these where the detection model already passed.
+[00:32:05] And when you look at the annotations, the information, they say, which model was used in the confidence interval.
+[00:32:14] So this doesn't have, uh, any classification. Um, I don't know if that, that makes sense.
+[00:32:20] Yeah.
+[00:32:21] Yeah. I just tried to understand how is the full dataset that we have. So like the total full disk image or like
+[00:32:33] multiple stack up there. Yeah. So, so this will be the, the, the training data cell will be more like this one.
+[00:32:42] And here you can see that there are two annotations outside of the square, but they're usually close by.
+[00:32:49] Okay. And, uh, now if I zoom in.
+[00:32:54] Yeah. So, let me see if you can see a change in the focal plane.
+[00:32:59] So you see the image changing.
+[00:33:01] Yes.
+[00:33:02] So, and it's because it's a three dimensional, uh, they are three dimensional. So, so what you
+[00:33:08] will have is a composition of, uh, uh, uh, 25 layers. Um, mm-hmm.
+[00:33:20] And that allows you to see this morphological variation. So, um, you know, you can see the
+[00:33:28] morphological variation that is critical for a polynologist to be able to separate one type of
+[00:33:43] pollen from the other.
+[00:33:47] So, um, you can see the, uh, multiplayer classification.
+[00:34:05] And because we didn't see like the dataset yet, have you guys, uh, got the access to the dataset or
+[00:34:12] anything like that? Uh, Tim.
+[00:34:15] Sorry. What was the question?
+[00:34:19] Oh, I just like, my thing is like, do you guys have the access to the dataset? We, we, we didn't, right?
+[00:34:26] Oh, I don't.
+[00:34:28] Okay.
+[00:34:31] Sorry, Dr. Romero can proceed.
+[00:34:33] No, no, no. You, you.
+[00:34:40] Yeah. Kimberly.
+[00:34:41] Oh, okay. So, uh, I, I think we just,
+[00:34:45] received an email from Dr. Barman about the, our Git repo. And then, um, he said that, uh, the,
+[00:34:53] he just shared the, he said that probably our data storage will be on lots, but, um, we still don't
+[00:35:01] have the access to the data.
+[00:35:05] Oh, I see. I see. I see. Yeah. I, um, I just saw that email too. And yeah, because I, we, we asked,
+[00:35:15] sorry, Dr. Wing and Dr.
+[00:35:16] Ribeiro, we asking like back and forth questions because we don't see the dataset yet. So we don't
+[00:35:21] know what, what kind of dataset that we have. So right now I understand it's like, we have the,
+[00:35:28] like the training dataset is like a portion of the annotation. It is not like inside one boundary,
+[00:35:35] but like, you are also have like some notation, maybe outside of that boundary. And like, those
+[00:35:40] like we'll, you're using it, uh, training dataset and the full dataset is like the whole microscope
+[00:35:47] training or bigger picture. But like, uh, that's not only one, but we also have like, uh, multi-layer
+[00:35:56] data when we change the focus to like, um, how many, uh, micro-metting. Yes.
+[00:36:04] Yeah. So, so I emailed Arco and he said that he will be sharing with you the data, data soon. Um,
+[00:36:15] but I, I wanted to have some images so you can see the, how the data look. Um, so the, the images,
+[00:36:26] oh, let me, let's, let's look. I can tell you.
+[00:36:29] Yeah. That was really helpful for us to visualize. What is that? Yes. So, so the images are about,
+[00:36:41] Oh, uh, the resolution is 229 nanometers per pixel. Uh, they are about between 25 to 30 gigabytes.
+[00:36:54] This one is a bigger one, 37 gigabytes, and they will have about 25. Some, some,
+[00:37:01] you have 27 layers, but the overall trend is 25 layers. Um, and these were, uh, taken, uh,
+[00:37:11] is a microscope slide scanner, and it takes the images in 40 X magnification, 400 magnification. So,
+[00:37:20] so that's why it's a high resolution images.
+[00:37:30] Do you have some, like, kind of like those image info and recurring somewhere,
+[00:37:34] like in any, like writing document? Um,
+[00:37:39] You can send them your article, Ingrid, about the method.
+[00:37:43] Yes. I will send you, uh, the protocol we used to, to scan them.
+[00:37:50] I will send you the prep thing that come out. I think yesterday about the detection model that was
+[00:37:57] developed and other papers that have been developed about pollen classification. Um,
+[00:38:06] so, so you can understand better which type of data you're working in. One key aspect of this data set,
+[00:38:15] compared with other classification papers is that you guys will be working with a continental data set.
+[00:38:23] So the samples are from North America. That's include US and Canada. And they are for, uh,
+[00:38:30] uh, two periods of time, um, that are important geologically. Most of the studies that have been published,
+[00:38:41] they only focus on one site. So one location, one period of time. So this is a more diverse data set.
+[00:38:49] Um, so, so yeah, what else I was going to say, and I will be sending you, not today, this weekend,
+[00:39:00] an Excel with the categories and, uh, kind of summary of, uh, how many, which the total categories there are,
+[00:39:09] but highlighting which one to focus on this semester. Um, and, and one question that we had with Scott is if,
+[00:39:22] if there is enough time at the end of the semester, if the output of the, of this could be clip images
+[00:39:34] in the, uh, with the, uh, with the classification name and yeah, that, that, that I think any, any,
+[00:39:45] add to add Scott or.
+[00:39:47] I would always.
+[00:39:48] You wonder the final results will be not only like, uh, uh, the, like you want some like kind of like,
+[00:39:57] uh, captions or like annotations on the image for each.
+[00:40:02] Yeah. So, so one, yeah. So one would be the final NDP, I, uh, NDP, uh, the annotation file modify,
+[00:40:13] but at the same time, if it's possible to get clip images with their ID. Um, so that what it was
+[00:40:23] identified with the ID. And this is more for, uh, museum perspective.
+[00:40:30] Yeah. We're concerned about storing because we have tens of thousands of slides and each image is tens of meg of gigabytes.
+[00:40:41] So we're trying to see if we can reduce the storage requirements by, um, saving only the images of the pollen grains instead of the whole image.
+[00:40:55] Yeah. Or, or to create some sort, I don't know if this is too much to create some sort of application where you can just click and see the images,
+[00:41:07] uh, something like that. I don't know that it will be easier for someone that is not a computer scientist. Um, and also that doesn't have to download the full image to see.
+[00:41:20] Yes. I will, uh, we will discuss the scope with like Dr. Barman about, about that one, but I think it's like some is doable.
+[00:41:29] Yeah. But like we will discuss the scope of like the final results, how to store that more efficiently with Dr. Barman later.
+[00:41:38] Perfect. Yeah.
+[00:41:40] Thank you. Thank you for all the information is that you guys on the team have any questions. Sorry. I asked so many questions.
+[00:41:49] No, it's great.
+[00:41:52] We like questions.
+[00:41:53] Yes, we do.
+[00:41:56] Yeah. You guys on the team, please, please, to interrupt me or ask any question. If we don't clear anything about the dataset.
+[00:42:03] Okay.
+[00:42:15] Well, I just want to make sure. So you guys want to, to collect images instead of the whole slide and with ID,
+[00:42:23] classified ID, is that right?
+[00:42:25] Yeah. So, so probably, uh, it will be, the output will be one to have the NDPI like, um,
+[00:42:39] like in this case that we can see that the points and, but also to have the, the image,
+[00:42:48] the images clip and with, with save under the, the ID name and the probably accuracy or I don't, I, we can,
+[00:42:59] if there is time that we can think about how, how to do that. But yeah, that, that would be idea.
+[00:43:06] Oh, okay. Thank you.
+[00:43:18] Oh, and can I ask you one more things? Uh, while we doing this project, is there any restriction on using AI tools or something?
+[00:43:32] What do you mean?
+[00:43:33] Uh, can you, if we do this project, can we use, when we are coding or doing something, can we use chat GPT or AI tools when we doing this project?
+[00:43:47] I wouldn't think so. I don't have any problem with that. I think that will be more a question for, for ARCO and, and your supervisors from Bryce. Yes.
+[00:44:00] Yeah.
+[00:44:00] Yeah.
+[00:44:01] Yeah.
+[00:44:02] It's more because like, they might be worried about, um, like that data that we use, like in the interaction.
+[00:44:07] Oh, I see.
+[00:44:08] Yeah.
+[00:44:09] Yeah.
+[00:44:09] Right.
+[00:44:10] They're, Ingrid, they're concerned that, that we would, they would be using, if they used an image from our, from the image, if they used a pollen grain image that came from one of these slides, it would be available to the AI agent.
+[00:44:26] Um, I don't think it's a problem. I mean, these are all, um, public utility. I mean, these are, the Smithsonian is, is, uh, funded mostly by the federal government and we're not, um.
+[00:44:40] Um, we'll say, um, um, um, um, I, I have used, um, um, AI and usually, for example, maybe part of, of like a small part of the annotation file.
+[00:45:02] Um, I will have, or I, I don't know, you, you guys can play with that in a way that is not the full dataset, but, but also these type of images are not.
+[00:45:19] You know, that are restricted or, or, um,
+[00:45:23] Um, um, I will say like there are other students that have worked with similar images.
+[00:45:30] So, so using a few won't have, it won't be a problem because, because also the dataset has like the training dataset has like 80 images, right?
+[00:45:44] 80, 80 files.
+[00:45:46] And, and we have about a thousand that we want to get information off.
+[00:45:51] So, so, so yeah, I don't, I don't see, see a problem.
+[00:46:14] Any, any other questions, commentary?
+[00:46:18] Um,
+[00:46:19] Dr. Romero, I have another questions regarding our PowerPoints.
+[00:46:23] So, um, for our, like first presentation is just probably like three weeks later.
+[00:46:31] So, um, do we, are there any like PV templates that you, we are required to use or we can like design our own PowerPoints?
+[00:46:41] Oh, that's up to you.
+[00:46:44] Yeah.
+[00:46:45] Yeah.
+[00:46:45] Yeah.
+[00:46:46] Yeah.
+[00:46:47] Yeah.
+[00:46:48] Yeah.
+[00:46:49] Yeah.
+[00:46:50] Yeah.
+[00:46:51] Yeah.
+[00:46:52] Yeah.
+[00:46:53] Yeah.
+[00:46:54] Whatever way you find it is more efficient communicating.
+[00:46:58] the results you're getting, the progress that you're getting through WIC works with us.
+[00:47:07] Yeah. And I will, I can share the PowerPoint, this PowerPoint with you too.
+[00:47:15] Yeah. Thank you so much for that. Thank you.
+[00:47:20] Thank you. Yeah.
+[00:47:27] And I can stop sharing too.
+[00:47:29] One second if I found it.
+[00:47:32] Ah, here it is.
+[00:47:39] Okay.
+[00:47:43] All right, Tim. Is there any last...
