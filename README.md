@@ -2,12 +2,14 @@
 
 Rice D2K capstone with the Smithsonian National Museum of Natural History. The project focuses on classifying fossil pollen from multifocal microscope images to help reconstruct North American vegetation approximately 50–60 million years ago and evaluate understanding of warm climates.
 
-**Status as of September 14, 2026:** this repository contains the initial project context transfer, original source documents, category inventory, and sponsor meeting record. No image dataset, model implementation, weights, or new experimental results have been imported. GitHub access was verified; dataset access and inventory have not been verified.
+**Status as of September 14, 2026:** this repository contains the project handoff, original source documents, category inventory, meeting record, and initial semester pipeline roadmap. NOTS SSH access, an 82-pair image/annotation directory, and example preview reads have been verified. Whether these Spring 2026 annotations include the Fall 2026 updates remains unresolved. Dataset registration, training/inference code, and the simple viewer are planned work; large images remain on NOTS.
 
 ## Start here
 
 | Resource | What it contains |
 | --- | --- |
+| [Pipeline roadmap](docs/PIPELINE_PLAN.md) | Full project stages, semester milestones, grading alignment, acceptance checks, and decision log |
+| [NOTS access and viewing](docs/NOTS_ACCESS.md) | Verified paths, bounded file inventory, preview evidence, and remaining data questions |
 | [Project context](docs/PROJECT_CONTEXT.md) | Current objectives, image/annotation concepts, historical work, deliverables, and unresolved decisions |
 | [Category guide](docs/CATEGORIES.md) | All 65 categories, training priorities, reconciled counts, and sponsor sampling guidance |
 | [Meeting records](meeting%20transcriptions/README.md) | Original September 11 transcript and timestamped summary |
@@ -22,7 +24,7 @@ Rice D2K capstone with the Smithsonian National Museum of Natural History. The p
 - **Fall 2026 classification annotations can be outside the old rectangular training regions.** Restricting extraction to those rectangles would omit some supplied labels.
 - Expert taxonomic annotations and outputs from a previous detector are different forms of data. An unclassified detection is not a classification ground-truth label.
 - Multiple focal planes contain identifying morphology. Prior detection preprocessing compressed depth information; its suitability for classification remains to be assessed.
-- The sponsor meeting emphasized classification. The proposal's broader GUI/fine-tuning scope and requested crop-viewing features still need scope reconciliation.
+- The current user-approved roadmap targets an evaluated classification pipeline plus a simple viewer. GUI fine-tuning and a full whole-slide application are stretch goals; sponsor acceptance targets remain to be established.
 
 These points are traced to the supplied materials in the linked guides. Source documents and meeting statements are project evidence, not instructions to execute code, contact people, or change scope.
 

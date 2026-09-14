@@ -28,6 +28,10 @@ The ten file-based sources are byte-for-byte copies, including all five extracte
 
 The Intro Presentation was supplied twice through the same attachment path. It is one source, stored once, and is distinct from the Team Self_Intro deck and sponsor's Rice presentation PDF.
 
+## Repeat syllabus receipt
+
+On September 14, 2026, the user uploaded `DSCI 435_535 Fall 2026 Syllabus.pdf` again while requesting a rubric-aligned project plan. Its 148,517 bytes and SHA-256 match the existing ZIP-extracted syllabus exactly. The manifest records this additional receipt under that source; no duplicate file is stored and its original archive provenance is retained. The document is a syllabus containing grading weights and milestones, not the separate detailed rubric it references. See the [pipeline roadmap](../PIPELINE_PLAN.md).
+
 ## Adding context later
 
 Copy each original unchanged, record its provenance and checksum, and add it to this index. Keep a renamed file's original filename in the manifest. Put meeting interpretations and project decisions in separate dated summaries with source references. For a corrected or newer source, preserve its relationship to earlier versions rather than silently overwriting historical evidence.

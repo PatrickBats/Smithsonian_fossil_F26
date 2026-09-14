@@ -1,6 +1,6 @@
 # References and previous project work
 
-This is an index of references **supplied by the sponsors**, not a completed literature review or a fresh recommendation list. Only the locally supplied detection preprint is summarized substantively here. Linked papers and prior repositories have not been retrieved or audited during this transfer, and their availability or current publication metadata has not been independently verified.
+This is an index of references **supplied by the sponsors**, not a completed literature review or a fresh recommendation list. Only the locally supplied detection preprint is summarized substantively here. Linked papers have not been retrieved for substantive review. Later README access checks for Spring 2026 and Fall 2025 returned 404 for the current account; no prior repository code was obtained or audited. Publication metadata remains unverified.
 
 ## Sponsor email reading list
 
@@ -47,7 +47,7 @@ Selected navigation links from that document, all unreviewed here:
 | Repository supplied in Resources.docx | Status in this transfer |
 | --- | --- |
 | [Spring 2025](https://github.com/RiceD2KLab/Smithsonian_fossil_Sp25) | Indexed only; access, code, and artifacts not inspected |
-| [Fall 2025](https://github.com/RiceD2KLab/Smithsonian_fossil_F25) | Indexed only; access, code, and artifacts not inspected |
-| [Spring 2026](https://github.com/RiceD2KLab/Smithsonian_fossil_Sp26) | Indexed only; access, code, and artifacts not inspected |
+| [Fall 2025](https://github.com/RiceD2KLab/Smithsonian_fossil_F25) | September 14 README request returned 404 for the current account; code/weights not obtained |
+| [Spring 2026](https://github.com/RiceD2KLab/Smithsonian_fossil_Sp26) | September 14 README request returned 404 for the current account; code/weights not obtained |
 
-Before future reuse, identify exact commits, weights, label assumptions, licenses, and dependencies. The current transfer imports neither their code nor their model choices.
+A 404 does not prove a repository is absent; it can also reflect missing access or a changed URL. Local processed data and output folders were found on NOTS as described in the [access notes](NOTS_ACCESS.md). Before future reuse, identify exact commits, weights, label assumptions, licenses, and dependencies. The current transfer imports neither their code nor their model choices.

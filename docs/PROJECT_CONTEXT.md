@@ -1,12 +1,12 @@
 # Project context and handoff
 
-Context assembled September 14, 2026 from the [source inventory](sources/README.md). This guide distinguishes the original proposal, later sponsor guidance, historical detection research, and future decisions. It is a documentation handoff, not a model design or experiment authorization.
+Context assembled September 14, 2026 from the [source inventory](sources/README.md). This guide distinguishes the original proposal, later sponsor guidance, historical detection research, and future decisions. It is a documentation handoff, not a model design or experiment authorization. The [initial pipeline roadmap](PIPELINE_PLAN.md) records the user-approved semester plan, and [NOTS access notes](NOTS_ACCESS.md) record subsequent verified storage/preview observations.
 
 ## Purpose and current emphasis
 
 The project uses fossil pollen to investigate past vegetation and climate across North America. The proposal describes mapping Eocene vegetation to compare with climate simulations; the sponsor meeting describes fossils approximately 50–60 million years old and a geographically diverse collection across the United States and Canada. See the [proposal](sources/project/Fall_2026_D2K_Smithsonian_fossil.pdf), pp. 1–2, and [September 11 transcript](../meeting%20transcriptions/2026-09-11_smithsonian_sponsor_meeting.txt), 00:09:47–00:12:09 and 00:38:06–00:38:41.
 
-The immediate semester emphasis is **classification of biologically meaningful pollen types**. Ingrid reported that a prior team developed a detection model and that it had already been run across slides; whether to use those detections directly or develop additional detection work remained open. A stated end-of-semester goal is to classify previously unclassified detections. These are sponsor reports, not independently verified artifact availability. See transcript 00:13:30–00:14:23 and 00:29:13–00:30:03.
+The immediate semester emphasis is **classification of biologically meaningful pollen types**. Ingrid reported that a prior team developed a detection model and that it had already been run across slides; whether to use those detections directly or develop additional detection work remained open. A stated end-of-semester goal is to classify previously unclassified detections. These remain sponsor reports about the earlier deployment. Subsequent [NOTS inspection](NOTS_ACCESS.md) located some prior processed data and detector-output folders, but did not verify the claimed whole-collection deployment or reusable model weights. See transcript 00:13:30–00:14:23 and 00:29:13–00:30:03.
 
 The proposal's phrase “up to 30” types is an early estimate. The subsequently supplied category workbook explicitly marks **32 categories YES** and **5 MAYBE**. Preserve the workbook's priorities rather than dropping two classes to fit the earlier estimate. See the [category guide](CATEGORIES.md).
 
@@ -43,6 +43,7 @@ That study used a slide-level split of 58 training, 12 validation, and 12 test s
 | Supplied detection preprint, §3 | 847 slides, 82 selected for annotation; 25–27 focal planes | Scope of the reported detection study |
 | September 11 meeting, 00:31:06, 00:36:29–00:37:20, 00:45:30–00:45:51 | 82 annotated training images; typically 25–30 GB, one example 37 GB; usually 25, sometimes 27 planes; roughly 1,000 target images | Sponsor descriptions; not a verified local dataset inventory |
 | September category tables | 11,275 counted specimens across 65 categories | Tables reconcile exactly, but do not enumerate individual slide/specimen records |
+| September 14 NOTS inspection | 82 filename-matched NDPI/NDPA pairs in the training folder; 110 NDPI and 46 NDPA direct children of the enclosing raw folder | Verified directory entries and sample reads; not a deduplicated inventory or verification of Fall 2026 labels |
 
 The transcript also mentions approximately 229 nm/pixel and contains an ambiguous “40 X … 400 magnification” passage. Preserve it verbatim; verify actual metadata and the digitization protocol before using either as a conversion constant.
 
@@ -57,6 +58,8 @@ The transcript also mentions approximately 229 nm/pixel and contains an ambiguou
 | End-to-end pipeline, reusable code, technical report and presentation | Original proposal outcomes |
 | GUI for inference and fine-tuning on new data | Original proposal objective; not yet reconciled with later meeting priorities |
 
+On September 14, the user selected an evaluated pipeline plus a simple results viewer as the core semester deliverable, with GUI fine-tuning and a full whole-slide application as stretch goals. The table above preserves the original sponsor/proposal history. The [roadmap decision log](PIPELINE_PLAN.md#decision-log) tracks remaining scientific and output-format decisions.
+
 Preserve original whole-slide data. The sponsors' discussion of storage-saving crops is not an authorization to delete it. Transcript references to “NDP/NDPI” annotation output are imprecise; do not silently turn them into a finalized format contract.
 
 ## Open questions for project development
@@ -65,7 +68,7 @@ These questions do not block the documentation transfer. They remain decisions o
 
 | Question | Next evidence needed |
 | --- | --- |
-| Where is the actual dataset, and can the team read it? | Verified storage endpoint and inventory from Rice/faculty; the meeting's storage names are transcription-ambiguous |
+| Does every teammate have access, and are the files current? | Access for pb52 and sample reads are verified in the [NOTS notes](NOTS_ACCESS.md); verify other accounts, completeness, and Fall 2026 annotation versions |
 | Which annotations are current? | Versioned human-labeled NDPA files, slide pairing, and identification of labels outside old rectangles |
 | Which detector artifacts can be reused? | Code commit, weights, preprocessing configuration, output files, and provenance from prior teams |
 | What is one independent specimen? | Specimen identifiers and links across focal planes, crops, slides, and repeated detections |
@@ -73,7 +76,7 @@ These questions do not block the documentation transfer. They remain decisions o
 | Which tentative categories should enter the model? | Sponsor/team decision on MAYBE classes; preserve the explicit YES exceptions meanwhile |
 | How will classification be evaluated? | Expert-labeled held-out data, split policy accounting for related images/slides, metrics, and acceptance targets; these remain proposed design concerns, not an adopted protocol |
 | How should non-target or unknown detections be handled? | Explicit output behavior for classes outside the selected label set |
-| Which output features are required this semester? | Reconcile annotation output, crops, viewing, and fine-tuning with sponsors and Dr. Barman |
+| What are the final sponsor acceptance requirements? | User-selected core is pipeline plus simple viewer; confirm output compatibility and acceptance targets with sponsors and Dr. Barman |
 
 ## Reading and authority
 

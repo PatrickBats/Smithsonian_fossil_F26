@@ -13,8 +13,15 @@ Validation date: September 14, 2026. This report covers the source/documentation
 - Reviewed new text and the staged diff for unintended local attachment paths, credential patterns, unrelated files, and whitespace errors. Supplied reference links and source-file metadata remain part of the preserved originals.
 - The first staged whitespace check flagged the original CSV's CRLF line endings. Its bytes were retained; `.gitattributes` disables source line-ending conversion and identifies CR-at-EOL as valid for that CSV. The staged whitespace check was then repeated.
 
+## Roadmap update checks
+
+- Verified the repeated syllabus upload against the preserved PDF and its existing SHA-256; recorded the receipt without modifying the source or adding a duplicate.
+- Checked the roadmap against the user-approved five pipeline stages, research-record requirements, syllabus dates/weights, acceptance checks, and unresolved decisions. Distinguished the syllabus from the missing detailed rubric.
+- Updated stale access statements consistently across the README, project context, and reference index. NOTS counts/preview observations are bounded evidence, not claims that current classification labels or a working pipeline exist.
+- Rechecked manifest hashes, internal document links, authored-text credential/local-attachment-path scans, and staged whitespace for the documentation update.
+
 ## Limits
 
-External literature links were indexed but not fetched or availability-tested. Prior-semester code and weights, actual NDPI/NDPA data, category-to-specimen joins, classification performance, and hardware requirements were not validated. No images were sampled, no model trained, and no experiment protocol adopted. Document dates remain unknown unless explicitly established or labeled as inferred in the [manifest](sources/manifest.json).
+At the initial source transfer, external literature links were indexed but not fetched or availability-tested, and cluster data had not been inspected. Subsequent bounded access/preview inspection is recorded in the [NOTS notes](NOTS_ACCESS.md); this does not validate the full dataset, category-to-specimen joins, prior models, or classification performance. No training sample was selected, no model trained, and no experimental split or acceptance threshold adopted. Document dates remain unknown unless explicitly established or labeled as inferred in the [manifest](sources/manifest.json).
 
 The repository branch and pull request provide the reviewable delivery. Merging is separate from this transfer.

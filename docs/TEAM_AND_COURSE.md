@@ -30,6 +30,8 @@ Slide 2 records the following draft allocations, preserving the source's two dif
 
 Under “Slides,” the deck lists Intro — Alan; Background — Yeonju; Data Processing — Bob; First plans — Yun-Ying. The meaning of the numbers and the relationship between section collaboration and individual slide ownership are not explained. These are draft planning notes, not confirmed task assignments or a reason to contact teammates.
 
+The [pipeline roadmap](PIPELINE_PLAN.md) maps these course requirements to project stages and acceptance evidence. The user described the initial presentation as a five-minute project-definition presentation; it is not treated as a trained-model milestone.
+
 ## Course milestones from the supplied syllabus
 
 The Fall 2026 course is DSCI 435/535 and COMP 449/549. The syllabus says teams eventually attend either Monday or Wednesday; this team's assigned day is not established in the supplied records. The paired dates below therefore remain alternatives, not two simultaneous deadlines. The syllabus also states that the schedule may change.

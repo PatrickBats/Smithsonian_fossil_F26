@@ -92,7 +92,18 @@
       "origin": "uploaded_zip_member",
       "preservation": "byte-for-byte",
       "archive_filename": "Smithsonian-20260914T153813Z-1-001.zip",
-      "archive_member": "Smithsonian/DSCI 435_535 Fall 2026 Syllabus.pdf"
+      "archive_member": "Smithsonian/DSCI 435_535 Fall 2026 Syllabus.pdf",
+      "additional_receipts": [
+        {
+          "received_date": "2026-09-14",
+          "origin": "uploaded_file",
+          "original_filename": "DSCI 435_535 Fall 2026 Syllabus.pdf",
+          "sha256": "74fb6ce0cea54d16e3770f79a74f6b39498c372236c5c208a828dc49da44b1bf",
+          "size_bytes": 148517,
+          "verification": "Byte-for-byte identical to the preserved ZIP member; reused existing repository copy.",
+          "context": "User supplied this as a rubric for the initial pipeline plan; it is the syllabus, which refers to separate detailed rubrics."
+        }
+      ]
     },
     {
       "id": "docs/sources/presentations/Team Self_Intro.pptx",
