@@ -1,6 +1,6 @@
 # Working repository rules
 
-This is Patrick Batsell's private working copy: `PatrickBats/Smithsonian_fossil_F26`.
+This is Patrick Batsell's public working repository: `PatrickBats/Smithsonian_fossil_F26`.
 
 - Keep assistant changes local unless the user explicitly requests a push. Authorization for the initial copy/setup does not authorize future routine pushes.
 - Never push or merge changes into `RiceD2KLab/Smithsonian_fossil_F26` without separate explicit direction.

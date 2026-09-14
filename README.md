@@ -1,6 +1,6 @@
 # Smithsonian Fossil Pollen — Fall 2026
 
-**Private working repository owned by Patrick Batsell.** Collaborators propose changes through pull requests for Patrick's review. See [contributing and review workflow](CONTRIBUTING.md). This copy is independent of the RiceD2KLab class repository; raw data stays on NOTS.
+**Public working repository owned by Patrick Batsell.** Collaborators propose changes through pull requests for Patrick's review. See [contributing and review workflow](CONTRIBUTING.md). This copy is independent of the RiceD2KLab class repository; raw data stays on NOTS.
 
 Rice D2K capstone with the Smithsonian National Museum of Natural History. The project focuses on classifying fossil pollen from multifocal microscope images to help reconstruct North American vegetation approximately 50–60 million years ago and evaluate understanding of warm climates.
 
