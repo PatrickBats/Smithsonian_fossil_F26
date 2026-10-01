@@ -1,5 +1,7 @@
 # Smithsonian Fall 2026: initial project pipeline plan
 
+For findings after this September 14 plan, see the [October 1 F26 data update](F26_DATA_PROGRESS_2026-10-01.md). The original plan below remains dated context.
+
 Approved planning scope, September 14, 2026: a **reproducible pollen-classification pipeline and simple results viewer**, with research records suitable for a potential paper. This document is the semester roadmap; its stages are future implementation work, not a claim that a classifier, viewer, or job launcher already exists.
 
 The [project context](PROJECT_CONTEXT.md), [category guide](CATEGORIES.md), [September 11 meeting](../meeting%20transcriptions/2026-09-11_smithsonian_sponsor_meeting_summary.md), and [syllabus](sources/course/DSCI%20435_535%20Fall%202026%20Syllabus.pdf) provide the source context. The user selected pipeline plus simple viewer as the core deliverable and described the initial presentation as a five-minute project-definition presentation. These choices do not establish numeric scientific acceptance targets or replace detailed assignment instructions.

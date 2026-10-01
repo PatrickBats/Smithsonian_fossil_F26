@@ -6,11 +6,14 @@ Rice D2K capstone with the Smithsonian National Museum of Natural History. The p
 
 **Status as of September 14, 2026:** this repository contains the project handoff, original source documents, category inventory, meeting record, and initial semester pipeline roadmap. NOTS SSH access, an 82-pair image/annotation directory, and example preview reads have been verified. Whether these Spring 2026 annotations include the Fall 2026 updates remains unresolved. Dataset registration, training/inference code, and the simple viewer are planned work; large images remain on NOTS.
 
+**Later data update (October 1, 2026):** the sponsor's Fall 2026 archive and priority annotations were audited; a grouped review-draft split and complete local **2D** crop baseline exist. A three-object multifocal pilot succeeded, but the full multifocal export and a complete team-accessible NOTS crop copy remain blocked by shared group storage quotas. See [the dated F26 data update](docs/F26_DATA_PROGRESS_2026-10-01.md) and [reproduction scripts](scripts/f26/README.md). The September 14 status above is retained as historical context.
+
 ## Start here
 
 | Resource | What it contains |
 | --- | --- |
 | [Pipeline roadmap](docs/PIPELINE_PLAN.md) | Full project stages, semester milestones, grading alignment, acceptance checks, and decision log |
+| [October 1 F26 data update](docs/F26_DATA_PROGRESS_2026-10-01.md) | Priority annotation audit, review-draft split, verified local 2D crops, multifocal pilot, and storage blockers |
 | [NOTS access and viewing](docs/NOTS_ACCESS.md) | Verified paths, bounded file inventory, preview evidence, and remaining data questions |
 | [Project context](docs/PROJECT_CONTEXT.md) | Current objectives, image/annotation concepts, historical work, deliverables, and unresolved decisions |
 | [Category guide](docs/CATEGORIES.md) | All 65 categories, training priorities, reconciled counts, and sponsor sampling guidance |

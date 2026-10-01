@@ -1,5 +1,7 @@
 # NOTS access, data locations, and viewing evidence
 
+For later Fall 2026 source checks, extraction status, and the October 1 group-quota results, see the [dated F26 data update](F26_DATA_PROGRESS_2026-10-01.md). The observations below describe September 14 only.
+
 Observed September 14, 2026 through authenticated SSH as `pb52`. This is a bounded access and preview inspection, not a complete data audit or a validated Fall 2026 training manifest. Original cluster files were not changed and no training jobs were launched.
 
 ## Access and storage roles
