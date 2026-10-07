@@ -60,4 +60,3 @@ All 83 corresponding images passed header and small center-region read checks, a
 [6] Liu, Z., et al. (2021). *Swin Transformer: Hierarchical Vision Transformer using Shifted Windows*. https://arxiv.org/abs/2103.14030
 
 [7] Smithsonian Fall 2026 team. Corrected annotation inventory and source verification, September 21–25, 2026. Local evidence: `data/current/category_summary.csv`, `title_reconciliation.csv`, `audit_manifest.json`, `cluster_verification.json`, and `presentations/data_update_2026-09-25/sponsor_table_verification.json`.
-

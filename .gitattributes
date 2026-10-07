@@ -1,6 +1,13 @@
-# Preserve imported source bytes across platforms, including original line endings.
-/docs/sources/** -text
-"meeting transcriptions/*_meeting.txt" -text
-
-# The original CSV uses CRLF; recognize its carriage returns as line endings.
-/docs/sources/data/title_counts.csv whitespace=cr-at-eol
+# Preserve binary documents and imported source bytes; hashes validate sources.
+*.pdf binary
+*.pptx binary
+*.docx binary
+*.png binary
+docs/sources/data/Fall_2026/*.ndpa -text -whitespace
+# CSV records include CRLF and literal source-label whitespace.
+data/**/*.csv -text -whitespace
+reports/detection_pilot_2026-09-24/*.csv -text -whitespace
+# Unmodified upstream IEEE template files retain their original formatting.
+reports/initial_report_complete_2026-09-27/IEEEtran.cls -text -whitespace
+reports/initial_report_complete_2026-09-27/IEEEtran.bst -text -whitespace
+reports/initial_report_complete_2026-09-27/template/** -text -whitespace
