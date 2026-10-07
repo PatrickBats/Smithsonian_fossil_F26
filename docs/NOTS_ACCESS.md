@@ -1,6 +1,10 @@
 # NOTS access, data locations, and viewing evidence
 
+> September 21: all 83 Fall_2026 annotations are verified on NOTS by SHA-256; 48 updated files are in annotations_F26, and 35 unchanged files remain in raw. All 83 image headers and small center reads passed. Use [verified source paths](../data/current/cluster_source_paths.csv); see [current context](CURRENT_CONTEXT.md).
+
 Observed September 14, 2026 through authenticated SSH as `pb52`. This is a bounded access and preview inspection, not a complete data audit or a validated Fall 2026 training manifest. Original cluster files were not changed and no training jobs were launched.
+
+For label priorities and all 65 category counts, see the [category guide](CATEGORIES.md). The immediate next step is verifying that these accessible files contain the current Fall 2026 labels.
 
 ## Access and storage roles
 

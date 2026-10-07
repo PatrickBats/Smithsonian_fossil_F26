@@ -1,0 +1,57 @@
+{
+  "started_utc": "2026-09-24T18:38:08.470515+00:00",
+  "slurm_job_id": "1612314",
+  "slurm_array_job_id": "1612309",
+  "gpu_uuid": "59b47db7-ad4c-aabe-5475-b8dfd623d5dc",
+  "gpu_name": "NVIDIA L40S",
+  "python": "3.13.12 | packaged by Anaconda, Inc. | (main, Feb 24 2026, 16:13:31) [GCC 14.3.0]",
+  "torch": "2.10.0+cu128",
+  "ultralytics": "8.4.37",
+  "weights": {
+    "focus_stack": {
+      "sha256": "0205b947f0d4eeac20fa0513a06346323f4c38227d2668a9f244274d8d150dd5",
+      "names": {
+        "0": "palynomorph"
+      },
+      "training_args": "{'task': 'detect', 'mode': 'train', 'model': 'yolo26l.pt', 'data': '/scratch/pom1/processed/new-export-script/coco_focus_stack/dataset.yaml', 'epochs': 100, 'time': None, 'patience': 10, 'batch': 16, 'imgsz': 1024, 'save': True, 'save_period': -1, 'cache': False, 'device': '0', 'workers': 3, 'project': '/scratch/pom1/yolo26/final_tune_outputs/yolo26_focus_stack/trials', 'name': 'trial_0006', 'exist_ok': True, 'pretrained': True, 'optimizer': 'AdamW', 'verbose': True, 'seed': 0, 'deterministic': True, 'single_cls': False, 'rect': False, 'cos_lr': False, 'close_mosaic': 10, 'resume': False, 'amp': True, 'fraction': 1.0, 'profile': False, 'freeze': None, 'multi_scale': 0.0, 'compile': False, 'overlap_mask': True, 'mask_ratio': 4, 'dropout': 0.0, 'val': True, 'split': 'val', 'save_json': False, 'conf': None, 'iou': 0.7, 'max_det': 300, 'half': False, 'dnn': False, 'plots': True, 'end2end': None, 'source': None, 'vid_stride': 1, 'stream_buffer': False, 'visualize': False, 'augment': False, 'agnostic_nms': False, 'classes': None, 'retina_masks': False, 'embed': None, 'show': False, 'save_frames': False, 'save_txt': False, 'save_conf': False, 'save_crop': False, 'show_labels': True, 'show_conf': True, 'show_boxes': True, 'line_width': None, 'format': 'torchscript', 'keras': False, 'optimize': False, 'int8': False, 'dynamic': False, 'simplify': True, 'opset': None, 'workspace': None, 'nms': False, 'lr0': 3.816866236682604e-05, 'lrf': 0.8100160584230118, 'momentum': 0.8157459812988921, 'weight_decay': 0.00026950880129111897, 'warmup_epochs': 0.98734926025351, 'warmup_momentum': 0.8, 'warmup_bias_lr': 0.1, 'box': 8.623221681871598, 'cls': 1.4350913308357132, 'cls_pw': 0.0, 'dfl': 11.937020039876609, 'pose': 12.0, 'kobj': 1.0, 'rle': 1.0, 'angle': 1.0, 'nbs': 64, 'hsv_h': 0.033878283492057064, 'hsv_s': 0.07770021646077674, 'hsv_v': 0.8561029734378589, 'degrees': 7.47473964607591, 'translate': 0.1423849257022936, 'scale': 0.42402474468383594, 'shear': 0.0, 'perspective': 0.0, 'flipud': 0.5399312564125476, 'fliplr': 0.8381749889103811, 'bgr': 0.0, 'mosaic': 0.08554527348024865, 'mixup': 0.23837240810406107, 'cutmix': 0.0, 'copy_paste': 0.14215062411816226, 'copy_paste_mode': 'flip', 'auto_augment': 'randaugment', 'erasing': 0.4, 'cfg': None, 'tracker': 'botsort.yaml'}"
+    },
+    "best_plane": {
+      "sha256": "01c11227df2ba1d0a35f0f12c800e8c24665d3b8a5f8292e31329fc37ecf86ac",
+      "names": {
+        "0": "palynomorph"
+      },
+      "training_args": "{'task': 'detect', 'mode': 'train', 'model': 'yolo26l.pt', 'data': '/scratch/pom1/processed/new-export-script/coco_tenengrad_plane/dataset.yaml', 'epochs': 100, 'time': None, 'patience': 10, 'batch': 16, 'imgsz': 1024, 'save': True, 'save_period': -1, 'cache': False, 'device': '0', 'workers': 3, 'project': '/scratch/pom1/yolo26/final_tune_outputs/yolo26_best_plane/trials', 'name': 'trial_0011', 'exist_ok': True, 'pretrained': True, 'optimizer': 'AdamW', 'verbose': True, 'seed': 0, 'deterministic': True, 'single_cls': False, 'rect': False, 'cos_lr': False, 'close_mosaic': 10, 'resume': False, 'amp': True, 'fraction': 1.0, 'profile': False, 'freeze': None, 'multi_scale': 0.0, 'compile': False, 'overlap_mask': True, 'mask_ratio': 4, 'dropout': 0.0, 'val': True, 'split': 'val', 'save_json': False, 'conf': None, 'iou': 0.7, 'max_det': 300, 'half': False, 'dnn': False, 'plots': True, 'end2end': None, 'source': None, 'vid_stride': 1, 'stream_buffer': False, 'visualize': False, 'augment': False, 'agnostic_nms': False, 'classes': None, 'retina_masks': False, 'embed': None, 'show': False, 'save_frames': False, 'save_txt': False, 'save_conf': False, 'save_crop': False, 'show_labels': True, 'show_conf': True, 'show_boxes': True, 'line_width': None, 'format': 'torchscript', 'keras': False, 'optimize': False, 'int8': False, 'dynamic': False, 'simplify': True, 'opset': None, 'workspace': None, 'nms': False, 'lr0': 6.696552393713221e-05, 'lrf': 0.3409133665310882, 'momentum': 0.7448311499959956, 'weight_decay': 0.0002627060217619874, 'warmup_epochs': 1.6019742737726257, 'warmup_momentum': 0.8, 'warmup_bias_lr': 0.1, 'box': 12.071846617530888, 'cls': 1.9372572296371375, 'cls_pw': 0.0, 'dfl': 5.089636847181974, 'pose': 12.0, 'kobj': 1.0, 'rle': 1.0, 'angle': 1.0, 'nbs': 64, 'hsv_h': 0.06746519087649969, 'hsv_s': 0.022427932906968644, 'hsv_v': 0.8615605897358581, 'degrees': 119.41923469204765, 'translate': 0.013925541467999875, 'scale': 0.3450852856165231, 'shear': 0.0, 'perspective': 0.0, 'flipud': 0.9540467522556786, 'fliplr': 0.9999905731008799, 'bgr': 0.0, 'mosaic': 0.3520882858008037, 'mixup': 0.29451379215433093, 'cutmix': 0.0, 'copy_paste': 0.06597830574446518, 'copy_paste_mode': 'flip', 'auto_augment': 'randaugment', 'erasing': 0.4, 'cfg': None, 'tracker': 'botsort.yaml'}"
+    }
+  },
+  "config": {
+    "pilot_type": "annotation-centered diagnostic, not whole-slide benchmark",
+    "tile_size": 1024,
+    "magnification": 40,
+    "prediction_floor": 0.05,
+    "primary_confidence": 0.5,
+    "diagnostic_confidence": 0.25,
+    "match_iou": 0.5,
+    "nms_iou": 0.5,
+    "focus_stack_kernel": 5,
+    "best_plane_metric": "Tenengrad ksize=3 (upstream annotator default)",
+    "checkpoints": {
+      "focus_stack": "yolo26(L)_focus_stack.pt",
+      "best_plane": "yolo26(L)_best_plane.pt"
+    },
+    "checkpoint_sha256": {
+      "yolo26(L)_focus_stack.pt": "0205b947f0d4eeac20fa0513a06346323f4c38227d2668a9f244274d8d150dd5",
+      "yolo26(L)_best_plane.pt": "01c11227df2ba1d0a35f0f12c800e8c24665d3b8a5f8292e31329fc37ecf86ac"
+    },
+    "upstream_commit": "1b62b68a0d95178e6275ef55c38ee4765317b334",
+    "fall_repo_base_commit": "09fa0acc879bf9569a2045ea51490e0792d73574",
+    "runner_sha256": "6388a5056046d1758cd2f8ffdee1a5cf37ba6394299c9e1019bce4b22aab7fbe",
+    "selection_sha256": "dca65b946d9cae310a50028b9d110c6bb4458a436377752c74f9bb61b1a36fe5",
+    "notes": [
+      "2 targets per category on distinct slides, outside/inside rectangle contrast where possible. Selection fixed before inference.",
+      "Neither precision nor AP is valid from this annotation-targeted incomplete-label sample.",
+      "Prior training exposure not ruled out. All results are diagnostics, not independent generalization.",
+      "No checkpoint training or alteration. Source NDPA hashes rechecked at runtime."
+    ]
+  },
+  "shard": 0
+}

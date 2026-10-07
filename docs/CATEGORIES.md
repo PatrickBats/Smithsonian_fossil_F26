@@ -1,5 +1,7 @@
 # Category inventory and sponsor guidance
 
+> The verified Fall_2026 archive now reconciles with this source inventory. Use [the current dataset](../data/current/README.md): 2,290 YES annotations across 32 supplied categories. The old 933-record inventory is superseded. Broad-first groups remain to be defined. September 18 balancing guidance updates approximately 60 to 50 training grains for classes above 100.
+
 Derived from the unchanged [title counts CSV](sources/data/title_counts.csv), [category workbook](sources/data/category_totals.xlsx), and [sponsor email](sources/correspondence/2026-09-14_ingrid_romero_email.md). Table labels and capitalization below preserve the workbook's values. No specimens have been selected or excluded by this transfer.
 
 ## Verified inventory
@@ -23,7 +25,7 @@ Important explicit exceptions to the email's approximate 20–30 range:
 - **Periporites sp. has 15 specimens and is MAYBE.** Do not silently exclude it or change its count to fit the prose description.
 - The other MAYBE groups are Retitricolpites sp. (26), Tricolporites sp. (26), Tricolpites sp. (24), and Triporites sp. (23).
 
-Before actual sampling, resolve individual specimen identifiers, handling of multiple focal planes/crops of the same object, a reproducible random seed, and how balancing interacts with the evaluation split. Nothing in these aggregate tables settles those choices. The [project context](PROJECT_CONTEXT.md) records them as open questions.
+Before actual sampling, resolve individual specimen identifiers, handling of multiple focal planes/crops of the same object, a reproducible random seed, and how balancing interacts with the evaluation split. Nothing in these aggregate tables settles those choices. The [project context](background/PROJECT_CONTEXT.md) records them as open questions.
 
 ## Complete category table
 

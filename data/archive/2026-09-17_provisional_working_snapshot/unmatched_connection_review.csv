@@ -1,0 +1,95 @@
+original_title,count,slides,review_group,candidate_categories,csv_evidence_titles,reason,annotation_notes,decision
+Aesculiidites cf. circumstriatus,4,1,unresolved,,,No direct textual connection established,"{""checked"": 4}",NOT_APPLIED
+Ailanthipites berryi,2,1,unresolved,,,No direct textual connection established,"{""Onenote  checked"": 1, ""Similar ones in onenote checked"": 1}",NOT_APPLIED
+Ailanthipites cf. berryi,3,1,unresolved,,,No direct textual connection established,"{""checked"": 3}",NOT_APPLIED
+Ailanthipites marginatus,5,1,unresolved,,,No direct textual connection established,"{"" checked"": 4, ""checked"": 1}",NOT_APPLIED
+Ailanthipites sp.,2,1,unresolved,,,No direct textual connection established,"{""checked"": 1, "" checked"": 1}",NOT_APPLIED
+Alnipollenites,29,9,sp_suffix_variant,Alnipollenites verus,Alnipollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Alnus,10,3,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Alnus quaternaria,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Arecaceae,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Arecipites,5,4,sp_suffix_variant,Arecipites sp.,Arecipites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Arecipites?,1,1,same_name_root,Arecipites sp.,Arecipites reticulatus | Arecipites sp. | Arecipites tenuiexinous,Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained,{},APPLIED_PROVISIONALLY
+Betula,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Betula 8401,2,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Betula claripites,8,2,unresolved,,,No direct textual connection established,"{""Betulaceae\n"": 1}",NOT_APPLIED
+Betula sp.,3,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Betulaceae type,1,1,same_name_root,Betulaceae,Betulaceae | Betulaceae sp.,Shares first name component; species/qualifiers may change the intended category,{},APPLIED_PROVISIONALLY
+Betulaceae?,1,1,same_name_root,Betulaceae,Betulaceae | Betulaceae sp.,Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained,{},APPLIED_PROVISIONALLY
+Bombacacidites,8,6,sp_suffix_variant,Bombacacidites sp.,Bombacacidites sp.,Same text after removing terminal sp. or spp.; grouping needs review,"{""Triaperturate checked\nPorate\nIn onenote"": 1, ""Triporate checked\nIn onenote"": 1}",APPLIED_PROVISIONALLY
+Bombacacidites crassipites,1,1,same_name_root,Bombacacidites sp.,Bombacacidites cf. annae | Bombacacidites sp.,Shares first name component; species/qualifiers may change the intended category,{},APPLIED_PROVISIONALLY
+Bombacoideae type,1,1,unresolved,,,No direct textual connection established,"{""Tetraporate\nOnenote"": 1}",NOT_APPLIED
+Bottomleft,1,1,navigation_note,,,Navigation/instruction text rather than a taxonomic name,{},NOT_APPLIED
+Bottomright,1,1,navigation_note,,,Navigation/instruction text rather than a taxonomic name,{},NOT_APPLIED
+Carya simplex,1,1,same_name_root,Caryapollenites sp.,Carya sp.,Shares first name component; species/qualifiers may change the intended category,{},APPLIED_PROVISIONALLY
+Carya spp.,1,1,sp_suffix_variant,Caryapollenites sp.,Carya sp.,Same text after removing terminal sp. or spp.; grouping needs review,"{""Onenote  Checked"": 1}",APPLIED_PROVISIONALLY
+Castanea,26,1,unresolved,,,No direct textual connection established,"{""Tricolporate"": 1}",NOT_APPLIED
+Castanea small,24,1,unresolved,,,No direct textual connection established,"{""Tricolporate"": 1, ""Onenote"": 1}",NOT_APPLIED
+Center,1,1,navigation_note,,,Navigation/instruction text rather than a taxonomic name,{},NOT_APPLIED
+Cf. Engelhardtioidites tenupolus,1,1,unresolved,,,No direct textual connection established,"{"" checked\nRef \""Some Spores and Pollen from the Paleocene Oak Hill Member\"""": 1}",NOT_APPLIED
+Cf. Milfordia minima or Cf. Thomsonipollis,1,1,unresolved,,,No direct textual connection established,"{""Triporate onenote"": 1}",NOT_APPLIED
+Cf. Platycarya,1,1,same_name_root,Platycarya platycarioides | Platycaryapollenites swasticoidus,Platycarya cf. triplicata | Platycarya platycarioides | Platycarya platycaryoides,Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained,"{""Onenote checked"": 1}",NOT_APPLIED
+Cicadopites sp.,1,1,unresolved,,,No direct textual connection established,"{""Onenote Checked"": 1}",NOT_APPLIED
+Clavatricolporites,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Cupressaceae,29,1,unresolved,,,No direct textual connection established,"{""checked"": 28, ""Broken checked"": 1}",NOT_APPLIED
+Cupuliferoipollenite,2,1,possible_typo,Cupuliferoipollenites sp.,Cupuliferoipollenites sp.,"Similar spelling; proposed comparison only, not confirmed synonym","{""checked"": 2}",APPLIED_PROVISIONALLY
+Cupuliferoipollenites,3,1,sp_suffix_variant,Cupuliferoipollenites sp.,Cupuliferoipollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,"{""Checked"": 1, ""Onenote checked"": 1, ""checked"": 1}",APPLIED_PROVISIONALLY
+Cupuliferoipollenites spp.,17,1,sp_suffix_variant,Cupuliferoipollenites sp.,Cupuliferoipollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,"{""checked"": 6, ""Onenote checked"": 7, ""check"": 1, ""Onenote checekd"": 1, ""In onenote checked"": 1, ""Onenote check"": 1}",APPLIED_PROVISIONALLY
+Erdtmanipollis cretaceous,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Ericipites longisulcatus,9,1,same_name_root,Ericipites sp.,Ericipites | Ericipites sp.,Shares first name component; species/qualifiers may change the intended category,{},APPLIED_PROVISIONALLY
+Ericipites?,1,1,same_name_root,Ericipites sp.,Ericipites | Ericipites sp.,Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained,{},APPLIED_PROVISIONALLY
+Fraxinoipollenites,1,1,sp_suffix_variant,Retitricolpites sp.,Fraxinoipollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Glyptostrobus,2,1,unresolved,,,No direct textual connection established,"{""Onenote checked"": 2}",NOT_APPLIED
+Glyptostrobus sp.,1,1,unresolved,,,No direct textual connection established,"{""checked"": 1}",NOT_APPLIED
+Inaperturate pollen - aff. Taxodium and Glyptostrobus,4,1,unresolved,,,No direct textual connection established; compound identification must not be collapsed automatically,"{""checked"": 3, ""Onenote checked"": 1}",NOT_APPLIED
+Indet,38,1,category_name,Indet.,Paly | Pediastrum | paly | paly?,"Matches a CSV category name, but not an Annotation title entry","{""checked"": 29, ""Onenote checked"": 1, ""Broken piece checked"": 1, ""Checked"": 4, "" Checked"": 1, ""Triporate"": 1}",APPLIED_PROVISIONALLY
+Juglandaceae/Betulaceae?,1,1,unresolved,,,No direct textual connection established; compound identification must not be collapsed automatically,{},NOT_APPLIED
+Laevigatosporites ovatus,1,1,same_name_root,Laevigatosporites sp.,Laevigatosporites | Laevigatosporites sp.,Shares first name component; species/qualifiers may change the intended category,{},APPLIED_PROVISIONALLY
+Liliacidites,3,2,sp_suffix_variant,Arecipites sp.,Liliacidites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Liliacidites?,1,1,same_name_root,Arecipites sp.,Liliacidites sp.,Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained,{},APPLIED_PROVISIONALLY
+Maceopolipollenites,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Momipites microfaveolatus- Alfaroa,1,1,possible_typo,Momipites sp,Momipites microfoveolatus,"Similar spelling; proposed comparison only, not confirmed synonym","{"" checked\nCorollina"": 1}",APPLIED_PROVISIONALLY
+Monocolpopollenites,3,2,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Monosulcate,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Myriophyllum ambiguipites,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Pinus,1,1,unresolved,,,No direct textual connection established,"{""checked"": 1}",NOT_APPLIED
+Pistillipollenites,1,1,sp_suffix_variant,Pistillipollenites sp.,Pistillipollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Platycaryapollenites swasticoides,1,1,possible_typo,Platycaryapollenites swasticoidus,Platycaryapollenites swasticoidus,"Similar spelling; proposed comparison only, not confirmed synonym",{},APPLIED_PROVISIONALLY
+Plicatopollis lunata,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Quercus,10,1,sp_suffix_variant,Quercus sp.,Quercus sp.,Same text after removing terminal sp. or spp.; grouping needs review,"{""Onenote checked"": 3, ""checked"": 4, ""Onenote checked\nTricolporate O"": 1, ""Defined wall checked"": 1, ""Onenote Checked"": 1}",APPLIED_PROVISIONALLY
+Ramonda,5,1,unresolved,,,No direct textual connection established,"{""Tricolpate\nIn onenote"": 1, ""Tricolpate"": 1, ""Ramonda cf?"": 1}",NOT_APPLIED
+Retitrescolpites cf. catenatus,1,1,same_name_root,Retitricolpites sp.,Retitrescolpites,Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained,{},APPLIED_PROVISIONALLY
+Retitricolpites,1,1,sp_suffix_variant,Retitricolpites sp.,Retitricolpites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Rkoipites sp.,1,1,possible_typo,Rhoipites sp.,Rhoipites sp.,"Similar spelling; proposed comparison only, not confirmed synonym","{""Checked"": 1}",APPLIED_PROVISIONALLY
+Sabal,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Sabal?,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Sapindaceae?,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Siltaria cf. hanleyi,7,1,same_name_root,Rhoipites sp.,SIltaria sp. | Siltaria sp.,Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained,"{""Onenote checked"": 1, ""checked"": 6}",APPLIED_PROVISIONALLY
+Siltaria hanleyi,1,1,same_name_root,Rhoipites sp.,SIltaria sp. | Siltaria sp.,Shares first name component; species/qualifiers may change the intended category,"{""checked"": 1}",APPLIED_PROVISIONALLY
+Stereisporites?,1,1,sp_suffix_variant,Stereisporites? sp.,Stereisporites? sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+TCT,2,2,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Tetracolporopollenites,3,1,sp_suffix_variant,Tetracolporopollenites sp.,Tetracolporopollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Topleft,1,1,navigation_note,,,Navigation/instruction text rather than a taxonomic name,{},NOT_APPLIED
+Topright,1,1,navigation_note,,,Navigation/instruction text rather than a taxonomic name,{},NOT_APPLIED
+Trichotomosulcites,5,2,unresolved,,,No direct textual connection established,"{""pol triangular"": 1}",NOT_APPLIED
+Tricolpopollenites microhenrici,1,1,unresolved,,,No direct textual connection established,"{""Onenote"": 1}",NOT_APPLIED
+Tricolporate E,1,1,unresolved,,,No direct textual connection established,"{""checked"": 1}",NOT_APPLIED
+Tricolporate H,8,1,unresolved,,,No direct textual connection established,"{""checked"": 3, ""Checked"": 1, "" checked"": 1}",NOT_APPLIED
+Tricolporate I,1,1,unresolved,,,No direct textual connection established,"{""Onenote"": 1}",NOT_APPLIED
+Tricolporate K,6,1,unresolved,,,No direct textual connection established,"{""Onenote"": 1}",NOT_APPLIED
+Tricolporate N,4,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Tricolporate P,7,1,unresolved,,,No direct textual connection established,"{""Onenote"": 1}",NOT_APPLIED
+Tricolporate U,10,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+Tricolporate sp.,1,1,unresolved,,,No direct textual connection established,"{""Folded checked"": 1}",NOT_APPLIED
+Triporopollenites,4,3,sp_suffix_variant,Triporites sp.,Triporopollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Ulmipollenites,1,1,sp_suffix_variant,Ulmipollenites sp.,Ulmipollenites sp.,Same text after removing terminal sp. or spp.; grouping needs review,{},APPLIED_PROVISIONALLY
+Ulmipollenites undulosus,1,1,same_name_root,Ulmipollenites sp.,Ulmipollenites sp. | Ulmipollenites tricostatus,Shares first name component; species/qualifiers may change the intended category,{},APPLIED_PROVISIONALLY
+Verrutricolporites spp.,1,1,unresolved,,,No direct textual connection established,"{""Onenote"": 1}",NOT_APPLIED
+cf. Castanea,1,1,unresolved,,,No direct textual connection established,"{"" checked"": 1}",NOT_APPLIED
+cf. Castanea sp.,1,1,unresolved,,,No direct textual connection established,"{"" checked"": 1}",NOT_APPLIED
+cf. Cycadospites sp.,1,1,unresolved,,,No direct textual connection established,"{""Onenote checked"": 1}",NOT_APPLIED
+cf. Rosaceae,1,1,unresolved,,,No direct textual connection established,"{""Onenote Cupuliferoipollenites spp."": 1}",NOT_APPLIED
+cf. Sequoiapollenites sp.,1,1,unresolved,,,No direct textual connection established,"{""checked"": 1}",NOT_APPLIED
+continue here at 27.5X,1,1,navigation_note,,,Navigation/instruction text rather than a taxonomic name,{},NOT_APPLIED
+di-triporites,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED
+pollen sp1,1,1,unresolved,,,No direct textual connection established,{},NOT_APPLIED

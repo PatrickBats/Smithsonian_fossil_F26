@@ -1,0 +1,233 @@
+{
+  "Alnipollenites": {
+    "category": "Alnipollenites verus",
+    "evidence_titles": "Alnipollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Arecipites": {
+    "category": "Arecipites sp.",
+    "evidence_titles": "Arecipites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Arecipites?": {
+    "category": "Arecipites sp.",
+    "evidence_titles": "Arecipites reticulatus | Arecipites sp. | Arecipites tenuiexinous",
+    "reason": "Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Betulaceae type": {
+    "category": "Betulaceae",
+    "evidence_titles": "Betulaceae | Betulaceae sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Betulaceae?": {
+    "category": "Betulaceae",
+    "evidence_titles": "Betulaceae | Betulaceae sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Bombacacidites": {
+    "category": "Bombacacidites sp.",
+    "evidence_titles": "Bombacacidites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Bombacacidites crassipites": {
+    "category": "Bombacacidites sp.",
+    "evidence_titles": "Bombacacidites cf. annae | Bombacacidites sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Carya simplex": {
+    "category": "Caryapollenites sp.",
+    "evidence_titles": "Carya sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Carya spp.": {
+    "category": "Caryapollenites sp.",
+    "evidence_titles": "Carya sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Cupuliferoipollenite": {
+    "category": "Cupuliferoipollenites sp.",
+    "evidence_titles": "Cupuliferoipollenites sp.",
+    "reason": "Similar spelling; proposed comparison only, not confirmed synonym",
+    "review_group": "possible_typo",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Cupuliferoipollenites": {
+    "category": "Cupuliferoipollenites sp.",
+    "evidence_titles": "Cupuliferoipollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Cupuliferoipollenites spp.": {
+    "category": "Cupuliferoipollenites sp.",
+    "evidence_titles": "Cupuliferoipollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Ericipites longisulcatus": {
+    "category": "Ericipites sp.",
+    "evidence_titles": "Ericipites | Ericipites sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Ericipites?": {
+    "category": "Ericipites sp.",
+    "evidence_titles": "Ericipites | Ericipites sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Fraxinoipollenites": {
+    "category": "Retitricolpites sp.",
+    "evidence_titles": "Fraxinoipollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Indet": {
+    "category": "Indet.",
+    "evidence_titles": "Paly | Pediastrum | paly | paly?",
+    "reason": "Matches a CSV category name, but not an Annotation title entry",
+    "review_group": "category_name",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Laevigatosporites ovatus": {
+    "category": "Laevigatosporites sp.",
+    "evidence_titles": "Laevigatosporites | Laevigatosporites sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Liliacidites": {
+    "category": "Arecipites sp.",
+    "evidence_titles": "Liliacidites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Liliacidites?": {
+    "category": "Arecipites sp.",
+    "evidence_titles": "Liliacidites sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Momipites microfaveolatus- Alfaroa": {
+    "category": "Momipites sp",
+    "evidence_titles": "Momipites microfoveolatus",
+    "reason": "Similar spelling; proposed comparison only, not confirmed synonym",
+    "review_group": "possible_typo",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Pistillipollenites": {
+    "category": "Pistillipollenites sp.",
+    "evidence_titles": "Pistillipollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Platycaryapollenites swasticoides": {
+    "category": "Platycaryapollenites swasticoidus",
+    "evidence_titles": "Platycaryapollenites swasticoidus",
+    "reason": "Similar spelling; proposed comparison only, not confirmed synonym",
+    "review_group": "possible_typo",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Quercus": {
+    "category": "Quercus sp.",
+    "evidence_titles": "Quercus sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Retitrescolpites cf. catenatus": {
+    "category": "Retitricolpites sp.",
+    "evidence_titles": "Retitrescolpites",
+    "reason": "Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Retitricolpites": {
+    "category": "Retitricolpites sp.",
+    "evidence_titles": "Retitricolpites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Rkoipites sp.": {
+    "category": "Rhoipites sp.",
+    "evidence_titles": "Rhoipites sp.",
+    "reason": "Similar spelling; proposed comparison only, not confirmed synonym",
+    "review_group": "possible_typo",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Siltaria cf. hanleyi": {
+    "category": "Rhoipites sp.",
+    "evidence_titles": "SIltaria sp. | Siltaria sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category; uncertainty must be retained",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Siltaria hanleyi": {
+    "category": "Rhoipites sp.",
+    "evidence_titles": "SIltaria sp. | Siltaria sp.",
+    "reason": "Shares first name component; species/qualifiers may change the intended category",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Stereisporites?": {
+    "category": "Stereisporites? sp.",
+    "evidence_titles": "Stereisporites? sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Tetracolporopollenites": {
+    "category": "Tetracolporopollenites sp.",
+    "evidence_titles": "Tetracolporopollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Triporopollenites": {
+    "category": "Triporites sp.",
+    "evidence_titles": "Triporopollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Ulmipollenites": {
+    "category": "Ulmipollenites sp.",
+    "evidence_titles": "Ulmipollenites sp.",
+    "reason": "Same text after removing terminal sp. or spp.; grouping needs review",
+    "review_group": "sp_suffix_variant",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  },
+  "Ulmipollenites undulosus": {
+    "category": "Ulmipollenites sp.",
+    "evidence_titles": "Ulmipollenites sp. | Ulmipollenites tricostatus",
+    "reason": "Shares first name component; species/qualifiers may change the intended category",
+    "review_group": "same_name_root",
+    "authorization": "User approved plausible connections on 2026-09-17; provisional, not sponsor-verified"
+  }
+}

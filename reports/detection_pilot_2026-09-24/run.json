@@ -1,0 +1,18 @@
+{
+  "run": {
+    "runid": "detection_pilot_20260924T183555Z",
+    "local": "/home/pb52/MADness/smithsonian_prior_artifacts/runs/detection_pilot_20260924T183555Z",
+    "remote": "/projects/dsci435/Smithsonian_F26/runs/detection_pilot_20260924T183555Z",
+    "archive": "/home/pb52/MADness/smithsonian_prior_artifacts/runs/detection_pilot_20260924T183555Z.tar",
+    "job_id": "1612309"
+  },
+  "historical_exact_name_membership": {
+    "train": 50,
+    "test": 9,
+    "unresolved_exact_name": 5
+  },
+  "notes": "Historical split is an on-disk reference, not verified training provenance of the downloaded weights. Unresolved names are not assumed unseen.",
+  "status": "COMPLETED",
+  "allocated_gpu_seconds": 889,
+  "outcome": "Both frozen YOLO checkpoints completed all 64 targets; no classifier training."
+}

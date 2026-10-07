@@ -1,0 +1,597 @@
+{
+  "checked_at": "2026-09-21T19:11:55.827077+00:00",
+  "annotation_files": 83,
+  "annotation_sha256_matches": 83,
+  "updated_folder_files": 48,
+  "unchanged_raw_files": 35,
+  "image_headers_and_center_reads_passed": 83,
+  "scope": "Exact NDPA SHA-256 matches against Fall_2026.zip; all image headers and 32x32 level-0 center-region reads. Does not validate every image tile/focal plane or specimen extraction.",
+  "source_paths": "cluster_source_paths.csv",
+  "image_read_checks": [
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/D1555_RAS_60_2023_04_20_15_40_35.ndpi",
+      "width": 111104,
+      "height": 82432,
+      "levels": 10,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5825_L_2024_02_06_10_36_15_Utah.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5825_R_2024_02_06_14_02_54_Utah.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1910_2024_02_29_12_46_52_Wyoming.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5410_1_R_2024_02_0911_03_13_Utah.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5410_1_L_2024_02_09_10_06_56_Utah.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5609_L_2024_03_01_11_15_57_Alaska.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5609_R_2024_03_01_15_10_09_Alaska.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1911_1_2024_02_29_18_10_06_Wyoming.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3408-1_L_2024_02_20_13_47_16_Texas.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3408_1_R_2024_02_20_19_10_35_Texas.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4200_2_2024_02_06_12_29_47_Wyoming.ndpi",
+      "width": 107520,
+      "height": 69120,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3283-2_2024_02_06_15_37_28_Kentucky.ndpi",
+      "width": 111360,
+      "height": 66816,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3846_L_2024_02_20_11_51_22_N_Dakota.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D8401-A_L_2024_01_18_13_05_54_Alaska.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3869-1_L_2024_02_20_12_12_54_Wyoming.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3869-1_R_2024_02_20_17_53_41_Wyoming.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5964-1_L_2024_02_06_10_17_07_Wyoming.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D9151-A-2_L_2024_02_02_16_08_52_Texas.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3094-1_R_2024_02_20_17_15_37_Colorado.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3094_1_L_2024_02_20_11_32_26_Colorado.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3202_C_R_2024_02_20_18_12_34_Kentucky.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4191_I_L_2024_02_06_12_10_36_Kentucky.ndpi",
+      "width": 96000,
+      "height": 80640,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4220-A_L_2024-02-06_11_51_42_Maryland.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4220_A_L_2024_02_06_11_51_42_Maryland.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5406_1_L_2024_02_09_10_25_26_Colorado.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4354_3_R_2024_02_05_12_39_12_Arkansas.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3202_C_L_2024_02_20_12_31_51_Louisiana.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3268_A-2_L_2024_02_01_12_52_49_Alabama.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3516-A_1_L_2024_02_20_12_51_02_Montana.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3516-A_1_R_2024_02_20_18_31_40_Montana.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3516-B_2_L_2024_02_20_14_24_29_Montana.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D6627-A-2_L_2024_02_02_12_53_43_Arkansas.ndpi",
+      "width": 88320,
+      "height": 92160,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D6627-A-2_R_2024_02_02_17_42_28_Arkansas.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3202-D-1_R_2024_02_21_13_01_51_Louisiana.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3266-1_L_2024_02_01_13_49_20_Mississippi.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5151-B-1_L_2024_02_02_15_31_05_Tennessee.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/Giraffe_20_1_95_R_Giraffe_2025_01_13_19_48_21.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/Giraffe_24_2_43_R_Giraffe_2025_01_14_10_06_00.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/Giraffe_26_3_146_L_Giraffe_2025_01_13_16_06_02.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792727_D1376_2024_01_22_16_00_33_Wyoming.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418058_W_Nassichuk_R_2025_01_21_14_59_16_Alaska.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418081_W_Nassichuk_R_2025_01_21_12_58_10_Alaska.ndpi",
+      "width": 84480,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418107_W_Nassichuk_R_2025_01_21_11_16_25_Alaska.ndpi",
+      "width": 84480,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418109_W_Nassichuk_R_2025_01_21_10_57_19_Alaska.ndpi",
+      "width": 84480,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418070_W_Nassichuk_R_2025_01_21_14_17_12_Alaska.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418080_W_Nassichuk_L_2025_01_14_19_14_58_Alaska.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792666_D1074_2024_01_26_10_32_56_N_Dakota.ndpi",
+      "width": 99840,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792717_D1350_L_2024_02_20_15_21_31_Oregon.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792719_D1357_2023_11_09_10_41_27_Colorado.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792815_D1524_L_2024_01_26_10_53_45_Oregon.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792924_D1820_2024-01-23_13_40_57_N_Mexico.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793471_D3915_L_2024-01-22_10_22_34_Alaska.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793471_D3915_L_2024_01_22_10_22_34_Alaska.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793472_D3916_R_2023_11_20_17_04_43_Alaska.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNM_792877_D1727_L_2024_03_14_10_25_59_Washington.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792668_D1091_2024_01_25_16_57_52_Tennessee.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792715_D1298_L_2024_01_25_14_55_02_Wyoming.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792723_D1366-D_2024_09_19_09_27_16_Maryland.ndpi",
+      "width": 84480,
+      "height": 82944,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792724_D1367_A_2024_01_25_15_32_32_Maryland.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792725_D1367-B_2024_09_19_09_45_18_S_Dakota.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792733_D1388_L_2024_01_22_11_09_00_S_Dakota.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792851_D1644_2024_01_26_11_12_23_California.ndpi",
+      "width": 96000,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792854_D1668_L_2024_01_25_16_38_58_Kentucky.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793077_D3163-A_2024_07_29_10_45_13_Arkansas.ndpi",
+      "width": 107520,
+      "height": 64512,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793576_D4117_L_2024_02_02_12_34_41_Arkansas.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792738_D1392_A_R_2024_01_25_13_58_00_Wyoming.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792852_D1667-A_R_2024_02_2019_29_55_Kentucky.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+      "width": 88320,
+      "height": 89856,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792852_D1667-A_L_2024_02_20_14_05_57_Kentucky.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792954_D1890-4_L_2024_09_19_11_55_30_Kentucky.ndpi",
+      "width": 84480,
+      "height": 82944,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/Giraffe_20_3_47_BLEACHED_R_Giraffe_2025_01_14_09_06_36.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    },
+    {
+      "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792930_D1825_L_2023_11_07_13_36_14_image1_Kentucky.ndpi",
+      "width": 88320,
+      "height": 87552,
+      "levels": 9,
+      "read_ok": true
+    }
+  ],
+  "bundled_ndpi_sha256_match": {
+    "image": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/D1555_RAS_60_2023_04_20_15_40_35.ndpi",
+    "sha256": "93e1a89bea58355363d6e8794b44b3b26c6855f3c6220aea098d8b8cd8fd0c6b"
+  }
+}

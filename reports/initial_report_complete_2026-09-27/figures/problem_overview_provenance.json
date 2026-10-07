@@ -1,0 +1,21 @@
+{
+  "image_source": "figures/specimen_sources/shard_0_target_027.png",
+  "source_sha256": "2835f5104af61e8204aea70b2e41053c121286874f7ceecf7a6b999d2b4c9e2d",
+  "record_id": "D8401-A_L_2024_01_18_13_05_54_Alaska::record_362",
+  "slide": "D8401-A_L_2024_01_18_13_05_54_Alaska",
+  "expert_category": "Bombacacidites sp.",
+  "annotation_box": [
+    450.2745270000014,
+    450.53545640000084,
+    573.9663330000039,
+    574.2244315999997
+  ],
+  "crop_xyxy": [
+    430,
+    430,
+    593,
+    594
+  ],
+  "representation": "focus-stacked pilot input tile",
+  "image_processing": "Region crop and display scaling only; no color correction or retouching. Box derived from expert annotation, not model prediction."
+}

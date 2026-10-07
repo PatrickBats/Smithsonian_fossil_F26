@@ -1,0 +1,72 @@
+[
+  {
+    "slide": 1,
+    "title": "Welcome",
+    "seconds": 10,
+    "words": 20,
+    "presenter": 1
+  },
+  {
+    "slide": 2,
+    "title": "Background",
+    "seconds": 30,
+    "words": 57,
+    "presenter": 1
+  },
+  {
+    "slide": 3,
+    "title": "The problem",
+    "seconds": 25,
+    "words": 53,
+    "presenter": 2
+  },
+  {
+    "slide": 4,
+    "title": "Previous approaches",
+    "seconds": 25,
+    "words": 47,
+    "presenter": 2
+  },
+  {
+    "slide": 5,
+    "title": "Microscopy data",
+    "seconds": 20,
+    "words": 44,
+    "presenter": 3
+  },
+  {
+    "slide": 6,
+    "title": "Annotation inventory",
+    "seconds": 30,
+    "words": 57,
+    "presenter": 3
+  },
+  {
+    "slide": 7,
+    "title": "Organizing the data",
+    "seconds": 30,
+    "words": 59,
+    "presenter": 4
+  },
+  {
+    "slide": 8,
+    "title": "Preparing examples",
+    "seconds": 35,
+    "words": 65,
+    "presenter": 4
+  },
+  {
+    "slide": 9,
+    "title": "Proposed methods",
+    "seconds": 50,
+    "words": 88,
+    "presenter": 5
+  },
+  {
+    "slide": 10,
+    "title": "Conclusion",
+    "seconds": 25,
+    "words": 50,
+    "presenter": 5
+  }
+]

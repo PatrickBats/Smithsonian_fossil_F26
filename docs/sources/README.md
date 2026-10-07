@@ -36,4 +36,8 @@ On September 14, 2026, the user uploaded `DSCI 435_535 Fall 2026 Syllabus.pdf` a
 
 Copy each original unchanged, record its provenance and checksum, and add it to this index. Keep a renamed file's original filename in the manifest. Put meeting interpretations and project decisions in separate dated summaries with source references. For a corrected or newer source, preserve its relationship to earlier versions rather than silently overwriting historical evidence.
 
-External URLs are preserved as supplied references. They do not establish that the linked material was read, that remote content matches an uploaded copy, or that access remains available. See the [reference index](../REFERENCES.md) for review status.
+External URLs are preserved as supplied references. They do not establish that the linked material was read, that remote content matches an uploaded copy, or that access remains available. See the [reference index](../background/REFERENCES.md) for review status.
+
+Latest meeting source: [September 18 transcript](../../meeting%20transcriptions/2026-09-18_smithsonian_sponsor_meeting.txt), received September 21 and preserved byte-for-byte in the source manifest.
+
+Correct Fall 2026 annotation source: [Fall_2026 NDPA files](data/Fall_2026/), supplied September 21 and verified against every title/category count. The 83 original XML files are preserved unchanged; the 16 GB archive and NDPI image are kept outside Git.

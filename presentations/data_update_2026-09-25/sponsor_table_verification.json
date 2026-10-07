@@ -1,0 +1,45 @@
+{
+  "result": "PASS",
+  "source_sha256": {
+    "title_counts.csv": "1c6989486dbc1b01266c9a79e3dcda41de4f6180beea15da95497c7204c88d90",
+    "category_totals.xlsx": "c1f911944757fb8912b2f9d18ac3b34737b89944ea38a03a603a7291befdf667"
+  },
+  "ndpa_files_recounted": 83,
+  "matched_title_rows": 185,
+  "matched_categories": 65,
+  "named_annotations": 11275,
+  "untitled_marks_excluded": 227,
+  "whitespace_adjustments": [
+    {
+      "file": "D4191_I_L_2024_02_06_12_10_36_Kentucky.ndpi.ndpa",
+      "original": "Bisaccate ",
+      "normalized": "Bisaccate"
+    },
+    {
+      "file": "USNMPAL_792851_D1644_2024_01_26_11_12_23_California.ndpi.ndpa",
+      "original": "Caryapollenites veripites ",
+      "normalized": "Caryapollenites veripites"
+    },
+    {
+      "file": "USNMPAL_792852_D1667-A_R_2024_02_2019_29_55_Kentucky.ndpi.ndpa",
+      "original": "Betulaceae ",
+      "normalized": "Betulaceae"
+    }
+  ],
+  "category_groups": {
+    "YES": {
+      "categories": 32,
+      "annotations": 2290
+    },
+    "MAYBE": {
+      "categories": 5,
+      "annotations": 114
+    },
+    "NO": {
+      "categories": 28,
+      "annotations": 8871
+    }
+  },
+  "category_summary_count_priority_slide_checks": "PASS",
+  "normalization": "Trim leading/trailing whitespace only; no biological aliases."
+}

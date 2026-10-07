@@ -1,0 +1,7 @@
+This replaces the old category inventory slide, which listed 27 represented YES categories and 933 annotations. The corrected Fall 2026 annotation set now has 2,290 records across all 32 YES categories. Five categories were missing in the earlier inventory: Nudopollis sp. (89), Momipites ventifluminis (61), Psilatricolpites sp. (61), Rousea sp. (54), and Momipites flexus (38).
+
+COUNT means annotation records; SLIDES is the number of different slide files containing that category. Categories are sponsor groupings, not necessarily individual species. These are inventory counts before crop-quality review, sampling or train/test splitting. They do not establish that every record is a unique usable training specimen.
+
+The complete set has 83 verified image/annotation pairs, 11,275 named records, 185 annotation titles and 65 categories. The breakdown is 32 YES / 2,290 records; 5 MAYBE / 114 records; 28 NO / 8,871 records. Another 227 untitled marks are outside these named counts. Every supplied title and category count reconciles after trimming trailing spaces in three labels. Provisional biological aliases from the old inventory are no longer needed.
+
+Source: data/current/category_summary.csv, title_reconciliation.csv, audit_manifest.json and cluster_verification.json. Corrected source package: Fall_2026.zip received September 21. Slide prepared September 25, 2026.

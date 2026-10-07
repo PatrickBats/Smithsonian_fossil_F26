@@ -1,0 +1,30 @@
+{
+  "pilot_type": "annotation-centered diagnostic, not whole-slide benchmark",
+  "tile_size": 1024,
+  "magnification": 40,
+  "prediction_floor": 0.05,
+  "primary_confidence": 0.5,
+  "diagnostic_confidence": 0.25,
+  "match_iou": 0.5,
+  "nms_iou": 0.5,
+  "focus_stack_kernel": 5,
+  "best_plane_metric": "Tenengrad ksize=3 (upstream annotator default)",
+  "checkpoints": {
+    "focus_stack": "yolo26(L)_focus_stack.pt",
+    "best_plane": "yolo26(L)_best_plane.pt"
+  },
+  "checkpoint_sha256": {
+    "yolo26(L)_focus_stack.pt": "0205b947f0d4eeac20fa0513a06346323f4c38227d2668a9f244274d8d150dd5",
+    "yolo26(L)_best_plane.pt": "01c11227df2ba1d0a35f0f12c800e8c24665d3b8a5f8292e31329fc37ecf86ac"
+  },
+  "upstream_commit": "1b62b68a0d95178e6275ef55c38ee4765317b334",
+  "fall_repo_base_commit": "09fa0acc879bf9569a2045ea51490e0792d73574",
+  "runner_sha256": "6388a5056046d1758cd2f8ffdee1a5cf37ba6394299c9e1019bce4b22aab7fbe",
+  "selection_sha256": "dca65b946d9cae310a50028b9d110c6bb4458a436377752c74f9bb61b1a36fe5",
+  "notes": [
+    "2 targets per category on distinct slides, outside/inside rectangle contrast where possible. Selection fixed before inference.",
+    "Neither precision nor AP is valid from this annotation-targeted incomplete-label sample.",
+    "Prior training exposure not ruled out. All results are diagnostics, not independent generalization.",
+    "No checkpoint training or alteration. Source NDPA hashes rechecked at runtime."
+  ]
+}

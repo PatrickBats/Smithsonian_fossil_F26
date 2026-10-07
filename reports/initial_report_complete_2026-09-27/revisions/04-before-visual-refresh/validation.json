@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "pages": 8,
+  "format": "IEEEtran conference v1.8b with course-specific front matter and page numbers",
+  "revision": "IEEE format; two-panel category plot; unchanged scientific prose",
+  "checks": [
+    "Compiled with resolved citations and cross-references, no overfull boxes or LaTeX/package warnings",
+    "All eight pages visually inspected, including figure labels and table layout",
+    "No empty pages or text outside page bounds",
+    "One References entry in the contents; all five authors and four mentor/sponsor names verified",
+    "Figure regenerated after inventory and pilot verification",
+    "Project source and upstream template hashes unchanged",
+    "Repository source integrity, internal links, Python syntax and git diff --check passed"
+  ],
+  "layout_notes": "Five underfull horizontal-box notices and one underfull vertical-box notice remain; spacing visually reviewed, no clipping or overflow.",
+  "pdf_sha256": "6ec03c2eb80f191def16addc84cd7902d633bc2a86d547df7fe0b7efc42c49d6"
+}
