@@ -1,0 +1,542 @@
+{
+  "date": "2026-09-21",
+  "archive_filename": "Fall_2026.zip",
+  "archive_size_bytes": 15971315482,
+  "archive_sha256": "f98e07153de30a7b718e11d17795bab7bd0ee9332702137eab4a5a791deddc46",
+  "members": [
+    {
+      "member": "D1555_RAS_60_2023_04_20_15_40_35.ndpi",
+      "size_bytes": 15965474680,
+      "crc32": "5091484f",
+      "sha256": "93e1a89bea58355363d6e8794b44b3b26c6855f3c6220aea098d8b8cd8fd0c6b"
+    },
+    {
+      "member": "D1555_RAS_60_2023_04_20_15_40_35.ndpi.ndpa",
+      "size_bytes": 201620,
+      "crc32": "c7e6e5fd",
+      "sha256": "d116e0947a7f3012782caaf3fc58b620688b6eb67deccd4f8fdb76f05838d8f9"
+    },
+    {
+      "member": "D5825_L_2024_02_06_10_36_15_Utah.ndpi.ndpa",
+      "size_bytes": 38106,
+      "crc32": "d953b670",
+      "sha256": "61c3c9058b0fdf5b9f4ba6e2d414a602861a54ee44710044f0b588830ad9f143"
+    },
+    {
+      "member": "D5825_R_2024_02_06_14_02_54_Utah.ndpi.ndpa",
+      "size_bytes": 35746,
+      "crc32": "9188f0c5",
+      "sha256": "a304bd70e207a7761d86ba48002342d59a723c647a1215f9e5d07f326d41f1e9"
+    },
+    {
+      "member": "D1910_2024_02_29_12_46_52_Wyoming.ndpi.ndpa",
+      "size_bytes": 32767,
+      "crc32": "a608b488",
+      "sha256": "9c816405b2b0db45b376332f4c53970455e9ea7d3940e7441ba217f800f987db"
+    },
+    {
+      "member": "D5410_1_R_2024_02_0911_03_13_Utah.ndpi.ndpa",
+      "size_bytes": 26161,
+      "crc32": "38afb002",
+      "sha256": "cb341aa80ad5ea81c119702550b1a9e495d241fc9467e56acd3e858b3232e1aa"
+    },
+    {
+      "member": "D5410_1_L_2024_02_09_10_06_56_Utah.ndpi.ndpa",
+      "size_bytes": 38472,
+      "crc32": "e707b486",
+      "sha256": "1ff53d35ca51e9054d8ff15292977a6b7a828871a4f98c07a424cd5acb0a4d4f"
+    },
+    {
+      "member": "D5609_L_2024_03_01_11_15_57_Alaska.ndpi.ndpa",
+      "size_bytes": 45367,
+      "crc32": "d248a419",
+      "sha256": "27bcb6514e8737fd18f921a4756382a014bb92ca34b8f785f97f6847117c5966"
+    },
+    {
+      "member": "D5609_R_2024_03_01_15_10_09_Alaska.ndpi.ndpa",
+      "size_bytes": 70496,
+      "crc32": "2ed9a9c2",
+      "sha256": "28d83a57fff2fcc3a7b60d76a40a2fa081f38273f397860efbe9192349af51ad"
+    },
+    {
+      "member": "D1911_1_2024_02_29_18_10_06_Wyoming.ndpi.ndpa",
+      "size_bytes": 41996,
+      "crc32": "3ce9e2d3",
+      "sha256": "af08c28d6aa9fc93517319f9a20f46f282ca71001a096aed5a058c6ce19f2465"
+    },
+    {
+      "member": "D3407-2_L_2024_02_20_13_28_48_Texas.ndpi.ndpa",
+      "size_bytes": 64152,
+      "crc32": "c7586e07",
+      "sha256": "5a98d8209148e283979ba4a2a2396ee347794e982eeb299e60cb2a92524d9cf4"
+    },
+    {
+      "member": "D3408-1_L_2024_02_20_13_47_16_Texas.ndpi.ndpa",
+      "size_bytes": 225508,
+      "crc32": "17c34bf2",
+      "sha256": "9d06560a8bbed4cf148ea0d147a5603b57bdd90ef6763749a801c9680aeb50ec"
+    },
+    {
+      "member": "D3408_1_R_2024_02_20_19_10_35_Texas.ndpi.ndpa",
+      "size_bytes": 232638,
+      "crc32": "b444ed80",
+      "sha256": "ca7659c1a95c21b8d36938f6c98a3f2afd0e47601deebc14bb0476219fcdd32a"
+    },
+    {
+      "member": "D4200_2_2024_02_06_12_29_47_Wyoming.ndpi.ndpa",
+      "size_bytes": 27976,
+      "crc32": "291c4c54",
+      "sha256": "3d223e6fa4f44a2e066bb78b7ba98cbc7cb70de3d01a346051e96f0c0ffe234b"
+    },
+    {
+      "member": "D3283-2_2024_02_06_15_37_28_Kentucky.ndpi.ndpa",
+      "size_bytes": 32282,
+      "crc32": "0ad01fcd",
+      "sha256": "a04e1e0ff54800a6828a38b8caf382dadcfad73eebd4b52d49efae1bc8ae987e"
+    },
+    {
+      "member": "D3846_L_2024_02_20_11_51_22_N_Dakota.ndpi.ndpa",
+      "size_bytes": 20431,
+      "crc32": "2fd2bb95",
+      "sha256": "1566b97fb157c0a76796378032d2ee20d3de09efc36ee77c2c99d1eb2ef0e912"
+    },
+    {
+      "member": "D8401-A_L_2024_01_18_13_05_54_Alaska.ndpi.ndpa",
+      "size_bytes": 188586,
+      "crc32": "e0fdd029",
+      "sha256": "58fab7d9bf7d64c103dfb697c8203054a030f97cfacf13620b4c847eec46d8d5"
+    },
+    {
+      "member": "D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi.ndpa",
+      "size_bytes": 52179,
+      "crc32": "4ce55d79",
+      "sha256": "bda5b1d8863e0a7c14cff1f062ffaee4a1edd317fccd2b2ba1ad3bbe5261de91"
+    },
+    {
+      "member": "D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi.ndpa",
+      "size_bytes": 36449,
+      "crc32": "36ffae87",
+      "sha256": "70a46122717e49ec1560c0bdf580a2da8530cbea06bde48463991a647f3ec176"
+    },
+    {
+      "member": "D3869-1_L_2024_02_20_12_12_54_Wyoming.ndpi.ndpa",
+      "size_bytes": 34065,
+      "crc32": "b520102e",
+      "sha256": "9b0cfdcfc8e3806b059590eaaffb1227cd08dbee7699ccb3710ed067c5fd5f87"
+    },
+    {
+      "member": "D3869-1_R_2024_02_20_17_53_41_Wyoming.ndpi.ndpa",
+      "size_bytes": 40933,
+      "crc32": "56750be8",
+      "sha256": "daab92dd3ed7f2c6dbd075f4a1b63b983230b0a5268fa21473a22e711cd04b04"
+    },
+    {
+      "member": "D5964-1_L_2024_02_06_10_17_07_Wyoming.ndpi.ndpa",
+      "size_bytes": 28659,
+      "crc32": "77c70012",
+      "sha256": "8e5a0b34c8dd41668e1cc431b7dc92cad819b5c8b9953939a86beca5ba1423fd"
+    },
+    {
+      "member": "D9151-A-2_L_2024_02_02_16_08_52_Texas.ndpi.ndpa",
+      "size_bytes": 616018,
+      "crc32": "2da3fb0c",
+      "sha256": "c2ed54366aa1fa4c22ec65ad4d27956900146ca978689151f2788d274b306cce"
+    },
+    {
+      "member": "D3094-1_R_2024_02_20_17_15_37_Colorado.ndpi.ndpa",
+      "size_bytes": 102874,
+      "crc32": "dcf7d5f1",
+      "sha256": "02822ac1e288ba5062107d52cf2f734827fc3818f8fcba9c17cb1c55ddf4d013"
+    },
+    {
+      "member": "D3094_1_L_2024_02_20_11_32_26_Colorado.ndpi.ndpa",
+      "size_bytes": 82443,
+      "crc32": "16b8a20f",
+      "sha256": "545e12cfa6212c28d6468397cdd939b4fe7cc94edb151a45c2476e8573c74632"
+    },
+    {
+      "member": "D3202_C_R_2024_02_20_18_12_34_Kentucky.ndpi.ndpa",
+      "size_bytes": 104336,
+      "crc32": "3f6b4c3e",
+      "sha256": "73a30d714d5d5ea27b199d7df235607fbbb51a3103a687e3dd688a8d04ac77d4"
+    },
+    {
+      "member": "D4191_I_L_2024_02_06_12_10_36_Kentucky.ndpi.ndpa",
+      "size_bytes": 25627,
+      "crc32": "41767b42",
+      "sha256": "094bb111629dcefa4ee2fd6da9d1aa248931edf3fa86870e7f0636e894c657d7"
+    },
+    {
+      "member": "D4220-A_L_2024-02-06_11_51_42_Maryland.ndpi.ndpa",
+      "size_bytes": 33529,
+      "crc32": "34a3657c",
+      "sha256": "162b15cdc06d3ebc529c691953d0f834cb31d7b74de3740aac6a67c971c38910"
+    },
+    {
+      "member": "D4220_A_L_2024_02_06_11_51_42_Maryland.ndpi.ndpa",
+      "size_bytes": 30629,
+      "crc32": "5e785a69",
+      "sha256": "31020a1148fa5334db00b654f2262c9d260cc5e23d40cceb9ba3ffc2134304a7"
+    },
+    {
+      "member": "D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi.ndpa",
+      "size_bytes": 62932,
+      "crc32": "fb9e3dfb",
+      "sha256": "98d54d32e6e048d08f6dd1e848d09c3c2d03fee299407db3b37ce493d7c252da"
+    },
+    {
+      "member": "D5406_1_L_2024_02_09_10_25_26_Colorado.ndpi.ndpa",
+      "size_bytes": 74246,
+      "crc32": "e959328e",
+      "sha256": "07db79df2653a89e6fb7f8591d4a8871e3b276daaab5d37bd136779b5a31a6dd"
+    },
+    {
+      "member": "D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi.ndpa",
+      "size_bytes": 42775,
+      "crc32": "e584d275",
+      "sha256": "c4702c7262c26cf2514174cd846121045d486840e9d8c0bed33a83434a62bc16"
+    },
+    {
+      "member": "D4354_3_R_2024_02_05_12_39_12_Arkansas.ndpi.ndpa",
+      "size_bytes": 28787,
+      "crc32": "75684224",
+      "sha256": "a321f9aa947bee3daa427574bc9490acad316128afd08af997330a73b848151f"
+    },
+    {
+      "member": "D3202_C_L_2024_02_20_12_31_51_Louisiana.ndpi.ndpa",
+      "size_bytes": 99111,
+      "crc32": "3c6fe39e",
+      "sha256": "e341e7c38d1aea121191246a6bd5792dd94979bc8603b57c0616b390c1bff6ae"
+    },
+    {
+      "member": "D3268_A-2_L_2024_02_01_12_52_49_Alabama.ndpi.ndpa",
+      "size_bytes": 29540,
+      "crc32": "5d87843a",
+      "sha256": "a6277ce25ebae81f206d5f25b33aa939e23bb4e8c5284d81ae1221f6de3ead18"
+    },
+    {
+      "member": "D3516-A_1_L_2024_02_20_12_51_02_Montana.ndpi.ndpa",
+      "size_bytes": 31039,
+      "crc32": "fd3b9e35",
+      "sha256": "faf53e44a15265c21b24d89888e8db58fb489c30c64b12014247c2fb716c065f"
+    },
+    {
+      "member": "D3516-A_1_R_2024_02_20_18_31_40_Montana.ndpi.ndpa",
+      "size_bytes": 38392,
+      "crc32": "40caf1da",
+      "sha256": "5bf75fa15e4cd3bf96ec7053abc8536b2f3976f5c0ba5e8182d9eec3d6f6771c"
+    },
+    {
+      "member": "D3516-B_2_L_2024_02_20_14_24_29_Montana.ndpi.ndpa",
+      "size_bytes": 42809,
+      "crc32": "eec79bd0",
+      "sha256": "9ac16ffb01fbe0e6d0d2817a3771cbdb7dfacc9d4fca2ebdcba1d058c6330fcf"
+    },
+    {
+      "member": "D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi.ndpa",
+      "size_bytes": 35800,
+      "crc32": "b51ecfd9",
+      "sha256": "25afec07432087f02fc4c91a71fe52bddea7001e0e1591efac325ac4d8b30b9c"
+    },
+    {
+      "member": "D6627-A-2_L_2024_02_02_12_53_43_Arkansas.ndpi.ndpa",
+      "size_bytes": 38319,
+      "crc32": "edf06858",
+      "sha256": "d7e423db157c48481534f566e64c856b5d7d7195a675eb8951b82d95a7c893ac"
+    },
+    {
+      "member": "D6627-A-2_R_2024_02_02_17_42_28_Arkansas.ndpi.ndpa",
+      "size_bytes": 83088,
+      "crc32": "5c5e9034",
+      "sha256": "00263354d6f7a7eeda9079b0c78bc62f01852508ecdd219529bef9e375ba7575"
+    },
+    {
+      "member": "D3202-D-1_R_2024_02_21_13_01_51_Louisiana.ndpi.ndpa",
+      "size_bytes": 40490,
+      "crc32": "5a51d28e",
+      "sha256": "eb0f4cb20717ba2289c520a05e25d2e87c107c9ffef4a07a0ad30e388cf020f7"
+    },
+    {
+      "member": "D3266-1_L_2024_02_01_13_49_20_Mississippi.ndpi.ndpa",
+      "size_bytes": 37724,
+      "crc32": "1b17c407",
+      "sha256": "4235e22ae15474f0153d81caf46aee4ce6529dfba6b3aecf3f1ec33dc7b43c69"
+    },
+    {
+      "member": "D5151-B-1_L_2024_02_02_15_31_05_Tennessee.ndpi.ndpa",
+      "size_bytes": 201766,
+      "crc32": "327fdeaa",
+      "sha256": "3845de8d3671319782aff46ba9c681f31e894e383dd48ea0f57d1bbe25b6a4aa"
+    },
+    {
+      "member": "Giraffe_20_1_95_R_Giraffe_2025_01_13_19_48_21.ndpi.ndpa",
+      "size_bytes": 26553,
+      "crc32": "4603f783",
+      "sha256": "db8ce04399ee5a21acc806372acd4929386de993a40748d1c51f30bff0a758d5"
+    },
+    {
+      "member": "Giraffe_24_2_43_R_Giraffe_2025_01_14_10_06_00.ndpi.ndpa",
+      "size_bytes": 26006,
+      "crc32": "6c13d523",
+      "sha256": "52a9ac43233e7fd980921af69522860b23c7595484a35f7c41b4b02257383864"
+    },
+    {
+      "member": "Giraffe_26_3_146_L_Giraffe_2025_01_13_16_06_02.ndpi.ndpa",
+      "size_bytes": 28026,
+      "crc32": "b30b3bfd",
+      "sha256": "a8c23e73a3d26f664d1ed185cd4e3c22e7cd410a990bd9a8d0063ba7151f0c06"
+    },
+    {
+      "member": "USNMPAL_792727_D1376_2024_01_22_16_00_33_Wyoming.ndpi.ndpa",
+      "size_bytes": 33700,
+      "crc32": "dd5daedb",
+      "sha256": "aa46a7369ac01477618970c6bee235490d57450567cea1682e0456c6c71d7c74"
+    },
+    {
+      "member": "C_418058_W_Nassichuk_R_2025_01_21_14_59_16_Alaska.ndpi.ndpa",
+      "size_bytes": 71869,
+      "crc32": "88c35e75",
+      "sha256": "00de5abfe35a4bef4c4ff4852e627c673fdd51526b5b9e4ae46580f1f824e564"
+    },
+    {
+      "member": "C_418081_W_Nassichuk_R_2025_01_21_12_58_10_Alaska.ndpi.ndpa",
+      "size_bytes": 60069,
+      "crc32": "05eb4577",
+      "sha256": "693a548fed39ad2f188e9e4350c1036647326be5b7537959194ae29727e1684e"
+    },
+    {
+      "member": "C_418107_W_Nassichuk_R_2025_01_21_11_16_25_Alaska.ndpi.ndpa",
+      "size_bytes": 56816,
+      "crc32": "b68cc8a2",
+      "sha256": "2ae804739407b07baf5b788ced5de42487c8694a1c048f2e6ffcabdddd8d50f7"
+    },
+    {
+      "member": "C_418109_W_Nassichuk_R_2025_01_21_10_57_19_Alaska.ndpi.ndpa",
+      "size_bytes": 28832,
+      "crc32": "11608075",
+      "sha256": "e091985460b070fa537f4a5a17ff4804cc9fab071fe48358c7b3c1a27593950b"
+    },
+    {
+      "member": "C_418070_W_Nassichuk_R_2025_01_21_14_17_12_Alaska.ndpi.ndpa",
+      "size_bytes": 77058,
+      "crc32": "54562e54",
+      "sha256": "ec58ca7f5569ee6ffda0f5ebb3eb6259a8384efb6a8b18ee8820d7e1dfdad1e4"
+    },
+    {
+      "member": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi.ndpa",
+      "size_bytes": 130696,
+      "crc32": "f99d4769",
+      "sha256": "7196b7c65001aae52d05931bc9683a2b091370dd8d87fa6797a2fb370ce28d0b"
+    },
+    {
+      "member": "C_418080_W_Nassichuk_L_2025_01_14_19_14_58_Alaska.ndpi.ndpa",
+      "size_bytes": 109300,
+      "crc32": "16a554e5",
+      "sha256": "cd06e896ea5e35ee5f5b42bd29bd6f8c10d7eb578e88a6d4135aec124e3ca4f2"
+    },
+    {
+      "member": "USNMPAL_792666_D1074_2024_01_26_10_32_56_N_Dakota.ndpi.ndpa",
+      "size_bytes": 25621,
+      "crc32": "d1fafb51",
+      "sha256": "e888eed5c350636fba0ef7b68badfe6235995df8b603b76d4cc61b946c3ee28f"
+    },
+    {
+      "member": "USNMPAL_792717_D1350_L_2024_02_20_15_21_31_Oregon.ndpi.ndpa",
+      "size_bytes": 63725,
+      "crc32": "5b4f22fd",
+      "sha256": "2a655a500d2204a8bfd51f4aa006cf8263285b1167e032546d58a800f5ac649f"
+    },
+    {
+      "member": "USNMPAL_792719_D1357_2023_11_09_10_41_27_Colorado.ndpi.ndpa",
+      "size_bytes": 117101,
+      "crc32": "ad3914ca",
+      "sha256": "0addfde2b9fe4f4976b35941eca28187194d77d6f0898372cfe5ccb592dc52c8"
+    },
+    {
+      "member": "USNMPAL_792815_D1524_L_2024_01_26_10_53_45_Oregon.ndpi.ndpa",
+      "size_bytes": 26322,
+      "crc32": "d59ed8dc",
+      "sha256": "33115070e84b12e74e4c5f7ff5192fb8ff6f8cee7be28c6407b940157a925459"
+    },
+    {
+      "member": "USNMPAL_792924_D1820_2024-01-23_13_40_57_N_Mexico.ndpi.ndpa",
+      "size_bytes": 24097,
+      "crc32": "5fc882c0",
+      "sha256": "b8cb41aa1590de09f08494721a5423713af3e44c3c3681e26e92847994ff587e"
+    },
+    {
+      "member": "USNMPAL_793471_D3915_L_2024-01-22_10_22_34_Alaska.ndpi.ndpa",
+      "size_bytes": 68186,
+      "crc32": "db5d0f76",
+      "sha256": "22f254ccad595683d68f2c9395ffabd356e776113d23787ca4f853d321c814b2"
+    },
+    {
+      "member": "USNMPAL_793471_D3915_L_2024_01_22_10_22_34_Alaska.ndpi.ndpa",
+      "size_bytes": 54167,
+      "crc32": "3c02e032",
+      "sha256": "b2107544c7bcf35209de7fd57bcbf234cbc1042cb5c9c402a82c57540c003813"
+    },
+    {
+      "member": "USNMPAL_793472_D3916_R_2023_11_20_17_04_43_Alaska.ndpi.ndpa",
+      "size_bytes": 49451,
+      "crc32": "48089cd4",
+      "sha256": "f72ff719fcacd60c2418affbba9d4ff5b3380d9a891263cad9875060a18adacf"
+    },
+    {
+      "member": "USNM_792877_D1727_L_2024_03_14_10_25_59_Washington.ndpi.ndpa",
+      "size_bytes": 79770,
+      "crc32": "865517cd",
+      "sha256": "ac47d0a11b0bb144203c61546aa5df8d00d6e159de0de47eba15eb914e6c0a8a"
+    },
+    {
+      "member": "USNMPAL_792668_D1091_2024_01_25_16_57_52_Tennessee.ndpi.ndpa",
+      "size_bytes": 56393,
+      "crc32": "dad1b6f2",
+      "sha256": "59b42a79818e23c5d2eab88d2a7e67d1fb69c226f1ef93641027037e4ef82fde"
+    },
+    {
+      "member": "USNMPAL_792715_D1298_L_2024_01_25_14_55_02_Wyoming.ndpi.ndpa",
+      "size_bytes": 50520,
+      "crc32": "2861ea65",
+      "sha256": "789c89c006e2a12f764d5029ee87f45978f954a0aefa9758f6968a111c09c58b"
+    },
+    {
+      "member": "USNMPAL_792723_D1366-D_2024_09_19_09_27_16_Maryland.ndpi.ndpa",
+      "size_bytes": 71552,
+      "crc32": "da7cfb58",
+      "sha256": "ad37f3ff593e2f48317239cb80f0cd7208164b57241acb2ff0746bf776644d84"
+    },
+    {
+      "member": "USNMPAL_792724_D1367_A_2024_01_25_15_32_32_Maryland.ndpi.ndpa",
+      "size_bytes": 40885,
+      "crc32": "23f4612f",
+      "sha256": "987d91c1d31ebd9e935ef7a85799b4aabd18909b7a190a7784679bde049ea494"
+    },
+    {
+      "member": "USNMPAL_792725_D1367-B_2024_09_19_09_45_18_S_Dakota.ndpi.ndpa",
+      "size_bytes": 30262,
+      "crc32": "fecb0aeb",
+      "sha256": "d6124e91cf36f43342e3489c606804d134faabb0d2671cd3ebbdfd05b41785d7"
+    },
+    {
+      "member": "USNMPAL_792733_D1388_L_2024_01_22_11_09_00_S_Dakota.ndpi.ndpa",
+      "size_bytes": 49886,
+      "crc32": "32b2e0c7",
+      "sha256": "6402507b7d1a03733ad2a7409e1891b71c3a9bf6d3fc76a58d92fcbd41a9ec84"
+    },
+    {
+      "member": "USNMPAL_792851_D1644_2024_01_26_11_12_23_California.ndpi.ndpa",
+      "size_bytes": 33659,
+      "crc32": "589fd489",
+      "sha256": "fa905514a96d6a36e973c17bd3b34d290bd456acfad932c5485f38966623a018"
+    },
+    {
+      "member": "USNMPAL_792854_D1668_L_2024_01_25_16_38_58_Kentucky.ndpi.ndpa",
+      "size_bytes": 65614,
+      "crc32": "510766a3",
+      "sha256": "299ec718ba4bc32f0d162eb6e32a601ef13e29e6b1eb0e3444d48abfc9502abe"
+    },
+    {
+      "member": "USNMPAL_793077_D3163-A_2024_07_29_10_45_13_Arkansas.ndpi.ndpa",
+      "size_bytes": 232797,
+      "crc32": "fa4a840e",
+      "sha256": "f0159613c70f509ba505cfa36c553c98bb3f8aee7e1edb7628319c1fca06d9d7"
+    },
+    {
+      "member": "USNMPAL_793576_D4117_L_2024_02_02_12_34_41_Arkansas.ndpi.ndpa",
+      "size_bytes": 53235,
+      "crc32": "e7b9a74b",
+      "sha256": "72eafd6d40c5c3fdfe85ab1082fa6f899946390d423b9c4c9b120a598d5dcc55"
+    },
+    {
+      "member": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi.ndpa",
+      "size_bytes": 108426,
+      "crc32": "374c7167",
+      "sha256": "a32f3de55bc2a0b8a3ceafa237954cd04b1aee603a00b4073a42a250f68782b0"
+    },
+    {
+      "member": "USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming.ndpi.ndpa",
+      "size_bytes": 69892,
+      "crc32": "57e1a1a4",
+      "sha256": "be6dedf34ab37334eda71487de979e235b01211f3307c12e841c31dc0be954d7"
+    },
+    {
+      "member": "USNMPAL_792738_D1392_A_R_2024_01_25_13_58_00_Wyoming.ndpi.ndpa",
+      "size_bytes": 32357,
+      "crc32": "571ba567",
+      "sha256": "42273e44258db09dc9a2908ae0e1b86d691b605b6741e3d99227f6259bcd20e5"
+    },
+    {
+      "member": "USNMPAL_792852_D1667-A_R_2024_02_2019_29_55_Kentucky.ndpi.ndpa",
+      "size_bytes": 81838,
+      "crc32": "a360f411",
+      "sha256": "6f5370686d75543b0db6b14d43db34fae8be638037c155844f210085f4a5c232"
+    },
+    {
+      "member": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi.ndpa",
+      "size_bytes": 43966,
+      "crc32": "d5956a37",
+      "sha256": "df9f81058cd0d0bf94c320c18214fada357da9e94a1966f426e1bd430ba4dd47"
+    },
+    {
+      "member": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi.ndpa",
+      "size_bytes": 53068,
+      "crc32": "e783b6eb",
+      "sha256": "47adc5ef84fe6f4e741f4a6d6f0b5dc222ded9ba66ee74736b794b8a78b4b6de"
+    },
+    {
+      "member": "USNMPAL_792852_D1667-A_L_2024_02_20_14_05_57_Kentucky.ndpi.ndpa",
+      "size_bytes": 55469,
+      "crc32": "180f57b0",
+      "sha256": "ab3222226c22f3438157642da4214b05033750b9ba07ff934c4047efab94a486"
+    },
+    {
+      "member": "USNMPAL_792954_D1890-4_L_2024_09_19_11_55_30_Kentucky.ndpi.ndpa",
+      "size_bytes": 50905,
+      "crc32": "a114e670",
+      "sha256": "2e19ce60de801f14a95aaa11b18412dc0a08842f0e2306f2cd0e3838dba67a2b"
+    },
+    {
+      "member": "Giraffe_20_3_47_BLEACHED_R_Giraffe_2025_01_14_09_06_36.ndpi.ndpa",
+      "size_bytes": 26930,
+      "crc32": "1500d628",
+      "sha256": "bb729efb9ff93646c527166e18505dd8abb8318e8077d4729606603ac9aeeeb5"
+    },
+    {
+      "member": "USNMPAL_792930_D1825_L_2023_11_07_13_36_14_image1_Kentucky.ndpi.ndpa",
+      "size_bytes": 59522,
+      "crc32": "338559db",
+      "sha256": "37f2b6a0e22d0891e09d84e46d656d46d361d0f57a945cbbaa7c46b916fc6d23"
+    }
+  ],
+  "source_category_csv_sha256": "1c6989486dbc1b01266c9a79e3dcda41de4f6180beea15da95497c7204c88d90",
+  "annotation_files": 83,
+  "records": 11502,
+  "priorities": {
+    "YES": 2290,
+    "UNTITLED": 227,
+    "NO": 8871,
+    "MAYBE": 114
+  },
+  "geometry_types": {
+    "circle": 11369,
+    "freehand": 133
+  },
+  "all_title_counts_match": true,
+  "all_category_counts_match": true,
+  "unresolved_image_pairs": [],
+  "bundled_image_existing_matches": {
+    "D1555_RAS_60_2023_04_20_15_40_35.ndpi": [
+      {
+        "path": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/D1555_RAS_60_2023_04_20_15_40_35.ndpi",
+        "size_bytes": 15965474680
+      }
+    ]
+  },
+  "notes": [
+    "Archive CRC checked by fully reading every member; archive and member SHA-256 hashes recorded.",
+    "NOTS pairing is by exact filename; existing image byte identity is NOT checked.",
+    "No provisional aliases applied. Only leading/trailing whitespace removed for lookup.",
+    "YES selection follows supplied original categories; broad-first hierarchy remains to be defined."
+  ]
+}

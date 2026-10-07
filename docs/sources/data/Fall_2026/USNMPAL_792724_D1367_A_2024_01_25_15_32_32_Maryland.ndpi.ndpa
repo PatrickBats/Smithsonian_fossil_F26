@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<annotations>
+    <ndpviewstate id="1">
+        <title />
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>4.423751</lens>
+        <x>8684816</x>
+        <y>1287109</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="freehand" displayname="AnnotateRectangle" color="#000000">
+            <measuretype>2</measuretype>
+            <closed>1</closed>
+            <pointlist>
+                <point>
+                    <x>7168458</x>
+                    <y>578979</y>
+                </point>
+                <point>
+                    <x>7168458</x>
+                    <y>2140794</y>
+                </point>
+                <point>
+                    <x>9022096</x>
+                    <y>2140794</y>
+                </point>
+                <point>
+                    <x>9022096</x>
+                    <y>578979</y>
+                </point>
+            </pointlist>
+            <specialtype>rectangle</specialtype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="2">
+        <title>Momipites</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7583775</x>
+        <y>815190</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7641548</x>
+            <y>830360</y>
+            <radius>13051</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="3">
+        <title>spo</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7398399</x>
+        <y>2083099</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7465622</x>
+            <y>2079210</y>
+            <radius>22011</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="4">
+        <title>spo</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7872595</x>
+        <y>1986747</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7880757</x>
+            <y>1991030</y>
+            <radius>14331</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="5">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8556426</x>
+        <y>875153</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8605062</x>
+            <y>843826</y>
+            <radius>18124</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="6">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>71.890724</lens>
+        <x>8526446</x>
+        <y>687484</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8521684</x>
+            <y>705097</y>
+            <radius>25034</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="7">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8093673</x>
+        <y>1075638</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8101501</x>
+            <y>1081787</y>
+            <radius>12726</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="8">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8279965</x>
+        <y>2084472</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8227077</x>
+            <y>2098312</y>
+            <radius>8192</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="9">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7814236</x>
+        <y>2084472</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7834011</x>
+            <y>2110671</y>
+            <radius>12236</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="10">
+        <title>fun</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7262686</x>
+        <y>2007803</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7229937</x>
+            <y>2026792</y>
+            <radius>5801</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="11">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7261313</x>
+        <y>1970955</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7273192</x>
+            <y>1992577</y>
+            <radius>21964</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="12">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8615014</x>
+        <y>1860185</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8564301</x>
+            <y>1888901</y>
+            <radius>12849</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="13">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8163018</x>
+        <y>1860185</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8148006</x>
+            <y>1838208</y>
+            <radius>11038</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="14">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7491316</x>
+        <y>1728588</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7483399</x>
+            <y>1772066</y>
+            <radius>11894</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="15">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7491316</x>
+        <y>1728588</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7511663</x>
+            <y>1705581</y>
+            <radius>8855</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="16">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8798102</x>
+        <y>1608434</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8777712</x>
+            <y>1568720</y>
+            <radius>8834</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="17">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7819729</x>
+        <y>1608434</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7842593</x>
+            <y>1604080</y>
+            <radius>9417</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="18">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7275044</x>
+        <y>1608434</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7231883</x>
+            <y>1638753</y>
+            <radius>20073</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="19">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7275044</x>
+        <y>1608434</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7287381</x>
+            <y>1585084</y>
+            <radius>25130</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="20">
+        <title>fun</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7244148</x>
+        <y>1499724</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7169976</x>
+            <y>1548466</y>
+            <radius>9770</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="21">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8194142</x>
+        <y>1388724</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8160250</x>
+            <y>1369723</y>
+            <radius>11224</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="22">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7636184</x>
+        <y>1277496</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7623918</x>
+            <y>1284059</y>
+            <radius>11781</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="23">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8337637</x>
+        <y>1277496</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8340705</x>
+            <y>1265978</y>
+            <radius>10460</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="24">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7784942</x>
+        <y>1169930</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7800025</x>
+            <y>1131063</y>
+            <radius>15205</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="25">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7242546</x>
+        <y>1169930</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7184165</x>
+            <y>1141018</y>
+            <radius>7076</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="26">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7598651</x>
+        <y>1057558</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7606640</x>
+            <y>1053020</y>
+            <radius>8443</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="27">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7773728</x>
+        <y>1057558</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7763294</x>
+            <y>1060000</y>
+            <radius>10858</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="28">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8619363</x>
+        <y>944270</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8605724</x>
+            <y>943394</y>
+            <radius>60348</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="29">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>7370936</x>
+        <y>944270</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>7335786</x>
+            <y>910323</y>
+            <radius>13023</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="30">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8978672</x>
+        <y>838992</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8976590</x>
+            <y>849560</y>
+            <radius>8804</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="31">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8577024</x>
+        <y>728222</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8546106</x>
+            <y>695534</y>
+            <radius>25284</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="32">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>8202839</x>
+        <y>728222</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>8214489</x>
+            <y>713156</y>
+            <radius>9669</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="33">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>70.237045</lens>
+        <x>16122281</x>
+        <y>810613</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16184470</x>
+            <y>824150</y>
+            <radius>16412</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="34">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>76.365021</lens>
+        <x>16160271</x>
+        <y>535060</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16146836</x>
+            <y>551744</y>
+            <radius>8371</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="35">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>46.382191</lens>
+        <x>16601512</x>
+        <y>653383</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16683736</x>
+            <y>670518</y>
+            <radius>11528</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="36">
+        <title />
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>1.222528</lens>
+        <x>16945944</x>
+        <y>-1410973</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="freehand" displayname="AnnotateRectangle" color="#000000">
+            <measuretype>2</measuretype>
+            <closed>1</closed>
+            <pointlist>
+                <point>
+                    <x>15444397</x>
+                    <y>-324947</y>
+                </point>
+                <point>
+                    <x>15444397</x>
+                    <y>1236867</y>
+                </point>
+                <point>
+                    <x>17298034</x>
+                    <y>1236867</y>
+                </point>
+                <point>
+                    <x>17298034</x>
+                    <y>-324947</y>
+                </point>
+            </pointlist>
+            <specialtype>rectangle</specialtype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="38">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16426664</x>
+        <y>217854</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16456238</x>
+            <y>242063</y>
+            <radius>11525</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="39">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16590298</x>
+        <y>217854</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16598016</x>
+            <y>235197</y>
+            <radius>11525</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="40">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>17219660</x>
+        <y>217854</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>17250836</x>
+            <y>224898</y>
+            <radius>16833</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="41">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15725668</x>
+        <y>130428</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15740705</x>
+            <y>144469</y>
+            <radius>7205</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="42">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15841242</x>
+        <y>333660</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15858455</x>
+            <y>389336</y>
+            <radius>9591</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="43">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16441997</x>
+        <y>333660</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16469966</x>
+            <y>322622</y>
+            <radius>8330</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="44">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16441997</x>
+        <y>333660</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16491594</x>
+            <y>314727</y>
+            <radius>10651</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="45">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16782540</x>
+        <y>448778</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16761282</x>
+            <y>412452</y>
+            <radius>22738</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="46">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15523814</x>
+        <y>448778</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15529791</x>
+            <y>482141</y>
+            <radius>13027</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="47">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16519809</x>
+        <y>555658</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16508874</x>
+            <y>547459</y>
+            <radius>12252</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="48">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16519809</x>
+        <y>555658</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16534048</x>
+            <y>586366</y>
+            <radius>9154</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="49">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15734593</x>
+        <y>664140</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15673766</x>
+            <y>687066</y>
+            <radius>9519</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="50">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15510998</x>
+        <y>735774</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15485416</x>
+            <y>714072</y>
+            <radius>13528</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="51">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15670055</x>
+        <y>765527</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15666443</x>
+            <y>784791</y>
+            <radius>13609</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="52">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16454813</x>
+        <y>869660</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16461157</x>
+            <y>876108</y>
+            <radius>18241</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="53">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15698891</x>
+        <y>983863</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15717938</x>
+            <y>999352</y>
+            <radius>21036</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="54">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16391419</x>
+        <y>1109968</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16380276</x>
+            <y>1105997</y>
+            <radius>9992</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="55">
+        <title>fun</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16770410</x>
+        <y>1217992</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16793252</x>
+            <y>1200815</y>
+            <radius>15360</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="56">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16241745</x>
+        <y>1217992</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16304866</x>
+            <y>1190402</y>
+            <radius>9721</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="57">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16498525</x>
+        <y>-274890</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16512548</x>
+            <y>-276942</y>
+            <radius>15502</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="58">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16669025</x>
+        <y>-274890</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16680760</x>
+            <y>-277972</y>
+            <radius>11746</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="59">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16689394</x>
+        <y>-172359</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16713830</x>
+            <y>-175555</y>
+            <radius>25263</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="60">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16433072</x>
+        <y>-172359</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16420547</x>
+            <y>-203820</y>
+            <radius>26380</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="61">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16199635</x>
+        <y>-172359</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16247644</x>
+            <y>-147862</y>
+            <radius>9237</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="62">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15542810</x>
+        <y>-172359</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15535434</x>
+            <y>-181162</y>
+            <radius>15672</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="63">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16042180</x>
+        <y>-73489</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16028969</x>
+            <y>-46613</y>
+            <radius>9280</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="64">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16176063</x>
+        <y>-73489</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16261261</x>
+            <y>-45812</y>
+            <radius>10377</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="65">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16917566</x>
+        <y>-73489</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16963286</x>
+            <y>-65151</y>
+            <radius>12006</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="66">
+        <title>pol</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>17220346</x>
+        <y>25150</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>17288954</x>
+            <y>-9651</y>
+            <radius>23811</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="67">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>16951438</x>
+        <y>33618</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16966606</x>
+            <y>10030</y>
+            <radius>20807</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="68">
+        <title>paly</title>
+        <details />
+        <coordformat>nanometers</coordformat>
+        <lens>80.000000</lens>
+        <x>15636413</x>
+        <y>152399</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>15591048</x>
+            <y>182365</y>
+            <radius>22716</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+    <ndpviewstate id="69">
+        <title>paly</title>
+        <details></details>
+        <coordformat>nanometers</coordformat>
+        <lens>61.986675</lens>
+        <x>16703125</x>
+        <y>665971</y>
+        <z>0</z>
+        <showtitle>0</showtitle>
+        <showhistogram>0</showhistogram>
+        <showlineprofile>0</showlineprofile>
+        <annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+            <x>16767940</x>
+            <y>651475</y>
+            <radius>14545</radius>
+            <measuretype>0</measuretype>
+        </annotation>
+    </ndpviewstate>
+</annotations>

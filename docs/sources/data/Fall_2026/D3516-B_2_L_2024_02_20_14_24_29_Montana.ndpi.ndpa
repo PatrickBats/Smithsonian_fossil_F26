@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<annotations>
+	<ndpviewstate id="1">
+		<title/>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>3.477414</lens>
+		<x>5806262</x>
+		<y>-3667872</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="freehand" displayname="AnnotateRectangle" color="#000000">
+			<measuretype>2</measuretype>
+			<closed>1</closed>
+			<pointlist>
+				<point>
+					<x>5681878</x>
+					<y>-4133607</y>
+				</point>
+				<point>
+					<x>5681878</x>
+					<y>-2571791</y>
+				</point>
+				<point>
+					<x>7535515</x>
+					<y>-2571791</y>
+				</point>
+				<point>
+					<x>7535515</x>
+					<y>-4133607</y>
+				</point>
+			</pointlist>
+			<specialtype>rectangle</specialtype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="3">
+		<title>Cyathidites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7166830</x>
+		<y>-4032910</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7139890</x>
+			<y>-4029938</y>
+			<radius>15294</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="4">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7166830</x>
+		<y>-4032910</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7169133</x>
+			<y>-4033964</y>
+			<radius>13936</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="5">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6931563</x>
+		<y>-3839978</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6752753</x>
+			<y>-3893878</y>
+			<radius>11637</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="6">
+		<title>Betulaceae</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6607498</x>
+		<y>-3839978</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6612906</x>
+			<y>-3760377</y>
+			<radius>13631</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="7">
+		<title>spo</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6179303</x>
+		<y>-3839978</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6185724</x>
+			<y>-3757411</y>
+			<radius>25007</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="8">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>5865766</x>
+		<y>-3839978</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>5886732</x>
+			<y>-3777330</y>
+			<radius>14785</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="9">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6162367</x>
+		<y>-3649333</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6123426</x>
+			<y>-3616906</y>
+			<radius>11783</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="10">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6329892</x>
+		<y>-3649333</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6405250</x>
+			<y>-3710780</y>
+			<radius>25492</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="11">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6902040</x>
+		<y>-3649333</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6914434</x>
+			<y>-3642123</y>
+			<radius>19634</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="12">
+		<title>din</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7251508</x>
+		<y>-3649333</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7298602</x>
+			<y>-3552911</y>
+			<radius>17090</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="13">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7251508</x>
+		<y>-3464869</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7245839</x>
+			<y>-3425348</y>
+			<radius>16644</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="14">
+		<title>din</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7086272</x>
+		<y>-3464869</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7113193</x>
+			<y>-3376822</y>
+			<radius>25810</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="15">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7086272</x>
+		<y>-3464869</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6976517</x>
+			<y>-3467094</y>
+			<radius>10908</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="16">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6882816</x>
+		<y>-3464869</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6854890</x>
+			<y>-3440606</y>
+			<radius>10990</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="17">
+		<title>Bipol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6616195</x>
+		<y>-3430310</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6626468</x>
+			<y>-3348851</y>
+			<radius>39558</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="18">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>5955936</x>
+		<y>-3467157</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6040784</x>
+			<y>-3460737</y>
+			<radius>20555</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="19">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>5955936</x>
+		<y>-3467157</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>5878045</x>
+			<y>-3497608</y>
+			<radius>19432</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="20">
+		<title>Cyathidites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6820566</x>
+		<y>-3299858</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6813360</x>
+			<y>-3295878</y>
+			<radius>25220</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="21">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6926528</x>
+		<y>-3299858</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7044117</x>
+			<y>-3305414</y>
+			<radius>22007</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="22">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7096112</x>
+		<y>-3299858</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7192019</x>
+			<y>-3190985</y>
+			<radius>11994</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="23">
+		<title>Echitricolpites microechinatus</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7312156</x>
+		<y>-3299858</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7322970</x>
+			<y>-3274051</y>
+			<radius>22574</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="24">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7296822</x>
+		<y>-3124319</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7265757</x>
+			<y>-3147544</y>
+			<radius>15954</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="25">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6875263</x>
+		<y>-3124319</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6831582</x>
+			<y>-3077192</y>
+			<radius>23030</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="26">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6320051</x>
+		<y>-3124319</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6361175</x>
+			<y>-3019765</y>
+			<radius>11769</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="27">
+		<title>Bipol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>5811526</x>
+		<y>-2957019</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>5920424</x>
+			<y>-2999002</y>
+			<radius>41199</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="28">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6031917</x>
+		<y>-2957019</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6002007</x>
+			<y>-3008538</y>
+			<radius>8841</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="29">
+		<title>Laevigatosporites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6771361</x>
+		<y>-2957019</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6826287</x>
+			<y>-2912968</y>
+			<radius>16506</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="30">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6771361</x>
+		<y>-2957019</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6798104</x>
+			<y>-2941152</y>
+			<radius>24146</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="31">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7009833</x>
+		<y>-2988831</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7032884</x>
+			<y>-3064694</y>
+			<radius>15555</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="32">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7414456</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7460067</x>
+			<y>-2824186</y>
+			<radius>14960</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="33">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7147606</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7238001</x>
+			<y>-2805750</y>
+			<radius>16795</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="34">
+		<title>spo</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7018300</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7062338</x>
+			<y>-2791552</y>
+			<radius>23767</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="35">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6556234</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6562475</x>
+			<y>-2829483</y>
+			<radius>10715</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="36">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6556234</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6498269</x>
+			<y>-2789221</y>
+			<radius>16805</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="37">
+		<title>Laevigatosporites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6282976</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6177246</x>
+			<y>-2832662</y>
+			<radius>21254</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="38">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6282976</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6328755</x>
+			<y>-2688566</y>
+			<radius>14287</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="39">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6282976</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6343164</x>
+			<y>-2792824</y>
+			<radius>16020</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="40">
+		<title>din</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>5808322</x>
+		<y>-2766146</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>5798793</x>
+			<y>-2825033</y>
+			<radius>29093</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="41">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>6096456</x>
+		<y>-2670938</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>6140590</x>
+			<y>-2613130</y>
+			<radius>13011</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="42">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7376465</x>
+		<y>-2670938</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7412178</x>
+			<y>-2620334</y>
+			<radius>16873</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="43">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>43.201210</lens>
+		<x>7376465</x>
+		<y>-2670938</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7447989</x>
+			<y>-2634532</y>
+			<radius>10990</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="44">
+		<title>Alnipollenites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>52.076550</lens>
+		<x>9191547</x>
+		<y>358310</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9083700</x>
+			<y>347739</y>
+			<radius>17628</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="45">
+		<title>Bipol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>52.076550</lens>
+		<x>9191547</x>
+		<y>358310</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9213782</x>
+			<y>428954</y>
+			<radius>21099</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="46">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>52.076550</lens>
+		<x>9191547</x>
+		<y>358310</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9231008</x>
+			<y>300451</y>
+			<radius>37028</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="47">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>41.644978</lens>
+		<x>9031116</x>
+		<y>287820</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8968848</x>
+			<y>222930</y>
+			<radius>24901</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="48">
+		<title>Verrucingulatisporites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>80.000000</lens>
+		<x>8582553</x>
+		<y>74518</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8508142</x>
+			<y>46380</y>
+			<radius>18295</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="49">
+		<title/>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>1.897938</lens>
+		<x>9807636</x>
+		<y>-654643</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="freehand" displayname="AnnotateRectangle" color="#000000">
+			<measuretype>2</measuretype>
+			<closed>1</closed>
+			<pointlist>
+				<point>
+					<x>7775167</x>
+					<y>-347182</y>
+				</point>
+				<point>
+					<x>7775167</x>
+					<y>1214632</y>
+				</point>
+				<point>
+					<x>9628802</x>
+					<y>1214632</y>
+				</point>
+				<point>
+					<x>9628802</x>
+					<y>-347182</y>
+				</point>
+			</pointlist>
+			<specialtype>rectangle</specialtype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="50">
+		<title>spo</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>20.950087</lens>
+		<x>7963260</x>
+		<y>-219343</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7892472</x>
+			<y>-312636</y>
+			<radius>29668</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="51">
+		<title>Bipol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>35.839085</lens>
+		<x>7894831</x>
+		<y>-250697</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7986786</x>
+			<y>-299102</y>
+			<radius>35150</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="52">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>7903070</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7965751</x>
+			<y>-156101</y>
+			<radius>14254</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="53">
+		<title>Fraxinoipollenites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>7903070</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7986963</x>
+			<y>-153956</y>
+			<radius>17062</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="54">
+		<title>Taxodium sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8007887</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8029814</x>
+			<y>-146091</y>
+			<radius>31229</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="55">
+		<title>Bombacacidites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8272448</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8327265</x>
+			<y>-275986</y>
+			<radius>16117</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="56">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8272448</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8283889</x>
+			<y>-182557</y>
+			<radius>10840</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="57">
+		<title>Ericipites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8363077</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8454596</x>
+			<y>-303395</y>
+			<radius>21260</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="58">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8901811</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8864153</x>
+			<y>-132267</y>
+			<radius>16307</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="59">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8901811</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9051484</x>
+			<y>-142516</y>
+			<radius>17800</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="60">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9438028</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9549806</x>
+			<y>-299581</y>
+			<radius>13365</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="61">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9438028</x>
+		<y>-252986</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9564106</x>
+			<y>-140132</y>
+			<radius>13010</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="62">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8885104</x>
+		<y>-26639</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8897736</x>
+			<y>57136</y>
+			<radius>20314</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="63">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8146118</x>
+		<y>-26639</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8039582</x>
+			<y>-100643</y>
+			<radius>12584</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="64">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>7919777</x>
+		<y>99693</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7996996</x>
+			<y>89087</y>
+			<radius>13819</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="65">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8191432</x>
+		<y>190323</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8242435</x>
+			<y>183531</y>
+			<radius>33929</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="66">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8446610</x>
+		<y>190323</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8541467</x>
+			<y>300794</y>
+			<radius>15552</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="67">
+		<title>din</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8446610</x>
+		<y>190323</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8499996</x>
+			<y>299364</y>
+			<radius>27158</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="68">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8668146</x>
+		<y>190323</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8668622</x>
+			<y>257892</y>
+			<radius>24427</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="69">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9132959</x>
+		<y>190323</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9142730</x>
+			<y>137531</y>
+			<radius>13108</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="70">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9454735</x>
+		<y>190323</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9465222</x>
+			<y>196639</y>
+			<radius>16845</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="71">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9454735</x>
+		<y>433377</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9473325</x>
+			<y>392025</y>
+			<radius>18784</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="72">
+		<title>Laevigatosporites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9453820</x>
+		<y>444821</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9464068</x>
+			<y>557913</y>
+			<radius>18550</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="73">
+		<title>Bipol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8305862</x>
+		<y>426740</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8139504</x>
+			<y>491688</y>
+			<radius>37957</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="74">
+		<title>Taxodium sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8305862</x>
+		<y>426740</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8145224</x>
+			<y>443781</y>
+			<radius>12687</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="75">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8305862</x>
+		<y>426740</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8291561</x>
+			<y>332239</y>
+			<radius>15455</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="76">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8074714</x>
+		<y>426740</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8098309</x>
+			<y>325088</y>
+			<radius>16739</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="77">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8074714</x>
+		<y>426740</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8084724</x>
+			<y>477387</y>
+			<radius>15270</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="78">
+		<title>Bipol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>7919777</x>
+		<y>426740</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7870680</x>
+			<y>437585</y>
+			<radius>24567</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="79">
+		<title>din</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9323598</x>
+		<y>641186</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9262108</x>
+			<y>661564</y>
+			<radius>36713</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="80">
+		<title>Deltoidospora microadriennis</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9323598</x>
+		<y>641186</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9393430</x>
+			<y>750226</y>
+			<radius>16430</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="81">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9170950</x>
+		<y>867533</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9206223</x>
+			<y>863362</y>
+			<radius>15410</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="82">
+		<title>spo</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8942090</x>
+		<y>867533</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8979269</x>
+			<y>954169</y>
+			<radius>17087</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="83">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8813243</x>
+		<y>877374</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8811335</x>
+			<y>991658</y>
+			<radius>15366</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="84">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8370171</x>
+		<y>862727</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8339903</x>
+			<y>917664</y>
+			<radius>18164</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="85">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>7948155</x>
+		<y>862727</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>7931948</x>
+			<y>902887</y>
+			<radius>22940</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="86">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>8548910</x>
+		<y>1043759</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>8502435</x>
+			<y>1053411</y>
+			<radius>21437</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="87">
+		<title>paly</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9197040</x>
+		<y>1043759</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9332174</x>
+			<y>1116333</y>
+			<radius>20975</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="88">
+		<title>Laevigatosporites sp.</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9471212</x>
+		<y>1043759</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9529128</x>
+			<y>1083680</y>
+			<radius>22012</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="89">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9471212</x>
+		<y>1043759</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9518164</x>
+			<y>1010033</y>
+			<radius>17385</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+	<ndpviewstate id="90">
+		<title>pol</title>
+		<details/>
+		<coordformat>nanometers</coordformat>
+		<lens>38.409836</lens>
+		<x>9471212</x>
+		<y>1179704</y>
+		<z>0</z>
+		<showtitle>0</showtitle>
+		<showhistogram>0</showhistogram>
+		<showlineprofile>0</showlineprofile>
+		<annotation type="circle" displayname="AnnotateCircle" color="#0000ff">
+			<x>9625414</x>
+			<y>1180300</y>
+			<radius>12808</radius>
+			<measuretype>0</measuretype>
+		</annotation>
+	</ndpviewstate>
+</annotations>
+

@@ -1,0 +1,120 @@
+{
+  "target": {
+    "record_id": "D3094_1_L_2024_02_20_11_32_26_Colorado::record_151",
+    "slide": "D3094_1_L_2024_02_20_11_32_26_Colorado",
+    "image_file": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3094_1_L_2024_02_20_11_32_26_Colorado.ndpi",
+    "annotation_file": "D3094_1_L_2024_02_20_11_32_26_Colorado.ndpi.ndpa",
+    "annotation_sha256": "545e12cfa6212c28d6468397cdd939b4fe7cc94edb151a45c2476e8573c74632",
+    "annotation_id": "152",
+    "record_index": "151",
+    "original_title": "Platycarya platycarioides",
+    "matched_title": "Platycarya platycarioides",
+    "mapped_category": "Platycarya platycarioides",
+    "match_method": "exact",
+    "priority": "YES",
+    "shape": "circle",
+    "specialtype": "",
+    "details": "",
+    "center_nm": [
+      2837240,
+      -1563389
+    ],
+    "radius_nm": 17192,
+    "center_inside_roi": false,
+    "box_inside_roi": false,
+    "has_rectangle": true
+  },
+  "target_box_xyxy": [
+    437.8759859999991,
+    437.1122185999993,
+    588.1168739999994,
+    587.3496681999968
+  ],
+  "global_box_xyxy": [
+    51227.875986,
+    34957.1122186,
+    51378.116874,
+    35107.3496682
+  ],
+  "z_offsets_nm": [
+    -12000,
+    -11000,
+    -10000,
+    -9000,
+    -8000,
+    -7000,
+    -6000,
+    -5000,
+    -4000,
+    -3000,
+    -2000,
+    -1000,
+    0,
+    1000,
+    2000,
+    3000,
+    4000,
+    5000,
+    6000,
+    7000,
+    8000,
+    9000,
+    10000,
+    11000,
+    12000
+  ],
+  "boxes": [
+    [
+      434.3853454589844,
+      438.7673645019531,
+      584.3399047851562,
+      588.0828247070312
+    ],
+    [
+      239.92501831054688,
+      761.0123291015625,
+      346.8336181640625,
+      868.6700439453125
+    ],
+    [
+      262.87548828125,
+      924.3933715820312,
+      357.1732482910156,
+      1018.0928955078125
+    ],
+    [
+      910.7166137695312,
+      0.309295654296875,
+      1023.7987670898438,
+      88.00413513183594
+    ]
+  ],
+  "scores": [
+    0.9135838150978088,
+    0.09335499256849289,
+    0.05543404072523117,
+    0.05109736695885658
+  ],
+  "ious": [
+    0.9379989467710655,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "summary": {
+    "record_id": "D3094_1_L_2024_02_20_11_32_26_Colorado::record_151",
+    "category": "Platycarya platycarioides",
+    "slide": "D3094_1_L_2024_02_20_11_32_26_Colorado",
+    "representation": "focus_stack",
+    "center_inside_roi": false,
+    "box_inside_roi": false,
+    "hit_conf_050": true,
+    "hit_conf_025": true,
+    "best_matching_score": 0.9135838150978088,
+    "max_iou": 0.9379989467710655,
+    "prediction_count_conf_050": 1,
+    "tile_x": 50790,
+    "tile_y": 34520,
+    "focal_planes": 25
+  }
+}

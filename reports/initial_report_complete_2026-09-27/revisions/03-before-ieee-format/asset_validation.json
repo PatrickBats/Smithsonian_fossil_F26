@@ -1,0 +1,33 @@
+{
+  "inventory": {
+    "YES": 2290,
+    "UNTITLED": 227,
+    "NO": 8871,
+    "MAYBE": 114
+  },
+  "category_priorities": {
+    "NO": 28,
+    "YES": 32,
+    "MAYBE": 5
+  },
+  "pilot_hits": {
+    "focus_stack": 51,
+    "best_plane": 54
+  },
+  "pilot_historical_membership": {
+    "train": 50,
+    "unresolved_exact_name": 5,
+    "test": 9
+  },
+  "matplotlib_version": "3.10.8",
+  "source_sha256": {
+    "data/current/category_summary.csv": "9d5924c11e722333cd11468b37eac8519c59760922308a42ebe5f94072a742e9",
+    "data/current/annotation_records.csv": "c73af60cdd3118c2879e01bcca0ae93a54841b1c59c07ed0f7fbce577a992863",
+    "data/current/classification_annotations.csv": "bd900ca554c2072d0dacbc65bd158ccc50d0ca5640948442e211e41c029f41a3",
+    "data/current/audit_manifest.json": "ed919814e14c5ee1039ba2b2b78ee6fd4f3444a9a232f6e0d669baaa3b601188",
+    "data/current/title_reconciliation.csv": "37081040725553bf8aa49043f5151b5dd3159d7c28eebcbf6252ec1e06ccc26b",
+    "data/current/cluster_verification.json": "caace698e86456a50877f224ca5c0b4c8ef758264c1153a23b827f061188c0f5",
+    "reports/detection_pilot_2026-09-24/results.csv": "3ab61e25522f82b8dafec98063ce341003174c3c5bf6ad8233906ecdac6eaf11"
+  },
+  "checks": "passed"
+}

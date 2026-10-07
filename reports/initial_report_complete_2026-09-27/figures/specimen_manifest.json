@@ -1,0 +1,116 @@
+[
+  {
+    "panel": "A",
+    "category": "Arecipites sp.",
+    "record_id": "D3408_1_R_2024_02_20_19_10_35_Texas::record_378",
+    "slide": "D3408_1_R_2024_02_20_19_10_35_Texas",
+    "image_file": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3408_1_R_2024_02_20_19_10_35_Texas.ndpi",
+    "original_title": "Arecipites sp.",
+    "representation": "focus stack; original pilot kernel 5",
+    "source_tile": "shard_0_target_016.png",
+    "source_tile_sha256": "31fd05fa552d18f7efb4c57a9f479f719fa67b966fa9509accef5bc2528cec9b",
+    "crop_xyxy_in_tile": [
+      420,
+      420,
+      604,
+      604
+    ],
+    "source_metadata": "shard_0_target_016.json",
+    "processing": "Annotation-centered crop only; no color correction, retouching or generated imagery."
+  },
+  {
+    "panel": "B",
+    "category": "Bombacacidites sp.",
+    "record_id": "D8401-A_L_2024_01_18_13_05_54_Alaska::record_362",
+    "slide": "D8401-A_L_2024_01_18_13_05_54_Alaska",
+    "image_file": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D8401-A_L_2024_01_18_13_05_54_Alaska.ndpi",
+    "original_title": "Tiliapollenites sp.",
+    "representation": "focus stack; original pilot kernel 5",
+    "source_tile": "shard_0_target_027.png",
+    "source_tile_sha256": "2835f5104af61e8204aea70b2e41053c121286874f7ceecf7a6b999d2b4c9e2d",
+    "crop_xyxy_in_tile": [
+      428,
+      428,
+      595,
+      595
+    ],
+    "source_metadata": "shard_0_target_027.json",
+    "processing": "Annotation-centered crop only; no color correction, retouching or generated imagery."
+  },
+  {
+    "panel": "C",
+    "category": "Platycarya platycarioides",
+    "record_id": "D3094_1_L_2024_02_20_11_32_26_Colorado::record_151",
+    "slide": "D3094_1_L_2024_02_20_11_32_26_Colorado",
+    "image_file": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3094_1_L_2024_02_20_11_32_26_Colorado.ndpi",
+    "original_title": "Platycarya platycarioides",
+    "representation": "focus stack; original pilot kernel 5",
+    "source_tile": "shard_0_target_008.png",
+    "source_tile_sha256": "c34b5699f20a625c431a9ec10fe46eec3b3196ae45ef832879a99ec6363fa3a8",
+    "crop_xyxy_in_tile": [
+      411,
+      410,
+      614,
+      613
+    ],
+    "source_metadata": "shard_0_target_008.json",
+    "processing": "Annotation-centered crop only; no color correction, retouching or generated imagery."
+  },
+  {
+    "panel": "D",
+    "category": "Bisaccate",
+    "record_id": "C_418070_W_Nassichuk_R_2025_01_21_14_17_12_Alaska::record_68",
+    "slide": "C_418070_W_Nassichuk_R_2025_01_21_14_17_12_Alaska",
+    "image_file": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418070_W_Nassichuk_R_2025_01_21_14_17_12_Alaska.ndpi",
+    "original_title": "Bisaccate",
+    "representation": "focus stack; original pilot kernel 5",
+    "source_tile": "shard_0_target_000.png",
+    "source_tile_sha256": "e91dcf2389f476db9311a70f39243251448caf6326421ed72d3639c255680f02",
+    "crop_xyxy_in_tile": [
+      334,
+      223,
+      690,
+      579
+    ],
+    "source_metadata": "shard_0_target_000.json",
+    "processing": "Annotation-centered crop only; no color correction, retouching or generated imagery."
+  },
+  {
+    "panel": "E",
+    "category": "Momipites sp",
+    "record_id": "D3094_1_L_2024_02_20_11_32_26_Colorado::record_157",
+    "slide": "D3094_1_L_2024_02_20_11_32_26_Colorado",
+    "image_file": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3094_1_L_2024_02_20_11_32_26_Colorado.ndpi",
+    "original_title": "Momipites sp.",
+    "representation": "focus stack; original pilot kernel 5",
+    "source_tile": "shard_0_target_009.png",
+    "source_tile_sha256": "32a3590a702d7686c08098bb674c3df0e04ec69ae5387832773beec3c263c1f0",
+    "crop_xyxy_in_tile": [
+      395,
+      396,
+      628,
+      629
+    ],
+    "source_metadata": "shard_0_target_009.json",
+    "processing": "Annotation-centered crop only; no color correction, retouching or generated imagery."
+  },
+  {
+    "panel": "F",
+    "category": "Cicatricosisporites sp.",
+    "record_id": "D3408_1_R_2024_02_20_19_10_35_Texas::record_411",
+    "slide": "D3408_1_R_2024_02_20_19_10_35_Texas",
+    "image_file": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3408_1_R_2024_02_20_19_10_35_Texas.ndpi",
+    "original_title": "Cicatricosisporites sp.",
+    "representation": "focus stack; original pilot kernel 5",
+    "source_tile": "shard_0_target_018.png",
+    "source_tile_sha256": "e1286e5162e2387444a564f34351ae0007876bea149ac5293b27921931c30be2",
+    "crop_xyxy_in_tile": [
+      318,
+      319,
+      705,
+      706
+    ],
+    "source_metadata": "shard_0_target_018.json",
+    "processing": "Annotation-centered crop only; no color correction, retouching or generated imagery."
+  }
+]

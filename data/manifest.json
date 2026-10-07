@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-21",
+  "active_dataset": "Fall_2026",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6722cab24cd1e3c76bffd4e0f66ad3fb67e996cb65cfac01001242ab9a86f7bb"
+    },
+    {
+      "path": "archive/2026-09-17_exact_matches/annotation_records.csv",
+      "sha256": "a4f99c9d10a235ad683c40afe0e1c6dc6f11b665a08a92b44a582c7edc79803e"
+    },
+    {
+      "path": "archive/2026-09-17_exact_matches/category_by_slide.csv",
+      "sha256": "00b1a614b9d194f9cc91ba04f5eddcdf2a830e968ee3499367126b09efffbe97"
+    },
+    {
+      "path": "archive/2026-09-17_exact_matches/category_summary.csv",
+      "sha256": "89821731b3e058cafbcb8685bda66b2eb9020be570ed3c85991df71bdaab9458"
+    },
+    {
+      "path": "archive/2026-09-17_exact_matches/labels_by_slide.csv",
+      "sha256": "05cedd90e79cfc27af831f48662c76c39c076aa3c90962311670698f580eac59"
+    },
+    {
+      "path": "archive/2026-09-17_exact_matches/slides.csv",
+      "sha256": "31c2a0ee9f004cf56203ca72b35a3c3c8f2d9b8b4435cfca8d369213d6c93e12"
+    },
+    {
+      "path": "archive/2026-09-17_formatting_matches/annotation_records.csv",
+      "sha256": "e9a023a8edb35debd58bfc71669a7333fd2d6a76c130f815d65f7890aea54acc"
+    },
+    {
+      "path": "archive/2026-09-17_formatting_matches/category_by_slide.csv",
+      "sha256": "ca1c663b563804ac84ec732f72cc44cdf2b7ea90721aaa2d57b41b621c2b08e8"
+    },
+    {
+      "path": "archive/2026-09-17_formatting_matches/category_summary.csv",
+      "sha256": "46f987942f8b7714cfaa63eecc9086cc7f729fe9f631b42e5d4199223b1e80e5"
+    },
+    {
+      "path": "archive/2026-09-17_formatting_matches/labels_by_slide.csv",
+      "sha256": "0afe13e4062f474d2ee6e7426a01df89b0be4278f51f5d9b5a3a4ee91f62f890"
+    },
+    {
+      "path": "archive/2026-09-17_formatting_matches/slides.csv",
+      "sha256": "86b39f32254e723360aa56fc3ff567d26eaa69a85f085ade691a3297db76c8a0"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/README.md",
+      "sha256": "cdc80b02e2b686c69454fd8bcd74f9304f5a4adf909b25da129c0c75690dffb9"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/annotation_records.csv",
+      "sha256": "9e459fa2ab6482a408d0cdfd2dfe2d6a3089202527da0b3abf3c8a355ef1b26a"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/category_by_slide.csv",
+      "sha256": "b24b9147b0bed901db9ca4e8e45756a74b288a831d574ee8c8df2a5dbbc6091f"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/category_summary.csv",
+      "sha256": "ff6ffc55bce02710cc0f4db2bb37218e237a8667a2b7334396fe2f110c9da371"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/classification_annotations.csv",
+      "sha256": "cf73167a740c54cd698437b5b2e9d4be33eeaf86f927e2c441c1b1737d964f69"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/formatting_matches.csv",
+      "sha256": "e1554d4da8639befbd7b5c691b044997c91e93a43e5f0bb5f7265ac017f24bd1"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/labels_by_slide.csv",
+      "sha256": "9d60117941c2e894cd40c9cf95fe4dfc4d6eeb10da554733a8661d99a587515c"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/provisional_aliases.json",
+      "sha256": "c225c3ac8a42c79a05caa5c229768eb7717f8eaff50eff73e6cca2d9bb9a40cb"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/provisional_matches.csv",
+      "sha256": "c4584c5795868838c1b7cf079687cf315cd01c786879c527da96025a41d6d24b"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/slide_annotation_records.json",
+      "sha256": "cbf4260641494bb6bb686f936969ff14bf474a9e909807482baea1219ca2856b"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/slides.csv",
+      "sha256": "97c098f6298490c1c3dd0afbf20bc29fca5ce2e30cb76b8404ed78596c9899a1"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/unmatched_annotations.csv",
+      "sha256": "c0cd4b2fdf43b061b1bbbd9e85d18a5361101b0cb17bca71212e0ccafe239252"
+    },
+    {
+      "path": "archive/2026-09-17_provisional_working_snapshot/unmatched_connection_review.csv",
+      "sha256": "c8132af6bbbf427de6eaf7ccc48324414efc684a11e6a30c5bba861ba108fe32"
+    },
+    {
+      "path": "archive/README.md",
+      "sha256": "276627a5dbbb5469548ab0892bce5681a6b949f8d2269199e22167b7add15146"
+    },
+    {
+      "path": "current/README.md",
+      "sha256": "13bd6095af457b0c4fcf67b17a1ee8ed65779dceead691e79d7ad94d2ac6b8ff"
+    },
+    {
+      "path": "current/annotation_geometry.json",
+      "sha256": "0d17e41aeb199617e65537b16e255baba0c86c2cf8bf1e98ba15e4debf75a104"
+    },
+    {
+      "path": "current/annotation_records.csv",
+      "sha256": "c73af60cdd3118c2879e01bcca0ae93a54841b1c59c07ed0f7fbce577a992863"
+    },
+    {
+      "path": "current/audit_manifest.json",
+      "sha256": "ed919814e14c5ee1039ba2b2b78ee6fd4f3444a9a232f6e0d669baaa3b601188"
+    },
+    {
+      "path": "current/category_by_slide.csv",
+      "sha256": "1d61ed39453711a2994f6a36fa05a72234e64858f8e4646064eab729ad3346d5"
+    },
+    {
+      "path": "current/category_summary.csv",
+      "sha256": "9d5924c11e722333cd11468b37eac8519c59760922308a42ebe5f94072a742e9"
+    },
+    {
+      "path": "current/classification_annotations.csv",
+      "sha256": "bd900ca554c2072d0dacbc65bd158ccc50d0ca5640948442e211e41c029f41a3"
+    },
+    {
+      "path": "current/cluster_source_paths.csv",
+      "sha256": "979ac7d84dd6a8b116612cccdffd5cb93467317c84902d51a7738bef4a2847af"
+    },
+    {
+      "path": "current/cluster_verification.json",
+      "sha256": "caace698e86456a50877f224ca5c0b4c8ef758264c1153a23b827f061188c0f5"
+    },
+    {
+      "path": "current/formatting_matches.csv",
+      "sha256": "4bff9374d3adde5f72ca43bc618c8a766cbe9f6764f9155333abd6e4dbcb3948"
+    },
+    {
+      "path": "current/labels_by_slide.csv",
+      "sha256": "53f578bcda385d31b9c1d0a64ffa499a771183c46cd8741f6458c3bbce5faf3e"
+    },
+    {
+      "path": "current/nots_image_inventory.json",
+      "sha256": "7f6fd2f42a29169710c419f555de3f13fcda58e6f7f2cb4785a96b76496d2752"
+    },
+    {
+      "path": "current/slides.csv",
+      "sha256": "14995b1d69b401f1ce3ad50dbcec48b888f0e22c9f5a8694bf8957d634141a94"
+    },
+    {
+      "path": "current/title_reconciliation.csv",
+      "sha256": "37081040725553bf8aa49043f5151b5dd3159d7c28eebcbf6252ec1e06ccc26b"
+    }
+  ]
+}

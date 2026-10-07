@@ -1,0 +1,10 @@
+{
+  "source": "https://mirrors.ctan.org/macros/latex/contrib/IEEEtran.zip",
+  "resolved": "https://mirrors.ibiblio.org/pub/mirrors/CTAN/macros/latex/contrib/IEEEtran.zip",
+  "download_date": "2026-09-27",
+  "archive_sha256": "e0cd4f5afbd42c8076092280e72b3e0a5111efe501d35de9f715cfb8da313cb4",
+  "files": {
+    "IEEEtran.cls": "da751920a317ed318b7b5cd7fa585a6cc7d28502d457856382e9be24b10a3bd7",
+    "IEEEtran.bst": "314f0ece704568faf827011bac498650691b2b5ee06320720830e782416d5a5f"
+  }
+}

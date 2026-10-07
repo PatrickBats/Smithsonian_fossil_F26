@@ -1,0 +1,51 @@
+{
+  "downloaded_at": "2026-09-24T18:10:32.481366+00:00",
+  "code_repository": "https://github.com/RiceD2KLab/Smithsonian_fossil_Sp26",
+  "code_commit": "1b62b68a0d95178e6275ef55c38ee4765317b334",
+  "files": [
+    {
+      "filename": "rfdetr(2xl)_best_plane.pth",
+      "size_bytes": 1515934018,
+      "sha256": "3bec840a984efc5b56471f1a4c3222e445661dda61ef69ea18a38cff1978a246",
+      "box_file_id": "2218759494343",
+      "source_shared_url": "https://rice.app.box.com/s/tspzty026aheeoj4z8fr399fs8iwegzu",
+      "zip_crc_verified": true,
+      "model_loaded": false
+    },
+    {
+      "filename": "rfdetr(2xl)_focus_stack.pth",
+      "size_bytes": 1515934018,
+      "sha256": "56600f7efa3af76d158a3608236b5939cd0341618d06bde3750e7a61b84b8875",
+      "box_file_id": "2218756590730",
+      "source_shared_url": "https://rice.app.box.com/s/tspzty026aheeoj4z8fr399fs8iwegzu",
+      "zip_crc_verified": true,
+      "model_loaded": false
+    },
+    {
+      "filename": "yolo26(L)_focus_stack.pt",
+      "size_bytes": 53056677,
+      "sha256": "0205b947f0d4eeac20fa0513a06346323f4c38227d2668a9f244274d8d150dd5",
+      "box_file_id": "2218758119577",
+      "source_shared_url": "https://rice.app.box.com/s/tspzty026aheeoj4z8fr399fs8iwegzu",
+      "zip_crc_verified": true,
+      "model_loaded": false
+    },
+    {
+      "filename": "yolo26(L)_best_plane.pt",
+      "size_bytes": 53057701,
+      "sha256": "01c11227df2ba1d0a35f0f12c800e8c24665d3b8a5f8292e31329fc37ecf86ac",
+      "box_file_id": "2218755735826",
+      "source_shared_url": "https://rice.app.box.com/s/tspzty026aheeoj4z8fr399fs8iwegzu",
+      "zip_crc_verified": true,
+      "model_loaded": false
+    }
+  ],
+  "total_bytes": 3137982414,
+  "notes": "All files from the shared folder downloaded. Sizes match Box metadata; SHA-256 recorded locally and ZIP CRCs validated without loading or executing checkpoint contents. Runtime compatibility remains untested.",
+  "source_bundle": {
+    "filename": "spring2026_source.bundle",
+    "size_bytes": 166759862,
+    "sha256": "dbd8c86547e171cf92a81498efc8c6860367006f739a7e44868667c56bd0770a",
+    "git_bundle_verified": true
+  }
+}

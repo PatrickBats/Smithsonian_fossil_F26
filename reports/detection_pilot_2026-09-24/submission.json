@@ -1,0 +1,7 @@
+{
+  "initial_submission_failure": "NOTS rejected missing time limit; commons DefaultTime=0 and MaxTime=24 hours. Resubmitted at scheduler maximum, not an agent compute budget.",
+  "retry_command": "cd /projects/dsci435/Smithsonian_F26/runs/detection_pilot_20260924T183555Z && sbatch --time=1-00:00:00 --parsable job.slurm",
+  "stdout": "1612309\n",
+  "stderr": "",
+  "returncode": 0
+}
