@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "pages": 15,
+  "checks": [
+    "LaTeX compilation and bibliography resolved without warnings",
+    "All pages rendered and visually reviewed; final category figure inspected at larger scale",
+    "No empty pages, unresolved references, or text outside page bounds",
+    "Inventory, category/slide counts and pilot outputs checked against source records",
+    "Source hashes unchanged",
+    "New Python syntax and Markdown links checked",
+    "Repository source integrity / links / syntax check and git diff --check passed"
+  ],
+  "runtime": {
+    "python_for_pdf_checks": "3.13.11",
+    "pdf_renderer": "1.27.1",
+    "tex": "pdfTeX 3.141592653-2.6-1.40.29 (TeX Live 2026)"
+  },
+  "pdf_sha256": "6d20fc2e92bbba82689170c60c36e86846f96618a9fdfd80f231b2beee1aecfa"
+}

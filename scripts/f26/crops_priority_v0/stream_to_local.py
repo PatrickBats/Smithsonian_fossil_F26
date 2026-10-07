@@ -27,6 +27,8 @@ FINAL = HERE / "local_images"
 REMOTE_ROOT = os.environ.get(
     "F26_REMOTE_ROOT", "/projects/dsci435/Smithsonian_F26/crops/priority_v0"
 )
+# The default above is a historical read-only input for the completed local
+# transfer. It is not an approved destination for any new dataset output.
 REMOTE_PYTHON = os.environ.get(
     "F26_REMOTE_PYTHON", "/projects/dsci435/smithsonian_sp26/conda-env/bin/python"
 )

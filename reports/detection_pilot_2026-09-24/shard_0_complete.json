@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "focus_stack": {
+      "targets": 32,
+      "found_conf_050": 26,
+      "found_conf_025": 31
+    },
+    "best_plane": {
+      "targets": 32,
+      "found_conf_050": 27,
+      "found_conf_025": 28
+    }
+  },
+  "elapsed_seconds": 426.63361978530884,
+  "gpu_peak_allocated_bytes": 487036416
+}

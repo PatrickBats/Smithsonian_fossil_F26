@@ -4,10 +4,11 @@ import collections
 import csv
 import hashlib
 import json
+import os
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(os.environ.get("F26_SPLIT_ROOT", Path(__file__).resolve().parent))
 
 
 def read_csv(path):

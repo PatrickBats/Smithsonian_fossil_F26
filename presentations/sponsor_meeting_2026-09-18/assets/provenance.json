@@ -1,0 +1,91 @@
+[
+  {
+    "image": "alaska_boxes.png",
+    "sha256": "78b96c4ef3f72c6c2ec7b689ab148bf2e85c92ae1f1c37235378422d87820b31",
+    "source_h5": "/rhf/allocations/dsci435/smithsonian_full_sp26/processed/tiles/C_418058_W_Nassichuk_R_2025_01_21_14_59_16_Alaska.h5",
+    "tile": "tile_63624_42509",
+    "representation": "existing Spring 2026 focus_stacked dataset",
+    "boxes_xywh_tile_pixels": [
+      [
+        111.0,
+        385.0,
+        107.0,
+        107.0
+      ],
+      [
+        601.0,
+        785.0,
+        130.0,
+        130.0
+      ],
+      [
+        301.0,
+        808.0,
+        111.0,
+        111.0
+      ],
+      [
+        293.0,
+        659.0,
+        99.0,
+        99.0
+      ]
+    ],
+    "legacy_numeric_labels": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "source_ndpa": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418058_W_Nassichuk_R_2025_01_21_14_59_16_Alaska.ndpi.ndpa",
+    "ndpa_sha256": "53624eb56ea1b6a5ddd8ee7dfa48a559634c142264ec89993f6e9e6e0ff232a5",
+    "annotation_matches": [
+      {
+        "annotation_id": "2",
+        "title": "pol",
+        "xywh": [
+          110.87061599999663,
+          384.56366600000155,
+          107.349876,
+          107.3474192
+        ],
+        "max_coordinate_difference_pixels": 0.43633399999845324
+      },
+      {
+        "annotation_id": "16",
+        "title": "pol",
+        "xywh": [
+          600.7483695000019,
+          785.4517466000005,
+          130.18488299999999,
+          130.1819036
+        ],
+        "max_coordinate_difference_pixels": 0.451746600000547
+      },
+      {
+        "annotation_id": "17",
+        "title": "pol",
+        "xywh": [
+          301.01814749999863,
+          808.1551490000028,
+          111.256209,
+          111.2536628
+        ],
+        "max_coordinate_difference_pixels": 0.25620899999999835
+      },
+      {
+        "annotation_id": "18",
+        "title": "pol",
+        "xywh": [
+          292.6024904999997,
+          658.7129302000016,
+          98.951697,
+          98.9494324
+        ],
+        "max_coordinate_difference_pixels": 0.3975095000002966
+      }
+    ],
+    "validation": "Each HDF5 xywh box agrees with its nearest original NDPA circle bounding rectangle within 2 pixels in all four coordinates; physical coordinates transformed using TIFF resolution and slide-center offsets.",
+    "display": "Original 1024x1024 tile with cyan boxes and numbered labels, 52-pixel heading, then downscaled to 900 pixels wide."
+  }
+]

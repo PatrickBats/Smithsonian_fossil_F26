@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "pages": 10,
+  "revision": "Full-width conceptual architecture figures and six authentic specimen examples",
+  "checks": [
+    "Final LaTeX log has no undefined references or overfull boxes",
+    "Specimen and architecture pages visually reviewed at report size",
+    "All pages contain text; all six specimen tile hashes verified",
+    "Previous report, source, and validation preserved in revisions/04-before-visual-refresh"
+  ],
+  "pdf_sha256": "c3d773fc9f2ed69943e069a3b019822500a2a4ec62bcfef47c010f20d463e2e6",
+  "specimen_provenance": "figures/specimen_manifest.json",
+  "note": "No new model experiment; schematic output marks are not measured predictions."
+}

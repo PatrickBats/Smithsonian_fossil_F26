@@ -1,0 +1,539 @@
+{
+  "interpretation": "Known-positive, annotation-centered diagnostic; not precision, AP, or independent generalization.",
+  "representations": {
+    "focus_stack": {
+      "overall": {
+        "targets": 64,
+        "recovered_conf_050": 51,
+        "recovered_conf_025": 59,
+        "recovery_fraction": 0.796875
+      },
+      "center_inside_roi": {
+        "False": {
+          "targets": 32,
+          "recovered_conf_050": 26,
+          "recovered_conf_025": 31,
+          "recovery_fraction": 0.8125
+        },
+        "True": {
+          "targets": 32,
+          "recovered_conf_050": 25,
+          "recovered_conf_025": 28,
+          "recovery_fraction": 0.78125
+        }
+      },
+      "box_inside_roi": {
+        "False": {
+          "targets": 32,
+          "recovered_conf_050": 26,
+          "recovered_conf_025": 31,
+          "recovery_fraction": 0.8125
+        },
+        "True": {
+          "targets": 32,
+          "recovered_conf_050": 25,
+          "recovered_conf_025": 28,
+          "recovery_fraction": 0.78125
+        }
+      },
+      "category": {
+        "Alnipollenites verus": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.5
+        },
+        "Arecipites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Betulaceae": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Bisaccate": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Bombacacidites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Caryapollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Caryapollenites veripites": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Cicatricosisporites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 0,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.0
+        },
+        "Cupuliferoipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.5
+        },
+        "Ericipites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Illexpollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Inaperturopollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Laevigatosporites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.5
+        },
+        "Momipites flexus": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Momipites sp": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Momipites ventifluminis": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Momipites wyomingensis": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.5
+        },
+        "Monocolpites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Nudopollis sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Pistillipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Platycarya platycarioides": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Platycaryapollenites swasticoidus": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Polyatriopollenites type": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.5
+        },
+        "Psilatricolpites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Psilatriletes sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Quercus sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Retipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 0,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.0
+        },
+        "Rhoipites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Rousea sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Taxodium sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Tetracolporopollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Ulmipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        }
+      },
+      "historical_split": {
+        "test": {
+          "targets": 9,
+          "recovered_conf_050": 7,
+          "recovered_conf_025": 8,
+          "recovery_fraction": 0.7777777777777778
+        },
+        "train": {
+          "targets": 50,
+          "recovered_conf_050": 41,
+          "recovered_conf_025": 47,
+          "recovery_fraction": 0.82
+        },
+        "unresolved_exact_name": {
+          "targets": 5,
+          "recovered_conf_050": 3,
+          "recovered_conf_025": 4,
+          "recovery_fraction": 0.6
+        }
+      }
+    },
+    "best_plane": {
+      "overall": {
+        "targets": 64,
+        "recovered_conf_050": 54,
+        "recovered_conf_025": 57,
+        "recovery_fraction": 0.84375
+      },
+      "center_inside_roi": {
+        "False": {
+          "targets": 32,
+          "recovered_conf_050": 27,
+          "recovered_conf_025": 28,
+          "recovery_fraction": 0.84375
+        },
+        "True": {
+          "targets": 32,
+          "recovered_conf_050": 27,
+          "recovered_conf_025": 29,
+          "recovery_fraction": 0.84375
+        }
+      },
+      "box_inside_roi": {
+        "False": {
+          "targets": 32,
+          "recovered_conf_050": 27,
+          "recovered_conf_025": 28,
+          "recovery_fraction": 0.84375
+        },
+        "True": {
+          "targets": 32,
+          "recovered_conf_050": 27,
+          "recovered_conf_025": 29,
+          "recovery_fraction": 0.84375
+        }
+      },
+      "category": {
+        "Alnipollenites verus": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Arecipites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Betulaceae": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Bisaccate": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Bombacacidites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.5
+        },
+        "Caryapollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Caryapollenites veripites": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Cicatricosisporites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 0.5
+        },
+        "Cupuliferoipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Ericipites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Illexpollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 0,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.0
+        },
+        "Inaperturopollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Laevigatosporites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Momipites flexus": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Momipites sp": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Momipites ventifluminis": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Momipites wyomingensis": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Monocolpites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Nudopollis sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Pistillipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Platycarya platycarioides": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Platycaryapollenites swasticoidus": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Polyatriopollenites type": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Psilatricolpites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Psilatriletes sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Quercus sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Retipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 1,
+          "recovered_conf_025": 1,
+          "recovery_fraction": 0.5
+        },
+        "Rhoipites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Rousea sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Taxodium sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Tetracolporopollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        },
+        "Ulmipollenites sp.": {
+          "targets": 2,
+          "recovered_conf_050": 2,
+          "recovered_conf_025": 2,
+          "recovery_fraction": 1.0
+        }
+      },
+      "historical_split": {
+        "test": {
+          "targets": 9,
+          "recovered_conf_050": 8,
+          "recovered_conf_025": 8,
+          "recovery_fraction": 0.8888888888888888
+        },
+        "train": {
+          "targets": 50,
+          "recovered_conf_050": 42,
+          "recovered_conf_025": 45,
+          "recovery_fraction": 0.84
+        },
+        "unresolved_exact_name": {
+          "targets": 5,
+          "recovered_conf_050": 4,
+          "recovered_conf_025": 4,
+          "recovery_fraction": 0.8
+        }
+      }
+    }
+  },
+  "shard_completion": [
+    {
+      "summary": {
+        "focus_stack": {
+          "targets": 32,
+          "found_conf_050": 26,
+          "found_conf_025": 31
+        },
+        "best_plane": {
+          "targets": 32,
+          "found_conf_050": 27,
+          "found_conf_025": 28
+        }
+      },
+      "elapsed_seconds": 426.63361978530884,
+      "gpu_peak_allocated_bytes": 487036416
+    },
+    {
+      "summary": {
+        "focus_stack": {
+          "targets": 32,
+          "found_conf_050": 25,
+          "found_conf_025": 28
+        },
+        "best_plane": {
+          "targets": 32,
+          "found_conf_050": 27,
+          "found_conf_025": 29
+        }
+      },
+      "elapsed_seconds": 431.8299593925476,
+      "gpu_peak_allocated_bytes": 487036416
+    }
+  ]
+}

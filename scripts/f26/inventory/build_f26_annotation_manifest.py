@@ -36,6 +36,8 @@ def main():
     parser.add_argument("--category-totals", type=Path, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
     args = parser.parse_args()
+    if args.output_dir.resolve(strict=False).is_relative_to(Path("/projects")):
+        parser.error("Dataset manifests belong under RHF, not /projects")
 
     with args.file_manifest.open(newline="", encoding="utf-8") as file:
         file_rows = {row["annotation_filename"]: row for row in csv.DictReader(file)}

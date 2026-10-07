@@ -1,0 +1,107 @@
+and say, oh, you know, it's got a bad crop on this.
+And so, of course, it did a bad job of identifying it as well.
+And I just wanted to make sure that that option is available for A as well,
+so that you could see when the problem was that it's having trouble distinguishing classes
+as opposed to when the problem is that it just isn't looking at the right object.
+um okay so you're saying like the problem with the classification if we in the first situation
+is that like the bounding box might not be on the right like part and then like maybe it's like a
+not great bounding box part of it's a cut out potentially something like that so is that right
+yeah yeah yeah so so essentially you know in one we we always imagine this as oh it's looking at
+the pollen grains and can it tell species a from species b but it might actually not be looking at
+the pollen grain or it might be looking at a pollen grain that's uh partly obscured or you know there
+could be a bunch of things going on there and i just think it would it's going to be very useful
+to be able to tell those apart because you know what you because you're trying to figure out where
+the problem is with the mistakes that it does make and okay yeah that makes sense i think that's
+something we'll figure out like as we're training it you know like well if we don't see a great
+result initially we'll try to look more into what's going on so yeah yeah we'll definitely
+keep that in mind though it's definitely like a very possible failure mode just across
+like every every part of the training so
+did you guys uh i think i emailed you guys the initial report i was curious yes okay great
+that's very very impressive there's a lot there uh-huh it we feel like a good foundation it'll
+be way easier to implement like the midterm report i think i think you're right i i've
+Only I read through the first couple of pages and then I had to read more quickly because I was running out of time.
+But.
+Yeah, I read it through, not in detail, but I was thinking maybe through this week, read it more like next week.
+Slowly and if there is any comments, then I will send an email.
+But it looked good.
+Yeah, so I think the only question I have is, so from these two models, one just does
+the identifications directly in the image with the background and everything and the
+other crops then identify, right?
+Okay.
+Yeah, I don't have major things to say there.
+Yeah, because it's, yeah, both ways.
+For me, both ways work.
+But I know for final museum purpose, the second option,
+the crop part is important, the crop image.
+Yeah, there's that's a practical thing from the view of storing images. But that's, but in terms of, yeah, what's, yeah, I guess what one way of putting my earlier question is looking at your table to in the in the, in the document you sent.
+you discuss the possible failure points.
+And under model one, it's, yeah, it's all the way.
+That's table one, and I'm looking for table two toward the end.
+Yeah, there we are.
+So this likely failure. So I guess what I'm saying there is that under like, yeah, is the confusion among rare or similar categories could be a problem for model one.
+But without knowing what it's looking at, it actually could have the same problem that's in Model 2, which is that it's got a, basically it's got a, may not be a poor crop, it might just be a poor image or a partially obscured image.
+and there's, or it may have misaligned
+the part that it's looking at in some way that we don't.
+So it would look like a failure of classification,
+but it's kind of a failure of detection or attempt.
+Like it's just not looking at the right part of the image, right?
+So I think it's important to be aware of that.
+And maybe I'm wrong.
+But will not be that be also a problem in the second model?
+Yeah, where you do the crop a priori.
+I think the advantage in the first model is if it's currently partially,
+the bounding box is taking only part of the grain,
+the second one no right because it's already cropped i think that could be right but is it
+possible that in the first one it's actually kind of doing something like what's going on in the
+second one in that it it's but it's not since it's not cropping you don't know that it's doing it i
+guess that you see do you see what i mean it's like if there's um in the second one if it uh if
+it cropped and it cropped it right through the middle of a pollen grain, then you would
+know right away, okay, it's only looking at half the grain.
+So that's a problem that's going to create some misidentifications.
+In the first one, all you have is the slide.
+And if you don't think about...
+No, because it will have the bounding boxes.
+So we will be able to see the bounding box.
+of each brain that identified.
+That's what I understood, right?
+So if it's the bounding box, then yeah, no bounding box,
+it will be impossible to know which brain is classifying.
+Yeah, I think it should constrain the classification
+to inside the bounding box.
+So we would know based on the bounding boxes orientation
+is what I would have been.
+You know, and I think this question probably came to Scott and my mind too, is because in the detection model, we noticed that many of the grains that it detects, it sometimes puts two bounding boxes, like dividing the same grain or only part of the grain.
+So if there is a way to reduce that type of error in the classification, I think that will be better.
+But we really don't know why for the detection model it was doing that.
+And I know the students last semester improved that problem, like that error reduced dramatically.
+because it's a different question in that one was identify anything that could be a polynomorph
+and many many of the examples were broken pollen types or broken polynomorph meanwhile in this one
+most of the training said is with complete is our complete grains maybe the basicates are not much
+But the other one is the complete grade just in different positions.
+So maybe we will see that problem less.
+Yeah, some of the problems that we saw when the model last semester was applied really didn't seem like, well, there were some that were where the grain had not been identified as a grain.
+So the model was actually correct and the human classifier was not correct.
+And then there were others where it was not very well in focus or when it was applied to new slides, there were problems that it really was actually not the model's fault that it couldn't do that.
+that um so
+we just should be aware that that's that those are problems
+yeah yeah sounds good i when we start when we start training i'm sure we'll run into these like
+errors and we'll start figuring out ways around them how to fix them
+well i think if there are like no further questions then maybe we just call it yeah if
+fully you know just shoot us an email yeah we can answer them before friday great well i'm it's very
+it's a very uh yeah once again i'm very impressed by the report thank you
+thank you everyone yeah thanks very much okay bye-bye
+Bye.
+Patrick,
+I'm actually concerned.
+Are you recording the video?
+Yeah, I recorded it.
+Okay, can you send me the...
+Yeah, I should inscribe them all and put them in the repo.
+So if you want to just, whenever, like all the meetings,
+like they're in the repo.
+For today, it's good because I'm going to take the notes for today.
+Oh, yeah, yeah, sure, sure.
+And I'll probably upload that this weekend.
+Okay, cool.
+Thank you.
+Sounds good.

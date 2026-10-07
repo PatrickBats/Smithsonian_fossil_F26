@@ -22,6 +22,8 @@ def main():
     parser.add_argument("--source", type=Path, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
     args = parser.parse_args()
+    if args.output_dir.resolve(strict=False).is_relative_to(Path("/projects")):
+        parser.error("Dataset manifests belong under RHF, not /projects")
     with args.source.open(newline="", encoding="utf-8") as file:
         reader = csv.DictReader(file)
         source_fields = reader.fieldnames

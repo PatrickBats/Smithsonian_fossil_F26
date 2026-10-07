@@ -1,0 +1,4 @@
+build/
+previews/
+*.zip
+__pycache__/

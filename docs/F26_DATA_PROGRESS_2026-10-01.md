@@ -1,5 +1,11 @@
 # Fall 2026 priority data work: status on October 1, 2026
 
+## October 7 storage correction
+
+Yunfan relayed Dr. Barman's reply: **“projects is not for data storage, rhf is for data storage.”** This supersedes the October 1 interpretation below that derived crops and row-level split metadata were acceptable data outputs under `/projects/dsci435/Smithsonian_F26/`. The split bundle and 619 staged PNGs already there are **misplaced data pending verified cleanup**; the exact local split bundle and completed local 2D crop set are preserved. No corrected shared RHF copy exists. The last successful October 7 group-quota check reported `/rhf/allocations` at its 16,384 GB hard limit. Do not resume data export to `/projects`.
+
+Proposed organization after RHF capacity is available: `/rhf/allocations/dsci435/Smithsonian_F26/splits/priority_v0/` for row-level split manifests, `/rhf/allocations/dsci435/Smithsonian_F26/processed/priority_2d_v0/` for the verified single-plane crops, and a separate `processed/priority_multifocal_v0/` for future object stacks. These subdirectories are a **project proposal, not paths specified by Dr. Barman**; none has been created by this work. Do not overwrite the historical `smithsonian_full_sp26` tree. See [script safety notes](../scripts/f26/README.md).
+
 This is a dated update to the [September 14 pipeline plan](PIPELINE_PLAN.md), which remains a record of what was known then. The work below used sponsor-provided `Fall_2026.zip`, read-only checks of NOTS source files, and local validation scripts. It concerns **priority (`YES`) pollen classification only**. No model training or augmentation has started, and no whole-slide detection ground truth is claimed.
 
 ## Source and annotation audit
@@ -30,11 +36,11 @@ The first NOTS export stopped at 619 staged PNGs after `Disk quota exceeded`; al
 
 ## NOTS storage blocker and handling
 
-Professor Barman's instructions put the complete persistent dataset under `/rhf/allocations/dsci435/`, ask the team to consult him before placing other material there, and put experimental outputs under `/projects/dsci435/Smithsonian_F26/`. They identify `/rhf/allocations/dsci435/smithsonian_full_sp26/annotations_F26/` for the supplied F26 annotations. They do **not** designate a separate F26 NDPI image folder or a derived multifocal-output subdirectory. Do not overwrite historical NDPI/NDPA files.
+As understood on October 1 from Barman's earlier emails, the complete persistent dataset belonged under `/rhf/allocations/dsci435/`, with consultation before other uses, while experimental outputs belonged under `/projects/dsci435/Smithsonian_F26/`. The October 7 clarification above resolves the placement of datasets in favor of RHF. The earlier emails identify `/rhf/allocations/dsci435/smithsonian_full_sp26/annotations_F26/` for supplied F26 annotations but do **not** designate a separate F26 NDPI folder or derived multifocal subdirectory. Do not overwrite historical NDPI/NDPA files.
 
-On October 1, the shared `dsci435` group quota check reported `/projects` at **100,000 MB used / 100,000 MB limit** and `/rhf/allocations` at **16,384 GB used / 16,384 GB hard limit**. The filesystem's overall free capacity does not remove these group limits. Thus the complete multifocal output has **not** been written to either NOTS storage area. Existing split metadata and partial 2D staging are experiment outputs in the professor-designated `/projects/dsci435/Smithsonian_F26/` tree; no previously created file was identified as misplaced or deleted. The original source NDPI/NDPA and all other NOTS directories were left untouched.
+On October 1, the shared `dsci435` group quota check reported `/projects` at **100,000 MB used / 100,000 MB limit** and `/rhf/allocations` at **16,384 GB used / 16,384 GB hard limit**. The filesystem's overall free capacity does not remove these group limits. Thus the complete multifocal output has **not** been written to either NOTS storage area. At that time, the split metadata and partial 2D staging under `/projects/dsci435/Smithsonian_F26/` were mistakenly treated as permitted experiment data; Barman's later clarification above corrects this. They have not yet been removed. The original source NDPI/NDPA and all other NOTS directories were left untouched.
 
-**Before a shared multifocal export:** resolve the crop-versus-full-frame scope, restore group storage capacity, and confirm the destination with Professor Barman if new material is to enter the persistent allocation. Keep the split draft and its rare-class evaluation limitations under review. Do not treat the three pilots, the 25-slide diagnostic, or the local 2D baseline as completion of that export.
+**Before a shared multifocal export:** resolve the crop-versus-full-frame scope, restore RHF group storage capacity, and use a separate project-specific path that preserves historical files. Keep the split draft and its rare-class evaluation limitations under review. Do not treat the three pilots, the 25-slide diagnostic, or the local 2D baseline as completion of that export.
 
 ## Reproduction and provenance
 

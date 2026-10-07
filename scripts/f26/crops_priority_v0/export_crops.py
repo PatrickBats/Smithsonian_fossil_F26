@@ -1,7 +1,8 @@
-"""Read-only F26 NDPI crop export into a new NOTS experiment-output directory.
+"""Read-only F26 NDPI crop export into a new RHF data directory.
 
 Run on NOTS with /projects/dsci435/smithsonian_sp26/conda-env/bin/python -B.
-Only the explicit OUTPUT_ROOT tree is writable; source NDPI/NDPA paths are read.
+Only an explicit new RHF F26 processed-data root may be written. Historical
+/projects inputs remain readable for provenance, but export there is refused.
 """
 
 import argparse
@@ -17,7 +18,8 @@ import openslide
 from PIL import Image, ImageDraw, ImageStat
 
 
-OUTPUT_ROOT = Path("/projects/dsci435/Smithsonian_F26/crops/priority_v0")
+LEGACY_ROOT = Path("/projects/dsci435/Smithsonian_F26/crops/priority_v0")
+OUTPUT_ROOT = Path(os.environ.get("F26_CROP_ROOT", str(LEGACY_ROOT)))
 SPLIT_MANIFEST = OUTPUT_ROOT / "inputs" / "record_assignments.csv"
 SOURCE_LEVEL = 0
 CONTEXT_FACTOR = 1.35
@@ -25,6 +27,18 @@ MIN_SIDE_PX = 256
 SIDE_MULTIPLE = 16
 EXPECTED_RECORDS = 2283
 EXPECTED_SPLIT_COUNTS = {"train": 1605, "val": 347, "test": 331}
+
+
+def require_rhf_data_output():
+    """Fail closed until a separate new processed-data root is selected."""
+    allowed_parent = Path("/rhf/allocations/dsci435/Smithsonian_F26/processed")
+    root = OUTPUT_ROOT.resolve(strict=False)
+    parent = allowed_parent.resolve(strict=False)
+    if root == parent or not root.is_relative_to(parent):
+        raise RuntimeError(
+            "Dataset output must use a new child of " + str(allowed_parent)
+            + "; set F26_CROP_ROOT after RHF capacity and layout are confirmed"
+        )
 
 
 def sha256_file(path):
@@ -178,6 +192,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=("pilot", "full"), required=True)
     args = parser.parse_args()
+    require_rhf_data_output()
     if not OUTPUT_ROOT.is_dir() or OUTPUT_ROOT.is_symlink():
         raise ValueError("Expected new, real output root directory is missing")
     os.umask(0o002)

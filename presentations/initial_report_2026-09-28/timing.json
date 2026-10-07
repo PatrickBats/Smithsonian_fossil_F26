@@ -1,0 +1,77 @@
+{
+  "slides": 10,
+  "target_seconds": 260,
+  "spoken_words": 542,
+  "slides_timing": [
+    {
+      "slide": 1,
+      "title": "Project and objective",
+      "seconds": 20,
+      "script": "Our project asks whether fossil specimens are better located and identified by one joint model, or by a detector followed by a separate classifier. We are building on existing Smithsonian and Rice work to support expert review of fossil pollen and other palynomorphs.",
+      "source": "Report pp. 3\u20134, objectives. Palynomorphs include pollen and spores. Image: expert-labeled Bombacacidites focus-stacked crop."
+    },
+    {
+      "slide": 2,
+      "title": "Motivation and scale",
+      "seconds": 25,
+      "script": "Fossil pollen provides evidence about past vegetation and warm climates around fifty million years ago. The report describes a broader Smithsonian collection of roughly seventy thousand slides, far larger than our working dataset. Locating and identifying specimens manually is time-consuming. Automation could help scientists review more material while retaining access to the original images.",
+      "source": "Report p. 3, Introduction; collection estimate attributed there to Romero et al., report reference [2]. This collection estimate is distinct from the 83-slide working dataset."
+    },
+    {
+      "slide": 3,
+      "title": "Why recognition is difficult",
+      "seconds": 25,
+      "script": "Identification depends on features such as shape, apertures, and surface structure. Different structures may be sharp at different focal depths, while staining and surrounding debris change the appearance. These real examples illustrate that variation. Focus stacking produces a usable two-dimensional image, but we must check whether it preserves the details needed for classification.",
+      "source": "Report pp. 3\u20135, multifocal imaging and data quality; p. 7 specimen examples. These are different specimens with different source field widths, not a focal-plane sequence or a controlled stain comparison."
+    },
+    {
+      "slide": 4,
+      "title": "Prior research and rationale",
+      "seconds": 30,
+      "script": "Prior work gives us two foundations. Shaikh and colleagues developed whole-slide detection with image tiling and focal compression. Studies by Punyasena and Martinsen provide precedents for detecting specimens and classifying crops separately. Those studies use different images and categories, so their results do not establish performance here. Our contribution is to compare joint and two-stage identification on the same fossil dataset.",
+      "source": "Report pp. 3\u20134, related work, references [4], [5], [7]. No claim that earlier studies used Swin or establish its superiority. Swin rationale: hierarchical local-window image features, report reference [9]."
+    },
+    {
+      "slide": 5,
+      "title": "Data and imbalance",
+      "seconds": 30,
+      "script": "The working dataset contains eighty-three annotated slides and eleven thousand two hundred seventy-five named annotations. Our initial target inventory uses two thousand two hundred ninety annotations across thirty-two candidate categories. Counts range from twenty-seven to three hundred sixteen per target category. We will assess both category frequency and independent slide coverage, and consider training-only balancing rather than changing the evaluation data.",
+      "source": "Report pp. 4\u20135, data inventory and imbalance. These are records before quality review, duplicate checking, regrouping and sampling. The two bars show the range on a common scale."
+    },
+    {
+      "slide": 6,
+      "title": "Shared pipeline",
+      "seconds": 25,
+      "script": "Both approaches share the same preparation and source groups. We will check annotation geometry, focus, and specimen quality, and keep related slides and all views of a specimen together when defining splits. Images are processed as overlapping, focus-stacked tiles. Every derived specimen retains its source coordinates and labels, so predictions can be traced back and inspected.",
+      "source": "Report p. 5, Pipeline. Source groups assigned before tiling, augmentation or balancing; split proportions and exact settings remain to be specified."
+    },
+    {
+      "slide": 7,
+      "title": "Multiclass RF-DETR",
+      "seconds": 25,
+      "script": "The first approach adapts RF-DETR to predict specimen locations and categories together. It processes image tiles, and overlapping predictions are merged in whole-slide coordinates. This gives a unified detection-and-identification model. The question is whether its joint objective can learn uncommon or visually similar categories well enough.",
+      "source": "Report pp. 6 and 8, Model 1. Architecture restored from report and recolored to match this deck. Model internals and output marks are conceptual, not measured predictions; thumbnails are real images."
+    },
+    {
+      "slide": 8,
+      "title": "RF-DETR plus Swin-Tiny",
+      "seconds": 25,
+      "script": "The second approach first uses RF-DETR to find specimens, then applies Swin-Tiny to their crops. This separates identification from localization and makes classifier errors easier to examine. However, missed detections or poor crops can reduce overall performance. Comparing expert-defined crops with detected crops will help identify that bottleneck.",
+      "source": "Report pp. 7\u20138, Model 2. Same source split and preprocessing; detector and classifier scores retained separately. Proposed model, not completed classifier training."
+    },
+    {
+      "slide": 9,
+      "title": "Evaluation and preliminary evidence",
+      "seconds": 35,
+      "script": "We will evaluate detection, classification, and the combined workflow on separate source groups, with per-category metrics so common categories do not dominate. Detection precision requires sufficiently complete annotations. As preliminary evidence, existing YOLO checkpoints recovered fifty-four and fifty-one of sixty-four known targets. These were centered crops with possible prior training exposure, so the results establish feasibility rather than independent generalization. The proposed RF-DETR and Swin comparison remains to be run.",
+      "source": "Report pp. 8\u20139. Pilot: best-plane 54/64; focus-stack 51/64, confidence and IoU each >=0.50. Different checkpoints mean preprocessing is not isolated. Macro-F1 averages category-level F1; balanced accuracy averages recall."
+    },
+    {
+      "slide": 10,
+      "title": "Next steps and deliverable",
+      "seconds": 20,
+      "script": "Next we will finalize categories, inspect crops, and freeze the evaluation protocol before training the baselines. The selected approach will support a simple interface linking specimen images and locations to proposed labels and uncertainty. The goal is useful scientific review, with clear evidence about where automated identification succeeds or fails.",
+      "source": "Report p. 10, next steps and limitations. No promise of a finalized grouping, trained classifier, or completed viewer."
+    }
+  ]
+}

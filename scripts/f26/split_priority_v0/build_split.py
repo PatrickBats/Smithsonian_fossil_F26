@@ -12,6 +12,7 @@ import csv
 import hashlib
 import json
 import math
+import os
 import re
 from pathlib import Path
 
@@ -21,7 +22,7 @@ from scipy.optimize import Bounds, LinearConstraint, milp
 from scipy.sparse import lil_matrix
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(os.environ.get("F26_SPLIT_ROOT", Path(__file__).resolve().parent))
 INPUT_CANDIDATES = ROOT / "inputs" / "f26_priority_candidates.csv"
 INPUT_EXCLUSIONS = ROOT / "inputs" / "f26_priority_exclusions.csv"
 SPLITS = ("train", "val", "test")
@@ -225,6 +226,8 @@ def solve(groups, categories, group_category_counts):
 
 
 def main():
+    if ROOT.resolve(strict=False).is_relative_to(Path("/projects")):
+        raise RuntimeError("Do not store row-level split data under /projects; set F26_SPLIT_ROOT to an RHF data path")
     candidate_fields, records = read_csv(INPUT_CANDIDATES)
     _, exclusions = read_csv(INPUT_EXCLUSIONS)
     if not candidate_fields or len(records) != 2283 or len(exclusions) != 7:

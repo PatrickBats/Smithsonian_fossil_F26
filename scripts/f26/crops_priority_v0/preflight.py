@@ -8,10 +8,11 @@ from pathlib import Path
 
 import openslide
 
-from export_crops import OUTPUT_ROOT, SPLIT_MANIFEST, geometry, read_manifest, sha256_file
+from export_crops import OUTPUT_ROOT, SPLIT_MANIFEST, geometry, read_manifest, require_rhf_data_output, sha256_file
 
 
 def main():
+    require_rhf_data_output()
     if not OUTPUT_ROOT.is_dir() or OUTPUT_ROOT.is_symlink():
         raise ValueError("Expected new output root directory is missing")
     report_path = OUTPUT_ROOT / "preflight_records.csv"

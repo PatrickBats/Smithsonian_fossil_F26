@@ -1,0 +1,75 @@
+{
+  "prepared": "2026-09-27",
+  "inputs": [
+    {
+      "original": "/home/pb52/.codex/attachments/940f111b-74c6-4a2b-b511-92dd3d32290b/Smithsonian.pdf",
+      "copy": "inputs/Smithsonian_original.pdf",
+      "sha256": "0ffd50f15660cfc910ded89ac6f2e58490b32024903466e0bbe9dff5fe2ec797"
+    },
+    {
+      "original": "/home/pb52/.codex/attachments/5af5e04d-c98f-4c04-a5e7-fd00b114bda3/Report Rubrics (1).pdf",
+      "copy": "inputs/Report_Rubrics_original.pdf",
+      "sha256": "1ec9ee74f8f032ea5ae9a2dcd1dbb0c5d970ff73cd16a84c10198bb1db23256c"
+    }
+  ],
+  "project_sources": [
+    {
+      "path": "docs/CURRENT_CONTEXT.md",
+      "sha256": "fb1428e9ed78ae28177cd8616a52d864c6dae575f8ea48cf58421cf4b878b85d"
+    },
+    {
+      "path": "docs/NEXT_STEPS.md",
+      "sha256": "e8448710ef0f10ae231f81cadd3949422c2157922cd4f2e1bfb0abc147d23aa2"
+    },
+    {
+      "path": "docs/PIPELINE_PLAN.md",
+      "sha256": "65ccbe89367a92b2936d89fadd3c12d8d339e4f14fc73f0638b004e5b4a606a9"
+    },
+    {
+      "path": "docs/DETECTION_PILOT.md",
+      "sha256": "43e5a3a29d934bb3a68e9d48bb5d5c4b13f941bb3d0b5f49805597cb71186378"
+    },
+    {
+      "path": "docs/sources/project/Fall_2026_D2K_Smithsonian_fossil.pdf",
+      "sha256": "475378fd1830461770bc5606ee2cfa484ac25fe5de03ba46a62668f9816ca54c"
+    },
+    {
+      "path": "docs/sources/course/DSCI 435_535 Fall 2026 Syllabus.pdf",
+      "sha256": "74fb6ce0cea54d16e3770f79a74f6b39498c372236c5c208a828dc49da44b1bf"
+    },
+    {
+      "path": "docs/sources/references/WACV_manuscript_for_Smithsonian_preprint.pdf",
+      "sha256": "801eee95934b373f18a25fcfe10474644c69f90a43c839e07a2f12df8e12e2be"
+    },
+    {
+      "path": "meeting transcriptions/2026-09-18_smithsonian_sponsor_meeting_summary.md",
+      "sha256": "8ba61736ee4bc702f173e777c1f09766d8954460ab350fb96b2e50dd4326ef8e"
+    },
+    {
+      "path": "reports/detection_pilot_2026-09-24/README.md",
+      "sha256": "42e0887470dd0b3742c80d3780aac5cb525ce1e2033dddb2494e648f6fc95ddf"
+    },
+    {
+      "path": "reports/initial_report/INTRO_BACKGROUND_DATA.md",
+      "sha256": "3fbb792c2faa5b705fd8fd2f118ff68fed544ad2956c07d385766df5dfaff912"
+    },
+    {
+      "path": "reports/initial_report/SECTION_NOTES.md",
+      "sha256": "ab595c59c4d1a9c5a39b00fc8d4c0bb5110cc5ba2b9f2645703f6e3875bc8164"
+    }
+  ],
+  "examples": [
+    {
+      "original": "/home/pb52/.codex/attachments/744494c8-5f80-4371-a750-45e90aa187fd/initial_redacted.pdf",
+      "sha256": "241d7a2007dccd05ecccf61fb3880416bb27c625a3736626074ba0b901535fda"
+    },
+    {
+      "original": "/home/pb52/.codex/attachments/7e65abf3-02f1-4239-915b-401e16190cfe/Flood_initial.pdf",
+      "sha256": "0e64ea09ee72c28875005155a98de5bea251ce88b60d952518555405e165b76e"
+    },
+    {
+      "original": "/home/pb52/.codex/attachments/76a59238-d252-4af3-afd6-f0bce993171b/initial.pdf",
+      "sha256": "b7e74bfabb74de92d0f4b8394a93e0a1c5a73143113ae3e6b13051662384e0b0"
+    }
+  ]
+}

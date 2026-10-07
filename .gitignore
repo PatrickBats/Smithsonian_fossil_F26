@@ -1,0 +1,6 @@
+# Generated Python files and large external training/data artifacts.
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ndpi

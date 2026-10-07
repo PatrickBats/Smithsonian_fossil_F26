@@ -1,0 +1,447 @@
+Meeting Transcript — 2026-09-18
+Source audio: audio1490545788.m4a
+
+[00:00:00] Can you hear us? Oh, if you gonna... What? Oh, if you gonna share the slide or... Wait. Hello. Hello. Hey, everyone. Let me...
+[00:00:17] Hello. Bob, can you hear me? Yeah. Yeah. Could you screen share the slides? Is that fine? Because...
+[00:00:31] And then I'll, like, me... I think me and Yanying are doing, like, the presentation.
+[00:00:36] So, like, we'll just be, like, next slide, and you just go to the next slide. Is that fine?
+[00:00:40] Okay. Okay, great.
+[00:00:47] Okay.
+[00:01:17] Yeah, perfect. Just present. Okay.
+[00:01:19] Okay. So, Alan's not gonna be able to make it. He's pretty sick. So, if you guys are ready, we can probably just get started. That's fine. Yeah. Okay, great. So, I mean, mainly, I guess, today, like, we're just gonna kind of walk you guys through what we've done so far.
+[00:01:35] And then we'll have some questions so we can, like, accurately, like, understand, like, the main needs of this project. That makes sense. So, I'll just walk us through this presentation.
+[00:01:54] So, basically, the main understanding, right, is that we need to create a machine learning model that will help us identify pollen types in microscope images.
+[00:02:05] So, the main reasoning behind this is because it helps with work on, like, past presentation and, like, climates. Like, by understanding the pollen types, you can understand what happened in North Americans, like, vegetation, like, a long time ago.
+[00:02:19] So, the main thing we're gonna do today is, I guess, just, like, walk you guys through how we're going to access the slides, just, like, talk about the labels a bit that you guys sent us. So, we haven't trained a classifier yet.
+[00:02:30] I think the most important part of this project right now is just understanding the data and then collecting and creating a good training set, right? So, yeah, we'll just walk through that. Next slide, please.
+[00:02:41] So, first, I'm just gonna talk a bit about, like, the previous work. So, I think, I believe what you guys are working with on the previous D2K group, their main goal was basically just finding the specimen, right?
+[00:02:53] So, this is more of an object detection problem. So, given a slide, be able to identify the, you know, the specimens, the pollens, but not necessarily understand the type of pollen. So, like, we're taking it to the next step, right?
+[00:03:06] So, we know, we already know we can identify these. Now, we need to figure out if we can classify them into their specific types. So, third slide, please.
+[00:03:17] So, this is just an example of, like, you know, some of the annotated things you've given us. We're able to access all of the slides. So, that part is fully figured out. We're gonna be able to begin the training and testing.
+[00:03:28] So, just, you know, some, you guys probably already know this, but just some brief information, like, it's around, like, 28.5 gigabytes per slide. These are absolutely massive slides.
+[00:03:36] And they are annotated, and they have bounding boxes corresponding to the different pollens. So, you know, you can just look at this, like, each different one is, you know, corresponding to a different actual type of pollen.
+[00:03:48] Next slide, please. So, I did some brief work with the, so, you sent us another CSV, right, of different, of some more annotations in an email around last week.
+[00:04:02] So, what I've been doing now is, like, I've just been matching the classification parts to the actual data. So, what this involved was a decent amount of cleaning.
+[00:04:11] So, one thing I noticed with the CSV is, like, some of, like, the pollen types were, like, misspelled a little bit. Like, maybe one or, like, two words were off. Or maybe there's, like, a period.
+[00:04:19] So, originally, we couldn't make a connection for a lot of them, but we cleaned that up. And now we do have a full, like, mapping of annotations to the actual locations in the slides and what they are.
+[00:04:31] So, we figured that out.
+[00:04:33] But also, sorry. But also, even though there was, yes, some, that is, was the same name, but there was an extra space or something. I had a category list.
+[00:04:44] Yeah, yeah. Yeah, we need that to fully connect it. So, like, at any given specimen, like, we know, like, where it is, you know, what it is, stuff like that.
+[00:04:54] So, I guess the main thing we need to do now is figure out how we're going to split the training and the testing. So, like, we don't have one. So, one main problem that we're going to, I think, deal with. Next slide I'll talk about.
+[00:05:07] So, the distribution of the actual pollens is pretty wide, right? So, like, if you look, for example, like, the bisacite, there's a lot of examples for that. So, that's going to be much easier for us to create, like, a high quality detection for bisacite specifically.
+[00:05:21] Same with the momopites. However, I believe you will run into problems with the less documented. It's really hard to train a model to predict something new if you don't have that many examples of it.
+[00:05:31] Yes, and that's why in the email I mentioned for the categories that have more than 100 types, select randomly 50.
+[00:05:42] Okay, okay. Try to keep it even.
+[00:05:45] Yes. So, that way you have more balance because there are some types, for example, roipetes and I think quercos that I have only, like, 30 specimens so far.
+[00:05:59] So, if you have 30 and 300, well, of course, the 30 is going to be really hard. But if the ones that are super large to reduce to select 50 random grains for the train, just to initially see how it works.
+[00:06:18] Okay.
+[00:06:18] And to see, okay, no, we need more examples.
+[00:06:21] Yeah. Okay. I get what you're saying. I think, but, like, do you think, like, reasonably, like, there will be more examples, like, when you're looking at North America, like, data, like, you will probably see more bisacites, right, than maybe, like, the roipotes or something like that, like, in general?
+[00:06:38] Or is this, like, due to the fact that, like, we have a very limited amount of annotations, it might be biasing it? Do you get what I'm saying?
+[00:06:44] No. So, imagine the spring.
+[00:06:48] Okay.
+[00:06:48] The spring when all the plants are flowering and there is this yellow, like, this pollen that you see in all the cars in the streets.
+[00:06:57] Usually that comes from the pines.
+[00:07:00] Oh, okay.
+[00:07:01] So, there are videos where you take the tree and you move it and release a bunch.
+[00:07:09] Okay.
+[00:07:09] And then, well, there are other types that they also produce a lot of pollen, but because of the way how the pollen is transport or because there is less amount of trees or specimens, then you're going to have less pollen.
+[00:07:28] So, there are some types that are key, like, ecological key taxa, but you don't find as much.
+[00:07:37] In a slide, you can find maximum five grains.
+[00:07:41] Okay.
+[00:07:41] And for basic, you can find 300.
+[00:07:45] It doesn't mean it's less important.
+[00:07:48] It's just, like, it's like grasses.
+[00:07:51] The pollen is everywhere in some environments and it could be can cause noise, cows' noise.
+[00:07:58] Okay.
+[00:07:59] Okay.
+[00:07:59] That makes sense.
+[00:07:59] Ingrid, isn't it, just from looking at slides of the Eocene, most of the ones from the continental U.S. are not dominated by saccades.
+[00:08:15] It's dominated by caryopollinides or momopides or, you know, other temperate tree taxa that are not pinaceae or bisacades.
+[00:08:31] So, I'm wondering if, does this reflect, like, the momopides has the kind of abundance I would expect.
+[00:08:40] Okay.
+[00:08:41] But I would expect the caryopollinides to be almost as abundant as the momopides if we had a lot of temperate samples.
+[00:08:51] I'm wondering if this is more, and bisacades are actually not so, I mean, they're always there, but they're not dominant in a lot of the slides I'm wondering.
+[00:09:02] So, because many, many slides, so many of the slides that I was looking at, they have a lot of bisacades.
+[00:09:15] And most of them have a lot, but also part of the bias is because of part of the date.
+[00:09:23] So, the annotations include previous annotations.
+[00:09:27] So, when we had pollen, spores, fungi, bisacate, or bipol.
+[00:09:32] So, that's why we also have an over-representation of bisacades.
+[00:09:36] But I will have to mention that, yes, caryopollinides and momopides are, in some samples, also abundant.
+[00:09:45] Okay.
+[00:09:46] But the reason of bisacate is that.
+[00:09:48] The other thing is in caryopollinides and momopides.
+[00:09:54] We have also other types.
+[00:09:57] So, because I start separating it by species, many of those are in other categories.
+[00:10:03] It's just I wanted to start making a more differentiation.
+[00:10:09] So, the momopides that are as sp is still in that.
+[00:10:14] So, I have not separated them in the other species.
+[00:10:17] Okay.
+[00:10:18] Would it be possible to include the grains that you've identified to particular species within the genus?
+[00:10:33] So, that they're looking at all of the caryopollinides, no matter what species?
+[00:10:40] Rather than, are these are just caryopollinides, are the 39 examples of caryopollinides just caryopollinides sp?
+[00:10:51] Yes.
+[00:10:52] So, but it seems like we want it to recognize all caryopollinides.
+[00:10:57] Yeah, but because of, so, do you, by any chance, do you guys have the list of the categories somewhere there?
+[00:11:07] So, so, so, I initially thought, well, I'm going to put all the caryopollinides in one category and all the momopides.
+[00:11:16] But because this is a classification model, I kind of want to make a little more specific, especially because, because of, for example, the platycaria, that we have platycaria A, platycaria B.
+[00:11:32] So, so, so I, I wanted to see if the model is able to identify things that are completely different, but also things that are very similar.
+[00:11:41] And, and if, and in the meantime, I can, I can, we can also put more coarse categories, coarser categories.
+[00:11:55] So all the momopides go in that one, all the caryas go in caryopollinides, all the caleid tree colporeae come going one.
+[00:12:06] But I kind of wanted to make this, and that's why I wanted to, the categories to have between 30 to 50 grains.
+[00:12:15] So it's a little more balanced data set.
+[00:12:18] But that's kind of my idea.
+[00:12:20] I, I, I'm, I know that you've done past work with fewer, but I'm wondering whether the smaller, in other words, I'm, I'm just thinking.
+[00:12:32] It would be better to have more, to have bigger samples, right?
+[00:12:38] To have a bigger test set, because it just doesn't, all the different ways that a grain can be turned and all those things that are,
+[00:12:51] can vary, can vary, if you have more specimens, it just seems like that will improve the ability to train the model.
+[00:13:05] And I'm just a little bit worried about having.
+[00:13:10] But I, I think for, for them, for them to start working on the training set, they can use that and I can feed more annotations.
+[00:13:23] Well, I, well, I guess what I'm asking is, does it even take more annotations or can it just be, uh, moving specimens from momopides, annelis to momopides?
+[00:13:36] And then we're just asking, we're just trying to train the model to tell momopides from, um, you see, I don't know.
+[00:13:48] I'm just asking.
+[00:13:49] Yeah, no, I, I understand.
+[00:13:51] I, I, I understand where you're, what were you pointing at?
+[00:13:55] And, um, so many, many classifications models that have been developed use types that are very different between them.
+[00:14:07] And that if you, without being a paleontologist, you look at them, you can say, this is different from this and from this.
+[00:14:16] Because one, I don't know, is round, the other has spines, and the other has some other, or is more oval, you know.
+[00:14:27] But in this case, we have things that are different to each other, but also things that are very similar.
+[00:14:34] So, and that's because it gives an extra challenge to the classification model.
+[00:14:41] So, that's why I will prefer to spend extra time and get extra, find extra grains inside the already annotations that exist, than maybe group things in bigger categories.
+[00:15:01] It's because of what they, they classificate, how they have to train the model, so it's able to have a finer classification.
+[00:15:16] Yeah.
+[00:15:17] Yeah.
+[00:15:18] But this momopides SP.
+[00:15:20] We can take it out.
+[00:15:22] We can take it out.
+[00:15:24] For now.
+[00:15:25] If you.
+[00:15:27] And I can review all those that are in that because our momopides in that and put them in the existing categories that are more specific.
+[00:15:37] I think that will be the best approach.
+[00:15:40] You think it's better to have five or six species of momopides than it is to have one, one genus momopides that's represented by more specimens or the same for the other ones?
+[00:15:56] Yeah, because of, and we can ask the students what they think in considering their experience in computer science, but because you have three momopides.
+[00:16:09] One has like a circle in the middle, another has more doesn't have it and, and another is more like rounded than triangular.
+[00:16:22] So, so, so because there are very small differences, that's what a polynologist always look to classify a from B from C. And when we look, for example, in platycaria, we got platycaria platycarioides that is very important.
+[00:16:40] And we have another platycaria that is a, a, a, a something, something, something.
+[00:16:47] Yes.
+[00:16:48] Yeah.
+[00:16:49] Yes.
+[00:16:50] But they, they could appear together or they can be in separate, but they are very similar.
+[00:16:55] Then even for me was like, okay, I, I finally get the difference, but that will be key for a model of this type, especially because then we're going to move to when we have three, three corporates.
+[00:17:09] That are the Roy pities and the Siltaria that are kind of fairly similar, but also slightly different.
+[00:17:18] And that's, that's why I thought about that.
+[00:17:22] Okay.
+[00:17:23] Um, I guess like just from like an external point of view, um, if like these, you know, specific, like subspecies, I guess I would call it right.
+[00:17:32] If they're like very similar, um, given like the amount of data, I don't, I don't, we don't have that many annotations.
+[00:17:39] Like it's a way more difficult task.
+[00:17:42] I'm not really sure if it's feasible given the amount of, um, annotations we have, but like, it's also something we could, we could first try to get like the broad understanding.
+[00:17:53] Right. And then like, we can move on, like, we can add like another sub classification maybe of like a more specific under like, like the more broad distribution.
+[00:18:03] If that, if that makes sense. Right. So like we could first have like a classification where it like determines, okay, which one is this?
+[00:18:09] And then after that, it picks from the subcategories and then we can see if we get any good results from that.
+[00:18:15] And if that, if that works and you know, even better. Right.
+[00:18:18] I'm wondering whether we might, this just to Ingrid, you tell me, but we're in also the students, but, um, if we created genus level categories, so generic, the momopides, caryopollines, et cetera.
+[00:18:36] Um, and we put grains in that category. No, it doesn't even mean new annotations that Ingrid has to make. It could be just be lumping the ones that exist.
+[00:18:50] And then, so then we say, okay, can we recognize, you know, 20 or 30 different genera of pollen.
+[00:18:58] And then we take the ones that are actually abundant, like maybe, you know, caryopollinides would turn out to be abundant or momopides.
+[00:19:08] And we, we also know that there are species within those genera that are different from one another, but are much harder to tell apart.
+[00:19:16] But it might be a more, it might be easier, I don't know, to train a model to do momopides species than it is to train a model to do simultaneously the different genera and then also the species within momopides.
+[00:19:36] Mm-hmm. I would just say like, if we can't do the first, we definitely can't do the second.
+[00:19:42] So I think, I think worrying about the first is, uh, I guess like the first thing we should probably think about.
+[00:19:46] And if we, if we achieve really good results with that, then it would be worth spending some time into thinking about, okay, how can we like make this even stronger?
+[00:19:53] If that makes sense.
+[00:19:54] Yes. And I, and I, I like that, um, that proposal.
+[00:19:59] Okay.
+[00:20:00] Okay.
+[00:20:01] That just start then with the broad, broad, broad categories, then go to more specific.
+[00:20:08] Okay.
+[00:20:09] Great. Sounds good. Thank you for that.
+[00:20:11] I guess we can go to the, um, I guess like the next, the next slide.
+[00:20:16] So this is, I guess like the main plan for, you know, turning everything into like the actual training situation.
+[00:20:23] So we need to basically like with these huge slides, right, we need to create much smaller images.
+[00:20:28] So what we plan to do is crop, just crop them into smaller and then use, can you go back?
+[00:20:32] Sorry.
+[00:20:33] Crop them into a smaller, you know, um, smaller images, and then we can use those for the actual training.
+[00:20:39] Then also one thing I think we can do actually is like for these underrepresented, um, pollens, what we can actually do is it's called like jitter or like crop.
+[00:20:47] But basically what we can do is we can change the orientation of the pollen, right?
+[00:20:51] Cause like, think of like a pollen here.
+[00:20:52] Like if you arrange it to be this way instead, like it's still like, you would still be able to accurately classify it, right?
+[00:20:57] The, the orientation of it in the slide itself is not that big of a deal.
+[00:21:01] Would I, would I be correct with that assumption?
+[00:21:04] Okay, great.
+[00:21:05] So by doing that, we can actually have a more diverse, um, training set.
+[00:21:08] So like these underrepresented ones, we can, we can squeeze a bit more out of them basically is the main idea.
+[00:21:12] So then, yeah, I guess I, then we'll just, we'll start training.
+[00:21:16] We'll have, we have another, we have a further slide explaining that, but it's a bit more technical, like with respect to the actual like algorithms we plan to use.
+[00:21:22] So we don't, I don't think we need to worry about that right now.
+[00:21:24] So we can go to the next slide.
+[00:21:26] So I guess like, um, I just wanted to see like what you guys thought would be really important for us to have.
+[00:21:33] So like, are there any combinations where like, if we mix up one with the other, like, it's absolutely going to be a problem with the overall, like, I guess, health of the model.
+[00:21:43] And then like, maybe like, are there certain, like, do you, would you like a situation where like, if the model cannot give a strong prediction, it'll just flag it maybe like uncertain, then leave it to external review by an expert.
+[00:21:54] Like, what, what do you guys think about that?
+[00:21:55] Like, what are, what are some really important features that you think are extremely like relevant to have here?
+[00:22:00] Let me see what, what do you mean about features?
+[00:22:11] Okay.
+[00:22:12] So the main, the main goal, right?
+[00:22:14] We want to develop a tool that you guys are able to use yourselves, right?
+[00:22:17] And classify pollen types.
+[00:22:19] So like, let's say, let's, let's give an example.
+[00:22:22] I mean, let's like, we have two pollen types.
+[00:22:25] Let's say like the model is trying to pick, like classify the pollen types, right?
+[00:22:30] But it's not, it's not very confident on which one it is.
+[00:22:34] Like, it's not like, oh, this is definitely this pollen, right?
+[00:22:37] Like it's, it's a bit like, I think what would make sense there would be able to have kind of like a flagging situation where like, if it cannot return, like, it's not going to just, it shouldn't just return the one it thinks is most likely because it could be more likely.
+[00:22:48] Because it could be like, like, like a, like a 12% probability is this one versus like 11.
+[00:22:52] It's another one, right?
+[00:22:53] You don't want to just give it to you guys and then have you believe it.
+[00:22:55] You know what I mean?
+[00:22:56] Like, I think it makes sense to have like a way to flag species that aren't, maybe aren't confident that the model is not confident in is like, is the type of feature I'm talking about here.
+[00:23:04] And so would there be just a cutoff value of, I think so.
+[00:23:09] Yeah.
+[00:23:10] And so with, with previous models that I have worked on,
+[00:23:17] usually, at least when it's for classification, it gave you it gives you the potential labels.
+[00:23:26] Okay.
+[00:23:27] Okay.
+[00:23:28] So it's like, in the, in the, in the, in the accuracy, right?
+[00:23:31] Okay.
+[00:23:32] Yes.
+[00:23:33] Sure.
+[00:23:34] Sure.
+[00:23:35] Or the probability for each.
+[00:23:36] So, so it can, if, for example, I think these grain one and grain two, and I think grain one is 60% and grain two is 40%, something like that.
+[00:23:47] Then, then the expo.
+[00:23:48] Okay.
+[00:23:49] Yeah.
+[00:23:50] I would then, because that, that's, that, that's common to happen.
+[00:23:55] And there are many instances where the grains are fairly, fairly similar.
+[00:24:00] So.
+[00:24:01] Okay.
+[00:24:02] Sounds good.
+[00:24:03] Great.
+[00:24:04] I think, I think we can go to the next part then.
+[00:24:05] Okay.
+[00:24:06] So I guess I'll just like talk about like what I expect you guys to want, like at the end.
+[00:24:12] So like, basically you would input like an image region with like a marked, like marked area corresponding to whatever pollen it is.
+[00:24:21] And then, you know, we run it through the algorithm at inference time and it outputs the predicted type with the probabilities of, you know, each pollen.
+[00:24:29] And then like, you can know like, okay, it's most likely this one, like if it's like 90% confidence in one pollen, you can also like, if you're looking at it yourself, you know, you can kind of ground your judgment also with like the probability from the model.
+[00:24:41] So then you want to keep it relatively simple in a way that like, wouldn't require code.
+[00:24:45] So it would be like a drag and drop, you know, you have like an image or you have multiple images, you, you, you, you put them into the model and then it just outputs like the classification labels.
+[00:24:56] It was like just a, a simple tool that doesn't require too much.
+[00:24:59] Like, I don't like, it wouldn't require like coding or anything like that.
+[00:25:02] That makes sense.
+[00:25:03] Yes.
+[00:25:04] And, and will this input image could be the, the NDPI image itself or the, the format, or it has to be modified?
+[00:25:15] I think it would have to be a smaller one just due to how big, I guess that could be part of, well, cause like, like when you annotate, like you have like the location of it on the NDPI.
+[00:25:25] Correct.
+[00:25:26] Like, it's not like it would, it would, I don't, you have to at least input the coordinates of the one you want to look at.
+[00:25:32] So like in theory, we could have it where you just input the NDPI file, but also that would take much longer to do.
+[00:25:38] Like, cause it'd have to process like the 22 gigabyte file and then like, you know, go to the specific coordinates.
+[00:25:45] It might make more sense to just be able to insert like smaller sub images specifically of the, the pollen that you want to classify.
+[00:25:54] If that makes sense.
+[00:25:55] Okay.
+[00:25:56] I guess we can go to the next part.
+[00:26:01] So, I mean, this is basically just all the, the categories that we have.
+[00:26:06] You like labeled like, yes, no, maybe, right.
+[00:26:08] I'm assuming those are whether like you want to be able to classify them.
+[00:26:12] Right.
+[00:26:13] So these are just the, this is the, these are the counts of the different categories that we have for our, from cleaning up the data and matching the, the species that like should be together.
+[00:26:28] That makes sense.
+[00:26:29] Does that, well, can you go back to that?
+[00:26:34] So, I mean, I know we have a lot more examples of some of these things.
+[00:26:41] Okay.
+[00:26:42] On slot, like, yeah.
+[00:26:45] In aperture, what?
+[00:26:49] Yeah.
+[00:26:50] I'm.
+[00:26:51] Some, let me check something.
+[00:26:54] Yeah.
+[00:26:55] Yeah.
+[00:26:56] So, so something doesn't match up.
+[00:27:09] Okay.
+[00:27:10] With the table I send.
+[00:27:15] Because I have in the table I send, it say aresipitis.
+[00:27:20] I have 81 annotations.
+[00:27:23] Practicaria polinitis S.
+[00:27:27] Suasticoidus 81.
+[00:27:31] Monopolpites 80.
+[00:27:33] Betumases 78.
+[00:27:35] So, so I don't understand why they count.
+[00:27:39] Mm-hmm.
+[00:27:40] What are those counts referring to?
+[00:27:43] Well, they should just be, like, the amount of annotations for each one, but.
+[00:27:50] Yeah.
+[00:27:51] Yeah.
+[00:27:52] So what, from you, when you guys count annotations, that's how many annotations you have in each of those categories.
+[00:27:58] Yeah.
+[00:27:59] That is not right.
+[00:28:00] So, so you're missing annotations.
+[00:28:02] That's.
+[00:28:03] Yeah.
+[00:28:04] A recipe test I have 54, not 18.
+[00:28:08] 13.
+[00:28:09] That's a recipe.
+[00:28:10] And, oh, oh, I'm sorry.
+[00:28:11] You're.
+[00:28:12] A recipe.
+[00:28:13] A recipe.
+[00:28:14] A recipe.
+[00:28:15] A recipe.
+[00:28:16] A recipe.
+[00:28:17] A recipe.
+[00:28:18] A recipe.
+[00:28:19] A recipe.
+[00:28:20] A recipe.
+[00:28:21] A recipe.
+[00:28:22] A recipe.
+[00:28:23] A recipe.
+[00:28:24] So that's why I put for the maybe's is because it was a more general categories like three
+[00:28:37] cold porites, three cold pit are some triple eaters and because they have 23, 24 grains,
+[00:28:42] but I can have more.
+[00:28:44] But but yeah, that that list that you have there doesn't match with the lease I send you
+[00:28:50] Okay. Yeah. Okay. I can send the...
+[00:28:57] We should have more. Yeah, I'm looking at the... Is the title counts.csv, right? I think it has like 186.
+[00:29:03] It's called categories total. Oh, that one. Yeah, okay. Sure.
+[00:29:07] Yes. And the other one is called... Is this one? No, it's categories total. And there is another one that has the categories and the species names.
+[00:29:26] So... Yeah. Because one of the reasons was like, okay, at least if they have 40, 30, 40 types, the idea will be 50, but 30, 40.
+[00:29:45] And most of the categories have 50 or up of more than 50 grains.
+[00:29:51] So... And these... And these annotations, the grains are in different views or as much as folded.
+[00:30:01] So to already introduce these variation. But I will send Excel again.
+[00:30:10] Yeah. For Platicaria platycarioides, that is a key one for the eocene.
+[00:30:19] I have 56 examples. And yeah. And for Quercos, 44. Yeah. So...
+[00:30:36] So we're... So something is not... Something is not right.
+[00:30:41] It's incomplete or missed or something. Yeah. Okay.
+[00:30:46] How many... How many images did Arco share with you? And did he...
+[00:30:55] But this is... This isn't even the images, right? You guys are just talking about the list. Is that... Is that correct? Yeah.
+[00:31:02] Well, are you talking about like... You're saying slides versus like the count in the slides?
+[00:31:07] Oh, right. Yeah.
+[00:31:09] Yeah.
+[00:31:10] So...
+[00:31:11] Where did you get these from?
+[00:31:13] That's my question.
+[00:31:15] This is just from like looking... Like matching to the already like shown dataset.
+[00:31:22] Like the already given dataset.
+[00:31:24] So...
+[00:31:25] So... So these are the... These are the counts from the... From the... From the... From the annotation files?
+[00:31:33] Or are they... I guess that's what I'm not clear on.
+[00:31:37] Yeah.
+[00:31:38] Yeah. These are the counts from the... So maybe you're... You don't have all of the annotation files.
+[00:31:43] Yeah.
+[00:31:44] There could be...
+[00:31:45] So...
+[00:31:46] So Arco has... I will email Arco if he... If he gave you guys the updated annotation files
+[00:31:52] because...
+[00:31:53] Okay.
+[00:31:54] Yeah.
+[00:31:55] I believe he could be working with an outdated... Like the previous one.
+[00:31:59] Maybe then... That might be the case.
+[00:32:01] Yeah.
+[00:32:02] Because I shared that with him... I think was last Monday?
+[00:32:08] Let me check.
+[00:32:09] Anyway...
+[00:32:10] you said oh yeah so no this monday this past monday um and and he said that he he had he
+[00:32:23] he had absence so okay he we could be looking at the the old one then like when we were matching
+[00:32:33] them and then it didn't yeah okay sounds good i mean we we can just do that that's we can switch
+[00:32:39] yeah and i can also send it to you because the the ndpa files are smaller okay so it's like one
+[00:32:48] kilobyte or so so i can just send it to you and what you do is just replace the ndpa files that are
+[00:32:56] already there okay for the new ones and the most important thing is the name of the ndpa files have
+[00:33:04] to match the ndpi file okay but there is also one additional image that has not been included in
+[00:33:14] previous uh semesters that i asked him to to pass it to you so yeah yeah we can look for the full one
+[00:33:24] as well and then if you want to send it just in case like if it's not there we can just add it
+[00:33:29] ourselves so we don't have to yes okay sounds good okay great okay so um hello um so today is like
+[00:33:41] uh we have going to based on the data but uh after patrick said and then uh calculate it after and then
+[00:33:49] clean it so we'll definitely check after we got make sure that our data set is the most updated one
+[00:33:56] but for now based on the data set and then some current status we have it's like we have proposed some
+[00:34:03] basic base um baseline for our first time of experiment so the csv defined that the many to
+[00:34:12] one mapping is like several annotation titles can map to one category and each annotation title appears in
+[00:34:19] one row and maps to one carry in this file so for a multi-class yolo or fd tr baseline
+[00:34:27] our current interpretation is to convert each object's original title into its mapped category
+[00:34:35] and then use that category as the class label so we should preserve the original title as like the
+[00:34:41] meta for audit but um we don't need the second title prediction unless this you guys wants the fine
+[00:34:48] grade or the hierarchical identification but um i believe that based on the amount of database we have it's
+[00:34:56] like um if we are making our model that can identify like hundreds of categories of fossil pollens i think that would be a really really hard case
+[00:35:10] so um for our baselines like we were trying to first time we're going to try to reuse the um baseline they use for last master is that they use a yolo and rfd
+[00:35:22] rfd tr framework as a diagnosis baseline is like they they but they they what they did is like they did a single class detector and then currently we're doing a multi-class detector um but
+[00:35:37] uh and then our data split might be a little bit different and then um we'll use like for example
+[00:35:45] like macro f1 and confusion matrix to see if the classification um performance and then um
+[00:35:54] um also that we've checked the experiment from um and then um probably we can use his idea about the class waving annotation review and the separate of classifier
+[00:36:08] so here's our like basic proposed baseline and then first is like we have to make sure the uh
+[00:36:16] uh categories like mapping and then after that we have to prepare the image but we will probably use the same method as
+[00:36:23] last semester and after that we will um build a training set and then set the training base size using these
+[00:36:33] these big these methods methods and then finally after we got the results we will check a recall score mfp and f1 scores something like that and then to see that if we need to uh fine-tune the
+[00:36:48] model model or some we need to use other methods that can um help us better classify different kinds of fossil pilots
+[00:36:59] um so can we go back to that slide sorry um so the single class detector um you that's the work basically i
+[00:37:14] that's your are you just checking to see if you're going to be able to do as well as
+[00:37:18] the algorithm that was developed last um semester or i i'm not sure why
+[00:37:25] you want to do the single class detector again because the single class detector can we're not
+[00:37:32] going to do that because we're just we just know that this can it's going to work but um since yolo and
+[00:37:39] rfd chart they can they can like just add the categories into your model so what we're planning is that we can use the
+[00:37:47] also yolo and rfd chart and then train them using our data sets but just using the modic class
+[00:37:55] like train with like multi-class so the single detector is like um help us to locate the
+[00:38:02] like objects and then for like previous like thesis and then other people's research like they first the
+[00:38:11] first step is that they all locate these public fossils and then after that they predict what's their
+[00:38:18] um type so we're still um trying what we want to try first is that just we can't ignore the um single
+[00:38:28] class detector and then first do the multi-class detector which means that we can skip the location
+[00:38:34] step but if it's not working well we will try it probably we can try like first locate it and then after
+[00:38:40] we locate the polynorm no more and after and then we can use that we can then locate it and then after
+[00:38:49] that we can categorize them but first for right now what we're planning is that we can just directly
+[00:38:56] categorize them using yolo or rfttr
+[00:39:08] um just as an fyi i put two links in the chat uh that are from um from another group that works with
+[00:39:25] polynological samples um and they have a github so you guys can use that also as reference
+[00:39:33] as a reference to the project based side of the project based side of the project based side of the
+[00:39:50] model based side yeah so we can move to the next slide page 13. yeah here's our proposed based side
+[00:39:58] is like um first we come from labels preparing we're going to use the same method to prepare image but
+[00:40:06] and then build a training set based on our data set and then train the models using the same way as
+[00:40:12] they do last semester but with the multi-class categories and then evaluate it with different
+[00:40:20] methods and then to see that if the method can get job done or we have to try new um models
+[00:40:28] or we can just fine-tune the current yolo or rfttr next slide please
+[00:40:44] i'm not doing the slides that's about oh you're going to talk about it okay well i mean i think i
+[00:40:49] think this was like we weren't sure if you guys are going to like kind of like but like start like
+[00:40:53] talking answering our questions like mid presentation so this is more of just like a formal overview at the
+[00:40:58] end so like i think most of the stuff we asked has been answered so i guess um there's not much
+[00:41:04] else like with respect to this i think the main thing is we just need to figure out the
+[00:41:09] figure out the main like the full complete data set and then redo our annotation counts across the
+[00:41:14] models and then we need to i guess start categorizing the um the pawns into the more broad categories first
+[00:41:21] figure out if that's feasible and then we can move to the more specific implementations that uh you were
+[00:41:26] were talking about earlier dr romero so i think that's mainly everything we have for today with
+[00:41:31] respect to the um just how the project's going and we plan to go next so yeah oh yeah probably can you
+[00:41:38] go oh sorry sorry oh i was just gonna ask ingrid what she um that question one which pollen types
+[00:41:47] uh are you most concerned about i think that would be actually an interesting one just to talk about
+[00:41:52] briefly okay okay sure sure so let me open the so first i already had all the files in a drawbox folder
+[00:42:02] that i will share with you all um but in relationship with these uh i had what is what are you
+[00:42:13] uh i think this one i think this one no this is not the one but it's okay uh so the most importance to get
+[00:42:24] right are they because of of an interest of tropical taxa are the platycaria platycarioides
+[00:42:33] the bombocaciditis the bombocaciditis and they are cases are cases are cases yes the palms
+[00:42:44] that's a-r-e-c-i-p-i-t-e-s are cepites and that's that's the that's pollen from palms so we're very
+[00:42:55] interested in that in that group um we're also very interested in in uh bombocaciditis and platycaria
+[00:43:07] yes and in the in the bombocaciditis group i i i clump together something that is bombocaciditis and
+[00:43:17] tilia tilia tilia c-titis be as bomboccoida so i put them as a one category just because those are
+[00:43:25] tropical taxa and um yeah but i think i had that that kind of in the in the in one of the excels that
+[00:43:40] i sent but yeah those will be the the most important especially because they are
+[00:43:49] when for example the bomboccoides that are big trees they are very scarce so you find one to ten grains
+[00:44:01] maybe nothing grains is too much per slide but when they appear it's like your key you know uh and
+[00:44:11] it cannot be by that it was transport or by contamination um so so yeah those those would be kind of the most
+[00:44:21] um okay uh sounds good we'll definitely be sure to keep an eye out for that one specifically
+[00:44:35] yes okay then i think yeah okay we also just have kind of a milestone of what the actual class schedule
+[00:44:44] is like so like we can just just you guys have an understanding of the timeline um like when you can
+[00:44:51] expect like a full situation like a full completed product and then like the parts as we go i mean
+[00:44:56] we'll obviously be meeting um so we'll be updating you uh throughout like every step just uh just like
+[00:45:03] so you guys have a full idea of what this is going to look like throughout the semester yeah one one
+[00:45:10] question um well i'm going to share the the drawbox uh folder it's just 16 gigabytes i think okay with
+[00:45:20] all the updated annotations and includes the the additional image so should i share it to all the emails
+[00:45:32] or all the emails okay
+[00:45:50] okay i found an um email with all your addresses
+[00:46:04] okay
+[00:46:20] okay
+[00:46:50] um i don't know if you guys are waiting for don't worry you will have it after the meeting is
+[00:47:07] is done okay sounds great then i think yeah i think that's everything we had for today then so thank you
+[00:47:15] so much for meeting with us and yeah let's see you next week i guess yeah see you next week thank you
+[00:47:20] everyone you guys did good today okay bye everyone thank you thank you thank you okay oh wait oh we're
+[00:47:29] done okay cool i i thought i i thought maybe the phd would like wait but i guess not okay cool um i'll
+[00:47:35] when she sends it i'll upload it to my um i'll upload it to the knots cluster and then i'll figure out the
+[00:47:40] correct labeling and then all right i think we can talk about that next meeting i do you think it's
+[00:47:46] fine if i just present for us like every meeting like would you guys care like i don't mind doing
+[00:47:52] it it's just like oh my god it's like i think if we have something specific to talk we can discuss
+[00:47:59] first it's like today's also a little bit rushed because we just discussed on wednesday and we only have
+[00:48:05] like one full day to do that so probably if we have next time we can like update it earlier and then we
+[00:48:11] can discuss like which part we can divide oh yeah what's something that's more important yeah okay
+[00:48:17] thanks thanks for everything okay then i will write today's notes and gonna be upload on at least
+[00:48:24] i guess i need the transcript it'll probably oh thank you thank you okay
