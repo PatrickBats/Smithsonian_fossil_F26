@@ -1,5 +1,7 @@
 # Project plan
 
+For the October 1 priority data audit and October 7 storage correction, see [the dated update](F26_DATA_PROGRESS_2026-10-01.md).
+
 Immediate work: [next steps after the September 18 meeting](NEXT_STEPS.md), using the corrected Fall_2026 dataset.
 
 Build a pollen-classification pipeline and a simple results viewer.

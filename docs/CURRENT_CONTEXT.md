@@ -1,5 +1,9 @@
 # Current project context — September 21, 2026
 
+## October 7 storage clarification
+
+Yunfan relayed Dr. Barman's reply: “projects is not for data storage, rhf is for data storage.” Raw and processed image datasets and row-level split/annotation manifests should be stored under `/rhf/allocations/dsci435/`, not `/projects/dsci435/Smithsonian_F26/`. The exact new project-specific RHF subdirectory was not specified in the quoted reply, and the group allocation remains at its reported hard limit. The earlier split and partial crop data under `/projects` were removed on October 7 after exact local backup; see the [priority data update](F26_DATA_PROGRESS_2026-10-01.md). This does not change the model results below.
+
 ## October 7 specimen-split diagnostic
 
 Patrick authorized a [random specimen-level training/validation diagnostic](../reports/swin_specimen_split_2026-10-07/README.md), preserving the original test set. The new run starts from ImageNet weights and permits shared training/validation slides; it does not replace the grouped baseline. The 40-epoch diagnostic completed in 490 seconds; selected epoch 29 achieved 66.28% validation accuracy, macro-F1 0.6114 and balanced accuracy 60.71%. The test set remains reserved. Longer training was discussed but not combined with this experiment because the existing curves already indicate overfitting.

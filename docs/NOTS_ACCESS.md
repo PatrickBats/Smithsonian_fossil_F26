@@ -1,5 +1,7 @@
 # NOTS access, data locations, and viewing evidence
 
+> October 7 storage clarification, relayed by Yunfan from Dr. Barman: “projects is not for data storage, rhf is for data storage.” Derived crop images and row-level data manifests belong under `/rhf/allocations/dsci435/`, in a separate project-specific path. The older storage interpretation below is historical; see the [F26 data update and cleanup](F26_DATA_PROGRESS_2026-10-01.md). No new RHF dataset has been placed there because the group's allocation remains at its reported hard limit.
+
 > September 21: all 83 Fall_2026 annotations are verified on NOTS by SHA-256; 48 updated files are in annotations_F26, and 35 unchanged files remain in raw. All 83 image headers and small center reads passed. Use [verified source paths](../data/current/cluster_source_paths.csv); see [current context](CURRENT_CONTEXT.md).
 
 Observed September 14, 2026 through authenticated SSH as `pb52`. This is a bounded access and preview inspection, not a complete data audit or a validated Fall 2026 training manifest. Original cluster files were not changed and no training jobs were launched.
@@ -10,7 +12,7 @@ For label priorities and all 65 category counts, see the [category guide](CATEGO
 
 SSH login to `nots.rice.edu` succeeded, with the account in the `dsci435` group. The configured `rice-nots` shortcut works in the environment used for this handoff; it is not automatically installed on teammates' machines. Each teammate uses their own NOTS account and private SSH setup. Keys and passwords are not stored in this repository.
 
-The user supplied faculty storage guidance: persistent data belongs in `/rhf/allocations/dsci435/`, which is shared with the class, and other uses of that allocation require consultation with the faculty member. Experiment data/results belong in the team directory `/projects/dsci435/Smithsonian_F26/`. That experiment directory was absent at inspection time. No team directory was created during this documentation update.
+As understood on September 14, persistent data belonged in `/rhf/allocations/dsci435/`, which is shared with the class, while experiment data/results were thought to belong in `/projects/dsci435/Smithsonian_F26/`. The October 7 clarification at the top of this page supersedes that interpretation for datasets. The team directory was absent at the September inspection; none was created during that documentation update.
 
 | Remote location | Observation |
 | --- | --- |

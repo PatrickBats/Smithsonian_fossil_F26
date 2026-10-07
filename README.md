@@ -10,6 +10,7 @@ Check annotations → extract specimens → train and evaluate → classify new 
 
 - [Current project context](docs/CURRENT_CONTEXT.md)
 - [Correct working dataset — Fall 2026](data/current/README.md)
+- [October 1 priority data audit and October 7 storage correction](docs/F26_DATA_PROGRESS_2026-10-01.md)
 
 - [Next steps](docs/NEXT_STEPS.md)
 - [Detection pilot](docs/DETECTION_PILOT.md)
