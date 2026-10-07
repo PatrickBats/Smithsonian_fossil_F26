@@ -5,6 +5,7 @@ Run through Slurm and emit JSON. No output files are created on NOTS.
 
 import csv
 import json
+import os
 from pathlib import Path
 import time
 
@@ -14,7 +15,7 @@ import tifffile
 import zarr
 
 
-ROOT = Path("/projects/dsci435/Smithsonian_F26/crops/priority_v0")
+ROOT = Path(os.environ["F26_INPUT_ROOT"])
 STEMS = (
     "D1555_RAS_60_2023_04_20_15_40_35",
     "C_418058_W_Nassichuk_R_2025_01_21_14_59_16_Alaska",

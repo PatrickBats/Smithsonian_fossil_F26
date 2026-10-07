@@ -1,6 +1,6 @@
 # NOTS access, data locations, and viewing evidence
 
-> October 7 storage clarification, relayed by Yunfan from Dr. Barman: “projects is not for data storage, rhf is for data storage.” Derived crop images and row-level data manifests belong under `/rhf/allocations/dsci435/`, in a separate project-specific path. The older storage interpretation below is historical; see the [F26 data update](F26_DATA_PROGRESS_2026-10-01.md). No new RHF dataset has been placed there because the group's allocation was last observed at its hard limit.
+> October 7 storage clarification, relayed by Yunfan from Dr. Barman: “projects is not for data storage, rhf is for data storage.” Derived crop images and row-level data manifests belong under `/rhf/allocations/dsci435/`, in a separate project-specific path. The older storage interpretation below is historical; see the [F26 data update and cleanup](F26_DATA_PROGRESS_2026-10-01.md). No new RHF dataset has been placed there because the group's allocation remains at its reported hard limit.
 
 > September 21: all 83 Fall_2026 annotations are verified on NOTS by SHA-256; 48 updated files are in annotations_F26, and 35 unchanged files remain in raw. All 83 image headers and small center reads passed. Use [verified source paths](../data/current/cluster_source_paths.csv); see [current context](CURRENT_CONTEXT.md).
 

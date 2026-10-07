@@ -7,12 +7,13 @@ remote files. It checks metadata and geometry, not pixel equivalence.
 import collections
 import csv
 import json
+import os
 from pathlib import Path
 
 import h5py
 
 
-ROOT = Path("/projects/dsci435/Smithsonian_F26/crops/priority_v0")
+ROOT = Path(os.environ["F26_INPUT_ROOT"])
 H5_ROOT = Path("/rhf/allocations/dsci435/smithsonian_full_sp26/processed/tiles")
 
 

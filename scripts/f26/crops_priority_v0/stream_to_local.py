@@ -12,6 +12,7 @@ import io
 import json
 import os
 from pathlib import Path
+import shlex
 import subprocess
 import sys
 import tarfile
@@ -24,11 +25,7 @@ INPUT = HERE / "inputs" / "record_assignments.csv"
 REMOTE_SCRIPT = HERE / "remote_stream_batch.py"
 STAGE = HERE / "local_export_staging"
 FINAL = HERE / "local_images"
-REMOTE_ROOT = os.environ.get(
-    "F26_REMOTE_ROOT", "/projects/dsci435/Smithsonian_F26/crops/priority_v0"
-)
-# The default above is a historical read-only input for the completed local
-# transfer. It is not an approved destination for any new dataset output.
+REMOTE_ROOT = os.environ.get("F26_REMOTE_ROOT")
 REMOTE_PYTHON = os.environ.get(
     "F26_REMOTE_PYTHON", "/projects/dsci435/smithsonian_sp26/conda-env/bin/python"
 )
@@ -98,10 +95,11 @@ def run_batch(start, end, expected):
 
     remote = (
         f"F26_BATCH_START={start} F26_BATCH_END={end} "
+        f"F26_CROP_ROOT={shlex.quote(REMOTE_ROOT)} "
         "srun --ntasks=1 --quiet --partition=commons --time=01:00:00 "
         "--cpus-per-task=1 --mem=8G --job-name=f26-crop-stream "
-        f"--chdir={REMOTE_ROOT} "
-        f"{REMOTE_PYTHON} -B -"
+        f"--chdir={shlex.quote(REMOTE_ROOT)} "
+        f"{shlex.quote(REMOTE_PYTHON)} -B -"
     )
     host = os.environ.get("F26_SSH_HOST")
     if not host:
@@ -173,6 +171,8 @@ def run_batch(start, end, expected):
 
 
 def main():
+    if not REMOTE_ROOT:
+        raise ValueError("Set F26_REMOTE_ROOT to the authorized RHF input root")
     if FINAL.exists() or FINAL.is_symlink():
         raise FileExistsError("Refusing to overwrite completed local export")
     if STAGE.is_symlink():
