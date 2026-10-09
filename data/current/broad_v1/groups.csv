@@ -1,0 +1,29 @@
+broad_class_id,broad_category,fine_categories,fine_category_count,sponsor_annotation_count,eligible_specimens,status
+0,Alnipollenites verus,Alnipollenites verus,1,92,92,retained_category
+1,Arecipites sp.,Arecipites sp.,1,81,81,retained_category
+2,Betulaceae,Betulaceae,1,78,78,retained_category
+3,Bisaccate,Bisaccate,1,316,313,retained_category
+4,Bombacacidites sp.,Bombacacidites sp.,1,40,40,retained_category
+5,Caryapollenites,Caryapollenites sp. | Caryapollenites veripites,2,150,150,draft_merged_group
+6,Cicatricosisporites sp.,Cicatricosisporites sp.,1,52,52,retained_category
+7,Cupuliferoipollenites sp.,Cupuliferoipollenites sp.,1,27,27,retained_category
+8,Ericipites sp.,Ericipites sp.,1,54,54,retained_category
+9,Illexpollenites sp.,Illexpollenites sp.,1,33,32,retained_category
+10,Inaperturopollenites sp.,Inaperturopollenites sp.,1,43,43,retained_category
+11,Laevigatosporites sp.,Laevigatosporites sp.,1,38,38,retained_category
+12,Momipites,Momipites flexus | Momipites sp | Momipites ventifluminis | Momipites wyomingensis,4,334,334,draft_merged_group
+13,Monocolpites sp.,Monocolpites sp.,1,80,80,retained_category
+14,Nudopollis sp.,Nudopollis sp.,1,89,89,retained_category
+15,Pistillipollenites sp.,Pistillipollenites sp.,1,64,64,retained_category
+16,Platycarya platycarioides,Platycarya platycarioides,1,56,56,retained_category
+17,Platycaryapollenites swasticoidus,Platycaryapollenites swasticoidus,1,81,81,retained_category
+18,Polyatriopollenites type,Polyatriopollenites type,1,43,43,retained_category
+19,Psilatricolpites sp.,Psilatricolpites sp.,1,61,61,retained_category
+20,Psilatriletes sp.,Psilatriletes sp.,1,48,48,retained_category
+21,Quercus sp.,Quercus sp.,1,44,44,retained_category
+22,Retipollenites sp.,Retipollenites sp.,1,75,75,retained_category
+23,Rhoipites sp.,Rhoipites sp.,1,65,65,retained_category
+24,Rousea sp.,Rousea sp.,1,54,52,retained_category
+25,Taxodium sp.,Taxodium sp.,1,62,61,retained_category
+26,Tetracolporopollenites sp.,Tetracolporopollenites sp.,1,67,67,retained_category
+27,Ulmipollenites sp.,Ulmipollenites sp.,1,63,63,retained_category

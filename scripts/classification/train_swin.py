@@ -219,6 +219,16 @@ def main(args):
             config['selection']='validation_macro_f1_over_32_present_categories'
             config['evaluation_scope']='specimen-level diagnostic with shared train/validation slides'
             write_json(out/'config.json',config)
+        if getattr(args,'broad_map',None):
+            from broad_labels import apply_broad
+            rows,labels,broad_audit=apply_broad(rows,labels,args.broad_map)
+            audit['broad_labels']=broad_audit
+            (out/'fine_to_broad.csv').write_bytes(Path(args.broad_map).read_bytes())
+            (out/'broad_labels.py').write_bytes(Path(__file__).with_name('broad_labels.py').read_bytes())
+            write_json(out/'broad_category_map.json',dict(enumerate(labels)))
+            config['task']='28-group broad_v1 exploratory classification'
+            config['selection']='validation_macro_f1_over_present_broad_categories'
+            write_json(out/'config.json',config)
         write_json(out/'data_audit.json',audit)
         trainrows=[r for r in rows if r['split']=='train'];valrows=[r for r in rows if r['split']=='val']
         if args.smoke:
@@ -231,7 +241,7 @@ def main(args):
         if not torch.cuda.is_available():raise RuntimeError('Expected an allocated CUDA GPU')
         device=torch.device('cuda:0')
         weights=Swin_T_Weights.IMAGENET1K_V1
-        model=swin_t(weights=weights);model.head=nn.Linear(model.head.in_features,32);model.to(device)
+        model=swin_t(weights=weights);model.head=nn.Linear(model.head.in_features,len(labels));model.to(device)
         weight_path=Path(torch.hub.get_dir())/'checkpoints'/weights.url.rsplit('/',1)[1]
         write_json(out/'provenance.json',{'python':sys.version,'torch':torch.__version__,'torchvision':torchvision.__version__,
           'cuda':torch.version.cuda,'gpu_name':torch.cuda.get_device_name(0),'gpu_uuid':os.environ.get('CUDA_VISIBLE_DEVICES'),
@@ -284,7 +294,7 @@ def main(args):
                 tmp=out/'best.pt.part';torch.save(state,tmp);tmp.replace(out/'best.pt')
                 write_json(out/'best_validation_metrics.json',result)
                 with (out/'best_validation_predictions.csv').open('w',newline='') as f:
-                    writer=csv.writer(f);writer.writerow(['record_id','category','predicted_category','confidence']+[f'p_{i}' for i in range(32)])
+                    writer=csv.writer(f);writer.writerow(['record_id','category','predicted_category','confidence']+[f'p_{i}' for i in range(len(labels))])
                     for i,p in zip(indices,probs):
                         row=valrows[i];prediction=int(np.argmax(p));writer.writerow([row['record_id'],row['sponsor_category'],labels[prediction],p[prediction]]+p)
             write_json(out/'status.json',{'status':'running','completed_epochs':epoch+1,'best_epoch':best_epoch,'best_validation_macro_f1_present':best,'test_evaluated':False})
@@ -302,6 +312,7 @@ if __name__=='__main__':
     p.add_argument('--epochs',type=int,default=40);p.add_argument('--head-epochs',type=int,default=3)
     p.add_argument('--batch-size',type=int,default=32);p.add_argument('--seed',type=int,default=20261007)
     p.add_argument('--specimen-split',help='Explicit diagnostic split; original test remains reserved')
+    p.add_argument('--broad-map',help='Frozen fine-to-broad mapping; default retains original categories')
     p.add_argument('--smoke',action='store_true')
     args=p.parse_args()
     if not (args.epochs>args.head_epochs>0 and args.batch_size>0):p.error('Invalid epoch/batch settings')

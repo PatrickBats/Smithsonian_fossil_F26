@@ -1,0 +1,57 @@
+split_protocol,broad_class_id,broad_category,total,train,train_accession_groups,train_slides,val,val_accession_groups,val_slides,test,test_accession_groups,test_slides
+separate_slides,0,Alnipollenites verus,92,62,8,9,23,5,6,7,5,5
+separate_slides,1,Arecipites sp.,81,65,10,11,11,5,5,5,4,4
+separate_slides,2,Betulaceae,78,54,11,12,13,5,7,11,5,6
+separate_slides,3,Bisaccate,313,160,20,22,32,7,10,121,5,8
+separate_slides,4,Bombacacidites sp.,40,20,7,7,17,5,7,3,2,3
+separate_slides,5,Caryapollenites,150,122,10,11,22,3,4,6,3,3
+separate_slides,6,Cicatricosisporites sp.,52,42,2,3,1,1,1,9,1,2
+separate_slides,7,Cupuliferoipollenites sp.,27,15,5,5,3,1,2,9,2,2
+separate_slides,8,Ericipites sp.,54,47,5,5,3,3,3,4,3,3
+separate_slides,9,Illexpollenites sp.,32,25,3,3,3,1,1,4,2,2
+separate_slides,10,Inaperturopollenites sp.,43,30,8,8,7,3,3,6,2,2
+separate_slides,11,Laevigatosporites sp.,38,21,9,9,3,1,2,14,2,3
+separate_slides,12,Momipites,334,257,24,26,50,5,7,27,5,8
+separate_slides,13,Monocolpites sp.,80,51,13,15,25,4,6,4,2,2
+separate_slides,14,Nudopollis sp.,89,85,2,2,3,1,2,1,1,1
+separate_slides,15,Pistillipollenites sp.,64,61,4,4,1,1,1,2,2,2
+separate_slides,16,Platycarya platycarioides,56,52,3,3,1,1,1,3,2,2
+separate_slides,17,Platycaryapollenites swasticoidus,81,77,3,3,2,2,2,2,1,1
+separate_slides,18,Polyatriopollenites type,43,28,5,5,9,2,2,6,5,5
+separate_slides,19,Psilatricolpites sp.,61,26,10,10,18,3,3,17,5,5
+separate_slides,20,Psilatriletes sp.,48,27,12,12,6,3,4,15,4,5
+separate_slides,21,Quercus sp.,44,38,5,5,3,1,1,3,2,2
+separate_slides,22,Retipollenites sp.,75,73,2,2,0,0,0,2,1,1
+separate_slides,23,Rhoipites sp.,65,41,9,9,6,3,3,18,2,3
+separate_slides,24,Rousea sp.,52,34,12,12,12,3,4,6,3,3
+separate_slides,25,Taxodium sp.,61,25,11,11,33,3,5,3,1,2
+separate_slides,26,Tetracolporopollenites sp.,67,40,3,4,8,1,1,19,2,3
+separate_slides,27,Ulmipollenites sp.,63,27,7,7,32,3,5,4,1,1
+shared_slides,0,Alnipollenites verus,92,70,13,15,15,6,6,7,5,5
+shared_slides,1,Arecipites sp.,81,62,15,16,14,5,6,5,4,4
+shared_slides,2,Betulaceae,78,55,14,16,12,6,6,11,5,6
+shared_slides,3,Bisaccate,313,158,23,28,34,14,15,121,5,8
+shared_slides,4,Bombacacidites sp.,40,30,10,12,7,4,4,3,2,3
+shared_slides,5,Caryapollenites,150,119,11,13,25,10,10,6,3,3
+shared_slides,6,Cicatricosisporites sp.,52,35,2,3,8,2,3,9,1,2
+shared_slides,7,Cupuliferoipollenites sp.,27,15,5,5,3,2,3,9,2,2
+shared_slides,8,Ericipites sp.,54,41,6,6,9,4,4,4,3,3
+shared_slides,9,Illexpollenites sp.,32,23,4,4,5,3,3,4,2,2
+shared_slides,10,Inaperturopollenites sp.,43,30,10,10,7,4,4,6,2,2
+shared_slides,11,Laevigatosporites sp.,38,20,10,11,4,3,3,14,2,3
+shared_slides,12,Momipites,334,253,26,30,54,16,17,27,5,8
+shared_slides,13,Monocolpites sp.,80,62,17,20,14,6,6,4,2,2
+shared_slides,14,Nudopollis sp.,89,72,3,4,16,2,2,1,1,1
+shared_slides,15,Pistillipollenites sp.,64,51,5,5,11,2,2,2,2,2
+shared_slides,16,Platycarya platycarioides,56,44,4,4,9,2,2,3,2,2
+shared_slides,17,Platycaryapollenites swasticoidus,81,65,4,4,14,3,3,2,1,1
+shared_slides,18,Polyatriopollenites type,43,30,6,6,7,4,4,6,5,5
+shared_slides,19,Psilatricolpites sp.,61,36,12,12,8,5,5,17,5,5
+shared_slides,20,Psilatriletes sp.,48,27,14,15,6,6,6,15,4,5
+shared_slides,21,Quercus sp.,44,34,6,6,7,2,2,3,2,2
+shared_slides,22,Retipollenites sp.,75,60,2,2,13,1,1,2,1,1
+shared_slides,23,Rhoipites sp.,65,39,11,11,8,4,4,18,2,3
+shared_slides,24,Rousea sp.,52,38,15,16,8,7,7,6,3,3
+shared_slides,25,Taxodium sp.,61,48,14,16,10,5,5,3,1,2
+shared_slides,26,Tetracolporopollenites sp.,67,39,3,4,9,3,4,19,2,3
+shared_slides,27,Ulmipollenites sp.,63,49,10,12,10,4,5,4,1,1

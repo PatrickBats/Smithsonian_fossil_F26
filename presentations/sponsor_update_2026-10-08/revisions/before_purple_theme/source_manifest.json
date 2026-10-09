@@ -1,0 +1,50 @@
+{
+  "experiments": [
+    {
+      "experiment": "Swin separate",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/tenengrad_full_2026-10-07/training_attempt_01/ordinary_baseline/best_validation_metrics.json",
+      "sha256": "079ae2202d70e902acd74ab41cdc256d0387b79a7dca28116a9ca20a44b24b0f",
+      "accuracy": 0.3804034582132565,
+      "macro_f1": 0.3392479246652705
+    },
+    {
+      "experiment": "Broad28 swin separate_slides",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/broad_swin_2026-10-08/separate_slides/ordinary_baseline/best_validation_metrics.json",
+      "sha256": "796cf88650bd5c853671f60ce5b47bb247190ddaa893895779b9e9f13c750317",
+      "accuracy": 0.42939481268011526,
+      "macro_f1": 0.3568783101411063
+    },
+    {
+      "experiment": "Broad28 swin shared_slides",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/broad_swin_2026-10-08/shared_slides/ordinary_baseline/best_validation_metrics.json",
+      "sha256": "e8778ddc4c9d73dfa848be3c33e61d40a85b4f3ba3ed4124f332cd9f887a8234",
+      "accuracy": 0.7060518731988472,
+      "macro_f1": 0.6750996775292862
+    },
+    {
+      "experiment": "Broad28 dino separate_slides",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/broad_dino_2026-10-08/separate_slides/backbone_finetune/best_validation_metrics.json",
+      "sha256": "9bb27a20bbf16dc234dbe1d028d81468fa4bbacf40083f16c2ec5903cc2adc27",
+      "accuracy": 0.5014409221902018,
+      "macro_f1": 0.4139517523503203
+    },
+    {
+      "experiment": "Broad28 dino shared_slides",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/broad_dino_2026-10-08/shared_slides/backbone_finetune/best_validation_metrics.json",
+      "sha256": "626623df1d2750bd800f57af981ae4e39051549215e6092b3619b54a9f2e32f8",
+      "accuracy": 0.7435158501440923,
+      "macro_f1": 0.6889980739446362
+    }
+  ],
+  "scope": "expert-annotated crop classification; validation only",
+  "test_inference": false,
+  "meeting_date": "not assumed",
+  "images": "asset_manifest.json",
+  "pdf": "Generated from the same layout instructions as the editable PPTX",
+  "revision": "28-category comparison; Swin and adapted DINO; three recurring error categories; original focus comparison explicitly marked 32 categories",
+  "error_ranking": "Three recurring low-recall categories in both splits; counts from broad DINO best validation checkpoints, not exhaustive ranking",
+  "regrouped_control": {
+    "source_path": "/mnt/richb/pb52/MADness/smithsonian/broad_label_controls_2026-10-08/results.json",
+    "sha256": "52e16174aa05aa9b52023b9513bbd36c8ab7225571dac774f231321a92563886"
+  }
+}

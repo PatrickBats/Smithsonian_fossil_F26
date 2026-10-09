@@ -1,5 +1,17 @@
 # Current project context — September 21, 2026
 
+## October 8 broad-category map
+
+Patrick requested a broad-first map. The [draft v1](../data/current/broad_v1/README.md) groups four Momipites labels into Momipites and two Caryapollenites labels into Caryapollenites; the other 26 labels remain unchanged, giving 28 groups. All 2,283 eligible specimens and both existing split memberships are preserved. Groupings are explicit name-based proposals for sponsor review, not inferred synonymy. Patrick subsequently authorized a [separate 28-group training comparison](../reports/broad_classification_2026-10-08/README.md) using Swin and partially fine-tuned DINO on both existing splits. Four fresh 40-epoch runs completed; frozen DINO is excluded. Broad-category validation accuracy is 42.94% / 70.61% for Swin and 50.14% / 74.35% for adapted DINO (separate / shared slides). RHF copies were verified; the final test remains unused. No final test evaluation or historical metric rewriting is included.
+
+## October 7 DINOv2 partial fine-tuning
+
+Patrick authorized [last-two-block DINOv2 fine-tuning](../reports/dino_finetune_2026-10-07/README.md) on both existing splits after the frozen probe underperformed Swin. Both runs completed 40 epochs: DINO reached 43.52% validation accuracy / 0.3628 macro-F1 on separate slides and 70.03% / 0.6485 on shared slides. Frozen-parameter checks and RHF copy verification passed; test inference remains disabled. Patrick also authorized RHF as the project artifact destination; a write check succeeded, and the supervisor will copy and hash-verify new completed runs there while preserving local originals.
+
+## October 7 DINOv2 trial
+
+Patrick authorized a [frozen DINOv2 linear-classifier trial](../reports/dino_probe_2026-10-07/README.md) on the same best-plane crops and both existing validation splits. Only non-test specimens enter the feature extractor. The fixed classifier configuration uses training-only feature scaling. The frozen probe completed on Terminator6: 29.97% accuracy / 0.2475 macro-F1 on separate-slide validation and 59.08% / 0.5278 on shared-slide validation. Both linear solvers converged. This trial underperformed fine-tuned Swin on both splits; all DINO work remains local and excluded from PR #2.
+
 ## October 7 specimen-split diagnostic
 
 Patrick authorized a [random specimen-level training/validation diagnostic](../reports/swin_specimen_split_2026-10-07/README.md), preserving the original test set. The new run starts from ImageNet weights and permits shared training/validation slides; it does not replace the grouped baseline. The 40-epoch diagnostic completed in 490 seconds; selected epoch 29 achieved 66.28% validation accuracy, macro-F1 0.6114 and balanced accuracy 60.71%. The test set remains reserved. Longer training was discussed but not combined with this experiment because the existing curves already indicate overfitting.

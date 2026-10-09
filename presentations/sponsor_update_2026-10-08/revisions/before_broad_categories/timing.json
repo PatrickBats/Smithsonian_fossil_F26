@@ -1,0 +1,42 @@
+{
+  "seconds": 220,
+  "spoken_words": 470,
+  "slides": [
+    {
+      "slide": 1,
+      "title": "Two approaches to identifying fossil pollen",
+      "seconds": 25,
+      "words": 54
+    },
+    {
+      "slide": 2,
+      "title": "RF-DETR: detection and category identification",
+      "seconds": 0,
+      "words": 36
+    },
+    {
+      "slide": 3,
+      "title": "A clearer view helps the model identify pollen",
+      "seconds": 45,
+      "words": 92
+    },
+    {
+      "slide": 4,
+      "title": "Two questions, two ways to check performance",
+      "seconds": 50,
+      "words": 95
+    },
+    {
+      "slide": 5,
+      "title": "Adapting DINO gives our strongest results so far",
+      "seconds": 55,
+      "words": 102
+    },
+    {
+      "slide": 6,
+      "title": "Where identification still struggles",
+      "seconds": 45,
+      "words": 91
+    }
+  ]
+}

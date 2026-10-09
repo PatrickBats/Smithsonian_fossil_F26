@@ -1,0 +1,33 @@
+fine_class_id,fine_category,broad_class_id,broad_category,mapping_action,review_status,basis,sponsor_annotation_count,eligible_specimens
+0,Alnipollenites verus,0,Alnipollenites verus,retain,unchanged_sponsor_category,No broader biological relationship inferred,92,92
+1,Arecipites sp.,1,Arecipites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,81,81
+2,Betulaceae,2,Betulaceae,retain,unchanged_sponsor_category,No broader biological relationship inferred,78,78
+3,Bisaccate,3,Bisaccate,retain,unchanged_sponsor_category,No broader biological relationship inferred,316,313
+4,Bombacacidites sp.,4,Bombacacidites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,40,40
+5,Caryapollenites sp.,5,Caryapollenites,merge_same_name_prefix,draft_sponsor_review,Explicit shared Caryapollenites name,95,95
+6,Caryapollenites veripites,5,Caryapollenites,merge_same_name_prefix,draft_sponsor_review,Explicit shared Caryapollenites name,55,55
+7,Cicatricosisporites sp.,6,Cicatricosisporites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,52,52
+8,Cupuliferoipollenites sp.,7,Cupuliferoipollenites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,27,27
+9,Ericipites sp.,8,Ericipites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,54,54
+10,Illexpollenites sp.,9,Illexpollenites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,33,32
+11,Inaperturopollenites sp.,10,Inaperturopollenites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,43,43
+12,Laevigatosporites sp.,11,Laevigatosporites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,38,38
+13,Momipites flexus,12,Momipites,merge_same_name_prefix,draft_sponsor_review,Explicit shared Momipites name; user reports wyomingensis belongs within Momipites,38,38
+14,Momipites sp,12,Momipites,merge_same_name_prefix,draft_sponsor_review,Explicit shared Momipites name; user reports wyomingensis belongs within Momipites,184,184
+15,Momipites ventifluminis,12,Momipites,merge_same_name_prefix,draft_sponsor_review,Explicit shared Momipites name; user reports wyomingensis belongs within Momipites,61,61
+16,Momipites wyomingensis,12,Momipites,merge_same_name_prefix,draft_sponsor_review,Explicit shared Momipites name; user reports wyomingensis belongs within Momipites,51,51
+17,Monocolpites sp.,13,Monocolpites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,80,80
+18,Nudopollis sp.,14,Nudopollis sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,89,89
+19,Pistillipollenites sp.,15,Pistillipollenites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,64,64
+20,Platycarya platycarioides,16,Platycarya platycarioides,retain,unchanged_sponsor_category,No broader biological relationship inferred,56,56
+21,Platycaryapollenites swasticoidus,17,Platycaryapollenites swasticoidus,retain,unchanged_sponsor_category,No broader biological relationship inferred,81,81
+22,Polyatriopollenites type,18,Polyatriopollenites type,retain,unchanged_sponsor_category,No broader biological relationship inferred,43,43
+23,Psilatricolpites sp.,19,Psilatricolpites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,61,61
+24,Psilatriletes sp.,20,Psilatriletes sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,48,48
+25,Quercus sp.,21,Quercus sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,44,44
+26,Retipollenites sp.,22,Retipollenites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,75,75
+27,Rhoipites sp.,23,Rhoipites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,65,65
+28,Rousea sp.,24,Rousea sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,54,52
+29,Taxodium sp.,25,Taxodium sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,62,61
+30,Tetracolporopollenites sp.,26,Tetracolporopollenites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,67,67
+31,Ulmipollenites sp.,27,Ulmipollenites sp.,retain,unchanged_sponsor_category,No broader biological relationship inferred,63,63

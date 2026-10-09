@@ -1,0 +1,81 @@
+[
+  {
+    "file": "focus_before.png",
+    "record_id": "C_418058_W_Nassichuk_R_2025_01_21_14_59_16_Alaska::ndpviewstate:102",
+    "category": "Quercus sp.",
+    "split": "train",
+    "sha256": "a79b022e6b7a22d0889b4acae4abd6498e7718c163fcc9ede1485cbd6d157c21",
+    "representation": "zero_plane"
+  },
+  {
+    "file": "focus_after.png",
+    "record_id": "C_418058_W_Nassichuk_R_2025_01_21_14_59_16_Alaska::ndpviewstate:102",
+    "category": "Quercus sp.",
+    "split": "train",
+    "sha256": "2103a6fd39c18c033d48c6ca25175af66c9e55d522e19d2266e569cfef92fda2",
+    "representation": "tenengrad_best_plane"
+  },
+  {
+    "file": "hero_0.png",
+    "record_id": "C_418080_W_Nassichuk_L_2025_01_14_19_14_58_Alaska::ndpviewstate:10",
+    "category": "Bisaccate",
+    "split": "train",
+    "sha256": "aaf0c4dc6cbf111090e36fe93e2bf0c441f19d1173149eeae902010ddba6b72f",
+    "representation": "tenengrad_best_plane"
+  },
+  {
+    "file": "hero_1.png",
+    "record_id": "D1555_RAS_60_2023_04_20_15_40_35::ndpviewstate:212",
+    "category": "Bombacacidites sp.",
+    "split": "train",
+    "sha256": "be8aeeaeec74a0d366733ab0edd7752acd8fad201ccedbefe32f6692889df38f",
+    "representation": "tenengrad_best_plane"
+  },
+  {
+    "file": "hero_2.png",
+    "record_id": "D1555_RAS_60_2023_04_20_15_40_35::ndpviewstate:129",
+    "category": "Arecipites sp.",
+    "split": "train",
+    "sha256": "711104460e45990a405777af95d353e97ccf116613c069ce81cc658022071a50",
+    "representation": "tenengrad_best_plane"
+  },
+  {
+    "file": "error_0.png",
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:78",
+    "category": "Momipites wyomingensis",
+    "split": "val",
+    "sha256": "f898a986f825747c0c840f0406ae8ef8582acfeaf76a09dad45e53ea7dd7df2b",
+    "representation": "tenengrad_best_plane",
+    "predicted_category": "Momipites sp",
+    "confidence": 0.9364206790924072,
+    "confusion_count": 18,
+    "category_validation_count": 21,
+    "selection": "median confidence within preselected recurring confusion; discussion example, not representative sample"
+  },
+  {
+    "file": "error_1.png",
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:12",
+    "category": "Bombacacidites sp.",
+    "split": "val",
+    "sha256": "7811b60d09fdf65404634d91e05ee2dc11763d175c5c062969ff6578bc0ebf4d",
+    "representation": "tenengrad_best_plane",
+    "predicted_category": "Rousea sp.",
+    "confidence": 0.9635570049285889,
+    "confusion_count": 6,
+    "category_validation_count": 17,
+    "selection": "median confidence within preselected recurring confusion; discussion example, not representative sample"
+  },
+  {
+    "file": "error_2.png",
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:227",
+    "category": "Monocolpites sp.",
+    "split": "val",
+    "sha256": "1a29eaf02cda79b56174492eae0c2d3134e1d1930e1b46f91c1c7334e0d1c553",
+    "representation": "tenengrad_best_plane",
+    "predicted_category": "Arecipites sp.",
+    "confidence": 0.93107008934021,
+    "confusion_count": 6,
+    "category_validation_count": 25,
+    "selection": "median confidence within preselected recurring confusion; discussion example, not representative sample"
+  }
+]
