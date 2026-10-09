@@ -1,0 +1,26 @@
+{
+  "version": "broad_v1_draft",
+  "status": "name-based operational draft for sponsor review; not a uniform taxonomic hierarchy",
+  "fine_categories": 32,
+  "broad_categories": 28,
+  "eligible_specimens": 2283,
+  "sponsor_annotation_records": 2290,
+  "excluded_records": 7,
+  "original_labels_preserved": true,
+  "original_split_membership_preserved": true,
+  "test_inference": false,
+  "retraining_performed": false,
+  "historical_metrics_rewritten": false,
+  "input_sha256": {
+    "fine_map": "127bc3a8fa2dd60aae7bd0dc14f41d93d75e44f6ea277b5f0e0d7d7c9787f5a5",
+    "sponsor_summary": "9d5924c11e722333cd11468b37eac8519c59760922308a42ebe5f94072a742e9",
+    "grouped_assignments": "da2062a127cf6e14945e50fff097e0db102d7f8203250b47daed6b6bb166478d",
+    "shared_assignments": "38fcd65c23afcf591f80a7603ff9e844788ecbf8c485293833839328622d960f"
+  },
+  "output_sha256": {
+    "fine_to_broad.csv": "a2f8da0b40cf9a1a89ea7fffe360770b2b9eae56f9fdd307bbf1b286bd9f793d",
+    "groups.csv": "60784a9873382bd25a3bdb18743be47a2a2ca2186029def4a59940fe0249717e",
+    "split_coverage.csv": "8a87a10f6de772a8b555da5724d3dc9da4bb1c1cf353a0c15704f26360207531"
+  },
+  "builder_sha256": "f624dbb3d0b1610003e8546519be03387c0842a21a5e7a5f27b0247308f09dd9"
+}

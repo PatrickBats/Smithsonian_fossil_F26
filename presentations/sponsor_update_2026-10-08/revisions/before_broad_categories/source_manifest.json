@@ -1,0 +1,53 @@
+{
+  "experiments": [
+    {
+      "experiment": "Swin separate",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/tenengrad_full_2026-10-07/training_attempt_01/ordinary_baseline/best_validation_metrics.json",
+      "sha256": "079ae2202d70e902acd74ab41cdc256d0387b79a7dca28116a9ca20a44b24b0f",
+      "accuracy": 0.3804034582132565,
+      "macro_f1": 0.3392479246652705
+    },
+    {
+      "experiment": "Swin shared",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/swin_specimen_split_2026-10-07/training_attempt_01/ordinary_baseline/best_validation_metrics.json",
+      "sha256": "670c22377b1467a2f25295038466daa2b26690d5932c71698618aa46ebaf07d4",
+      "accuracy": 0.6628242074927954,
+      "macro_f1": 0.611383295650077
+    },
+    {
+      "experiment": "DINO frozen separate",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/dino_probe_2026-10-07/attempt_02/separate_slides/validation_metrics.json",
+      "sha256": "bb35d376c3d8bffd1da87a53711ddd44591767eb7b0b2fc0a1c8e8d21a289460",
+      "accuracy": 0.29971181556195964,
+      "macro_f1": 0.24747715918240473
+    },
+    {
+      "experiment": "DINO frozen shared",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/dino_probe_2026-10-07/attempt_02/shared_slides/validation_metrics.json",
+      "sha256": "3def44e8116fbde23e3896532026eeae04e9dc669d8611ef8f9d71c9d00432ba",
+      "accuracy": 0.590778097982709,
+      "macro_f1": 0.5277544106037192
+    },
+    {
+      "experiment": "DINO adapted separate",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/dino_finetune_2026-10-07/separate_slides/backbone_finetune/best_validation_metrics.json",
+      "sha256": "42a3f32a20b37d9bccc990256d598d951c99a389d14e72a9c024400419033e02",
+      "accuracy": 0.43515850144092216,
+      "macro_f1": 0.362771639783354
+    },
+    {
+      "experiment": "DINO adapted shared",
+      "source_path": "/mnt/richb/pb52/MADness/smithsonian/dino_finetune_2026-10-07/shared_slides/backbone_finetune/best_validation_metrics.json",
+      "sha256": "0edd1244524aa3ff275f2881cab7810e3d0b4e1be4f764b415a056529124797e",
+      "accuracy": 0.7002881844380403,
+      "macro_f1": 0.6484973705159778
+    }
+  ],
+  "scope": "expert-annotated crop classification; validation only",
+  "test_inference": false,
+  "meeting_date": "not assumed",
+  "images": "asset_manifest.json",
+  "pdf": "Generated from the same layout instructions as the editable PPTX",
+  "revision": "RF-DETR placeholder followed by classifier backbones; discussion removed; error ranking replaces images",
+  "error_ranking": "six lowest recall categories with at least five examples in adapted DINO separate-slide validation"
+}

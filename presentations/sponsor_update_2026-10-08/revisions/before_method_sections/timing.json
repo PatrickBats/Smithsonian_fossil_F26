@@ -1,0 +1,42 @@
+{
+  "seconds": 280,
+  "spoken_words": 554,
+  "slides": [
+    {
+      "slide": 1,
+      "title": "From pollen images to category predictions",
+      "seconds": 40,
+      "words": 82
+    },
+    {
+      "slide": 2,
+      "title": "A clearer view helps the model identify pollen",
+      "seconds": 45,
+      "words": 92
+    },
+    {
+      "slide": 3,
+      "title": "Two questions, two ways to check performance",
+      "seconds": 50,
+      "words": 95
+    },
+    {
+      "slide": 4,
+      "title": "Adapting DINO gives our strongest results so far",
+      "seconds": 55,
+      "words": 102
+    },
+    {
+      "slide": 5,
+      "title": "Which differences matter to an expert?",
+      "seconds": 50,
+      "words": 91
+    },
+    {
+      "slide": 6,
+      "title": "Help us prioritize the next improvements",
+      "seconds": 40,
+      "words": 92
+    }
+  ]
+}

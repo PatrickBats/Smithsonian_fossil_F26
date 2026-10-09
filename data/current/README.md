@@ -2,6 +2,10 @@
 
 **Use this version for all new data preparation.** The user supplied Fall_2026.zip on September 21, 2026 and identified it as the correct dataset. Its 83 NDPA files reconcile exactly with Ingrid’s supplied tables after trimming three trailing spaces. It supersedes the September 17 933-record snapshot.
 
+## Draft broad grouping
+
+The [broad v1 map](broad_v1/README.md) groups the current 32 YES categories into 28 draft operational groups, preserving fine labels and all 2,283 eligible specimens. It is a separate proposal, not a replacement for the original map or historical results.
+
 ## Verified inventory
 
 - 83 annotation files and one 15,965,474,680-byte NDPI image in the archive.
