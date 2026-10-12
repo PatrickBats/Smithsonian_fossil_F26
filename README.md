@@ -13,6 +13,7 @@ Check annotations → extract specimens → train and evaluate → classify new 
 
 - [Next steps](docs/NEXT_STEPS.md)
 - [Detection pilot](docs/DETECTION_PILOT.md)
+- [Abbas ROI preprocessing → RF-DETR → frozen Swin-Tiny](scripts/pipeline_abbas_v1/README.md)
 - [Semester plan](docs/PIPELINE_PLAN.md)
 - [Data on NOTS](docs/NOTS_ACCESS.md)
 - [Original documents and presentations](docs/sources/README.md)
