@@ -1,0 +1,14 @@
+{
+  "status": "complete",
+  "scope": "shared fixed-grid annotated-ROI validation",
+  "known_specimens": 274,
+  "known_specimen_recall_iou50": 0.08759124087591241,
+  "classification_accuracy_on_matched": 0.8333333333333334,
+  "end_to_end_known_specimen_success": 0.072992700729927,
+  "confidence_threshold": 0.5,
+  "match_iou": 0.5,
+  "deduplication": "same Spring boundary-aware union-find as Method B",
+  "checkpoint_sha256": "c7dc1fe0e01aadf78c9a30ca1431212a9bb9e68709048100bd094f2adb952afd",
+  "unmatched_predictions": "unreviewed; not automatically false positives",
+  "test_used": false
+}
