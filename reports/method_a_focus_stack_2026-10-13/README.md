@@ -11,6 +11,8 @@ Method A directly predicts 28 broad pollen categories with RF-DETR 2XL. It uses 
 - Shared Method B images: `/rhf/allocations/dsci435/Smithsonian_F26/model_B/data/abbas_focus_stack_v1/`; Method B comparison: `/rhf/allocations/dsci435/Smithsonian_F26/model_B/runs/abbas_focus_stack_v1/separate_slides/ordinary_baseline/pipeline_validation/summary.json`.
 - This report includes the small [`validation_summary.json`](validation_summary.json). Images, weights, row-level manifests and predictions are not in Git.
 
+The Method A directories and files are readable by the shared `dsci435` group. The retained checkpoint has mode `640`; the linked Method B PNGs are also group-readable. The links require the Method B image root to remain available.
+
 ## Repository structure
 
 `scripts/method_a_focus_stack_v1/` contains input binding, grid planning, COCO dataset creation, RF-DETR training, validation scoring, shared deduplication and Slurm entry points. `reports/method_a_focus_stack_2026-10-13/` contains this handoff and the validation summary.
