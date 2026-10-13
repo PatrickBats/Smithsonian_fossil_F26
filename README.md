@@ -10,6 +10,7 @@ Check annotations → extract specimens → train and evaluate → classify new 
 
 - [Current project context](docs/CURRENT_CONTEXT.md)
 - [Correct working dataset — Fall 2026](data/current/README.md)
+- [Method A focus-stack experiment and Method B comparison](reports/method_a_focus_stack_2026-10-13/README.md)
 
 - [Next steps](docs/NEXT_STEPS.md)
 - [Detection pilot](docs/DETECTION_PILOT.md)
