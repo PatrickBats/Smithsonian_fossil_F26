@@ -1,0 +1,17 @@
+{
+  "weights": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/A1_pilot_large_bestplane/single_class/checkpoint_best_total.pth",
+  "split": "test",
+  "n_images": 1064,
+  "n_gt": 1394,
+  "unknown_class_preds": 31311,
+  "class_agnostic": {
+    "AP50_95": 0.5692179612180898,
+    "AP50": 0.8159613020317423
+  },
+  "detection_at_bestF1": {
+    "threshold": 0.5200000000000001,
+    "precision": 0.8274706867671692,
+    "recall": 0.7087517934002869
+  },
+  "seconds": 54.67552709579468
+}

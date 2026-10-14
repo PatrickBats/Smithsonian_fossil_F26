@@ -1,0 +1,14 @@
+{
+  "weights": "/rhf/allocations/dsci435/Smithsonian_F26/weights/rfdetr(2xl)_best_plane.pth",
+  "coco_dir": "/rhf/allocations/dsci435/smithsonian_full_sp26/processed/coco/coco_tenengrad_plane",
+  "split": "test",
+  "n_images": 986,
+  "AP50_95": 0.6364653667427171,
+  "AP50": 0.877325713470802,
+  "f1": 0.8126801147739918,
+  "precision": 0.8299542184434271,
+  "recall": 0.7961104140526977,
+  "threshold": 0.4354698359966278,
+  "n_gt": 1594,
+  "seconds": 49.64331293106079
+}

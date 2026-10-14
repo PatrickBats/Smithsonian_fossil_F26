@@ -1,0 +1,99 @@
+{
+  "weights": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/A1_pilot_top2_bestplane/init_sp26_detector/checkpoint_best_regular.pth",
+  "split": "test",
+  "n_images": 1064,
+  "n_gt": 1394,
+  "unknown_class_preds": 105,
+  "class_agnostic": {
+    "AP50_95": 0.6445490480667194,
+    "AP50": 0.8698060933415415
+  },
+  "detection_at_bestF1": {
+    "threshold": 0.5400000000000001,
+    "precision": 0.8683774834437086,
+    "recall": 0.7525107604017217
+  },
+  "multiclass": {
+    "AP50_95": 0.3840531009611789,
+    "AP50": 0.5064366596909047,
+    "per_class": {
+      "Bisaccate": {
+        "AP50_95": 0.43751573841403946,
+        "AP50": 0.5621126860451262
+      },
+      "Momipites sp": {
+        "AP50_95": 0.07309320757115828,
+        "AP50": 0.09118907014362974
+      },
+      "other_palynomorph": {
+        "AP50_95": 0.641550356898339,
+        "AP50": 0.8660082228839584
+      }
+    }
+  },
+  "confusion": {
+    "rows": [
+      "Bisaccate",
+      "Momipites sp",
+      "other_palynomorph",
+      "background(FP)"
+    ],
+    "cols": [
+      "Bisaccate",
+      "Momipites sp",
+      "other_palynomorph",
+      "missed"
+    ],
+    "matrix": [
+      [
+        10,
+        0,
+        6,
+        13
+      ],
+      [
+        0,
+        0,
+        5,
+        7
+      ],
+      [
+        4,
+        1,
+        1023,
+        325
+      ],
+      [
+        0,
+        0,
+        159,
+        0
+      ]
+    ]
+  },
+  "per_class_at_bestF1": {
+    "Bisaccate": {
+      "precision": 0.7142857142857143,
+      "recall": 0.3448275862068966,
+      "n_gt": 29,
+      "detected_any_class": 16,
+      "correct_class": 10
+    },
+    "Momipites sp": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "n_gt": 12,
+      "detected_any_class": 5,
+      "correct_class": 0
+    },
+    "other_palynomorph": {
+      "precision": 0.8575020955574183,
+      "recall": 0.7560975609756098,
+      "n_gt": 1353,
+      "detected_any_class": 1028,
+      "correct_class": 1023
+    }
+  },
+  "classification_acc_on_detected": 0.9847473784556721,
+  "seconds": 77.39286875724792
+}

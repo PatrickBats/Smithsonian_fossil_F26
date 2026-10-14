@@ -1,0 +1,144 @@
+{
+  "n_classes": 33,
+  "n_priority_records": 2283,
+  "n_circles": 11369,
+  "slides_with_rois": 83,
+  "slides_without_split": {
+    "D5406_1_L_2024_02_09_10_25_26_Colorado.ndpi.ndpa": 122,
+    "D5410_1_L_2024_02_09_10_06_56_Utah.ndpi.ndpa": 78,
+    "D5410_1_R_2024_02_0911_03_13_Utah.ndpi.ndpa": 52,
+    "Giraffe_20_1_95_R_Giraffe_2025_01_13_19_48_21.ndpi.ndpa": 51,
+    "Giraffe_20_3_47_BLEACHED_R_Giraffe_2025_01_14_09_06_36.ndpi.ndpa": 52,
+    "Giraffe_26_3_146_L_Giraffe_2025_01_13_16_06_02.ndpi.ndpa": 56,
+    "USNMPAL_792738_D1392_A_R_2024_01_25_13_58_00_Wyoming.ndpi.ndpa": 67,
+    "USNMPAL_792954_D1890-4_L_2024_09_19_11_55_30_Kentucky.ndpi.ndpa": 82
+  },
+  "inside_roi_priority_by_split": {
+    "train": 1070,
+    "val": 275,
+    "test": 268
+  },
+  "inside_roi_other_by_split": {
+    "train": 5995,
+    "val": 1327,
+    "test": 1061,
+    "unassigned": 559
+  },
+  "classes_lt10_train_inside_roi": [
+    "Bombacacidites sp.",
+    "Illexpollenites sp."
+  ],
+  "classes_zero_val_inside_roi": [
+    "Momipites ventifluminis",
+    "Retipollenites sp."
+  ],
+  "classes_zero_test_inside_roi": [],
+  "priority_titles_seen_as_other": {
+    "Rousea sp.": 1,
+    "Bisaccate": 3,
+    "Taxodium sp.": 1
+  },
+  "title_category_conflicts": {},
+  "top_other_titles": [
+    [
+      "pol",
+      5999
+    ],
+    [
+      "paly",
+      1929
+    ],
+    [
+      "fun",
+      332
+    ],
+    [
+      "spo",
+      255
+    ],
+    [
+      "din",
+      132
+    ],
+    [
+      "<untitled>",
+      94
+    ],
+    [
+      "alg",
+      44
+    ],
+    [
+      "spo?",
+      26
+    ],
+    [
+      "fraxinoipollenites sp.",
+      16
+    ],
+    [
+      "tricolpites sp.",
+      14
+    ],
+    [
+      "psilatricolporites sp.",
+      13
+    ],
+    [
+      "echitricolpites microechinatus",
+      12
+    ],
+    [
+      "pediastrum",
+      11
+    ],
+    [
+      "tsuga",
+      11
+    ],
+    [
+      "hippocrateaceaedites kernii",
+      10
+    ],
+    [
+      "periporites sp.",
+      9
+    ],
+    [
+      "retitricolpites sp.",
+      9
+    ],
+    [
+      "tricolpites",
+      9
+    ],
+    [
+      "alg?",
+      9
+    ],
+    [
+      "triporopollenites sp.",
+      8
+    ],
+    [
+      "din?",
+      7
+    ],
+    [
+      "amerospore",
+      7
+    ],
+    [
+      "verrutricolpites sp.",
+      7
+    ],
+    [
+      "tricolporopollenites sp.",
+      7
+    ],
+    [
+      "corsinipollenites sp.",
+      6
+    ]
+  ]
+}
