@@ -1,0 +1,38 @@
+{
+  "method": "A",
+  "variants": {
+    "A1": {
+      "experiment": "m1_positive_grid",
+      "train_images": 884,
+      "train_boxes": 1586,
+      "train_known_records": 1061,
+      "validation_images": 1432,
+      "validation_known_records": 274,
+      "source_assignment_sha256": "d2dedb6bbb7e4c0e6c428c0d1cd4fce77d1f34bc6a829a515b172078913628f2",
+      "train_coco_sha256": "692dac4feed758df23889c252b34c9f91947420606ad6b6d1edcd14db2710530",
+      "valid_coco_sha256": "9bf42019f07ff7d63c4c8ab984e820826baf5e76ec85643d4d5f36bb29bcc2b0"
+    },
+    "A2": {
+      "experiment": "m2_retile_matched",
+      "train_images": 918,
+      "train_boxes": 1189,
+      "train_known_records": 1063,
+      "validation_images": 1432,
+      "validation_known_records": 274,
+      "source_assignment_sha256": "d2dedb6bbb7e4c0e6c428c0d1cd4fce77d1f34bc6a829a515b172078913628f2",
+      "train_coco_sha256": "8c57799e1a56fe0849af7b0390da9429b4367ae5a2af9d58bba94602f1658b85",
+      "valid_coco_sha256": "9bf42019f07ff7d63c4c8ab984e820826baf5e76ec85643d4d5f36bb29bcc2b0"
+    },
+    "A3": {
+      "experiment": "m2_retile_all",
+      "train_images": 1423,
+      "train_boxes": 1768,
+      "train_known_records": 1605,
+      "validation_images": 1432,
+      "validation_known_records": 274,
+      "source_assignment_sha256": "d2dedb6bbb7e4c0e6c428c0d1cd4fce77d1f34bc6a829a515b172078913628f2",
+      "train_coco_sha256": "2601a7802508bc2c07c9261cadfb8df101931e4407593e83fa1fe0eab4842394",
+      "valid_coco_sha256": "9bf42019f07ff7d63c4c8ab984e820826baf5e76ec85643d4d5f36bb29bcc2b0"
+    }
+  }
+}

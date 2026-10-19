@@ -1,0 +1,55 @@
+{
+  "method": "A",
+  "results_verified": "2026-10-18",
+  "packaged": "2026-10-19",
+  "architecture": "RFDETR2XLarge",
+  "num_target_classes": 28,
+  "model_resolution": 1000,
+  "optimizer_steps_per_variant": 2400,
+  "seed": 20261013,
+  "pretrained_sha256": "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+  "recorded_aggregate_sha256": "794b76f07e1e823c10443ca6c9f4faba0245cde84cec719b7024a6a7f5ae083f",
+  "frozen_training_source_sha256": "90b619343a816ba2203004096895357f981b0047699c3ba2c3a5fce1b321fec6",
+  "unchanged_algorithm_ast_sha256": {
+    "prepare_datasets.py:plan_crops": "27c81e71525f05f615eab199e42df842c8bdf9a47e0dadf7a05f9576fd6a77c3",
+    "prepare_datasets.py:intersection": "e5e154f0b9fce4d2bbe8aae96d45172ca01f06c25b49edcf35629d975abe5241",
+    "focus_helpers.py:geometry": "07e33c32da8529410e18ab1e3a594e2b250485898ee069b02141ca4bf77363d0",
+    "focus_helpers.py:fused_tile": "6754f588deaff113c75ba4fb5609ecdc4b84d8875c80a56adc81574e25d5541f",
+    "evaluate.py:summarize": "89b1fd452b0ee86d53caf7072983666d8bb28f9e2cd8c8b35d3330eaa2dc3920",
+    "spring_nms.py:deduplicate": "f3e0e299bf7de27b2bdb5ce9d9265648808ec79ebea7bf436a194f6da89c1944"
+  },
+  "training_jobs": {
+    "A1": 2255055,
+    "A2": 2255093,
+    "A3": 2255094
+  },
+  "evaluation_recovery_jobs": {
+    "A2": 2269057,
+    "A3": 2269058
+  },
+  "comparison_audit_job": 2269059,
+  "unused_output_slot": {
+    "index": 28,
+    "reason": "The installed builder adds an unassigned sigmoid output slot; training target IDs remap to 0..27.",
+    "excluded_at_confidence_025": {
+      "A1": 0,
+      "A2": 2,
+      "A3": 1
+    },
+    "excluded_at_primary_confidence_050": {
+      "A1": 0,
+      "A2": 0,
+      "A3": 0
+    }
+  },
+  "final_integrity_audit": {
+    "status": "verified",
+    "source_image_files": 47,
+    "baseline_image_metadata_checked": 2316,
+    "annotations_crc32_unchanged": true,
+    "external_label_and_pretrained_hashes_unchanged": true,
+    "test_used": false
+  },
+  "test_used": false,
+  "algorithm_ast_fingerprint_format": "SHA-256 of sorted compact JSON AST node types and nonempty fields; excludes locations, None and empty lists (v1)"
+}
