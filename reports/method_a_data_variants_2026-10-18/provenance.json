@@ -11,12 +11,12 @@
   "recorded_aggregate_sha256": "794b76f07e1e823c10443ca6c9f4faba0245cde84cec719b7024a6a7f5ae083f",
   "frozen_training_source_sha256": "90b619343a816ba2203004096895357f981b0047699c3ba2c3a5fce1b321fec6",
   "unchanged_algorithm_ast_sha256": {
-    "prepare_datasets.py:plan_crops": "54dc2c0f63cab8c84fb6820428317bb41e3f6516c844c86798fb61c54766b918",
-    "prepare_datasets.py:intersection": "cd378f71903795dc9be296df0acd2c0382b967780c556fa65dfec82f6c6be9a8",
-    "focus_helpers.py:geometry": "a08c36812bcd432f6f91ac8bd55025b3796a2751acd43b4cbf120e888c403da6",
-    "focus_helpers.py:fused_tile": "a5fe508cabe93d0ab5f30cb0debb00577d64b4e4300b7039c445c0a1842598a9",
-    "evaluate.py:summarize": "479bc6b7119b4596f7668c2db40856e3a2be1aefa9380a8bef93ccc49a10b12e",
-    "spring_nms.py:deduplicate": "4c0fde3e23ecdefce4583a4cdccb88f77b7fb4ca1cddd72a113b7728837a1c51"
+    "prepare_datasets.py:plan_crops": "27c81e71525f05f615eab199e42df842c8bdf9a47e0dadf7a05f9576fd6a77c3",
+    "prepare_datasets.py:intersection": "e5e154f0b9fce4d2bbe8aae96d45172ca01f06c25b49edcf35629d975abe5241",
+    "focus_helpers.py:geometry": "07e33c32da8529410e18ab1e3a594e2b250485898ee069b02141ca4bf77363d0",
+    "focus_helpers.py:fused_tile": "6754f588deaff113c75ba4fb5609ecdc4b84d8875c80a56adc81574e25d5541f",
+    "evaluate.py:summarize": "89b1fd452b0ee86d53caf7072983666d8bb28f9e2cd8c8b35d3330eaa2dc3920",
+    "spring_nms.py:deduplicate": "f3e0e299bf7de27b2bdb5ce9d9265648808ec79ebea7bf436a194f6da89c1944"
   },
   "training_jobs": {
     "A1": 2255055,
@@ -50,5 +50,6 @@
     "external_label_and_pretrained_hashes_unchanged": true,
     "test_used": false
   },
-  "test_used": false
+  "test_used": false,
+  "algorithm_ast_fingerprint_format": "SHA-256 of sorted compact JSON AST node types and nonempty fields; excludes locations, None and empty lists (v1)"
 }

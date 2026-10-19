@@ -150,7 +150,8 @@ its accounting IDs describe the recorded run and recovery jobs, not future runs.
 The package exposes A1/A2/A3 aliases and environment-configurable locations, and
 formats the source for review. It does not retrain or change the recorded weights.
 The crop planner, geometry, LoG fusion, matching and deduplication functions retain
-the same AST as the executed source; recorded hashes are in
+the same AST as the executed source. The fingerprint omits locations and empty
+optional fields so Python version formatting does not affect identity; recorded hashes are in
 [provenance.json](../../../reports/method_a_data_variants_2026-10-18/provenance.json).
 This is a scoped code-identity check, not proof that every packaging change or
 future environment reproduces identical model behavior. Run

@@ -18,6 +18,27 @@ common = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(common)
 
 
+def algorithm_ast_sha256(node):
+    """Ignore locations and empty optional fields across Python AST versions."""
+
+    def normalize(value):
+        if isinstance(value, ast.AST):
+            return {
+                "type": type(value).__name__,
+                "fields": {
+                    key: normalize(child)
+                    for key, child in ast.iter_fields(value)
+                    if child is not None and child != []
+                },
+            }
+        if isinstance(value, list):
+            return [normalize(child) for child in value]
+        return value
+
+    payload = json.dumps(normalize(node), sort_keys=True, separators=(",", ":"))
+    return hashlib.sha256(payload.encode()).hexdigest()
+
+
 class VariantNamingTests(unittest.TestCase):
     def test_public_names_preserve_recorded_paths(self):
         expected = {"A1": "m1_positive_grid", "A2": "m2_retile_matched", "A3": "m2_retile_all"}
@@ -148,6 +169,14 @@ class RecordedResultsTests(unittest.TestCase):
         self.assertEqual(counts["A3"]["train_known_records"], 1605)
         self.assertEqual(counts["A3"]["train_images"], 1423)
 
+    def test_ast_fingerprint_ignores_optional_field_serialization(self):
+        node = ast.parse("def example(): pass").body[0]
+        expected = algorithm_ast_sha256(node)
+        node.type_params = []
+        self.assertEqual(algorithm_ast_sha256(node), expected)
+        node.returns = ast.Name(id="int", ctx=ast.Load())
+        self.assertNotEqual(algorithm_ast_sha256(node), expected)
+
     def test_selected_numerical_algorithms_match_executed_ast(self):
         for key, expected in self.provenance["unchanged_algorithm_ast_sha256"].items():
             filename, function = key.split(":")
@@ -155,7 +184,7 @@ class RecordedResultsTests(unittest.TestCase):
             node = next(
                 n for n in tree.body if isinstance(n, ast.FunctionDef) and n.name == function
             )
-            digest = hashlib.sha256(ast.dump(node, include_attributes=False).encode()).hexdigest()
+            digest = algorithm_ast_sha256(node)
             self.assertEqual(digest, expected, key)
 
     def test_reports_contain_aggregates_without_row_level_payloads(self):
