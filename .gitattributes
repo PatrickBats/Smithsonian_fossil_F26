@@ -10,6 +10,9 @@
 *.pptx binary
 *.docx binary
 *.png binary
+
+# Slurm entry points must retain Unix line endings on Windows checkouts.
+*.sbatch text eol=lf
 docs/sources/data/Fall_2026/*.ndpa -text -whitespace
 # CSV records include CRLF and literal source-label whitespace.
 data/**/*.csv -text -whitespace
