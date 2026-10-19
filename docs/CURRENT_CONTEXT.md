@@ -1,5 +1,17 @@
 # Current project context — September 21, 2026
 
+## October 19 fixed RGB detector-crop classifier comparison
+
+The existing RGB-corrected Abbas best-plane detector outputs were held fixed
+while the existing separate-slide 28-class DINO and Swin classifiers were
+compared without training. [Job 2274617 completed and passed all replay checks](../reports/rfdetr_rgb_dino_comparison/README.md):
+DINO correctly classified 125/258 detected validation objects (48.4%) versus
+Swin's 93/258 (36.0%), using the same boxes, focal planes and crops. End-to-end
+success on the 274 covered validation references was 45.6% versus 33.9%.
+This is a diagnostic: the original detector saw 13/14 validation slides during
+its training. Test remains unused. Raw artifacts and weights remain on NOTS;
+the repository holds code, reproduction instructions and aggregate findings.
+
 ## October 8 broad-category map
 
 Patrick requested a broad-first map. The [draft v1](../data/current/broad_v1/README.md) groups four Momipites labels into Momipites and two Caryapollenites labels into Caryapollenites; the other 26 labels remain unchanged, giving 28 groups. All 2,283 eligible specimens and both existing split memberships are preserved. Groupings are explicit name-based proposals for sponsor review, not inferred synonymy. Patrick subsequently authorized a [separate 28-group training comparison](../reports/broad_classification_2026-10-08/README.md) using Swin and partially fine-tuned DINO on both existing splits. Four fresh 40-epoch runs completed; frozen DINO is excluded. Broad-category validation accuracy is 42.94% / 70.61% for Swin and 50.14% / 74.35% for adapted DINO (separate / shared slides). RHF copies were verified; the final test remains unused. No final test evaluation or historical metric rewriting is included.

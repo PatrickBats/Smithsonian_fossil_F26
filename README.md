@@ -9,6 +9,7 @@ Check annotations → extract specimens → train and evaluate → classify new 
 ## Files
 
 - [Current project context](docs/CURRENT_CONTEXT.md)
+- [RGB RF-DETR crops: DINO vs Swin comparison](reports/rfdetr_rgb_dino_comparison/README.md)
 - [Correct working dataset — Fall 2026](data/current/README.md)
 
 - [Next steps](docs/NEXT_STEPS.md)
