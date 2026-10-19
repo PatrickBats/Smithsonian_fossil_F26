@@ -1,0 +1,382 @@
+{
+  "method": "A",
+  "variant": "A1",
+  "recorded_experiment": "m1_positive_grid",
+  "source_aggregate_sha256": "8f82f5814b4d42d75044a7730c1903b41fa55df705bc40448e8e9f057b97dd34",
+  "primary": {
+    "scope": "unchanged complete fixed-grid validation",
+    "validation_tiles": 1432,
+    "known_specimens": 274,
+    "detected": 84,
+    "end_to_end_correct": 46,
+    "known_specimen_recall_iou50": 0.30656934306569344,
+    "classification_accuracy_on_matched": 0.5476190476190477,
+    "end_to_end_known_specimen_success": 0.1678832116788321,
+    "macro_known_recall": 0.24429562485691092,
+    "macro_end_to_end_success": 0.07270802101030113,
+    "predictions_after_deduplication": 393,
+    "unmatched_prediction_count": 309,
+    "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+    "confidence_threshold": 0.5,
+    "match_iou": 0.5,
+    "per_class": [
+      {
+        "category": "Alnipollenites verus",
+        "support": 20,
+        "slide_file_support": 5,
+        "detected": 5,
+        "correct": 5,
+        "recall": 0.25,
+        "end_to_end_success": 0.25
+      },
+      {
+        "category": "Arecipites sp.",
+        "support": 9,
+        "slide_file_support": 4,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Betulaceae",
+        "support": 12,
+        "slide_file_support": 6,
+        "detected": 5,
+        "correct": 2,
+        "recall": 0.4166666666666667,
+        "end_to_end_success": 0.16666666666666666
+      },
+      {
+        "category": "Bisaccate",
+        "support": 31,
+        "slide_file_support": 10,
+        "detected": 19,
+        "correct": 19,
+        "recall": 0.6129032258064516,
+        "end_to_end_success": 0.6129032258064516
+      },
+      {
+        "category": "Bombacacidites sp.",
+        "support": 8,
+        "slide_file_support": 5,
+        "detected": 3,
+        "correct": 0,
+        "recall": 0.375,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Caryapollenites",
+        "support": 17,
+        "slide_file_support": 3,
+        "detected": 6,
+        "correct": 2,
+        "recall": 0.35294117647058826,
+        "end_to_end_success": 0.11764705882352941
+      },
+      {
+        "category": "Cicatricosisporites sp.",
+        "support": 1,
+        "slide_file_support": 1,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Cupuliferoipollenites sp.",
+        "support": 3,
+        "slide_file_support": 2,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Ericipites sp.",
+        "support": 3,
+        "slide_file_support": 3,
+        "detected": 2,
+        "correct": 0,
+        "recall": 0.6666666666666666,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Illexpollenites sp.",
+        "support": 3,
+        "slide_file_support": 1,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Inaperturopollenites sp.",
+        "support": 7,
+        "slide_file_support": 3,
+        "detected": 1,
+        "correct": 0,
+        "recall": 0.14285714285714285,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Laevigatosporites sp.",
+        "support": 3,
+        "slide_file_support": 2,
+        "detected": 1,
+        "correct": 0,
+        "recall": 0.3333333333333333,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Momipites",
+        "support": 38,
+        "slide_file_support": 7,
+        "detected": 21,
+        "correct": 13,
+        "recall": 0.5526315789473685,
+        "end_to_end_success": 0.34210526315789475
+      },
+      {
+        "category": "Monocolpites sp.",
+        "support": 16,
+        "slide_file_support": 6,
+        "detected": 1,
+        "correct": 1,
+        "recall": 0.0625,
+        "end_to_end_success": 0.0625
+      },
+      {
+        "category": "Nudopollis sp.",
+        "support": 2,
+        "slide_file_support": 1,
+        "detected": 2,
+        "correct": 0,
+        "recall": 1.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Pistillipollenites sp.",
+        "support": 1,
+        "slide_file_support": 1,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Platycarya platycarioides",
+        "support": 1,
+        "slide_file_support": 1,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Platycaryapollenites swasticoidus",
+        "support": 2,
+        "slide_file_support": 2,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Polyatriopollenites type",
+        "support": 7,
+        "slide_file_support": 2,
+        "detected": 1,
+        "correct": 0,
+        "recall": 0.14285714285714285,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Psilatricolpites sp.",
+        "support": 16,
+        "slide_file_support": 3,
+        "detected": 3,
+        "correct": 0,
+        "recall": 0.1875,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Psilatriletes sp.",
+        "support": 4,
+        "slide_file_support": 2,
+        "detected": 1,
+        "correct": 0,
+        "recall": 0.25,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Quercus sp.",
+        "support": 2,
+        "slide_file_support": 1,
+        "detected": 1,
+        "correct": 0,
+        "recall": 0.5,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Rhoipites sp.",
+        "support": 6,
+        "slide_file_support": 3,
+        "detected": 2,
+        "correct": 2,
+        "recall": 0.3333333333333333,
+        "end_to_end_success": 0.3333333333333333
+      },
+      {
+        "category": "Rousea sp.",
+        "support": 8,
+        "slide_file_support": 4,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Taxodium sp.",
+        "support": 29,
+        "slide_file_support": 5,
+        "detected": 2,
+        "correct": 1,
+        "recall": 0.06896551724137931,
+        "end_to_end_success": 0.034482758620689655
+      },
+      {
+        "category": "Tetracolporopollenites sp.",
+        "support": 2,
+        "slide_file_support": 1,
+        "detected": 0,
+        "correct": 0,
+        "recall": 0.0,
+        "end_to_end_success": 0.0
+      },
+      {
+        "category": "Ulmipollenites sp.",
+        "support": 23,
+        "slide_file_support": 4,
+        "detected": 8,
+        "correct": 1,
+        "recall": 0.34782608695652173,
+        "end_to_end_success": 0.043478260869565216
+      }
+    ],
+    "test_used": false,
+    "status": "completed",
+    "checkpoint_sha256": "3a62c98bf919e22e2ed6e1563df27e9775ddde163c92e88c5154ca487f770aeb",
+    "experiment": "m1_positive_grid"
+  },
+  "fixed_threshold_sweep": [
+    {
+      "scope": "unchanged complete fixed-grid validation",
+      "validation_tiles": 1432,
+      "known_specimens": 274,
+      "detected": 136,
+      "end_to_end_correct": 60,
+      "known_specimen_recall_iou50": 0.49635036496350365,
+      "classification_accuracy_on_matched": 0.4411764705882353,
+      "end_to_end_known_specimen_success": 0.21897810218978103,
+      "macro_known_recall": 0.43195092384763334,
+      "macro_end_to_end_success": 0.1065389932018822,
+      "predictions_after_deduplication": 787,
+      "unmatched_prediction_count": 651,
+      "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+      "confidence_threshold": 0.25,
+      "match_iou": 0.5,
+      "test_used": false
+    },
+    {
+      "scope": "positive-tile diagnostic",
+      "validation_tiles": 261,
+      "known_specimens": 274,
+      "detected": 136,
+      "end_to_end_correct": 60,
+      "known_specimen_recall_iou50": 0.49635036496350365,
+      "classification_accuracy_on_matched": 0.4411764705882353,
+      "end_to_end_known_specimen_success": 0.21897810218978103,
+      "macro_known_recall": 0.43195092384763334,
+      "macro_end_to_end_success": 0.1065389932018822,
+      "predictions_after_deduplication": 287,
+      "unmatched_prediction_count": 151,
+      "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+      "confidence_threshold": 0.25,
+      "match_iou": 0.5,
+      "test_used": false
+    },
+    {
+      "scope": "unchanged complete fixed-grid validation",
+      "validation_tiles": 1432,
+      "known_specimens": 274,
+      "detected": 84,
+      "end_to_end_correct": 46,
+      "known_specimen_recall_iou50": 0.30656934306569344,
+      "classification_accuracy_on_matched": 0.5476190476190477,
+      "end_to_end_known_specimen_success": 0.1678832116788321,
+      "macro_known_recall": 0.24429562485691092,
+      "macro_end_to_end_success": 0.07270802101030113,
+      "predictions_after_deduplication": 393,
+      "unmatched_prediction_count": 309,
+      "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+      "confidence_threshold": 0.5,
+      "match_iou": 0.5,
+      "test_used": false
+    },
+    {
+      "scope": "positive-tile diagnostic",
+      "validation_tiles": 261,
+      "known_specimens": 274,
+      "detected": 84,
+      "end_to_end_correct": 46,
+      "known_specimen_recall_iou50": 0.30656934306569344,
+      "classification_accuracy_on_matched": 0.5476190476190477,
+      "end_to_end_known_specimen_success": 0.1678832116788321,
+      "macro_known_recall": 0.24429562485691092,
+      "macro_end_to_end_success": 0.07270802101030113,
+      "predictions_after_deduplication": 165,
+      "unmatched_prediction_count": 81,
+      "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+      "confidence_threshold": 0.5,
+      "match_iou": 0.5,
+      "test_used": false
+    },
+    {
+      "scope": "unchanged complete fixed-grid validation",
+      "validation_tiles": 1432,
+      "known_specimens": 274,
+      "detected": 47,
+      "end_to_end_correct": 31,
+      "known_specimen_recall_iou50": 0.17153284671532848,
+      "classification_accuracy_on_matched": 0.6595744680851063,
+      "end_to_end_known_specimen_success": 0.11313868613138686,
+      "macro_known_recall": 0.13245480553219624,
+      "macro_end_to_end_success": 0.048855476742285485,
+      "predictions_after_deduplication": 162,
+      "unmatched_prediction_count": 115,
+      "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+      "confidence_threshold": 0.75,
+      "match_iou": 0.5,
+      "test_used": false
+    },
+    {
+      "scope": "positive-tile diagnostic",
+      "validation_tiles": 261,
+      "known_specimens": 274,
+      "detected": 47,
+      "end_to_end_correct": 31,
+      "known_specimen_recall_iou50": 0.17153284671532848,
+      "classification_accuracy_on_matched": 0.6595744680851063,
+      "end_to_end_known_specimen_success": 0.11313868613138686,
+      "macro_known_recall": 0.13245480553219624,
+      "macro_end_to_end_success": 0.048855476742285485,
+      "predictions_after_deduplication": 72,
+      "unmatched_prediction_count": 25,
+      "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+      "confidence_threshold": 0.75,
+      "match_iou": 0.5,
+      "test_used": false
+    }
+  ]
+}

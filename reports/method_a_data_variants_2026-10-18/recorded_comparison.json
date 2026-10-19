@@ -1,0 +1,58 @@
+{
+  "status": "completed",
+  "validation_known_references": 274,
+  "validation_tiles": 1432,
+  "primary_confidence": 0.5,
+  "experiments": [
+    {
+      "experiment": "m1_positive_grid",
+      "training_tiles": 884,
+      "training_known_records": 1061,
+      "optimizer_steps": 2400,
+      "detected": 84,
+      "end_to_end_correct": 46,
+      "known_recall": 0.30656934306569344,
+      "end_to_end_success": 0.1678832116788321,
+      "unmatched_predictions": 309,
+      "checkpoint_sha256": "3a62c98bf919e22e2ed6e1563df27e9775ddde163c92e88c5154ca487f770aeb"
+    },
+    {
+      "experiment": "m2_retile_matched",
+      "training_tiles": 918,
+      "training_known_records": 1063,
+      "optimizer_steps": 2400,
+      "detected": 101,
+      "end_to_end_correct": 46,
+      "known_recall": 0.3686131386861314,
+      "end_to_end_success": 0.1678832116788321,
+      "unmatched_predictions": 347,
+      "checkpoint_sha256": "1c1f19eefadd2bad05a4b6d77d1b206acf47358faf2b64c3cda74254c3de9236"
+    },
+    {
+      "experiment": "m2_retile_all",
+      "training_tiles": 1423,
+      "training_known_records": 1605,
+      "optimizer_steps": 2400,
+      "detected": 99,
+      "end_to_end_correct": 55,
+      "known_recall": 0.3613138686131387,
+      "end_to_end_success": 0.20072992700729927,
+      "unmatched_predictions": 337,
+      "checkpoint_sha256": "bf4c64e99c3ccfc8406bafa8f2906a706d9e3378673cac730c638d17eed8f117"
+    }
+  ],
+  "baseline": {
+    "training_tiles": 5152,
+    "detected": 24,
+    "end_to_end_correct": 20,
+    "known_recall": 0.08759124087591241,
+    "end_to_end_success": 0.072992700729927,
+    "warning": "Historical baseline differs in schedule, augmentation and checkpoint selection; comparisons are not a pure tile-selection ablation."
+  },
+  "limits": [
+    "Sparse annotations: full-scene precision/AP and total pollen recall are unknown.",
+    "Matched-anchor crop dataset includes 2 incidentally supervised previously uncovered records.",
+    "Padding changes training image context; all new runs use the same native object scale."
+  ],
+  "test_used": false
+}

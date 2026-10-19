@@ -1,0 +1,54 @@
+{
+  "method": "A",
+  "results_verified": "2026-10-18",
+  "packaged": "2026-10-19",
+  "architecture": "RFDETR2XLarge",
+  "num_target_classes": 28,
+  "model_resolution": 1000,
+  "optimizer_steps_per_variant": 2400,
+  "seed": 20261013,
+  "pretrained_sha256": "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+  "recorded_aggregate_sha256": "794b76f07e1e823c10443ca6c9f4faba0245cde84cec719b7024a6a7f5ae083f",
+  "frozen_training_source_sha256": "90b619343a816ba2203004096895357f981b0047699c3ba2c3a5fce1b321fec6",
+  "unchanged_algorithm_ast_sha256": {
+    "prepare_datasets.py:plan_crops": "54dc2c0f63cab8c84fb6820428317bb41e3f6516c844c86798fb61c54766b918",
+    "prepare_datasets.py:intersection": "cd378f71903795dc9be296df0acd2c0382b967780c556fa65dfec82f6c6be9a8",
+    "focus_helpers.py:geometry": "a08c36812bcd432f6f91ac8bd55025b3796a2751acd43b4cbf120e888c403da6",
+    "focus_helpers.py:fused_tile": "a5fe508cabe93d0ab5f30cb0debb00577d64b4e4300b7039c445c0a1842598a9",
+    "evaluate.py:summarize": "479bc6b7119b4596f7668c2db40856e3a2be1aefa9380a8bef93ccc49a10b12e",
+    "spring_nms.py:deduplicate": "4c0fde3e23ecdefce4583a4cdccb88f77b7fb4ca1cddd72a113b7728837a1c51"
+  },
+  "training_jobs": {
+    "A1": 2255055,
+    "A2": 2255093,
+    "A3": 2255094
+  },
+  "evaluation_recovery_jobs": {
+    "A2": 2269057,
+    "A3": 2269058
+  },
+  "comparison_audit_job": 2269059,
+  "unused_output_slot": {
+    "index": 28,
+    "reason": "The installed builder adds an unassigned sigmoid output slot; training target IDs remap to 0..27.",
+    "excluded_at_confidence_025": {
+      "A1": 0,
+      "A2": 2,
+      "A3": 1
+    },
+    "excluded_at_primary_confidence_050": {
+      "A1": 0,
+      "A2": 0,
+      "A3": 0
+    }
+  },
+  "final_integrity_audit": {
+    "status": "verified",
+    "source_image_files": 47,
+    "baseline_image_metadata_checked": 2316,
+    "annotations_crc32_unchanged": true,
+    "external_label_and_pretrained_hashes_unchanged": true,
+    "test_used": false
+  },
+  "test_used": false
+}
