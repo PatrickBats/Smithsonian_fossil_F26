@@ -1,0 +1,115 @@
+{
+  "status": "complete",
+  "report_date": "2026-10-14",
+  "experiment": "Method A confidence threshold sweep",
+  "results_provenance": "Experimental counts and aggregate metrics manually checked by the experimenter against the completed NOTS aggregate summary.json; this does not establish independent verification of all runtime artifacts or hashes.",
+  "model": "RFDETR2XLarge",
+  "num_classes": 28,
+  "retraining_performed": false,
+  "scope": "shared fixed-grid annotated-ROI validation",
+  "validation_tiles": 1432,
+  "validation_slides": 14,
+  "known_specimens": 274,
+  "test_used": false,
+  "inference_threshold": 0.05,
+  "match_iou": 0.5,
+  "deduplication_iou": 0.5,
+  "evaluation_protocol": {
+    "inference": "One library inference pass at confidence 0.05",
+    "filter": "score >= threshold",
+    "per_threshold_processing": [
+      "confidence filtering",
+      "cross-tile deduplication within each slide",
+      "class-independent one-to-one GT matching"
+    ],
+    "matching": "Greedy descending-IoU assignment of eligible pairs at IoU >= 0.50; category correctness assessed after matching",
+    "deduplication": "Shared Spring boundary-aware routine; not class-aware"
+  },
+  "definitions": {
+    "raw_predictions": "Library-returned detections retained at each confidence threshold before cross-tile deduplication; not unfiltered logits",
+    "localized_gt": "Known references matched irrespective of category",
+    "localization_recall": "localized_gt / known_specimens",
+    "correctly_classified_gt": "Known references with both correct localization and category",
+    "unmatched_predictions": "Deduplicated predictions not assigned to a known reference; unreviewed, not confirmed false positives"
+  },
+  "threshold_results": [
+    {
+      "confidence_threshold": 0.05,
+      "raw_predictions": 3805,
+      "deduplicated_predictions": 2764,
+      "localized_gt": 205,
+      "correctly_classified_gt": 40,
+      "unmatched_predictions": 2559,
+      "known_specimen_recall_iou50": 0.7481751824817519,
+      "classification_accuracy_on_matched": 0.1951219512195122,
+      "end_to_end_known_specimen_success": 0.145985401459854
+    },
+    {
+      "confidence_threshold": 0.1,
+      "raw_predictions": 1148,
+      "deduplicated_predictions": 875,
+      "localized_gt": 137,
+      "correctly_classified_gt": 32,
+      "unmatched_predictions": 738,
+      "known_specimen_recall_iou50": 0.5,
+      "classification_accuracy_on_matched": 0.23357664233576642,
+      "end_to_end_known_specimen_success": 0.11678832116788321
+    },
+    {
+      "confidence_threshold": 0.3,
+      "raw_predictions": 123,
+      "deduplicated_predictions": 105,
+      "localized_gt": 58,
+      "correctly_classified_gt": 37,
+      "unmatched_predictions": 47,
+      "known_specimen_recall_iou50": 0.2116788321167883,
+      "classification_accuracy_on_matched": 0.6379310344827587,
+      "end_to_end_known_specimen_success": 0.13503649635036497
+    },
+    {
+      "confidence_threshold": 0.5,
+      "raw_predictions": 41,
+      "deduplicated_predictions": 35,
+      "localized_gt": 24,
+      "correctly_classified_gt": 20,
+      "unmatched_predictions": 11,
+      "known_specimen_recall_iou50": 0.08759124087591241,
+      "classification_accuracy_on_matched": 0.8333333333333334,
+      "end_to_end_known_specimen_success": 0.072992700729927
+    }
+  ],
+  "limitations": [
+    "Incomplete annotations prevent interpreting unmatched predictions as confirmed false positives or establishing full-scene precision/AP.",
+    "Threshold-dependent category correctness requires further investigation; per-threshold assignments can change.",
+    "Validation ROI-grid results do not establish whole-slide or held-out test performance.",
+    "The inherited 28-class mapping includes draft sponsor-review merges."
+  ],
+  "locations": {
+    "evaluator": "scripts/method_a_error_analysis/evaluate_confidence_sweep.py",
+    "slurm": "scripts/method_a_error_analysis/run_confidence_sweep.sbatch",
+    "nots_output": "/home/yk86/method_a_reproduction/confidence_sweep_572340f1e8a142c2940a3d75f7f7d5ed/",
+    "source_root": "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_focus_stack_v1/",
+    "checkpoint": "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_focus_stack_v1/run_artifacts/detector/checkpoint_best_total.pth"
+  },
+  "reproducibility": {
+    "runtime_provenance_file": "run_contract.json",
+    "raw_predictions_file": "raw_tile_predictions.jsonl",
+    "reference_file": "known_references.json",
+    "per_threshold_files": [
+      "summary.json",
+      "predictions.json",
+      "known_reference_results.json"
+    ],
+    "note": "File names and provenance behavior verified in evaluator source. Experimental counts, aggregate metrics, checkpoint SHA256 and baseline check were manually checked by the experimenter against the completed NOTS aggregate summary.json; other runtime artifacts and hashes were not independently verified."
+  },
+  "checkpoint_sha256": "c7dc1fe0e01aadf78c9a30ca1431212a9bb9e68709048100bd094f2adb952afd",
+  "baseline_check": {
+    "confidence_threshold": 0.5,
+    "expected_at_0_50": {
+      "localized": 24,
+      "correct": 20
+    },
+    "reproduces_reported_counts": true,
+    "verification": "Manually checked against completed NOTS aggregate summary.json; matches Bob's reported results."
+  }
+}
