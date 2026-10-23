@@ -1,0 +1,7135 @@
+{
+  "tiles": 1423,
+  "known_boxes": 1768,
+  "detections": 4741,
+  "ignore_boxes": 3102,
+  "tiles_with_ignore": 967,
+  "known_boxes_hit_by_detector": 1624,
+  "per_tile": {
+    "780bf93bfe3ca4878217ae51.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "bfadef77e41c70d70ed1d36c.png": {
+      "known": 2,
+      "detected": 10,
+      "ignore": 8
+    },
+    "2efacef107cff01c838ff88f.png": {
+      "known": 3,
+      "detected": 9,
+      "ignore": 6
+    },
+    "e818486c1b580e882b36086a.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 5
+    },
+    "4b8cb41b2d7bd49b86e2ddb2.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 4
+    },
+    "5a133d4dd5ade53cfd506d1e.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 4
+    },
+    "8b699ef7032eabc481788948.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "e84e721963d3341c3620b04b.png": {
+      "known": 3,
+      "detected": 6,
+      "ignore": 3
+    },
+    "25e8c5d4a474d4cb2182abb6.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "be8509f2188ccf3567fb4e8b.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 10
+    },
+    "c2a2b8a47873011ad231a16a.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "6c6ee66cc7ad71d964a30ade.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "8fc5cc11cd521c9045243f8e.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "350460a3ad667a8a5c4a972b.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 4
+    },
+    "0dc492ee3e30a897fa05da2e.png": {
+      "known": 4,
+      "detected": 6,
+      "ignore": 2
+    },
+    "df7b2c3dca6b9f100fd36468.png": {
+      "known": 4,
+      "detected": 8,
+      "ignore": 4
+    },
+    "b73ccbbd36cf239d254f1d42.png": {
+      "known": 2,
+      "detected": 11,
+      "ignore": 9
+    },
+    "2e57f6814aceb1149ddcaba1.png": {
+      "known": 5,
+      "detected": 6,
+      "ignore": 1
+    },
+    "19a0c556235c4de47aea1235.png": {
+      "known": 3,
+      "detected": 13,
+      "ignore": 10
+    },
+    "7118937aadc6fb734154a9fe.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "ea37c2aeefc925e2c142b663.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "7465570465b84638cafc0f49.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "c2f4a710ab5c9a5cbe3f9aed.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 3
+    },
+    "831e835ee6e216563b8178db.png": {
+      "known": 1,
+      "detected": 17,
+      "ignore": 16
+    },
+    "f8fe7eb37d800b9d3d5744eb.png": {
+      "known": 4,
+      "detected": 8,
+      "ignore": 5
+    },
+    "db15aa53d8572855b3b9ad30.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "51126d020247b783b409a0ee.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "dd634842d0eafb1586528850.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "d8e6100e12d6c0fd01f23f2f.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "3bef5b3cc94816c667ef892d.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "70e9c0f7f7374050b1abfab8.png": {
+      "known": 3,
+      "detected": 8,
+      "ignore": 6
+    },
+    "5d53df47ece51bdb631e8b7e.png": {
+      "known": 3,
+      "detected": 15,
+      "ignore": 12
+    },
+    "a10c81ce873e8b7a38d629e0.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "094947e47e6cb6d4f2ee291c.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "ae811e8a3a7e6841619da714.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "73b2caaac4652bef3e25b440.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "3be838dd19eab339faef9545.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "82df37e9fa02c1afe8cf39cf.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "fa0e79a21443829cfb4d5ffc.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "cd5e20bfcc2cc621f12edfa7.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "82142af563c40439aad856dd.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "61ba59bbddb87758c50c1f7e.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "0bdc906a14fe8a81080731da.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "c149fb87d6e3568f47b122e2.png": {
+      "known": 1,
+      "detected": 12,
+      "ignore": 11
+    },
+    "b7afe4c7fbd54cdc17a56b8c.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "c496ecb46a5ce3cc95e401e8.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "cf53ac89f60e5bd8dd6cc950.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "985b6a24217fb081eca55da2.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "b01cf5f0103a5af3fdf86e21.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "590aa850954cc34974f02fac.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "650931b9f25bf4d96bdd7e98.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "772a8c8340e6b7ac83e3caf4.png": {
+      "known": 1,
+      "detected": 13,
+      "ignore": 13
+    },
+    "cf6afcc83d2829786b162692.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 7
+    },
+    "b6fd46f494cbc8db17584b3a.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "b3451be4213ab70e97643a07.png": {
+      "known": 1,
+      "detected": 12,
+      "ignore": 12
+    },
+    "97ac16d92ec40acccf2d8544.png": {
+      "known": 2,
+      "detected": 10,
+      "ignore": 8
+    },
+    "51dc9d664a9012ad1c609e4c.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 8
+    },
+    "b4a2ef079b21866ec84c5989.png": {
+      "known": 3,
+      "detected": 10,
+      "ignore": 8
+    },
+    "114314b82f9064cbdad1347a.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 7
+    },
+    "6f2382973e9b2220070f41dd.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 7
+    },
+    "7f59a3c53f311aba569a8e3d.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "8538188e9bdfb770f0b984b0.png": {
+      "known": 1,
+      "detected": 14,
+      "ignore": 14
+    },
+    "144ac618310cd4f6d2173c0b.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 8
+    },
+    "7b3712e69f600bbb6d352c6a.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "edcfb3225a286429afeedadb.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 10
+    },
+    "fd7294328e1b02b4bef7ead8.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 4
+    },
+    "46d6ce81c00407e453b91685.png": {
+      "known": 3,
+      "detected": 9,
+      "ignore": 6
+    },
+    "cfc1fd92d3d6647c19a23c80.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "66b4a5a98b516db491c102bf.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "e27fb68d1a89f2aded8b265c.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "6d849b8951c619429ad52a69.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "eaabd5de7159ee0683130d6e.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "12e36e7bdb6b8812ed652b9e.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "689dee00fc3eeaddfbb67c1a.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "4cfd0e742fc53dee67948809.png": {
+      "known": 1,
+      "detected": 13,
+      "ignore": 13
+    },
+    "9530ab31adce011672384849.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 4
+    },
+    "79c4f95684a536b0028cf6c0.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "3f1133e48e8e58ec68f4b3e5.png": {
+      "known": 3,
+      "detected": 11,
+      "ignore": 8
+    },
+    "e91fd892e79fb19fbb0c714e.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "a86a8ef3e9625aefc7d366b7.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "a7ccdddf49c46e2a9f91cd3a.png": {
+      "known": 2,
+      "detected": 10,
+      "ignore": 8
+    },
+    "d314f6a4a3310a675150cd68.png": {
+      "known": 2,
+      "detected": 10,
+      "ignore": 9
+    },
+    "72555a43d1fdf79dab59d298.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 6
+    },
+    "96e075af8ae90e73865a58a8.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "7c7f396b56d4631402d39189.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 8
+    },
+    "47ba68553b645f69ac9c20bd.png": {
+      "known": 1,
+      "detected": 12,
+      "ignore": 12
+    },
+    "8e8853d403db4d0283be5f40.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "0bc1cceaede12021190d70b7.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "3ae2e29057a1a83aeff8c839.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "37375fc0f54feb23246cec75.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "c42b0a1f259b6c96da24ae52.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "c195f52d3944e862e48d5d2f.png": {
+      "known": 2,
+      "detected": 10,
+      "ignore": 8
+    },
+    "dd6722e7da034ccfb34f0b29.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "89b5c8cdf01b98445c683f3f.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "156b3aeaff21339db4f62cca.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "a85b38effc467251f830ea7a.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 6
+    },
+    "a86c85f168cf3d7837e8e27f.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "74ca74d6cf1d7da0323de2e5.png": {
+      "known": 1,
+      "detected": 15,
+      "ignore": 14
+    },
+    "7e80a029de8cdc49e3b66faf.png": {
+      "known": 4,
+      "detected": 10,
+      "ignore": 6
+    },
+    "ea14cab19e0f8ac81597b333.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "fe772b77f3a5fffda886586c.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "00687d3fb7c5bd64fbe31c0a.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "d7b7ba304f9a85aacb51b12d.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "db591124c87e0fcd8baaac67.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "374c67d280cd4e17b5b3f508.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "8fea3b1a38fcf90d0b035972.png": {
+      "known": 2,
+      "detected": 10,
+      "ignore": 8
+    },
+    "7748344fe71c7e7c0fe94110.png": {
+      "known": 3,
+      "detected": 6,
+      "ignore": 3
+    },
+    "6209ef98f75d3eed668ac3d0.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "d2f47da33e201d754d7aafd4.png": {
+      "known": 2,
+      "detected": 9,
+      "ignore": 7
+    },
+    "341c29a627d934f81652ac91.png": {
+      "known": 2,
+      "detected": 9,
+      "ignore": 7
+    },
+    "7ef1dd452efb3e303d48ca7b.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "a61319cdcd3283154c3e0d8a.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "0751dc22c0853b72cb5136fc.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2c7f0313a5befff94aa43e73.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "aec9ae8bd21cf0482b667a4e.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "6ffb7a5f6f8fd15802479d8c.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 3
+    },
+    "779a9a40c147087a2c476459.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "98ad20a265fd3e69940c263e.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "ff9be40dcee391fba9f1cc39.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "34d217fc7f0400cab1d963d1.png": {
+      "known": 1,
+      "detected": 12,
+      "ignore": 11
+    },
+    "022895cf2a864249906aab40.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "2c5896826f45807978ff0b78.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "fc8776a7f760e84246b4c3d2.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 4
+    },
+    "3851f07a9471c472fa872e44.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "7586cf6a5d472c02fc1d04db.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "d445b36b6ce5e418909f9cda.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "49ef53ce4434dc5135367ef9.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 10
+    },
+    "95b96f1d6be940d85cd35ddc.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "2f6d96f8a1d0e2f3f4b1fea7.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "abb36a1306432e7c914dd66d.png": {
+      "known": 2,
+      "detected": 12,
+      "ignore": 10
+    },
+    "9594d6d09de2ad0cdb5a70d8.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "7aca9772e2724906ed3cbd05.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 10
+    },
+    "ff3a761a83b6751113dd0937.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 5
+    },
+    "58837a4af99ca0ed144d58ca.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "d13bb224750dc5fccddec999.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 11
+    },
+    "faf6e9ec28dc78b54f0ed812.png": {
+      "known": 3,
+      "detected": 8,
+      "ignore": 7
+    },
+    "a1a7145318c6f47207f61f46.png": {
+      "known": 3,
+      "detected": 11,
+      "ignore": 9
+    },
+    "510b8c20026e0de6c52d8951.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "2aa02faaf844a1528458e1c2.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "921dc97a69f6fa5cd649d09b.png": {
+      "known": 1,
+      "detected": 13,
+      "ignore": 13
+    },
+    "5e661b83f8213262465fb72d.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 11
+    },
+    "22d44326c7f5c2c9ddf20f94.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 5
+    },
+    "f010779996ae734a591385bc.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "b3c1b8fa356b9a09d05aba6c.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "8f979cd710836b1698ecefd3.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "8c507b0ac5f0d55e87991cc7.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 9
+    },
+    "14fc3ff20d161fccc7170b48.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "3985afa8417ce907ac8b38a1.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 10
+    },
+    "8de4998f76a760edf371d5c5.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 10
+    },
+    "8c44b53b683ec79180c3b143.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 3
+    },
+    "522bef5f5d9e485d16081ca0.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "0b1e2049778e32241fd43413.png": {
+      "known": 2,
+      "detected": 9,
+      "ignore": 9
+    },
+    "8be41b5797b2964d2c3bd2b4.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 8
+    },
+    "c1aea897b426768c5a350035.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 5
+    },
+    "f474937d8431df47e38b00d3.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 2
+    },
+    "06b2bd25171f6cf23d4d4b55.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 7
+    },
+    "c96e77f8a32ad32f87b25d0f.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "50896d2d7e61998a12366087.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 9
+    },
+    "f662379b9b182251e5861aca.png": {
+      "known": 2,
+      "detected": 10,
+      "ignore": 10
+    },
+    "3b78283cf43dbc523544334d.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 9
+    },
+    "cf0872544fbd4097a95a7b36.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 7
+    },
+    "2eb6e47217ce7a61011fb58f.png": {
+      "known": 3,
+      "detected": 11,
+      "ignore": 9
+    },
+    "21bd5b36078b46ecc1488df5.png": {
+      "known": 1,
+      "detected": 12,
+      "ignore": 12
+    },
+    "b86567687c43ab73700e9677.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 8
+    },
+    "fb0b50929ce967aa56870550.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "b7154711514961f104be2fd3.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 3
+    },
+    "fbd7816c4cafd476a8fa3b43.png": {
+      "known": 3,
+      "detected": 5,
+      "ignore": 4
+    },
+    "908fc6e90a69b54a98031f36.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "f07598dd1b399e395e246677.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 5
+    },
+    "a49b9aabd50ebab913412ad8.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 5
+    },
+    "6bc4b75d9ca92867248532f9.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 7
+    },
+    "3c25df91cf8b152a8a8d317a.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 8
+    },
+    "9c8d111ed6324c53bd097ed4.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 9
+    },
+    "c82b8c8345ef29b35f3c52b2.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "386bb9a76fbc1f22eb3c89ed.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "482d61cf5dce51aa5648f2d3.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 10
+    },
+    "6b4787d3dc0aab4e10af38a9.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "8cb0120879382ca3688f1544.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "62f93ec9ebe25cb9ea08d304.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "fcbffbbee395f106263c3826.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "dbd7b5cde4b3b7f8c85d94d5.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "9fe8bc48eacdbf1d379aaa37.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "35a96ef2c33d71e6f08dd5e9.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 6
+    },
+    "44b17a4a40ecc5a0fc42dd33.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 3
+    },
+    "a24efd52a46699fd7a9c1514.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "ac493c8218f49124f6fd080b.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 10
+    },
+    "f5880891fef495de44f9d7ac.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "1d3948441d80b411185ab75e.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "6cfa38dbfce007059d7189af.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "8174f8e3cc8f255c479efae3.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "9abf39698f6281366e385bf6.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "08267b2bea1ba124703d57a6.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "7ff371e2888c18b9f88a87bb.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "b673a6b8180eb8267de50dc2.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 7
+    },
+    "9cfc7e4ede77b53a4ee3164f.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "22fe2ee6dd58135a32af5159.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 10
+    },
+    "fa974b16fe512f94f9b04cd8.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "4c668c6bb6ab8eadb899b63c.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 7
+    },
+    "4dfaf8ef1cdf486ecf365811.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "c797b935d5ad293683329df1.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "235eb0d95d6737ec977220c9.png": {
+      "known": 2,
+      "detected": 15,
+      "ignore": 14
+    },
+    "13b9898ce3d29e48d3853cb4.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "dfede0bc0a2f34a452fe4c3f.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 8
+    },
+    "ca89dfeff33a37463944b1cc.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "6f32539b07aa6bdcdc63122d.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "3f7c899f29dec4eab321a6a2.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "2843b729b7d6c9e32c08a0a9.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "24d76ecfe04aabc89562fe09.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 9
+    },
+    "207c82e712960207ec91c916.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "896e3588dfe3a4b2cb7f2842.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "b8ad4c1403650ca75ed02148.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "2424a9a561811ab360945013.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "43cec10ec586a69a4cbdd559.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "04ac3e86c523d0dc4a858dc9.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "c4bc690b77e1290c32a7f48e.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "60f473a37b581d944af58baa.png": {
+      "known": 3,
+      "detected": 8,
+      "ignore": 6
+    },
+    "9d512e52064dad6721a03ee0.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "2237958b874c696a94943a93.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 5
+    },
+    "bd44220982e49c14a9c63a0a.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "2b1897b4186910f76a8c1cfc.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 10
+    },
+    "97f4f0c54ab359f5bfd0f122.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "0a03c0529962774ddb4732ba.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "9c338bf51781a2ebd9b60dd2.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "2c9c98e432dedb38caa369bb.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "f2786bdd4b8927525cc32620.png": {
+      "known": 3,
+      "detected": 8,
+      "ignore": 6
+    },
+    "e07610c90abd24d56a521eaf.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "e3b68190783bb3d3e8c952fa.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "26964f3dcafcb558f8529097.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "445973afb0f9540a438f8856.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "52fb171eda5876a91f49e0ea.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "9e60d9c1126f1d4f9eee5483.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "487cb37e551d3ac68ed6a64b.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "b84e46231f0616e340042a22.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "28859f89a91c6297bb25acba.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5b391adf3859b9fbbd646508.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "7ed0e81c88a4cbb9890944a6.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "a80bdb9eb18db3312e55f88a.png": {
+      "known": 2,
+      "detected": 9,
+      "ignore": 7
+    },
+    "5ac8b892041e863d8e042f9f.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "dc62e378617748dd28d93180.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "359844cc31f78370faee5043.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "eee9ec85c165ade48eb06ac4.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "aef1fc8535d156770bddb9c1.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "d01f5116c7e5875a1d5a73a7.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "a57d0153fdf48ea1afd4e652.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "714fc12d7c001391a1ef6004.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "30de4306c1ce037ae783f11f.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "77af0c7640afca2f1fdc2ecb.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "e8f79036482457a43c1afecf.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 4
+    },
+    "36bd23f0cfa9e792023592ca.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "4f326abaa03e45bf5a628460.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 10
+    },
+    "9b9c226dbb32b89561f4663b.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "54e21e49499da1d922739f9a.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "4a255c9fe9ae302ea9b997da.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "163ef4eaecc5e2b8395d2100.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ac9d3d90af172a8960b3b04f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b4220db77ef1d14e5d685aea.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "34f6f0d2f4a2443b5f43bd73.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2b8538e41b0e16a6fa4057c7.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6e5e3b6e05ba898c731b440c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e09fb4b6f5721d2f3a6dbeb4.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "b349da1c9cbf64e696d377b4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8382d80c79bcee38a0e4cd2c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "65023e23e419cee1a38b9213.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ee9c1e82a2875173cb203a7e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1bb5b4315ee0e4f18ae04d4b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "21f340780995557d2dadfc4d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "228f41ee290f3a86cf481bb9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ca31741d8f26bf88b2ac5e3c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5eec231fa1e1d40152d68592.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ccaa1b21a146acc5297bb3f1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7dbdf8827e17e01baacd8525.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "485230b2e5f7e9c41ace2172.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9dd384dcc17d0413e65a43a5.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "067f018b2ece83ca08db22b4.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6c0412c0f6f231fe17870bb2.png": {
+      "known": 3,
+      "detected": 5,
+      "ignore": 2
+    },
+    "ba0cdf7a0edb3395746416ad.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 1
+    },
+    "79f56eb1835eb0f1a29173b8.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "124c6090f532e34f45173829.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "546c478663eafaea79d7a7c3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "0cb79feb3a359d85c4fd52e9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5af66e9532ca7e07d6be989a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "26332e94e5f6a9f561782624.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "b7a846b493c06af4bb84c013.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "050bd86daacce8169b23af6b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2e7afaadd186964c61689170.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ba33bfd1a7b5743aca0b1f4d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "cfd160453d1c099503499230.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "91d7442b354d65e40b2a01ac.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "38bfd4a67f7905ade04966fc.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f68464ca617f73c487d21feb.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "5849d63ca131219ac0ef1ea3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "a969b3f173d943b3d1f151fe.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5c87edb3f73cc865cb802b13.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5a750539ebf68d7969c60a0d.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "1b861888cdb0fc56ae6b87c4.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5e123f913105d8af22273fe7.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a0537c03b04d67cb581b6132.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "316015703ce60ef898e8f2bc.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "db0c74e0afaabaa6ea0b78c5.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6eb52990affbfadede29ad47.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "23292185deced35dfa5c18bb.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e9332dba178b2f819966076d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "67147cdc0623ec114f12e395.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "1bd43dca47f793540dc1253c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2b7e2364159b2d8c4438395e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3089692c5985839fb1417114.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "759fe3183f2215c3e2a7e180.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "ef6f90081b9e13ed525e9671.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "1c271e0aa28bda5d2327d093.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "190c992896ae1596f80e3690.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d48c2e6c33e0a206384cef5e.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "dcffec0732253446939e8b44.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 1
+    },
+    "61804b84b4aa9aef0fd97782.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "158afa3df7edc33a8b5950e7.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "3e7a3311022f1594e1619292.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5ed379c8ea1d61e99c4ad067.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6558d8c815f953e6054daf4d.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 4
+    },
+    "4865d202e7807fe5798f4163.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3a025f822d92dd8e041731e1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d50cf115995b58e3dd1a43ee.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b07d7615c68fce1dec55eecb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7f3b3ef5b72a1144c6284270.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "d0a76ed0a4f9a9d41c6046f7.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "aff48b1892d34c9db91c08a4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "25e50aef0fb337e54683def2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c65eea89744bb87da6f1923a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "72903ebb13815deb09180e8f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ed1e684df8d068d17641d288.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4c236fb94702f4f7fd2823d1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "992bfdcf036c483d4b03c258.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "0e72b84c1f532b0df6a8269c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f785688340b986e3e9809e54.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e83f4d0520e1e49a7231bf84.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f228d82a313025db6d4cb847.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "158a8cb6e979ab1878bedf2e.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "8195712adaf1f1b1068d1dd6.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c5047c09e497f858bf797e7c.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "021c39453036e20a24432792.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "805ae938566341b435d6d36d.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "f002e0f5d58aad254d400eb6.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b6b259ca88a91d35c63a0d7e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "a7b13e7142f9bf622366c0e9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c6b16fe919b73d2face5171a.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "2a3bfdf83e6678701ceadec1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "afcfc4c6f7116e0d960af6f8.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "aedc03ab5eefc5e82fa98600.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "b8b3b9ceb50a98cc2e13b493.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "23e436889189eeb5de4accbe.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "4193b86eae068936c1fdda70.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d1ae28ace22681d1a4cb4d15.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "fecd384e396d2acb72884e1e.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "4e995eafaef72c7c183c0e6e.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "84031752b6c6a9839510455a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8ed4bffb42d42a012daefab6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1af19518c1858edc548d1f9b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f3cd1f6c4f5ab379f497dc97.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3dc3cb6e2d2eb2ff07798a51.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f5921dadc126cc628cf99315.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3a2c03046b3fc7b4821a6aa5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b87f65644cf33f9132be30f4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "97e6ba593b20a1294db696ef.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "e129fa4bf27d369b1a47eba9.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "116f4374400233c1844d6796.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "cf677e3aed6f88e7c5bb9775.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "0a3fd3a23ab78c8773e16c96.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "cf03fc0f77a3c3c47f905e25.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "73aa5416fa8bb9c42358c3a0.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5d890589891d0dd43e254ab0.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "51e99c526908e6ec9a5465b3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "1505b2e9e19a5303fa4c944a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "83e53b9b9e4e1fa6743081ac.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ca2b38f1971c7cc5ae5b978f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e3f511b0b30f6bfcc42eabf0.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bc8a18d330e9816529943e35.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "189b5fa3890bbdfc51c2ada1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "386d73d294142a02f781eaab.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "581114c9bd0528f60e02475f.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "3c6200b15c45c8fed5cdaff8.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f9851c6910da4f6220057266.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "36addd472ddfe9e076e300df.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "e78f15f8745dd3250a0a54ec.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "4362dd6bc44249fe3e6ec736.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "05334c9c4cd4f3bb54f46689.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8fd4089bd0968615d5c631f4.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e9465333dbb98ae904ad6626.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "1c8610d826efbc82f1b5e3e6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "227ca5408fdcfd2ceec7b392.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "c96e7920478aa08d489e96f7.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "6922b7455ecdb7aa12ff72dd.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "67942cf6907d4836512e7ac5.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "5a1a221bedd42318493852e1.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ed096c8c6b047b7d1f65cb96.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "ad317d483eda1435fcbe09d2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "1f50521c30abc56741cc526f.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "b8a7849380baec61ef4b4e4d.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "2e536aa8b38c0e5630c36644.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e0cba6c6f9ce89f245f9b9b2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6de70a7e495906d340f8392f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d9537bdb20f9205f75a8bc13.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5cd02bf9fe6593e868dcb1b3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0ccff5e36516c54b97328e91.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "75a155ee51ff57447a3c909c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "da70b23a621eceecdbb84cc8.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "831f4b2acde3fd88030d4b25.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "08b48f82f179881ec9a3bdab.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5d335ce886022fe3989cee14.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "85214331b8be2fb33341b773.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "49f54ca65557ecaf6c708fc7.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "598eea934b40a5e0128efcff.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "59087543117b12f6c7fc8bf7.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5c9185b09ea5f8a92d9a5907.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5d43600769005709533442cf.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7de5e1e7be6aa34ba1cf16c8.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4defe6d28eb55b95a8d3a7a6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0b03133b4808da05fc0723ec.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "45c9f7767a1ff810a693efe1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8add12de90c090ec4e86e883.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "25e27930039e1d3b31c5eab3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "09fe5c8f50afad1a6796fcc2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "fa17ab39d1ea771645446e20.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "406f121afa808b24eaa9afd2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "fe665197eae5ec4a803b950b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6eba999576822bcd629d5258.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "6e218f70e6be1cf028932dff.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8f7f49836549cbc807a42e86.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5da4ea1362d7614b77f34ed1.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "add64fc073b4511aea8fe994.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c5ecc729b53edb834ffe567b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bb74b0461a6ef53add9df6a0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "a86df59cba332e22e0f3d5ec.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2cc2e0ca3b5e069870407728.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "098eeba73bfd9b2c7999b112.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6e196826cb9f9bac457f5160.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f70f7640dd3d0d9ffb450f76.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3bd99152b050eabeb0f08eb5.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "c3fa147a057d765a9d6314aa.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2189442df32ae0111c7380ca.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c70004948648c806e2053f34.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "31cbaf3146a4dafa8b0c70d6.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "9db7a33d1250ae93fd1cd864.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8b7e1d1109700593b86fb82f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "16bb8242687eff5f5c5811da.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "05793d55b383a73d2e92f582.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "75e433909c2fcd7180537617.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "c73218610ca98c2803cbcc01.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "fc1e9538b7f6bf3da4bb40fd.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "941362a200b851c4e2978fc9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f8c523aefc71f1142e294981.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9626959506c76e652ab2b38d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "14b37d28eb31b8ed35d9c002.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5688b3b8ce740b7c756be4b9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3325ca68caf035f133345039.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3b40ff9f8b55c72947025f73.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "24f7fc04edc2e0ec9c62ee56.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0a828d8cb6d038946574b7aa.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "8dddbc1f87c0e825819313ce.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "978000fd522b8c6c7d9987bc.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "70f70f180e53f826992d26f9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "4a74bdcdfc708586550448a8.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "0c695471b9b676079dcaab14.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "762ce8dc53cdc16632603fe2.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "6787b08969386c46aaa9fb32.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "005f13d20c743b58b599b77a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f3ed099b29533dfd7c1a1c25.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "81d2a7df87ff4317382a2e7e.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "46f522062b4a0ec850f537c4.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "86c503c86a3f38957ee05c84.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "aa745a5810b7e4e2f2a9428c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "41c7207d574cf051384e599d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "13a99dd29608bfeafd555432.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c2ec8c882907d725cfc6ba3b.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "757c0c8e3c0ca9b19142a5d3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f7ee7365a723135fc6b7fdbe.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "16845329ed8fc7bc925d1777.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d3cde49f616a9685b1f85eed.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "095475ea63e57a77fa2ed7dd.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2e54a760a6ce50bd2e29d3c7.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "70750cc0e1064a2c6327f035.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2c15f8bfc12d4750c30d9508.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "cc67941bde6ba16114ead54a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "837b12e96489c90c2145bcdb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e1dc551e9f3a4d21bbca30a4.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "d3c64062df736fabe47ec683.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "05e55d5b68226b096b63f420.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1f11a22c4f6dbddb9aca5417.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "3d1970a7d1a93845e4e8b5c9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f1fdb93f3fd73d102e733177.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5e21283e83b4586863fec98c.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "513a1585b25c083b7fcd5be1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6ed53f3734b816096c75668a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c7937c534f5a0d49e104cec2.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "86f5076338b2f72f0430ee66.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "de3007b5c69df86c85fce115.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e3d322c12be5e729563808fb.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3859d511ddf08c4696170262.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "843b7560cc0c7e371f356326.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "df69332981aa2792e8e47af3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c739ccb33bc12908f5b3c4ab.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0b344d9e2c79665cf4a8ef93.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "e8ee611df105e8c8123389b9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e15a90088728460154d6426a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "62df7b1bfa8bf28522f866ab.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b221af62aefb31672ff6e677.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "58903a15183f730d0966759d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "398f271ac39f4fe5ffef673b.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "440e09ea5894e4e705b72764.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "32857c33b780ec240aebdedc.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "de8bf30c52eeff4f6b2e3e02.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c4ac2e2b0bca3a817fbc95a6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b931d6ec97db5f618f820ec8.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "070a5b3dba0842ca0ebe2d91.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8815b97dae8088f3203cc8e3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3435526d5724df8934bbb62d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7f44d2816d24d1b341e17f8a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "a64f825bce7b196f01938aa8.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e47313ca1fcd39cd37bf9ea0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1dd6d6d342d45104a629b061.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "85bc564bd251cd2b12952aad.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f6d91afb65a030f380b8f77c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "79c0bb9bbe7274cc2fb928b1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "316ad86857ad18090a1d86d4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2b4e6aec216bfbe46addb7b5.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2e01c4d3c44f1979307159d2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6eefddc4b94bf589eb9c440d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9da5a73363e0396accbac36a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a6f5a0d72b79de3d2f284564.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "49b7c0eb67b9c8d53e0957d2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bac2e17bb36c246225d60774.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "77d3d00c8893b47a04223105.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8ed05f44f56a011b899d77f0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4f6730ba5d0270d773c8778f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "529dc1d62706e97cbb7ba42b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "877c87c1592328fa5e7c19fc.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5ec3b84c154e65ad26db9012.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "a860cb88689d8ba48e78ea3b.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "73dcd6b572ff34a064ff713d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9781c6752903b863b56882e3.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "6acb9db526d0a1aa4b36033f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a17696274def294f0b482a40.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "5776216abf35900ea976cfba.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "a316409d4e04643d2f349e6e.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "759ce111978070579560cbc7.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "007b25c993ad3e20f7eedad4.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "8195d410d38a33cbf5605577.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "a2f96aefeacc496f24c4dfb5.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "20df0e8cdf762dab00cd1a2a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "74c933c1696af8adb6e1c6ac.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "87709687cc929d8a60f4e06b.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "8790d19f49a699092584deac.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "3688556f10f4e255324ad7ff.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "748e43ec6d66d6536b693e3a.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "b748998d1b1a5e3deeac0ffd.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 1
+    },
+    "8592facbb577c2c8391ee4bf.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "36efefba3fa9a215ec74dee4.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "127eb1b22bf28864646e92f5.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "98dc43226fec39df68512b75.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "f4265ad4e302cb3c47ffb243.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "390dc015d7298d38bc6d665d.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 1
+    },
+    "757502fe481646a4f2f7af12.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "733cce2e6a3a2f04fa36768c.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "cf0a31f5bab90f0932b93dd5.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "9fa82cb6e3a894edfac40899.png": {
+      "known": 3,
+      "detected": 6,
+      "ignore": 3
+    },
+    "d924febf82ca53d9faba46dd.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "c2bf5d2754e90fb85e776c77.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "1db7a913ffbef4876a14c2a8.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "220a0c75629448aa0062e635.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "e55b343d8ca7913cb6be88d5.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "c7d2c2964d47325843c4d4d2.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "4e1c9561d95f04933c389796.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2a2bc0b21ea46ae2c051ea62.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "f5f57bc90b8c9a2892def469.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "762ee1367bcbc5f9d15cec78.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "75695178d584e4116197f8e4.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "37edb790a537947239c676bf.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2e83ecff6c0ef5d63095aa96.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e6767ef017fe8927d200d712.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "d56537bfa76add044f78439b.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "0a721f04045056638799ac44.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "a1b368db8c4fe9e4c77aa04c.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "b1bf8e366377220129b1b5ac.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2a530ec14b6935bca3d751a6.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "8475b1714506a9d7fd5f5840.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "5dea7d32ba4e111b5c48a013.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "86de16bd546c9f0ed8ebc3d1.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "36c78885485aeac5db110262.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "7859155f5112773fa307be68.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "31c939f635a9d6c6929cab8a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "0b88dddc497f13ffc3fb38b7.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "5338608ea4630f9fcbcfbd32.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7aea25c676c9b575e13d69fd.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "8b7706762d275d35af91f93e.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "45dad5f56157019bcc6c89ae.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "9815eea35d71474b5b88011c.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "1e8dd74f4d52bd76f3a50ee9.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "6c106341700eb1e3cfa1211f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8856ab76f36f879c42568e79.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e69845f654dfe00c78ec6dbd.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "e91afd225a83eb446cc37163.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "0b1227ef65898e61f39b7ab0.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "9485e2b63886407247abe765.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "8b4eb409df8b5c464df3b283.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "9bf91de737c83121ed4d593b.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3fd58eba39a3d18fa6d90aad.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b308ab7f5b25567fcc0bfeb5.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "d54322568c780f8e536eef0a.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "4ba17a5a44d504e0a369d0e9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "399128b99c02b175ae833359.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "18852544f6e62ea945304b03.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "66f81d0c1c7d8c93de2fcb8d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 0
+    },
+    "224afc8d18297b7894cc0ef1.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "fced29b5e88c8ab34b5924f0.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "6c7e5bee5c540f049a0faded.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1356c75ea1a658858c4dc5f1.png": {
+      "known": 4,
+      "detected": 5,
+      "ignore": 1
+    },
+    "bf1f256f359a23eece9d96f6.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "f8e20a5fc4ce22bdaf492e91.png": {
+      "known": 3,
+      "detected": 6,
+      "ignore": 2
+    },
+    "bd4fdb3528b4893603f5ade6.png": {
+      "known": 4,
+      "detected": 4,
+      "ignore": 0
+    },
+    "f042ea031f4a45849fba9d62.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "1483a4831f5eae81756f4b8e.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "c9a3deebaf98188a1fc89a3a.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "7ea39247b28c5b40d8c4ed14.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c06c63d8a21a73c72cd2bed1.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "98c26f5be8fd2d50d31804b9.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "747c9519133bde18a5c11cd7.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9dcdb4d66211d5fbd643d1fa.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "831c841de0bd86a4d1bc5e9a.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "bdfd91616f52efa495ced742.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "c0b9c6b8b6fe779bc480d81f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b606c2e6e300c739ee5d3f2a.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "26eedad8ab3704120fe152af.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "8dbe7bf6e9311269f4e24331.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "be56300de10e8837c85c0411.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "d7a3590f68d823eb57b13dbd.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "2227594ef37a7947ce32cbec.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "f4929077820922ce401c32e2.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "32c91b72598edcf1f87db646.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "b0228db2f84aff7f80b22597.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "654ecd32ce156c2440c8a10f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "33cb98dbfbc31ce7500b5eb8.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "7646e0be081a574129f0181d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b3436dafc250691f4e06ba41.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "d6fe491bb47f21649f87de51.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "3d59b7e5514e5e85eeeddb6b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "69837fc53607365ffb4e7030.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "e07720eab79742fc33431c08.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "43862528dff04da4469d7389.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "47f9fd063dbec96a02c43bc3.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "62c5e266bfe9eef5e8f50f63.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "10557fa78e5e0ee8a40ffc0b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bfdc49327932020405e504f9.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "775d88a100175f859d8112b1.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "1b1c0a67d33c798c7100be36.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 1
+    },
+    "046e128d3234bbdc66d9c96c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "60bba746c7d2e60e27d5af34.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "81ac0152cae869f3b68a2e5e.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8345342ee0ff314e92105dae.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "34236f6477af50050d715748.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "0a2e15227971f502d488cf54.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "b56815ac2b203e5355be9fa3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "1372a81a78e4d49ecd8ffe5b.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "e54ccaa6f7db4cc26669f41e.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "41718e2006e566e320f1040a.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "b13abb0cdc75a56f9524bad7.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2cd290dbf2e7de10230051c5.png": {
+      "known": 3,
+      "detected": 6,
+      "ignore": 3
+    },
+    "7b67041691ab20abaae2cfdf.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "d1d11993018e00ac2882c487.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "d4ca787306c3b3cbc3542e0d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "110a5880e105147f9b636cbd.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "f3b5e4955ad69059f7b61700.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "853efd93748a7f88d2e7a0c3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "45205f09803ac05fd5d7122d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "77e3d9e046ead0ce2af3a787.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "6827f82d8367a721c1089693.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "bcc209241e942e2ef4bfebb2.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 2
+    },
+    "810e4c28850286bc47872a34.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "460557d57bf7bdc54e65981a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3df7df01c5df69da14c039db.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a9d5e96f3c8489ee192b3dd9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "691d629c9b9cacb9eac01d18.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "0483ed328b463266ebca4618.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "bfb399da29d91bd564031668.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "30d2c8869ead2f47a3161705.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 1
+    },
+    "55deb965cc5e337f791376b0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1ed27aa34f8106a60e61f294.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "9e8a06191cd5069f08e7e370.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "128709f4d1002d1103645061.png": {
+      "known": 4,
+      "detected": 4,
+      "ignore": 0
+    },
+    "15edd4bbd8eedbf0b1c8cbab.png": {
+      "known": 6,
+      "detected": 6,
+      "ignore": 1
+    },
+    "6fc583fbf07312ed3935c55a.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "102ea8060025c28cf36994c0.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "0775e1dae432977a74ecac7a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5fc1912df4f012945fad291e.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e05b104a3267ce77a1f41314.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "9ec92ad3189b01c161ddc619.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "26115dcd3b2365d75de9aac3.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "82c80480051fc20abf25efea.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "42355b15e30e1f323915cd45.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "fe7434255f4a65a2e982f009.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "820f1073c27df4dc32dc3381.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "fcb5a90f84e9be34f3f394bb.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "9110523136a3bf2489584064.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 1
+    },
+    "cc2e536a93d502d9ba6bbd65.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "396dd2fda82a7b9b61f4198a.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "4f08ca06da5e2cf75cee782d.png": {
+      "known": 3,
+      "detected": 5,
+      "ignore": 2
+    },
+    "be927187aa78661a2dbe9d4d.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "90e1b0ce1df318d490e9ac60.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 1
+    },
+    "d31cac772bc2eb9efa1bf8bf.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "e5c25e2c6f6e7a3e72dc422b.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "20248ecf802c231ca00dcd86.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "897bd545bdeabc187b2fca37.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b91503ceaa2f25f73b105f67.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b37140acc77124c197561052.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8428ad6f12e945903724bdf8.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "2f162b9cfe590fbf6ce54544.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2a458f2ae8ff2399fb115c77.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "a24a6f77af8e446b1c8d5a7a.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "77caeade6d347622989a0fd0.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "c3d8cfc39a506136c6cdf79a.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "a45856906b8bafb8050519bb.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "0ca6029ebbb103a93f696ade.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6525fc6c63a42954743cb867.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "d368f6c973b9b50030019fbf.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "d29639a158350fc7f1455f3c.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "7cfc8b66bf054fe3c18c99ba.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5160be27606d4b41967c1544.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7287c7719ae32d42750e0c49.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "d440940c300fba4f9e47ee0a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ef63db3c1faa9f318d692605.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "fdb20069a1f3e2dee30100d2.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "4404cb949cf4811b6c585d95.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "943566e455eba0929eae22eb.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "1328b0c9d4d4281bf3fe2dbc.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2ea3cdbcf52fa194cc4f1de0.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "9c80208a3caa2b7722876fff.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "de778bc38e1eeacd56354727.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "f0c228536197e869ce540766.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "75c6c853dd521860ab936ccc.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "958c2f4aca980ed22be74b06.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "01523d631d2a8c38eb95a45f.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 4
+    },
+    "33fdb514cd63936fafe02e1f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "193539078ce143c45ff35aa5.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "00d81e80df1a271f3316304b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "508dea6aca2eaf6a5e4828c8.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f6ef51121f2196a0da604bcc.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "3a2f59ecd96b3affdb746760.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "5a4a21981a4cd8ce5d10bbdd.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "ccc20184f1a83514f0ba0f3c.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "0b98675e1e0134c3f3efcebe.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2075ad73a9c0118443176a5a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "59daae024b501330a7e9174f.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "5b881db875e146cd6a8e3e57.png": {
+      "known": 2,
+      "detected": 8,
+      "ignore": 6
+    },
+    "577a5de36b85b41eb16b6e21.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "3391aa474a7463cb3db1688c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b9032c517364eacaaa76de66.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7498acd967ea53b9125896df.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2e05ef9152187223be32716a.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "077ff598ffcb905ebe617128.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "40f7a8c86110fb1a0d1f2c6d.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "c6c20a06d4500b33c0372e76.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "ee29d50990c4065cea908bed.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "47d484648f606762aedcf657.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "d6dae14754ef5c46da39dd94.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ca2d13ea709913542c86bc82.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "da544d12b8d66c5ce3128cf0.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6968722b6a050d339b8f6bd4.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "f20b547c0424d6da60bd0639.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "9befddda2ace155b7f743e7f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "940e615d7fab0224631ce510.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ea54ab34476dabbcc1d266b9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2ae01435c0e8201457eb9cbe.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "b1e1316172a4c46cc27eb2c2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bf2d0a4ba4fe560756c38558.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "870aded49d1655be80b3e728.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "55098b2d6d75d86225f79f66.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "7e6165f4bcb9d82592137295.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "42c78abbda31d9e97061343e.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "6cdc4565408e413219d73168.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "6f76151a9aa732c5a2d9cb99.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 3
+    },
+    "506191313b32b72ce0974917.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "bdbf21342f39d2ba27a23693.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5124843167a0d4fe9184cc9f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "26d04714281aa1b5dc4db131.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "045a0d93b319b194193dffa9.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "bae6d760d89aa4bcd04e3572.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "02aaf34a36583849c6d822fb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "92da93071525166e9fd48a17.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "798d219d4f805692f32181fb.png": {
+      "known": 2,
+      "detected": 7,
+      "ignore": 5
+    },
+    "f07a47a51946f34a45d151ca.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "459dc5eb2979b62d4e0b6e19.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "5688957f4113015332be7d2d.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "e32fa37cec031a20613274bd.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "f3dceabc51fafa278c964b86.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "172f9eb4bbd96333e0569673.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "7ceabdb6d8fb03cd1eb27abe.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "d28752b05a4c6a49176a68cd.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "cfc16b178415a0c831ef5785.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 4
+    },
+    "1f3618e71412782936ae4dfd.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "fe20a736e1c823c52aae9d2d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ce331c29e6008c95952fc407.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "e9217238d4a0f574140364cd.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "ccce3ea0fe44aa455b610efe.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "29e62682463abd928cbd958d.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 3
+    },
+    "ae517e203e4c93361ca3be06.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "01516732f98351d8096aba37.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "c04e490b48fb7317f7ba7c22.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "e0cd7b6fcec662ef8eb730e4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d67683ffa80027b3e9e84f8a.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "c3c91ca0e729e769e61e917c.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "a8b2dbfa1026948887ae5d07.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "370f65a1c9e2a2429e2303ae.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "f10eeb749561d6866c3610ad.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "170a62dac9d99212ee126a59.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "f3edc2d43891ae4d3328be86.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "ff40d64309291769040fbabc.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "cf78589bca8bc1db34c0db6f.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "bf5c6a721cb2c1cbb574ad27.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "3b1ee7621e811005bb11a463.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "57839a04fddfba37e6675e62.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "195486837e385dabee9b0792.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "186fafb86621db06fe48b429.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "b3b408d00dd4e6b4e4689f3a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e0f4761e6290913d9d136d51.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "86f51c633bb4e5d1fccc753c.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 6
+    },
+    "9c9c60780b482a574e7514ec.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "868b9e25f07e814945f302b0.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "1205bd2a7ca7d8b252bbcaa9.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "1b1b6a5f8d7aa6c5d99248ed.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "a3bf42b7ecf66a7010fe5a28.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "01b1c3ee291ede38794905ad.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "5b0b0a45470e2b17bbb75179.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "10f0002bb17aa70ca8bb7f74.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "1b6f371253824abc38ae4cdd.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "bfe852186f0d4ffca1546a30.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "2b268db8364c7d8df36a3d5e.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "7eac19490811f766ff1f969a.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "d0075e59dde0cdd5e233e042.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8b4dec7c911da4e32f7a8aea.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 4
+    },
+    "ce79aa2dfcd282adfeb60be2.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "bd4941b00dc80f98700b4e2b.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 5
+    },
+    "e99ae6c129074c530f40d6c7.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 4
+    },
+    "a2e3baa08c688c95e04822a6.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2ce51751d99d696dc9a0f147.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "0b9872594610d3a4b521fd1d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "200a9d8cf6f3556cc819a9b2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "512d65e06d63090ce3072766.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "1ef809d373913ba48fa130fe.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 3
+    },
+    "1432d6591d5ccc76c94f30ad.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "9128a3eb341d3415ea6b4d24.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "2b200b0758cc44c492ba35c3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "01c7d31c6ca2ea8578dcd077.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "85b97c4b2a1d2739b10df74f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "dd093bce882fd3bc92cea98b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "823cc3a94f652eab567f7453.png": {
+      "known": 1,
+      "detected": 0,
+      "ignore": 0
+    },
+    "516fa386ec071de958eaa6a4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1efa74575bb91a70c93d8221.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2195011117b2e2e2138ccfd9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5f4d8ca734c832f3741f3514.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "95e11170af62d3a001e8f3de.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9939297a5f17b599d04dc436.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b371a7b5a9886d43a6cf6780.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 0
+    },
+    "377414a64a5702ea46b0c8de.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c51b2bd02703e712bf7014c4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3b1229533b0a82e8d9eb9996.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "19645945cc57cd400f324f73.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7b3a928392ad1bd31996e05a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2f248abff5d9e949899339be.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0ec82672058d8b743b19273b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d834f0d249054a77a7f6fa61.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "57a44c7aecddb4f2839b68b5.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d11bf1e09cea7b2f88985cb7.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "baf0b952a192337e8d02b735.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "565db6a32cf493c896a26458.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "faa6cb9f898347d9d3ef2dbf.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "39c0908b41431fce8c6b4aa2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "260e8cec43e650aa4bc7e9fa.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0712a74f797a090f397aeef4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3c47515007b152a4f4924645.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "07232552fa1704d5ab56c2e3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "80bddd97a59311371758c898.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e8106ed380a0248244399a47.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "320e640319211da74eb9e697.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "57bd91018d962e27c6151b40.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d08b0a5079bc7b01aedd4dff.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6299247dada06ffeb2a516e9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9512adff8420c3d4e954d5f8.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bd482e167f71730b0581010b.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ca634d7ef29778341ac80a82.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d99b4e9d3940734e63435370.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9d6b162e61f33b78ac06e568.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3d164a5e1db00299d16e2d7d.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "dacfaf5c4c285244dae20188.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ec80c3e2efe39273abb3f4b8.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "36ebd0af601a060112cc6446.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e84f793450328cef516a66a2.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 1
+    },
+    "0c6143b9b488934bf8dd0e0c.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6af31a1590d9710d291abaf1.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 0
+    },
+    "aed7bc0960f3496622ec3762.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5c8175052fd7e26b5e0c9ef6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "251ddb2b93ef5f90727702a1.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 1
+    },
+    "4b5b425f17bac841d3611a2c.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "f2cdd8decd2040c8116db6a1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ae32af1605f02285b0c3ed5a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b69a36457bc71045aec8e11d.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "332c9815c36f406f12a46e7d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 0
+    },
+    "302e891cff6795affb68dd41.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 3
+    },
+    "d20313dd2aa6e7344372f859.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b4fea1fd8d9c2ec600a0b94d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "54d97528c30dbbe3dcbd504c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e8823fecb053731e1a6f1ffb.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3fd76ed78141f3290c8606d4.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a3ccf113c05f7173e3826e8d.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 1
+    },
+    "8a81ee07beebdd3c7f98afc1.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c92e806ecf7486f39cec2b7f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9429d371139a96feeef70405.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9211ac3b5793db2b8c2dea14.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b68a09aef5e01127cff867a1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "85b8651a791d94777f871aee.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "5ae3a2c6f7468a032dad8f7c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "09fdce29b80b2578b4814c03.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "809fd05637fbaaf4b34c4e65.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1d353d70d965ce9b9c2f35d0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "aa414abd7dbd1cbeadbf1159.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b7c825631fbeb3c69b813b5e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c0f29ebdfab621367ff3e87c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "53d3e94758d01b89f2033994.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e6c095a8cd4bd2ec761f295f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e8dafb9a6cc6ebf848c8120b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "860c279e7f0ce722b4051552.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "dc23a62e078f73a904ee1260.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b02255af6f650d681d7909b6.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "1edb54252775189cdc9dd699.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e87f8c0831b26e4ae3ddfa86.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 2
+    },
+    "0ebdecc904dcf8d97e85c4b8.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2de6ae0162bae3a7c8e2bfa1.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "df16ef096669ccb393fdd5c3.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "135d41b3af60c690a06ff209.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3b0acf218542320ae9332061.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "ffb87110ab9774808ed1fd7c.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "529527c8e9b69e015638261c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "97fc0a369de84c5f558fcf7c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0e3fe5db8a22986c6704d5dd.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6532cbf44a7aed90e8dd2978.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7577873dc654ba26b0727ee7.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "116745bd32ec595fb6b7859e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "72ac9f14ce5e484b3af9a2ac.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9fe2631e60894b714f5f57b0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bb9ae5c78b0155fd0442af20.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "769e1d5a42d32bc797c3830f.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "9adee4780d76f83190a26ae3.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "c1d1e807c4cd99740ae5b7e0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e60e772cc9fa83d187f02780.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2f282fd9e79d0c3081b8fb48.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "9822fc3e49b6918191e675cf.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "b5d1f3ec0c05e27cab4d67b3.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "52f73aea6b92116464c2554e.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "4a513f49dd5503865ef8eb5a.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "d7cf9e6516ffa8bdb11442ee.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "35e464d250f3f57cd7d7460c.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bc1e763bf680360732081653.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bc7d24c39c77e1c0fa491b9d.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "3d1909e5cbf5d8586fefb272.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "a5ea7c30a3bf5123837ddaf5.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "1a73dafd6d9af0bf64c5b535.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 2
+    },
+    "2c115e558330cf2ec007851d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b93301017cb2a97d53771004.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0a8834ad6c6272593dbed4e0.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "0fb941efb7f32c1cc8a00454.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2dd15f7edd940f8ff66dae60.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "acfa8e82e7a04131b4b74317.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "328f2e6de03a01c87a904f5a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "40ddd8310f56b9c7dfcd32ed.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "79327b456b06e9be9e2cb225.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d26ef462b8a6f4c805919a4f.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "6861d3f556f6add2d8c971f4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9ed57c870af2e5bb09d3c833.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "25818d66984d01f83d85ccff.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "29f8825026940ff2e643275a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c9ef8a33f264b6d78b32c47c.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "b02f9ffbc1e1e1a741c1ddce.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0ec25ae0af60f9f90dbaf021.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c430cb68f408ae975bb77e44.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d4a0ad5a16510e5738b8a989.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f89b4d11d0e7901e6ab3c5f1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "dc6a5b4bb0f5f797a15138fa.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b288cbe551e6284a8d14ce49.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "872c8fdfe43446128fb0b02c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e0a8b78b339b80c6ce77fba5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2ece429d95dce01f7ebec6bb.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 4
+    },
+    "0143d95cef3eadfa507a77e2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "911678450278244ef2042a1f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "61e16ed8ae040d2fbbb620ec.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8417ad252408487937d80b5f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "630545610bd793818e9103e7.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "591b147911732487286e8455.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4d718ad89c288ff5c04d95fe.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7682eee9fe950310dac212e5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "cc6c83833d2f94fe4b8f9bda.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "33b4ede65f1f46024a3b10da.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8b674fcddd3fc248e2e2c7e7.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ba6d78f34b25f3ed4ce907dc.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "4622be7aecec54f6628c5670.png": {
+      "known": 3,
+      "detected": 7,
+      "ignore": 4
+    },
+    "6480f6a6e7ac093157195fbe.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7ce9a8aa78ae3332e41c1ebf.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "6d63a2ec9b6e15a3908b9ec6.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 2
+    },
+    "f6c83659f7d7296016748933.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 4
+    },
+    "72d163b075c8976c80cfebdf.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b543666909a7a1eb59bf924f.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "6dd67ebc2527c3b672c6ae27.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 1
+    },
+    "38076be304aaff97b8404f7e.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "6c519a84e909cb1b50975cbd.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3dcbdd353d27c6ce49d99354.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "fc21d24fda695526a5ea68dd.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "f58f401e51b5e2c26e274231.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "634e26504091bb9fb1eab847.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e46d5bc0aeb22ed002f8a3c9.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 1
+    },
+    "106ffe631038e2775c163e61.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "9b4b82a3eb5b93d0af6b309f.png": {
+      "known": 2,
+      "detected": 1,
+      "ignore": 0
+    },
+    "cd6fb2e5c3b15fbf32efecbb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "46d453be947149091455ec92.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "40b5bfb6944fdf70f145ca88.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "fa7009a0308019a9e3e49cab.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "5e2ecabb5137921f8409e93c.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "78268648a92f01b9d29b2f10.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "356622d293fadb1a196e3a9a.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "9cd034df02125d1cd2c2ae94.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "3fe30c4ea22bf324e508aea6.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "abc969f8f56eba3699c20c03.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 2
+    },
+    "74adb13cb250a44a3fb21712.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 1
+    },
+    "6d874a307c0b0e0a6e85ee1c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "05455032b6daec07ca5b3002.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 4
+    },
+    "df111dbac366ae290ab77743.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ee052817619a94f73fa3c4f6.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 3
+    },
+    "57ea27326aab88d66b2496f9.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "270de4223e930c67d14df6b8.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "f273b853943b834129bfdc2f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "dee7e1c6da777eda1a1c73eb.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "0bc48d2b689dc4968dee23e1.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "e89388c7992c2433dccfcccb.png": {
+      "known": 4,
+      "detected": 7,
+      "ignore": 3
+    },
+    "4eb153a7b80ebfe4b4590fed.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "13e6f55c4aa74c37aebc90b2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "110be54d1219bf7c74e2552a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "421c944abc71cde90abbeac2.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "4369485868ec97c4479f7ae9.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "57139a62952529da54960c28.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "f619dc58c6edcd260221dcf3.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "6ff174e14bfc29a27e2ae8ef.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "966bc0c3f5e54b0125fc41eb.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "aeff22bfd389798f81a5af74.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "be68c74ef9c046b77b43a455.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "c18eb124d27d08fce27a8979.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "2afbec354d79525b36b78af4.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "299e7472c8ca9f3b5211e95e.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "3894e4790696218ea880dc7f.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "91348a936e2246fbe4bb5967.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "320aa0af9165feadbb9875ee.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f91d9a8672d571ba94e02a7f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5c025b330467755c111651e5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "227744c34dee670adbdc3aeb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "36bc5960469ad4325592eff9.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "9371586d357815df134ad701.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a6d5eac4ee5efead40a7580a.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3b36f9ca88044df4b271d953.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "d0294e07b60155a5c4481449.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "130ddf52b81a59ce513f824d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "391b6550db2d874087cb7ea9.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "ff1ee471e18abbd0463bd437.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "dc63e4c471bb5512918b793b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "def024e68053aa815d917f77.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bcdbfc2bff5a637b3c4ec4ec.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "7714130f1fea52c720335ab9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "968bdc6dca1402e64e5cc010.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "dd7763f0a0955fbb5a84252c.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "847a635a99b7f19056bc38d0.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "165c564a682906d0bbdae450.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8f8ac45dca4ba24e3a4d987c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "91cebc02689e66e49871522b.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 2
+    },
+    "2555807593111945baefa444.png": {
+      "known": 3,
+      "detected": 4,
+      "ignore": 1
+    },
+    "cafba4b6901568688e97f01a.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "d43f706c59bba2b1e87234a6.png": {
+      "known": 2,
+      "detected": 5,
+      "ignore": 3
+    },
+    "b51ae48aa7b97bfcf7a45e8e.png": {
+      "known": 2,
+      "detected": 6,
+      "ignore": 3
+    },
+    "25d36cf90da801f36b0622e5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f3f79e9b0425b247690a1c0d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "385993966b63efbe0e2e3591.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f02f6fffafc59bcdd218f600.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "15c5ca44378e1cfea3b5741d.png": {
+      "known": 3,
+      "detected": 5,
+      "ignore": 2
+    },
+    "be0c7734d67045d8912a15da.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f02a6796696301b9b1180785.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "62afe0c0a45247306fecd3e2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "520ca4ad1311b4898a44bfa1.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2481e6fd8503d596b0066d43.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "9cfde0b3175991c5d36d25bc.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "b318575a2f78f5bc1b661373.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "1a801144eddd881d9d9c9b7f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "54c75971a008256b11b62331.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "9d18ebb5b14a10128ec57570.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "9a7af201d3af96fb9496ffe5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c2241f6f311211251c2465b4.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "661e5b2c1875b28b7f506239.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ed4a1b6c496eb83ceb89c0f4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d5c9ca3d5ee5d5678cf09696.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "4b4b1ca5b1180e1acc25ce7f.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "a93139b7d2f47f6f31e8c5a6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "a0dab31a66e0d29696648709.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "4dc033d430e41076812e76c9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "1a7e657aa7d9a82397854280.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "0b1332544a69bbde7b73e5db.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "e4ec203f875297b7b7bd68a9.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "71d5fb6f86a92c7f5c0f2522.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "dfbb0335e450b629608eb34a.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "54d890f20899ab8c631995e0.png": {
+      "known": 4,
+      "detected": 4,
+      "ignore": 1
+    },
+    "70e041d913ce8be1eabf4ec3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3d0f86cc077d08e015c9b37f.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "576e22c9d888ab999a10ba70.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "78b3cd0236196e634adf1cde.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ebecf44526aac863bce01e68.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "5fb9c155fc569e77964f9a56.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "74102ec24ca274b7effe6833.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "354c372b9abdd71f18bf2144.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "73c4b1694075c6729e1d75ac.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c64c75cb8ed4ce54c4b76136.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "e41f0e00312d1f30bd02e1d3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "92790c12413393c3abfcdb0c.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "5ead905e2358a6147412cc05.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5d6cffe02a29db3aa70b4994.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "f51d060a17bcd973da22b577.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "25970ba7b84fd685cfdba2b3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c994707b09570988865fa987.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0c11489480fa82e960f927db.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "b4e010d85722e08d2ee5aad2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "af71362e43b0e021b5e34b00.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 2
+    },
+    "5a2c75a68f7e665f0c770308.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "fb0d1a5beda648748bc43cb7.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "32a1cbf1300774cee6a0984b.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "db248bd62f075283736c29da.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 2
+    },
+    "ba13ce62e3022988c902d9e9.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "fc1c7657367f5296166c80d0.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 4
+    },
+    "3331f44d61b9c4036f85c102.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "69332368e1f7ea8147727b36.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "24ef55e71bab5566246e4806.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "3c01f2d7265ee62cd2cc6fd8.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e38ba19af29e7d1813ec3130.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a829e554bd002ad185db38fa.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "0b0f313fa806d1c9a96f930a.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "a4d50bfc3f4458a3836a6ed2.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "7007087ebe377989d44bf001.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "11579386abc89f10e22e1565.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "56a4cfa8553a8b1316fd1a25.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "7a17d0018db72276999ad74b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4729947794163aa93c13ae0f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d169def3df5c15bd223c5dc7.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5e6aa7e36ed6cf62e5675de9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bb87359d81bb3feb7dad1746.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "15be815908e4c859a6a6309d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bce6748dae78cf40b680511a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "16d14698067d46d763fa1a1b.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "5adcfd3fc11e7447f21f4f81.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "883fcbe358ac0099973d54a9.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "5ad7aa1dc01cdbcede1a0e78.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "e101e26f383dc38879f3ec8c.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "3023c28395175209e67aa9a3.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "b97fb7f661a7075fb42e37aa.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "9727c25d73b8137227b0fc49.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "4cc47113e164781b7bfb4165.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "76b2d3e52a2037ed27309717.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "49fd7f627383ad04f3ba0bdf.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "9d9ff17752381aae1393b341.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8e1055cc024aaea85524045d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c022bc089ab9b86a645a3bd4.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "6f4166dd67813f2d5d6e6736.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "23e4768d3b77feb76792c5df.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b8ab73f22e55e63914243b8d.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3a8e1a56a816df62e74f6682.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "bbcdabb11f2067deebe0a093.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "81de9f4ad10ce90c26117ef6.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e3d6b9a12a32d591e23802ad.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e969c6d1ed2e4f0032195dae.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "6e5075a8a626052e7e2ccada.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "9eefc5aec1106c13ea188ee2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "205091d4c533b766d99d8ca7.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "b45c54dafe9e4cbb2474aafb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "704998def6ecff9e406d357f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "8292901c67e2b43dbb796f6a.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "54c1397fe243941edfb0f282.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a6b0def9f0404d891f23e867.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c151a0e57f377a76df763c47.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "99ba04d2ccdc841f0a95b5c0.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "1944131c6d2538556bd52a61.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "25df509c2f878a6ba8ac322c.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "a97ec0abc1a07c14984d036b.png": {
+      "known": 1,
+      "detected": 6,
+      "ignore": 5
+    },
+    "e9967b55bafd45879dd04ff0.png": {
+      "known": 1,
+      "detected": 12,
+      "ignore": 11
+    },
+    "9d4585e051025dcfb95c3716.png": {
+      "known": 1,
+      "detected": 15,
+      "ignore": 14
+    },
+    "53faf4abb848232ea9788475.png": {
+      "known": 1,
+      "detected": 11,
+      "ignore": 10
+    },
+    "0378aff2e1d9f70333cbb70f.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "b411962d9da9c25191108e22.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "2dcd40213625ae1848fbb4d4.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "23cb06750784a5aa2b8a9e35.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "e03cd0585fa9713479b43fdb.png": {
+      "known": 1,
+      "detected": 8,
+      "ignore": 7
+    },
+    "df29798f1f930487a8ddaabf.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "0b7a0c0d9f78fef31cd54c4e.png": {
+      "known": 1,
+      "detected": 12,
+      "ignore": 11
+    },
+    "5ae81e1a41c8e638ca6d9fc0.png": {
+      "known": 1,
+      "detected": 10,
+      "ignore": 9
+    },
+    "1f0818140b8ec568658d320a.png": {
+      "known": 1,
+      "detected": 7,
+      "ignore": 6
+    },
+    "77a46afd11184782109dfa99.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "52217ef70781635b84b83d9f.png": {
+      "known": 1,
+      "detected": 9,
+      "ignore": 8
+    },
+    "d023c67706ba6ff551e6c924.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f1a8bca7f77ac91ad7dc2289.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "34883465f5327be1cce56155.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3915423c6c51ff3cdd9f3449.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e802710c9a7b629d565808fa.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "578f7889505d487372b9aa47.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "aefd2d85591c64cd7ef05f41.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e39a18a9eb63db5c8a265a76.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bad4dd0572712cbcafb718cd.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "77512a7bfb989e067b92ffbf.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e1223cf6ea142d2a71e05c2c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "30a9c1e52375fbb9c40b1665.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1daa512b1933c7d50463368e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5a83cc4d66f326a73585cbb4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "dfbf9bf0e478a69fa2bd6930.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "2bba09edd1c0a57ddd0c0ae2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "efc903579f5afe276b1a63b9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d97e5f4f675936b917041e26.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ee3117d00483ffa85944c5f6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d9ba53d062042cd2abd6c09d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ac4c2114ab46e67508d91822.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7b20f6c85076f1bb790b2cf1.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "00eb9da0166ed5fe7a3ac195.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3316c24d9d3aabf6e2e21308.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9e218e9dede544a896a302fb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "e95d4bb0e62806a44ef2a22f.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "a1de404744db55e191ce14c5.png": {
+      "known": 3,
+      "detected": 3,
+      "ignore": 0
+    },
+    "9678f9697f2e71ba9338ee8e.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "1ec21fe7b44aa69ba5e2d2b5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "56dbe3b70f52b6635216d888.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ae566d7f31af7afddfdd1d65.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4a5164efd1be574825c4ba4a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "90e08012ed8414fef8fab352.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "0c19518ae494e8fd04702617.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "bb0b8565ac7c6d0d8e54903b.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b6b2d71a4e94d99ead437530.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "b17e861d1834976c4ee463ea.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "1aa7e6033064103049673de1.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "5c36579db301ebac2432450f.png": {
+      "known": 2,
+      "detected": 4,
+      "ignore": 2
+    },
+    "5d6e996d4e92c0b1a10dec38.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "705887a48d907914d575e327.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "59950cf12a7bd13fa339e8c9.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "c55ec3c650fafce45d5cdabd.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "af8876f71d4617d0ee48b1a2.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "14214ad6acc98eaf45b7b510.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bd6a00db8f6dbe3a59f192bb.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bb87796b0d5d04ec7c9af0ef.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d14a7dae7de70a1ab42061d6.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "34fa9e971f9b6e29ad77e0b3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8b27b3149167be021f53084f.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "f337d220103faf37b62b1bba.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ef2d0c8841ef1ff72a0e479f.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "c626e4112e504c37e0476dd9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d0f71c571c9049af53739230.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "79f4fb8e44f0b487402fdfce.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "7428ff2dec795f2c2c63a431.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "53663ae7a84bb2616b23ac36.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "8aa6de337758903299d30128.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "66834d57b4500255064631b7.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2ba06edbd2c3f55a7f4341bc.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5dac12d821a92baf0b4ca3e5.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ec79fb9b07bf3702b404aa8c.png": {
+      "known": 1,
+      "detected": 0,
+      "ignore": 0
+    },
+    "9fd845cbe7a9afba6b13775b.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 0
+    },
+    "d397bafbbbb7b32069d39679.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8022cdc44481a6855c554263.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6282e4635bec2babf75faa61.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d9244fd85f78f16ad2751543.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "19b727b719cb77ba29437471.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "96dbebe5ac71c967bf8ef77f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3bd8368737ea123b1d9991a2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bdead38501340373eafdbe15.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5d7cf862ff266ebe9dc99fe9.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 0
+    },
+    "b5baff1f4dfb408aa27f04a5.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "64940245a915527d16aa64e2.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "dfcc7600cad5fc7f16b9496d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "db7fff631b1562fa7f1e679d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9943846ee419c89fbba1e238.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "54421151b19d9d8f8f845707.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "a3507e16ae7cb720abef374e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c622d6f39877b5519679b6f3.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "9a19d8681fc5934ee86cdb6d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d1e07fb17777e67d47ca5eba.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "339e9698ba3802b30e66b1fd.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f38a04145ad5639111d3dd24.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "08d60ce9531852ffff5e08d1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ef843123315c6df489f38162.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "00e27ba8a519a03fff3bdd27.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ecbeee3d5e3942c6c6b1b081.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "43d22ef42d12578274f44083.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b0e0fd13a400f251e075271e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7ad0a241e268a190d8e7ff18.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b78f227e82d2b75bc0ae7f2c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2bb3baaffb88421297d0c58f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ddce9baa207745ffcf7dca7e.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "20d097aa7f9ada6b97141fdf.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7cf50021aaf587318d4e2bac.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "da3c4e4545101052027a9275.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "36c664c597e0938deea085d7.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "cd6eb40caa4be3520095cc10.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3308369e203168dceb9ea84f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0f784c332d6a39ad6b6e5a63.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "01598d359278c917ca3cb870.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d7862595a8b363d45f1da7eb.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "99d8d6ee144fb0081fbc97b9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "befc96d4ae69fbb70190b93c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "1bab4ac5e5610b49d788e884.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ca5776030df0856dd921d9b3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9ac64a23ab0f3ae5c950c2c2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f5da95473958bec3c4209630.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "cb7d41fcf31bb495f44b11d6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "66a6272d67878d1c3cbe8660.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "63de29da471003014e1017a2.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 2
+    },
+    "3d431966dff8103a98eb470c.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d854ccb94a07268408919eea.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "614a57ab6ccf109f385169ea.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2297df519e99a3cace5e2463.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "86d6386d3b6c907f72dbc401.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d8376da28a8d1d20c42970f2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0206c70e2b705ba5de2c4945.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "af1f65f2cb30e26e73f0d114.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "29adc9e48344af01febc8a75.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f7f1cbc1adbe1697e196b032.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "10af0894773a29ae037d3511.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "39b1d102b0a11785c6ccbb0a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "cf7a853b690df68f3835ac20.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "95f1c9f0a59a18a1217b1951.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ba9b7a8452967bbdfd77788a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "3d104e022c2d87754a7af06f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "2338e9a0ef6f51abb3b20125.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ce5d1f9b152e178025014415.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "776de1e27b811b8ea3c2c3dd.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5eac175d03b88153671b6850.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "e2f3c53b9af10be0dac080f9.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "6387984cab1e99b68be41111.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ae8f8cd3759dd99bc4fe9fc3.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "a9d31b7dd79a129b07dea88e.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3e322ea00263fc73d923862d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8645f5b5ba7e6a5ce9473e80.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "427b0e66ded471d76ad3ad4f.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "d8abc4d14de72be6408e4514.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "bb2fe33830f697b310088ba0.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "94804c1a4dbb08d3644b15de.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6b3f70a1c44f3dc5d0c3a9bc.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f4ad5b0650002995860290c2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4aedcd8ae422a3fe7136b4c1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e6d3c2bd046e793b95c83b87.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "f19ce10506a65c35ed08463f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 1
+    },
+    "491fdb1f645dca0b711c0a7f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0eabbdffaa08ae78df7cf3b3.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "609125602b204a13c748455e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7d608afb02bc589adef6d248.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "37a2cf87e18986acf2e4f7fb.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0ecc58f0689d1a4dc6d66f7d.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e4181f4c1bd671fa2de116f2.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "56a0c8db03018339546e9a62.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3f3a4484c58acfbdab68cbb9.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "3c46d01db5e4087b625b83c5.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4fc0f2f3b78e4d348495eef4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "d5a69ba8b30b1fab96680460.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "c7286ad06f1ae5c7dcb96212.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4425d85e678f32477ba23c0b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "5b813bc4c89a2ea0ba49925a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9921760d693fb8c18a8f73f5.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7330050c124097c043cd0750.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "801990d0b5d52bd5d299be37.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "26684a621e59936db575b6e6.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "84a165f53fd4737c391db07e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ec1c39b4ad1ead874ffc17dd.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "b8f920a194d6dde06cd78020.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ca84a6c71c222f483899be9e.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "89876d3527c2a5c3ec4ba98b.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "a29425dffe98e9ca3184472f.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4a7d1459546419f454d79c1a.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "6e16ce0f131417235e19e56d.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "e97e4748ae068651537cb7e1.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "27d0961e66eba71ee36fe428.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "5711519c0aa35a1d7d2fc451.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "8cc45886c231913ebc0020e8.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "aedf8bfc9f22f72f61eb2fb4.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "da0430b47c65ba167def8dd5.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 2
+    },
+    "2f4d03a6c49ae2c44ef6400c.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "607806edacb2e8c0b31147ab.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "3644b4cfd62f89d3b5998237.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "c376fac00186ae8178efa5bb.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "ed6bf7a8a567ed3fcf5fcdd0.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a2970061f7dcbc27de4264eb.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "badb2fbff0715c6b1b95b4d6.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "ab8d3c85f933a1ccd0dcbe75.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "605ac85b2f9aea22dacb6b74.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "8c8535d5a504bd3be3179a04.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "0e1bbc135f20b4ab673503cd.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "8fa29994a8cdd4b188fe1dc4.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "0d79d3e55b77bde9033ca5ca.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "b02fe0db978389c0a7545966.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "e481915a7199baeaf3b99491.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "9c4ea663df6f8905ddf922af.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "14d23f8946368b342475f079.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 3
+    },
+    "eda3a0ad3af409cab05edbec.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "11a2ed8e7d7782037f4db96d.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "70797e38a677420ac79bb439.png": {
+      "known": 1,
+      "detected": 5,
+      "ignore": 4
+    },
+    "bb0953dd92702173a1cb1bcb.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "9b274cd0e72fc4a18c903258.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "a1f7b9da5415b4c9199de8b0.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "850782ce4cc6abc4d9df43c4.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "3a31c298f00ad0480c52be7e.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "d8f64e3cf1b9d936d66eebe6.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "61501f87e91ed259d5917325.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "ca457f36d2397ea8de882810.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "4587ca59584d6a28c2422314.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7fa920e24e4d1c6979542468.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "f489a4d90b60d4ffebba7d97.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    },
+    "d3c4be23bc8b9d19cb81f037.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "62fcc2c21429a33e372dcb11.png": {
+      "known": 1,
+      "detected": 3,
+      "ignore": 2
+    },
+    "eadb514a0ad84e3459c6cc4f.png": {
+      "known": 3,
+      "detected": 5,
+      "ignore": 2
+    },
+    "53b591737a643955a452ea05.png": {
+      "known": 1,
+      "detected": 1,
+      "ignore": 0
+    },
+    "7d9f76537a9cf338a35d4695.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "b5fff90daf74eea222e60993.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "b8b513307b500294603d0ae6.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "4f4572365a0532197a2d6b4c.png": {
+      "known": 2,
+      "detected": 2,
+      "ignore": 0
+    },
+    "3426d86e0ff91cf3a19699b3.png": {
+      "known": 2,
+      "detected": 3,
+      "ignore": 1
+    },
+    "4893b2883cfab2f1c4748d40.png": {
+      "known": 1,
+      "detected": 2,
+      "ignore": 1
+    },
+    "bd9e836e8ecf8fd4c1f29e54.png": {
+      "known": 1,
+      "detected": 4,
+      "ignore": 3
+    }
+  },
+  "ignore_category_id": 29,
+  "conf": 0.3,
+  "iou": 0.5,
+  "detector": "/rhf/allocations/dsci435/Smithsonian_F26/weights/rfdetr(2xl)_best_plane.pth",
+  "limit": 0,
+  "pred_class_id_hist": {
+    "0": 4741
+  },
+  "ignore_to_known_ratio": 1.754524886877828,
+  "elapsed_s": 78
+}

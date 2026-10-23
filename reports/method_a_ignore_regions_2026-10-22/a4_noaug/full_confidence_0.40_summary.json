@@ -1,0 +1,267 @@
+{
+  "scope": "unchanged complete fixed-grid validation",
+  "validation_tiles": 1432,
+  "known_specimens": 274,
+  "detected": 196,
+  "end_to_end_correct": 69,
+  "known_specimen_recall_iou50": 0.7153284671532847,
+  "classification_accuracy_on_matched": 0.3520408163265306,
+  "end_to_end_known_specimen_success": 0.2518248175182482,
+  "macro_known_recall": 0.6917628713952781,
+  "macro_end_to_end_success": 0.13871859978913625,
+  "predictions_after_deduplication": 1538,
+  "unmatched_prediction_count": 1342,
+  "unmatched_prediction_interpretation": "Unreviewed, not established false positives. Precision and full-scene AP are not claimed.",
+  "confidence_threshold": 0.4,
+  "match_iou": 0.5,
+  "per_class": [
+    {
+      "category": "Alnipollenites verus",
+      "support": 20,
+      "slide_file_support": 5,
+      "detected": 16,
+      "correct": 9,
+      "recall": 0.8,
+      "end_to_end_success": 0.45
+    },
+    {
+      "category": "Arecipites sp.",
+      "support": 9,
+      "slide_file_support": 4,
+      "detected": 6,
+      "correct": 0,
+      "recall": 0.6666666666666666,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Betulaceae",
+      "support": 12,
+      "slide_file_support": 6,
+      "detected": 10,
+      "correct": 1,
+      "recall": 0.8333333333333334,
+      "end_to_end_success": 0.08333333333333333
+    },
+    {
+      "category": "Bisaccate",
+      "support": 31,
+      "slide_file_support": 10,
+      "detected": 25,
+      "correct": 20,
+      "recall": 0.8064516129032258,
+      "end_to_end_success": 0.6451612903225806
+    },
+    {
+      "category": "Bombacacidites sp.",
+      "support": 8,
+      "slide_file_support": 5,
+      "detected": 6,
+      "correct": 0,
+      "recall": 0.75,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Caryapollenites",
+      "support": 17,
+      "slide_file_support": 3,
+      "detected": 12,
+      "correct": 0,
+      "recall": 0.7058823529411765,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Cicatricosisporites sp.",
+      "support": 1,
+      "slide_file_support": 1,
+      "detected": 1,
+      "correct": 0,
+      "recall": 1.0,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Cupuliferoipollenites sp.",
+      "support": 3,
+      "slide_file_support": 2,
+      "detected": 1,
+      "correct": 0,
+      "recall": 0.3333333333333333,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Ericipites sp.",
+      "support": 3,
+      "slide_file_support": 3,
+      "detected": 2,
+      "correct": 0,
+      "recall": 0.6666666666666666,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Illexpollenites sp.",
+      "support": 3,
+      "slide_file_support": 1,
+      "detected": 2,
+      "correct": 0,
+      "recall": 0.6666666666666666,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Inaperturopollenites sp.",
+      "support": 7,
+      "slide_file_support": 3,
+      "detected": 6,
+      "correct": 1,
+      "recall": 0.8571428571428571,
+      "end_to_end_success": 0.14285714285714285
+    },
+    {
+      "category": "Laevigatosporites sp.",
+      "support": 3,
+      "slide_file_support": 2,
+      "detected": 2,
+      "correct": 0,
+      "recall": 0.6666666666666666,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Momipites",
+      "support": 38,
+      "slide_file_support": 7,
+      "detected": 35,
+      "correct": 26,
+      "recall": 0.9210526315789473,
+      "end_to_end_success": 0.6842105263157895
+    },
+    {
+      "category": "Monocolpites sp.",
+      "support": 16,
+      "slide_file_support": 6,
+      "detected": 9,
+      "correct": 3,
+      "recall": 0.5625,
+      "end_to_end_success": 0.1875
+    },
+    {
+      "category": "Nudopollis sp.",
+      "support": 2,
+      "slide_file_support": 1,
+      "detected": 2,
+      "correct": 0,
+      "recall": 1.0,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Pistillipollenites sp.",
+      "support": 1,
+      "slide_file_support": 1,
+      "detected": 0,
+      "correct": 0,
+      "recall": 0.0,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Platycarya platycarioides",
+      "support": 1,
+      "slide_file_support": 1,
+      "detected": 1,
+      "correct": 0,
+      "recall": 1.0,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Platycaryapollenites swasticoidus",
+      "support": 2,
+      "slide_file_support": 2,
+      "detected": 1,
+      "correct": 1,
+      "recall": 0.5,
+      "end_to_end_success": 0.5
+    },
+    {
+      "category": "Polyatriopollenites type",
+      "support": 7,
+      "slide_file_support": 2,
+      "detected": 5,
+      "correct": 1,
+      "recall": 0.7142857142857143,
+      "end_to_end_success": 0.14285714285714285
+    },
+    {
+      "category": "Psilatricolpites sp.",
+      "support": 16,
+      "slide_file_support": 3,
+      "detected": 10,
+      "correct": 0,
+      "recall": 0.625,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Psilatriletes sp.",
+      "support": 4,
+      "slide_file_support": 2,
+      "detected": 3,
+      "correct": 0,
+      "recall": 0.75,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Quercus sp.",
+      "support": 2,
+      "slide_file_support": 1,
+      "detected": 1,
+      "correct": 0,
+      "recall": 0.5,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Rhoipites sp.",
+      "support": 6,
+      "slide_file_support": 3,
+      "detected": 6,
+      "correct": 3,
+      "recall": 1.0,
+      "end_to_end_success": 0.5
+    },
+    {
+      "category": "Rousea sp.",
+      "support": 8,
+      "slide_file_support": 4,
+      "detected": 6,
+      "correct": 3,
+      "recall": 0.75,
+      "end_to_end_success": 0.375
+    },
+    {
+      "category": "Taxodium sp.",
+      "support": 29,
+      "slide_file_support": 5,
+      "detected": 8,
+      "correct": 1,
+      "recall": 0.27586206896551724,
+      "end_to_end_success": 0.034482758620689655
+    },
+    {
+      "category": "Tetracolporopollenites sp.",
+      "support": 2,
+      "slide_file_support": 1,
+      "detected": 1,
+      "correct": 0,
+      "recall": 0.5,
+      "end_to_end_success": 0.0
+    },
+    {
+      "category": "Ulmipollenites sp.",
+      "support": 23,
+      "slide_file_support": 4,
+      "detected": 19,
+      "correct": 0,
+      "recall": 0.8260869565217391,
+      "end_to_end_success": 0.0
+    }
+  ],
+  "test_used": false,
+  "status": "completed",
+  "checkpoint_sha256": "4810201678a5da1281fe80f28176712d9a73f25caf7b82f40c8fa9073ba78df0",
+  "run": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/A4_noaug_debug/train",
+  "unused_output_slot_excluded": 28
+}

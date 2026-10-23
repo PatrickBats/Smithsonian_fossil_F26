@@ -1,0 +1,2468 @@
+[
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:2",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.6841689348220825
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:3",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.8312590718269348
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:47",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Quercus sp.",
+    "category_correct": false,
+    "iou": 0.807357132434845
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:48",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.8984951972961426
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:6",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.9153968691825867
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:7",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Polyatriopollenites type",
+    "detected": true,
+    "predicted_category": "Polyatriopollenites type",
+    "category_correct": true,
+    "iou": 0.875745415687561
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:9",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8747029900550842
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:12",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Ericipites sp.",
+    "category_correct": false,
+    "iou": 0.7922994494438171
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:41",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Platycaryapollenites swasticoidus",
+    "category_correct": false,
+    "iou": 0.7679727077484131
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:45",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.8920955657958984
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:36",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:21",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.9013370275497437
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:31",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Inaperturopollenites sp.",
+    "detected": true,
+    "predicted_category": "Inaperturopollenites sp.",
+    "category_correct": true,
+    "iou": 0.6414624452590942
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:33",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Laevigatosporites sp.",
+    "category_correct": false,
+    "iou": 0.8230971693992615
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:23",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Polyatriopollenites type",
+    "detected": true,
+    "predicted_category": "Inaperturopollenites sp.",
+    "category_correct": false,
+    "iou": 0.7614201903343201
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:29",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.8346260786056519
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:26",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Polyatriopollenites type",
+    "category_correct": false,
+    "iou": 0.8114817142486572
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:74",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Taxodium sp.",
+    "category_correct": true,
+    "iou": 0.8921876549720764
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:70",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.9348357915878296
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:72",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Cupuliferoipollenites sp.",
+    "category_correct": false,
+    "iou": 0.8010082244873047
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:54",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Pistillipollenites sp.",
+    "category_correct": false,
+    "iou": 0.7273384928703308
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:39",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.791718065738678
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:69",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.6873645782470703
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:86",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Rhoipites sp.",
+    "detected": true,
+    "predicted_category": "Quercus sp.",
+    "category_correct": false,
+    "iou": 0.958837628364563
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:64",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Laevigatosporites sp.",
+    "category_correct": false,
+    "iou": 0.8948677778244019
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:90",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Rhoipites sp.",
+    "detected": true,
+    "predicted_category": "Cupuliferoipollenites sp.",
+    "category_correct": false,
+    "iou": 0.943825900554657
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:78",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Quercus sp.",
+    "category_correct": false,
+    "iou": 0.9568657875061035
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:118",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:84",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.8461064100265503
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:98",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.9447608590126038
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:94",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.9010395407676697
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:89",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Quercus sp.",
+    "category_correct": false,
+    "iou": 0.9008753895759583
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:88",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.9642054438591003
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:91",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Laevigatosporites sp.",
+    "category_correct": false,
+    "iou": 0.9159660339355469
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:108",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:143",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Caryapollenites",
+    "category_correct": false,
+    "iou": 0.9284421801567078
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:116",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:142",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Ulmipollenites sp.",
+    "category_correct": false,
+    "iou": 0.8068879842758179
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:120",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Ulmipollenites sp.",
+    "category_correct": false,
+    "iou": 0.6880224347114563
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:140",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.8264056444168091
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:141",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Polyatriopollenites type",
+    "category_correct": false,
+    "iou": 0.8640585541725159
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:121",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.5913432240486145
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:137",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Inaperturopollenites sp.",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.8756297826766968
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:138",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.6661390662193298
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:139",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.6846019625663757
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:128",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Inaperturopollenites sp.",
+    "category_correct": false,
+    "iou": 0.8602555394172668
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:130",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Inaperturopollenites sp.",
+    "detected": true,
+    "predicted_category": "Polyatriopollenites type",
+    "category_correct": false,
+    "iou": 0.8959941864013672
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:153",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": true,
+    "iou": 0.8149717450141907
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:154",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Taxodium sp.",
+    "category_correct": true,
+    "iou": 0.9142792224884033
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:156",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Cicatricosisporites sp.",
+    "category_correct": false,
+    "iou": 0.6733943223953247
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:185",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.9346634745597839
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:199",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": true,
+    "iou": 0.9100640416145325
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:159",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Taxodium sp.",
+    "category_correct": true,
+    "iou": 0.9527282118797302
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:186",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Quercus sp.",
+    "category_correct": false,
+    "iou": 0.8881977200508118
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:162",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Inaperturopollenites sp.",
+    "category_correct": false,
+    "iou": 0.9158764481544495
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:178",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:165",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": true,
+    "iou": 0.865145206451416
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:172",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.8575962781906128
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:233",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Taxodium sp.",
+    "category_correct": false,
+    "iou": 0.8637733459472656
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:198",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Inaperturopollenites sp.",
+    "detected": true,
+    "predicted_category": "Taxodium sp.",
+    "category_correct": false,
+    "iou": 0.7613366842269897
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:200",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Ericipites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.6949054598808289
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:201",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Inaperturopollenites sp.",
+    "category_correct": false,
+    "iou": 0.7971143126487732
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:202",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Polyatriopollenites type",
+    "category_correct": false,
+    "iou": 0.8922600150108337
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:203",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:225",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.8179507851600647
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:224",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Taxodium sp.",
+    "category_correct": true,
+    "iou": 0.785329282283783
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:207",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Quercus sp.",
+    "category_correct": false,
+    "iou": 0.8568171262741089
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:208",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.8420900106430054
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:210",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Quercus sp.",
+    "category_correct": false,
+    "iou": 0.9444887638092041
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:218",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": true,
+    "iou": 0.883847177028656
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:215",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Cicatricosisporites sp.",
+    "category_correct": false,
+    "iou": 0.7980712056159973
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:222",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.8207560181617737
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:236",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Polyatriopollenites type",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.8036805987358093
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:237",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Inaperturopollenites sp.",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.7913006544113159
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:242",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:246",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Caryapollenites",
+    "category_correct": false,
+    "iou": 0.8052998185157776
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:248",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:251",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Rhoipites sp.",
+    "detected": true,
+    "predicted_category": "Rhoipites sp.",
+    "category_correct": true,
+    "iou": 0.8124163746833801
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:244",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": true,
+    "iou": 0.9118366241455078
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:250",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.7762706279754639
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:253",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Polyatriopollenites type",
+    "detected": true,
+    "predicted_category": "Ulmipollenites sp.",
+    "category_correct": false,
+    "iou": 0.693751871585846
+  },
+  {
+    "record_id": "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:249",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska.ndpi",
+    "true_category": "Polyatriopollenites type",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.9059020280838013
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:91",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7198314070701599
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:52",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.8871275186538696
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:4",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Inaperturopollenites sp.",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.9625785946846008
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:32",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Quercus sp.",
+    "detected": true,
+    "predicted_category": "Rousea sp.",
+    "category_correct": false,
+    "iou": 0.7821421027183533
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:5",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.841641366481781
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:51",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.7846089005470276
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:28",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.7431314587593079
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:61",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Cicatricosisporites sp.",
+    "category_correct": false,
+    "iou": 0.8869130611419678
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:6",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Retipollenites sp.",
+    "category_correct": false,
+    "iou": 0.7776301503181458
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:7",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.7240574955940247
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:42",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.7445933818817139
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:98",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Quercus sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.7525293231010437
+  },
+  {
+    "record_id": "D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:26",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_L_2024_01_22_16_22_31_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.851142168045044
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:40",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Ericipites sp.",
+    "category_correct": false,
+    "iou": 0.8958444595336914
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:44",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": true,
+    "iou": 0.777299165725708
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:45",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Rousea sp.",
+    "category_correct": false,
+    "iou": 0.7263296246528625
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:48",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.9628419280052185
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:50",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.8774121403694153
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:51",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.9272080063819885
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:6",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Nudopollis sp.",
+    "detected": true,
+    "predicted_category": "Ericipites sp.",
+    "category_correct": false,
+    "iou": 0.8322307467460632
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:17",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.9066722989082336
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:14",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.6038432121276855
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:12",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.857307493686676
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:34",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Nudopollis sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": true,
+    "iou": 0.826134443283081
+  },
+  {
+    "record_id": "D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:73",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1821_1_R_2024_01_23_15_01_49_New_Mex.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.8785538673400879
+  },
+  {
+    "record_id": "D1910_2024_02_29_12_46_52_Wyoming::ndpviewstate:27",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1910_2024_02_29_12_46_52_Wyoming.ndpi",
+    "true_category": "Bisaccate",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D1910_2024_02_29_12_46_52_Wyoming::ndpviewstate:39",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D1910_2024_02_29_12_46_52_Wyoming.ndpi",
+    "true_category": "Platycarya platycarioides",
+    "detected": true,
+    "predicted_category": "Polyatriopollenites type",
+    "category_correct": false,
+    "iou": 0.9155557155609131
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:27",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.8106187582015991
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:25",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Illexpollenites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.9104857444763184
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:5",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.7832708358764648
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:22",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Illexpollenites sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:24",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.9235255718231201
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:10",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.8686648607254028
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:11",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Cupuliferoipollenites sp.",
+    "category_correct": false,
+    "iou": 0.6879427433013916
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:18",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.8375194072723389
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:14",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.692221462726593
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:15",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Illexpollenites sp.",
+    "detected": true,
+    "predicted_category": "Illexpollenites sp.",
+    "category_correct": true,
+    "iou": 0.7241052389144897
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:16",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7913275361061096
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:42",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.7268491983413696
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:46",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.9336268901824951
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:58",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.8141226172447205
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:47",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.7762113213539124
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:48",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.7178513407707214
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:54",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.6680130958557129
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:51",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.8203468918800354
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:52",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Platycaryapollenites swasticoidus",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7384070754051208
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:62",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:67",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.8813442587852478
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:69",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.7272266745567322
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:72",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.7005314826965332
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:85",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Platycaryapollenites swasticoidus",
+    "category_correct": false,
+    "iou": 0.7420834898948669
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:86",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.9061855673789978
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:83",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.8419961929321289
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:89",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Illexpollenites sp.",
+    "category_correct": false,
+    "iou": 0.787891149520874
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:75",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.7170677781105042
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:74",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.79262375831604
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:96",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.8930670619010925
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:106",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Tetracolporopollenites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8490556478500366
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:113",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.5989964008331299
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:109",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Illexpollenites sp.",
+    "category_correct": false,
+    "iou": 0.646142303943634
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:110",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.7676218748092651
+  },
+  {
+    "record_id": "D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:118",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D3407-2_L_2024_02_20_13_28_48_Texas.ndpi",
+    "true_category": "Tetracolporopollenites sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:46",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7137085795402527
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:51",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.7963204383850098
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:47",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Illexpollenites sp.",
+    "category_correct": false,
+    "iou": 0.7768863439559937
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:54",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7585103511810303
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:56",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.7493027448654175
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:60",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7618927359580994
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:62",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:22",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": true,
+    "iou": 0.7179529070854187
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:28",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": true,
+    "iou": 0.8496053218841553
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:27",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.9022396206855774
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:25",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.6139187812805176
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:31",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.8208822011947632
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:32",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.8713300228118896
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:33",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.7331038117408752
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:37",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Cicatricosisporites sp.",
+    "detected": true,
+    "predicted_category": "Retipollenites sp.",
+    "category_correct": false,
+    "iou": 0.5495363473892212
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:4",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.8773877024650574
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:6",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.7824556231498718
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:7",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.8369356393814087
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:17",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.6957612633705139
+  },
+  {
+    "record_id": "D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:18",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4919-A_1_L_2024_02_01_14_07_43_Georgia.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.8227211833000183
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:2",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Platycarya platycarioides",
+    "category_correct": false,
+    "iou": 0.7747116684913635
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:6",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.642581045627594
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:15",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.8296267986297607
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:12",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.5425138473510742
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:20",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Rhoipites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.5639898777008057
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:22",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Rhoipites sp.",
+    "detected": true,
+    "predicted_category": "Platycaryapollenites swasticoidus",
+    "category_correct": false,
+    "iou": 0.5085030794143677
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:30",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.7013164162635803
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:17",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.5559342503547668
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:37",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.7184775471687317
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:28",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Platycarya platycarioides",
+    "category_correct": false,
+    "iou": 0.6353508830070496
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:29",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:26",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.8562835454940796
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:34",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Laevigatosporites sp.",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.6626592874526978
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:47",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.7180730700492859
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:44",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Platycaryapollenites swasticoidus",
+    "category_correct": false,
+    "iou": 0.577879011631012
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:41",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.598247230052948
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:36",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.8350094556808472
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:33",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Betulaceae",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:46",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:53",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.5565741658210754
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:52",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:60",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.9201177954673767
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:74",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Pistillipollenites sp.",
+    "category_correct": false,
+    "iou": 0.8414685130119324
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:70",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Cupuliferoipollenites sp.",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.9142547845840454
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:71",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Cupuliferoipollenites sp.",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.8046848177909851
+  },
+  {
+    "record_id": "D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:76",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_L_2024_02_06_10_55_26_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.789542019367218
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:2",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8028337955474854
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:3",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.8406404852867126
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:6",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.6647603511810303
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:8",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8770824074745178
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:10",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Psilatricolpites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8293606638908386
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:9",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Platycaryapollenites swasticoidus",
+    "category_correct": false,
+    "iou": 0.7694153189659119
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:20",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Platycaryapollenites swasticoidus",
+    "category_correct": false,
+    "iou": 0.8772328495979309
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:24",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.5583895444869995
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:16",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Psilatriletes sp.",
+    "detected": true,
+    "predicted_category": "Bombacacidites sp.",
+    "category_correct": false,
+    "iou": 0.9173505902290344
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:17",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.6538429856300354
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:18",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.5761327147483826
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:30",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Ericipites sp.",
+    "category_correct": false,
+    "iou": 0.7340858578681946
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:38",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.8084608912467957
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:47",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.9058750867843628
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:52",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Pistillipollenites sp.",
+    "category_correct": false,
+    "iou": 0.8378259539604187
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:53",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Psilatriletes sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8161769509315491
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:70",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": true,
+    "iou": 0.7726905941963196
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:54",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.9213145971298218
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:65",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.858108639717102
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:66",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Bombacacidites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.9085786938667297
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:55",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Ericipites sp.",
+    "category_correct": false,
+    "iou": 0.6426998376846313
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:57",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.7840934991836548
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:59",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.7926426529884338
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:74",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.8507812023162842
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:75",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": false,
+    "iou": 0.9317073225975037
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:73",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Platycarya platycarioides",
+    "category_correct": false,
+    "iou": 0.8871749043464661
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:69",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.8943418860435486
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:76",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Platycarya platycarioides",
+    "category_correct": false,
+    "iou": 0.8097556233406067
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:77",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Psilatricolpites sp.",
+    "category_correct": false,
+    "iou": 0.8968855142593384
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:67",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Platycaryapollenites swasticoidus",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:80",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Inaperturopollenites sp.",
+    "detected": true,
+    "predicted_category": "Ulmipollenites sp.",
+    "category_correct": false,
+    "iou": 0.9559190273284912
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:82",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.601310670375824
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:83",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Cupuliferoipollenites sp.",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.8279227614402771
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:88",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Laevigatosporites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.7589491605758667
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:89",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7357450127601624
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:99",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Laevigatosporites sp.",
+    "detected": true,
+    "predicted_category": "Psilatricolpites sp.",
+    "category_correct": false,
+    "iou": 0.6846824884414673
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:93",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.6978079080581665
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:94",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Psilatriletes sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.8373571634292603
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:109",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.7471235394477844
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:86",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.6216076612472534
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:130",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.6903752684593201
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:103",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Caryapollenites",
+    "category_correct": false,
+    "iou": 0.912934422492981
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:104",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Monocolpites sp.",
+    "category_correct": false,
+    "iou": 0.8199201226234436
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:107",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.866057813167572
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:111",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Rousea sp.",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.5525500178337097
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:118",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Ulmipollenites sp.",
+    "detected": true,
+    "predicted_category": "Platycaryapollenites swasticoidus",
+    "category_correct": false,
+    "iou": 0.8369292616844177
+  },
+  {
+    "record_id": "D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:116",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D5542_1_R_2024_02_06_14_21_49_Colorado.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": true,
+    "iou": 0.8439227342605591
+  },
+  {
+    "record_id": "D6627-A-2_L_2024_02_02_12_53_43_Arkansas::ndpviewstate:8",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D6627-A-2_L_2024_02_02_12_53_43_Arkansas.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.6664238572120667
+  },
+  {
+    "record_id": "D6627-A-2_R_2024_02_02_17_42_28_Arkansas::ndpviewstate:15",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D6627-A-2_R_2024_02_02_17_42_28_Arkansas.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.6694336533546448
+  },
+  {
+    "record_id": "D6627-A-2_R_2024_02_02_17_42_28_Arkansas::ndpviewstate:30",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D6627-A-2_R_2024_02_02_17_42_28_Arkansas.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Cicatricosisporites sp.",
+    "category_correct": false,
+    "iou": 0.5828084945678711
+  },
+  {
+    "record_id": "D6627-A-2_R_2024_02_02_17_42_28_Arkansas::ndpviewstate:94",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D6627-A-2_R_2024_02_02_17_42_28_Arkansas.ndpi",
+    "true_category": "Ericipites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.9233773350715637
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:3",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": true,
+    "predicted_category": "Psilatricolpites sp.",
+    "category_correct": false,
+    "iou": 0.5635138750076294
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:20",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:39",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Nudopollis sp.",
+    "category_correct": false,
+    "iou": 0.8465272784233093
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:5",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Ericipites sp.",
+    "category_correct": false,
+    "iou": 0.8379434943199158
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:105",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Rhoipites sp.",
+    "category_correct": false,
+    "iou": 0.942725419998169
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:89",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Rhoipites sp.",
+    "detected": true,
+    "predicted_category": "Rousea sp.",
+    "category_correct": false,
+    "iou": 0.8680995106697083
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:129",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Bisaccate",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:120",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Ericipites sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:162",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Polyatriopollenites type",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.7667700052261353
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:181",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Caryapollenites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8524037599563599
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:195",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming.ndpi",
+    "true_category": "Polyatriopollenites type",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.7011669278144836
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:15",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Ericipites sp.",
+    "category_correct": false,
+    "iou": 0.5792363882064819
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:64",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.5826538801193237
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:72",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming.ndpi",
+    "true_category": "Monocolpites sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:114",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Betulaceae",
+    "category_correct": false,
+    "iou": 0.8553603887557983
+  },
+  {
+    "record_id": "USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:116",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming.ndpi",
+    "true_category": "Psilatriletes sp.",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:42",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.7431811094284058
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:57",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Psilatriletes sp.",
+    "category_correct": false,
+    "iou": 0.8444997072219849
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:59",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.7915909290313721
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:63",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.5099073052406311
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:66",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.6728092432022095
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:76",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.6700641512870789
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:24",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Alnipollenites verus",
+    "detected": true,
+    "predicted_category": "Alnipollenites verus",
+    "category_correct": true,
+    "iou": 0.9259124994277954
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:39",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Bisaccate",
+    "category_correct": true,
+    "iou": 0.8063890337944031
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:92",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": true,
+    "iou": 0.7735210061073303
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:40",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Arecipites sp.",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": false,
+    "iou": 0.8622536659240723
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:35",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.9414293169975281
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:45",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Bisaccate",
+    "detected": true,
+    "predicted_category": "Cicatricosisporites sp.",
+    "category_correct": false,
+    "iou": 0.8679439425468445
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:46",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Pistillipollenites sp.",
+    "detected": true,
+    "predicted_category": "Rousea sp.",
+    "category_correct": false,
+    "iou": 0.9011397957801819
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:103",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Momipites",
+    "detected": true,
+    "predicted_category": "Momipites",
+    "category_correct": true,
+    "iou": 0.9533802270889282
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:31",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Taxodium sp.",
+    "detected": true,
+    "predicted_category": "Arecipites sp.",
+    "category_correct": false,
+    "iou": 0.7730721235275269
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:30",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Betulaceae",
+    "detected": true,
+    "predicted_category": "Tetracolporopollenites sp.",
+    "category_correct": false,
+    "iou": 0.8097370266914368
+  },
+  {
+    "record_id": "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:66",
+    "source": "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee.ndpi",
+    "true_category": "Momipites",
+    "detected": false,
+    "predicted_category": null,
+    "category_correct": false,
+    "iou": null
+  }
+]

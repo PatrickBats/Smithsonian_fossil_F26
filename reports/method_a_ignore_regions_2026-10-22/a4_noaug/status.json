@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "optimizer_steps": 2400,
+  "epochs_started": 27,
+  "elapsed_seconds": 1111.3147945404053,
+  "checkpoint_sha256": "4810201678a5da1281fe80f28176712d9a73f25caf7b82f40c8fa9073ba78df0",
+  "test_used": false
+}

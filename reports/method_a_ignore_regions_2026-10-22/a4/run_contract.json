@@ -1,0 +1,126 @@
+{
+  "experiment": "A4_ignore_springinit",
+  "smoke": false,
+  "max_optimizer_steps": 2400,
+  "init_checkpoint": "/rhf/allocations/dsci435/Smithsonian_F26/weights/rfdetr(2xl)_best_plane.pth",
+  "init_sha256": "3bec840a984efc5b56471f1a4c3222e445661dda61ef69ea18a38cff1978a246",
+  "init_head": {
+    "seeded": true,
+    "pollen_row": 0,
+    "pollen_row_source": "pred_class_id_hist / --pollen-row",
+    "heads": 14,
+    "bias_rows": [
+      -4.660577297210693,
+      -4.494975566864014
+    ],
+    "weight_norm_rows": [
+      0.7215675711631775,
+      1.4534912109375
+    ]
+  },
+  "ignore_label": 28,
+  "train_images": 1423,
+  "train_coco_sha256": "9f424e3d360d4417d4b6b0287a9fb5ccde7790b95537fec5c70c83b5ae7e2fa2",
+  "training_settings": {
+    "dataset_dir": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/A4_ignore_springinit_20261021_debug/data",
+    "output_dir": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/A4_ignore_springinit_20261021_debug/train",
+    "epochs": 35,
+    "batch_size": 1,
+    "grad_accum_steps": 16,
+    "num_workers": 2,
+    "multi_scale": false,
+    "expanded_scales": false,
+    "use_ema": true,
+    "early_stopping": false,
+    "tensorboard": false,
+    "wandb": false,
+    "run_test": false,
+    "seed": 20261013,
+    "lr": 0.0001,
+    "lr_encoder": 1e-05,
+    "lr_scheduler": "cosine",
+    "compute_val_loss": false,
+    "log_per_class_metrics": false,
+    "progress_bar": null,
+    "save_dataset_grids": false,
+    "aug_config": {
+      "HorizontalFlip": {
+        "p": 0.5
+      },
+      "VerticalFlip": {
+        "p": 0.5
+      },
+      "RandomRotate90": {
+        "p": 0.5
+      }
+    }
+  },
+  "model_config": {
+    "encoder": "dinov2_windowed_base",
+    "out_feature_indexes": [
+      3,
+      6,
+      9,
+      12
+    ],
+    "dec_layers": 5,
+    "two_stage": true,
+    "projector_scale": [
+      "P4"
+    ],
+    "hidden_dim": 512,
+    "patch_size": 20,
+    "num_windows": 2,
+    "sa_nheads": 16,
+    "ca_nheads": 32,
+    "dec_n_points": 4,
+    "num_queries": 300,
+    "num_select": 300,
+    "bbox_reparam": true,
+    "lite_refpoint_refine": true,
+    "layer_norm": true,
+    "amp": true,
+    "num_classes": 28,
+    "pretrain_weights": "/rhf/allocations/dsci435/Smithsonian_F26/weights/rfdetr(2xl)_best_plane.pth",
+    "device": "cuda",
+    "resolution": 1000,
+    "group_detr": 13,
+    "gradient_checkpointing": false,
+    "compile": false,
+    "fused_optimizer": true,
+    "positional_encoding_size": 44,
+    "ia_bce_loss": true,
+    "cls_loss_coef": 1.0,
+    "segmentation_head": false,
+    "mask_downsample_ratio": 4,
+    "backbone_lora": false,
+    "freeze_encoder": false,
+    "license": "PML-1.0"
+  },
+  "torch": "2.10.0+cu128",
+  "rfdetr": "1.6.4",
+  "gpu": "NVIDIA L40S",
+  "slurm_job": "2355236",
+  "selection": "fixed final EMA, no validation-based selection",
+  "chunked": true,
+  "chunks": [
+    {
+      "slurm_job": "2355236",
+      "resume": null,
+      "time_budget_min": 21.0,
+      "epochs_cap": 35
+    },
+    {
+      "slurm_job": "2355237",
+      "resume": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/A4_ignore_springinit_20261021_debug/train/resume.ckpt",
+      "time_budget_min": 21.0,
+      "epochs_cap": 35
+    },
+    {
+      "slurm_job": "2355238",
+      "resume": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/A4_ignore_springinit_20261021_debug/train/resume.ckpt",
+      "time_budget_min": 21.0,
+      "epochs_cap": 35
+    }
+  ]
+}

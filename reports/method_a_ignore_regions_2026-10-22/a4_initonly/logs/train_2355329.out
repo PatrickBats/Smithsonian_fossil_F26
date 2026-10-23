@@ -1,0 +1,39 @@
+Thu Oct 22 05:13:09 PM CDT 2026
+NVIDIA L40S
+[2026-10-22 17:13:29] [INFO] rf-detr - Building Roboflow train dataset with square resize at resolution 1000
+[2026-10-22 17:13:29] [INFO] rf-detr - Built 1 Albumentations transforms from config
+[2026-10-22 17:13:29] [INFO] rf-detr - Built 3 Albumentations transforms from config
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+[2026-10-22 17:13:29] [INFO] rf-detr - Building Roboflow val dataset with square resize at resolution 1000
+[2026-10-22 17:13:29] [INFO] rf-detr - Built 1 Albumentations transforms from config
+loading annotations into memory...
+Done (t=0.22s)
+creating index...
+index created!
+{"epoch": 19, "optimizer_step": 1780, "elapsed_seconds": 136}
+{"epoch": 20, "optimizer_step": 1869, "elapsed_seconds": 258}
+{"epoch": 21, "optimizer_step": 1958, "elapsed_seconds": 413}
+{"epoch": 22, "optimizer_step": 2047, "elapsed_seconds": 579}
+{"epoch": 23, "optimizer_step": 2136, "elapsed_seconds": 729}
+{"epoch": 24, "optimizer_step": 2225, "elapsed_seconds": 982}
+{"epoch": 25, "optimizer_step": 2314, "elapsed_seconds": 1106}
+{"epoch": 26, "optimizer_step": 2400, "elapsed_seconds": 1228}
+{
+  "status": "completed",
+  "optimizer_steps": 2400,
+  "epochs_started": 27,
+  "elapsed_seconds": 1233.1209380626678,
+  "checkpoint_sha256": "1251a9f3ae49d931c099e8bac1ef8c3481af1afdde1e885126c2cdf152fdbba3",
+  "test_used": false
+}
+{
+  "status": "completed",
+  "optimizer_steps": 2400,
+  "epochs_started": 27,
+  "elapsed_seconds": 1233.1209380626678,
+  "checkpoint_sha256": "1251a9f3ae49d931c099e8bac1ef8c3481af1afdde1e885126c2cdf152fdbba3",
+  "test_used": false
+}Thu Oct 22 05:34:04 PM CDT 2026

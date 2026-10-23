@@ -1,0 +1,33 @@
+Thu Oct 22 04:08:35 PM CDT 2026
+NVIDIA L40S
+[2026-10-22 16:08:54] [INFO] rf-detr - Building Roboflow train dataset with square resize at resolution 1000
+[2026-10-22 16:08:54] [INFO] rf-detr - Built 1 Albumentations transforms from config
+[2026-10-22 16:08:54] [INFO] rf-detr - Built 1 Albumentations transforms from config
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+[2026-10-22 16:08:54] [INFO] rf-detr - Building Roboflow val dataset with square resize at resolution 1000
+[2026-10-22 16:08:54] [INFO] rf-detr - Built 1 Albumentations transforms from config
+loading annotations into memory...
+Done (t=0.21s)
+creating index...
+index created!
+{"epoch": 0, "optimizer_step": 89, "elapsed_seconds": 130}
+{"epoch": 1, "optimizer_step": 178, "elapsed_seconds": 264}
+{"epoch": 2, "optimizer_step": 267, "elapsed_seconds": 398}
+{"epoch": 3, "optimizer_step": 356, "elapsed_seconds": 529}
+{"epoch": 4, "optimizer_step": 445, "elapsed_seconds": 659}
+{"epoch": 5, "optimizer_step": 534, "elapsed_seconds": 795}
+{"epoch": 6, "optimizer_step": 623, "elapsed_seconds": 955}
+{"epoch": 7, "optimizer_step": 712, "elapsed_seconds": 1091}
+{"epoch": 8, "optimizer_step": 801, "elapsed_seconds": 1225}
+{"epoch": 9, "optimizer_step": 823, "elapsed_seconds": 1265}
+{"status": "paused", "optimizer_step": 823, "max_steps": 2400, "epoch": 9, "chunk_elapsed_seconds": 1264.825290441513}
+{
+  "status": "paused",
+  "optimizer_step": 823,
+  "max_steps": 2400,
+  "epoch": 9,
+  "chunk_elapsed_seconds": 1264.825290441513
+}Thu Oct 22 04:30:04 PM CDT 2026

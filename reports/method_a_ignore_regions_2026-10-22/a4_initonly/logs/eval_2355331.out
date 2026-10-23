@@ -1,0 +1,100 @@
+Thu Oct 22 05:52:59 PM CDT 2026
+NVIDIA L40S
+{"validation_images_done": 1, "total": 1432}
+{"validation_images_done": 101, "total": 1432}
+{"validation_images_done": 201, "total": 1432}
+{"validation_images_done": 301, "total": 1432}
+{"validation_images_done": 401, "total": 1432}
+{"validation_images_done": 501, "total": 1432}
+{"validation_images_done": 601, "total": 1432}
+{"validation_images_done": 701, "total": 1432}
+{"validation_images_done": 801, "total": 1432}
+{"validation_images_done": 901, "total": 1432}
+{"validation_images_done": 1001, "total": 1432}
+{"validation_images_done": 1101, "total": 1432}
+{"validation_images_done": 1201, "total": 1432}
+{"validation_images_done": 1301, "total": 1432}
+{"validation_images_done": 1401, "total": 1432}
+[
+  {
+    "scope": "unchanged complete fixed-grid validation",
+    "threshold": 0.25,
+    "detected": 188,
+    "correct": 64,
+    "unmatched": 1461
+  },
+  {
+    "scope": "positive-tile diagnostic",
+    "threshold": 0.25,
+    "detected": 188,
+    "correct": 64,
+    "unmatched": 314
+  },
+  {
+    "scope": "unchanged complete fixed-grid validation",
+    "threshold": 0.3,
+    "detected": 162,
+    "correct": 64,
+    "unmatched": 877
+  },
+  {
+    "scope": "positive-tile diagnostic",
+    "threshold": 0.3,
+    "detected": 162,
+    "correct": 64,
+    "unmatched": 172
+  },
+  {
+    "scope": "unchanged complete fixed-grid validation",
+    "threshold": 0.4,
+    "detected": 104,
+    "correct": 59,
+    "unmatched": 341
+  },
+  {
+    "scope": "positive-tile diagnostic",
+    "threshold": 0.4,
+    "detected": 104,
+    "correct": 59,
+    "unmatched": 52
+  },
+  {
+    "scope": "unchanged complete fixed-grid validation",
+    "threshold": 0.5,
+    "detected": 64,
+    "correct": 44,
+    "unmatched": 149
+  },
+  {
+    "scope": "positive-tile diagnostic",
+    "threshold": 0.5,
+    "detected": 64,
+    "correct": 44,
+    "unmatched": 24
+  },
+  {
+    "scope": "unchanged complete fixed-grid validation",
+    "threshold": 0.75,
+    "detected": 17,
+    "correct": 17,
+    "unmatched": 24
+  },
+  {
+    "scope": "positive-tile diagnostic",
+    "threshold": 0.75,
+    "detected": 17,
+    "correct": 17,
+    "unmatched": 3
+  }
+]
+init_head {'seeded': True, 'pollen_row': 0, 'pollen_row_source': 'pred_class_id_hist / --pollen-row', 'heads': 14, 'bias_rows': [-4.660577297210693, -4.494975566864014], 'weight_norm_rows': [0.7215675711631775, 1.4534912109375]}
+ignore_label None chunks 3
+{
+  "detected": 64,
+  "end_to_end_correct": 44,
+  "known_specimen_recall_iou50": 0.23357664233576642,
+  "classification_accuracy_on_matched": 0.6875,
+  "unmatched_prediction_count": 149
+}
+=== CHAIN OK
+Thu Oct 22 05:54:48 PM CDT 2026

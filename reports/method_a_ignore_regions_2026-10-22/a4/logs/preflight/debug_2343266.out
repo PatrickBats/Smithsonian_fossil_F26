@@ -1,0 +1,68 @@
+Wed Oct 21 05:17:54 PM CDT 2026
+name, memory.total [MiB]
+NVIDIA L40S, 46068 MiB
+rfdetr 1.6.4 rfdetr-plus 1.0.2 torch 2.10.0+cu128
+=== 1. pseudo-label 40 tiles
+{"done": 1, "total": 40, "ignore_so_far": 9, "elapsed_s": 2}
+{
+  "tiles": 40,
+  "known_boxes": 78,
+  "detections": 304,
+  "ignore_boxes": 228,
+  "tiles_with_ignore": 39,
+  "known_boxes_hit_by_detector": 75,
+  "ignore_category_id": 29,
+  "conf": 0.3,
+  "iou": 0.5,
+  "detector": "/rhf/allocations/dsci435/Smithsonian_F26/weights/rfdetr(2xl)_best_plane.pth",
+  "limit": 40,
+  "pred_class_id_hist": {
+    "0": 304
+  },
+  "ignore_to_known_ratio": 2.923076923076923,
+  "elapsed_s": 14
+}
+=== 2. smoke train (2 optimizer steps)
+[2026-10-21 17:19:01] [INFO] rf-detr - Building Roboflow train dataset with square resize at resolution 1000
+[2026-10-21 17:19:01] [INFO] rf-detr - Built 1 Albumentations transforms from config
+[2026-10-21 17:19:01] [INFO] rf-detr - Built 3 Albumentations transforms from config
+loading annotations into memory...
+Done (t=0.00s)
+creating index...
+index created!
+[2026-10-21 17:19:01] [INFO] rf-detr - Building Roboflow val dataset with square resize at resolution 1000
+[2026-10-21 17:19:01] [INFO] rf-detr - Built 1 Albumentations transforms from config
+loading annotations into memory...
+Done (t=0.20s)
+creating index...
+index created!
+[2026-10-21 17:19:01] [INFO] rf-detr - Training with uniform sampler because dataset is too small: 40 < 80
+{"epoch": 0, "optimizer_step": 2, "elapsed_seconds": 5}
+{
+  "status": "completed",
+  "optimizer_steps": 2,
+  "epochs_started": 1,
+  "elapsed_seconds": 7.50844931602478,
+  "checkpoint_sha256": "6aee3d474b1645e0d685099a8fcb4fe3e3692cf0fb1cd664026e2c6fb67874fc",
+  "test_used": false
+}
+init_head: {"seeded": true, "pollen_row": 0, "pollen_row_source": "pred_class_id_hist / --pollen-row", "heads": 14, "bias_rows": [-4.660577297210693, -4.494975566864014], "weight_norm_rows": [0.7215675711631775, 1.4534912109375]}
+ignore_label: 28  train_images: 40
+pred_class_id_hist: {'0': 304}
+OK: seeded row == fired row; ignore mask active (hits last batch: 5817)
+{
+  "status": "training",
+  "optimizer_step": 0,
+  "max_steps": 2,
+  "epoch": 0,
+  "elapsed_seconds": 2.629044771194458,
+  "ignore_hits_last_batch": 5817
+}=== 3. smoke eval (2 positive tiles)
+{"validation_images_done": 1, "total": 2}
+{
+  "status": "completed",
+  "images": 2,
+  "checkpoint_sha256": "6aee3d474b1645e0d685099a8fcb4fe3e3692cf0fb1cd664026e2c6fb67874fc",
+  "elapsed_seconds": 1.5894298553466797
+}=== DEBUG OK
+Wed Oct 21 05:19:30 PM CDT 2026
