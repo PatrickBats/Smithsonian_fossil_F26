@@ -83,6 +83,9 @@ def patch_criterion_for_ignore(criterion, ignore_label, iou_thresh=0.5):
         mask[idx] = False
         criterion._ignore_hits += int(mask.sum())
         loss_ce = loss_ce * (~mask).unsqueeze(-1).to(loss_ce.dtype)
+        rw = getattr(criterion, "_row_weight", None)   # --balance cb: class weights on matched rows
+        if rw is not None:
+            loss_ce = loss_ce * rw.unsqueeze(-1)
         losses = {"loss_ce": loss_ce.sum() / num_boxes}
         if log:
             from rfdetr.models.math import accuracy
@@ -143,6 +146,87 @@ def pollen_row_for(dataset_dir, override):
     return override
 
 
+def class_balance_stats(train_coco, ignore_label, a):
+    """Per-class label counts, class-balanced loss weights (Cui et al. 2019, effective number
+    (1-b)/(1-b^n), normalised to mean 1) and per-image repeat factors (Gupta et al. 2019:
+    r(img) = max over its classes of max(1, sqrt(t / f(c))), f = fraction of tiles containing c)."""
+    import collections, math
+    cats = sorted(train_coco["categories"], key=lambda c: c["id"])
+    remap = {c["id"]: i for i, c in enumerate(cats)}            # same contiguous remap rfdetr uses
+    names = {remap[c["id"]]: c["name"] for c in cats}
+    img_classes = collections.defaultdict(set)
+    for ann in train_coco["annotations"]:
+        lab = remap[ann["category_id"]]
+        if lab != ignore_label:
+            img_classes[ann["image_id"]].add(lab)
+    n_img = len(train_coco["images"])
+    counts = collections.Counter(remap[x["category_id"]] for x in train_coco["annotations"] if remap[x["category_id"]] != ignore_label)
+    freq = {c: sum(1 for s in img_classes.values() if c in s) / n_img for c in counts}
+    b = a.cb_beta
+    w = {c: (1 - b) / (1 - b ** n) for c, n in counts.items()}
+    mean_w = sum(w.values()) / len(w)
+    class_weight = {c: w[c] / mean_w for c in w}
+    image_repeat = {}
+    for img in train_coco["images"]:
+        cs = img_classes.get(img["id"], set())
+        image_repeat[img["id"]] = max([1.0] + [math.sqrt(a.rfs_t / freq[c]) for c in cs if freq[c] < a.rfs_t])
+    hist = collections.Counter(round(r, 1) for r in image_repeat.values())
+    return dict(class_counts={names[c]: n for c, n in sorted(counts.items())},
+                class_weight={names[c]: round(v, 3) for c, v in sorted(class_weight.items())},
+                class_weight_by_label=class_weight, image_repeat=image_repeat,
+                repeat_factor_hist={str(k): v for k, v in sorted(hist.items())})
+
+
+def patch_datamodule_rfs(dm, image_repeat, tc):
+    """Replace the shuffle=True train loader with a WeightedRandomSampler over tiles (weights =
+    repeat factors, with replacement, one epoch = len(dataset) draws rounded to the accumulation
+    window) so rare-class tiles are seen more often. Everything else in the loader is unchanged."""
+    import torch
+    from torch.utils.data import DataLoader, WeightedRandomSampler
+    from rfdetr.training.module_data import collate_fn
+    orig = dm.train_dataloader
+
+    def train_dataloader():
+        ds = dm._dataset_train
+        ids = list(getattr(ds, "ids", None) or ds.coco.getImgIds())
+        assert len(ids) == len(ds), (len(ids), len(ds))
+        weights = torch.tensor([image_repeat[i] for i in ids], dtype=torch.double)
+        eff = tc.batch_size * tc.grad_accum_steps
+        n = (len(ds) // eff) * eff
+        sampler = WeightedRandomSampler(weights, num_samples=n, replacement=True)
+        print(json.dumps(dict(rfs_sampler=True, tiles=len(ds), draws_per_epoch=n,
+                              mean_weight=float(weights.mean()), max_weight=float(weights.max()))), flush=True)
+        return DataLoader(ds, batch_size=tc.batch_size, sampler=sampler, drop_last=True, collate_fn=collate_fn,
+                          num_workers=dm._num_workers, pin_memory=dm._pin_memory,
+                          persistent_workers=dm._persistent_workers, prefetch_factor=dm._prefetch_factor)
+    dm.train_dataloader = train_dataloader
+    return dm
+
+
+def patch_criterion_class_weights(criterion, class_weight_by_label):
+    """Scale each matched query's IA-BCE row by its target class weight (applied after the
+    ignore-region patch, which must already be installed)."""
+    import torch
+    inner = criterion.loss_labels
+    table = torch.tensor([class_weight_by_label[i] for i in range(len(class_weight_by_label))], dtype=torch.float32)
+
+    def loss_labels(outputs, targets, indices, num_boxes, log=True):
+        # recompute the per-element loss with the same code path, then weight matched rows
+        src_logits = outputs["pred_logits"]
+        idx = criterion._get_src_permutation_idx(indices)
+        target_classes_o = torch.cat([t["labels"][J] for t, (_, J) in zip(targets, indices)])
+        w = table.to(src_logits.device)[target_classes_o]
+        row_w = torch.ones(src_logits.shape[:2], device=src_logits.device, dtype=src_logits.dtype)
+        row_w[idx] = w.to(src_logits.dtype)
+        criterion._row_weight = row_w
+        try:
+            return inner(outputs, targets, indices, num_boxes, log)
+        finally:
+            criterion._row_weight = None
+    criterion.loss_labels = loss_labels
+    return criterion
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--dataset", required=True, help="dataset dir produced by make_ignore_labels.py")
@@ -152,6 +236,13 @@ def main():
     p.add_argument("--lr", type=float, default=1e-4)
     p.add_argument("--lr-encoder", type=float, default=1e-5)
     p.add_argument("--no-extra-aug", action="store_true", help="ablation: hflip only like the team")
+    p.add_argument("--balance", choices=["none", "rfs", "cb"], default="none",
+                   help="rfs: repeat-factor sampling of tiles (Gupta et al. 2019, LVIS); "
+                        "cb: class-balanced weights on matched queries' IA-BCE loss (Cui et al. 2019)")
+    p.add_argument("--rfs-t", type=float, default=0.02, help="RFS threshold t: tiles whose rarest class has image frequency < t are repeated sqrt(t/f) times")
+    p.add_argument("--cb-beta", type=float, default=0.999)
+    p.add_argument("--multi-scale", action="store_true", help="rfdetr multi-scale resize (expanded scales) instead of fixed 1000 px")
+    p.add_argument("--color-jitter", action="store_true", help="HueSaturationValue + RandomBrightnessContrast (stain/illumination shift)")
     p.add_argument("--smoke", action="store_true")
     p.add_argument("--seed", type=int, default=20261013)
     p.add_argument("--pollen-row", type=int, default=None,
@@ -189,8 +280,8 @@ def main():
     pl.seed_everything(a.seed, workers=True)
 
     def resize_only(scales, *, square, max_size=None):  # same as team: no secondary random crop
-        assert square and scales == [1000]
-        return [{"Resize": {"height": 1000, "width": 1000}}]
+        # fixed: [1000]; --multi-scale: one random square scale per tile from rfdetr's scale set
+        return [{"OneOf": [{"Resize": {"height": s, "width": s, "p": 1.0}} for s in scales]}]
     coco._build_train_resize_config = resize_only
 
     steps = 2 if a.smoke else a.steps
@@ -202,9 +293,12 @@ def main():
     aug = {"HorizontalFlip": {"p": 0.5}}
     if not a.no_extra_aug:
         aug.update({"VerticalFlip": {"p": 0.5}, "RandomRotate90": {"p": 0.5}})
+    if a.color_jitter:
+        aug.update({"HueSaturationValue": {"hue_shift_limit": 10, "sat_shift_limit": 20, "val_shift_limit": 15, "p": 0.5},
+                    "RandomBrightnessContrast": {"brightness_limit": 0.15, "contrast_limit": 0.15, "p": 0.5}})
     mc = RFDETR2XLargeConfig(pretrain_weights=a.init, num_classes=28, resolution=1000)
     settings = dict(dataset_dir=str(data), output_dir=str(out), epochs=epochs, batch_size=1,
-                    grad_accum_steps=16, num_workers=2, multi_scale=False, expanded_scales=False,
+                    grad_accum_steps=16, num_workers=2, multi_scale=a.multi_scale, expanded_scales=a.multi_scale,
                     use_ema=True, early_stopping=False, tensorboard=False, wandb=False, run_test=False,
                     seed=a.seed, lr=a.lr, lr_encoder=a.lr_encoder, lr_scheduler="cosine",
                     compute_val_loss=False, log_per_class_metrics=False, progress_bar=None,
@@ -216,10 +310,19 @@ def main():
     if ignore_label is not None:
         patch_criterion_for_ignore(module.criterion, ignore_label)
     dm = RFDETRDataModule(mc, tc)
+    balance = class_balance_stats(train_coco, ignore_label, a)
+    if a.balance == "rfs":
+        patch_datamodule_rfs(dm, balance["image_repeat"], tc)
+    elif a.balance == "cb":
+        patch_criterion_class_weights(module.criterion, balance["class_weight"])
     contract = dict(experiment="A4_ignore_cocoinit" if init_head.get("seeded") is False else "A4_ignore_springinit", smoke=a.smoke, max_optimizer_steps=steps,
                     init_checkpoint=a.init, init_sha256=sha(a.init), init_head=init_head, ignore_label=ignore_label,
                     train_images=n_train, train_coco_sha256=sha(data / "train/_annotations.coco.json"),
                     training_settings=settings, model_config=mc.model_dump(), torch=torch.__version__,
+                    balance=dict(mode=a.balance, rfs_t=a.rfs_t, cb_beta=a.cb_beta,
+                                 class_counts=balance["class_counts"], class_weight=balance["class_weight"],
+                                 repeat_factor_hist=balance["repeat_factor_hist"]),
+                    aug_config=aug, multi_scale=a.multi_scale,
                     rfdetr=importlib.metadata.version("rfdetr"), gpu=torch.cuda.get_device_name(),
                     slurm_job=os.environ.get("SLURM_JOB_ID"),
                     selection="fixed final EMA, no validation-based selection",
