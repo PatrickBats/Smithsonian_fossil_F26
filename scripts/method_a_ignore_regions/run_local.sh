@@ -45,7 +45,8 @@ assert p['ignore_hits_last_batch'], p; print('ignore mask active, hits last batc
 
 echo "=== 3. full train (2,400 optimizer steps)"
 if done_ $W/train; then echo "[skip] done"; else
-  rm -rf $W/train; $PY -u train_ignore.py --dataset $DATA --init "$INIT" --out $W/train $EXTRA; fi
+  if [ -f $W/train/resume.ckpt ]; then RES="--resume $W/train/resume.ckpt"; echo "resuming from $RES"; else RES=""; rm -rf $W/train; fi
+  $PY -u train_ignore.py --dataset $DATA --init "$INIT" --out $W/train $RES $EXTRA; fi
 cat $W/train/status.json
 
 echo "=== 4. evaluate (unchanged 1,432-tile grid)"
