@@ -239,7 +239,7 @@ def main():
     p.add_argument("--balance", choices=["none", "rfs", "cb"], default="none",
                    help="rfs: repeat-factor sampling of tiles (Gupta et al. 2019, LVIS); "
                         "cb: class-balanced weights on matched queries' IA-BCE loss (Cui et al. 2019)")
-    p.add_argument("--rfs-t", type=float, default=0.02, help="RFS threshold t: tiles whose rarest class has image frequency < t are repeated sqrt(t/f) times")
+    p.add_argument("--rfs-t", type=float, default=0.1, help="RFS threshold t: tiles whose rarest class has image frequency < t are repeated sqrt(t/f) times")
     p.add_argument("--cb-beta", type=float, default=0.999)
     p.add_argument("--multi-scale", action="store_true", help="rfdetr multi-scale resize (expanded scales) instead of fixed 1000 px")
     p.add_argument("--color-jitter", action="store_true", help="HueSaturationValue + RandomBrightnessContrast (stain/illumination shift)")
@@ -314,7 +314,7 @@ def main():
     if a.balance == "rfs":
         patch_datamodule_rfs(dm, balance["image_repeat"], tc)
     elif a.balance == "cb":
-        patch_criterion_class_weights(module.criterion, balance["class_weight"])
+        patch_criterion_class_weights(module.criterion, balance["class_weight_by_label"])
     contract = dict(experiment="A4_ignore_cocoinit" if init_head.get("seeded") is False else "A4_ignore_springinit", smoke=a.smoke, max_optimizer_steps=steps,
                     init_checkpoint=a.init, init_sha256=sha(a.init), init_head=init_head, ignore_label=ignore_label,
                     train_images=n_train, train_coco_sha256=sha(data / "train/_annotations.coco.json"),
