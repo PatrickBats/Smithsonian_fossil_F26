@@ -287,9 +287,9 @@ def main():
 
     steps = 2 if a.smoke else a.steps
     epochs = 1 if a.smoke else math.ceil(steps / max(1, n_train // 16)) + 1
-    if a.time_budget_min:
-        # a resumed epoch restarts from its first batch, so chunking can consume a few extra epochs;
-        # max_steps still caps estimated_stepping_batches, so the cosine schedule is unchanged.
+    if a.time_budget_min or a.resume:
+        # a resumed epoch restarts from its first batch, so chunking/resuming can consume a few extra
+        # epochs; max_steps still caps estimated_stepping_batches, so the cosine schedule is unchanged.
         epochs += 6
     aug = {"HorizontalFlip": {"p": 0.5}}
     if not a.no_extra_aug:
