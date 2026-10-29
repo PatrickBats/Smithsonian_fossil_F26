@@ -244,6 +244,7 @@ def main():
     p.add_argument("--multi-scale", action="store_true", help="rfdetr multi-scale resize (expanded scales) instead of fixed 1000 px")
     p.add_argument("--color-jitter", action="store_true", help="HueSaturationValue + RandomBrightnessContrast (stain/illumination shift)")
     p.add_argument("--smoke", action="store_true")
+    p.add_argument("--num-workers", type=int, default=2, help="dataloader workers (throughput only; the A3 recipe used 2)")
     p.add_argument("--seed", type=int, default=20261013)
     p.add_argument("--pollen-row", type=int, default=None,
                    help="head row the one-class init fires on; read from the dataset summary when present")
@@ -298,7 +299,7 @@ def main():
                     "RandomBrightnessContrast": {"brightness_limit": 0.15, "contrast_limit": 0.15, "p": 0.5}})
     mc = RFDETR2XLargeConfig(pretrain_weights=a.init, num_classes=28, resolution=1000)
     settings = dict(dataset_dir=str(data), output_dir=str(out), epochs=epochs, batch_size=1,
-                    grad_accum_steps=16, num_workers=2, multi_scale=a.multi_scale, expanded_scales=a.multi_scale,
+                    grad_accum_steps=16, num_workers=a.num_workers, multi_scale=a.multi_scale, expanded_scales=a.multi_scale,
                     use_ema=True, early_stopping=False, tensorboard=False, wandb=False, run_test=False,
                     seed=a.seed, lr=a.lr, lr_encoder=a.lr_encoder, lr_scheduler="cosine",
                     compute_val_loss=False, log_per_class_metrics=False, progress_bar=None,

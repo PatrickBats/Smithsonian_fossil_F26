@@ -11,8 +11,8 @@ done_() { [ -f "$1/status.json" ] && grep -q '"completed"' "$1/status.json"; }
 while ! done_ ../runs/A4_cocoinit_local/eval; do sleep 60; done
 date; echo "A4_cocoinit_local done, starting A5 queue"
 run() { mkdir -p ../runs/$1; bash run_local.sh $1 $D "$2" >> ../runs/$1/nohup.out 2>&1; echo "$1 exit $? $(date)"; }
-run A5a_rfs            "--balance rfs"
-run A5b_rfs_ms_cj      "--balance rfs --multi-scale --color-jitter"
-run A5c_rfs_ms_cj_4800 "--balance rfs --multi-scale --color-jitter --steps 4800"
-run A5d_cb_ms_cj       "--balance cb --multi-scale --color-jitter"
+run A5a_rfs            "--balance rfs --num-workers 8"
+run A5b_rfs_ms_cj      "--balance rfs --multi-scale --color-jitter --num-workers 8"
+run A5c_rfs_ms_cj_4800 "--balance rfs --multi-scale --color-jitter --steps 4800 --num-workers 8"
+run A5d_cb_ms_cj       "--balance cb --multi-scale --color-jitter --num-workers 8"
 echo "QUEUE DONE $(date)"
