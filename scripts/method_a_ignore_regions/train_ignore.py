@@ -244,6 +244,7 @@ def main():
     p.add_argument("--multi-scale", action="store_true", help="rfdetr multi-scale resize (expanded scales) instead of fixed 1000 px")
     p.add_argument("--color-jitter", action="store_true", help="HueSaturationValue + RandomBrightnessContrast (stain/illumination shift)")
     p.add_argument("--smoke", action="store_true")
+    p.add_argument("--one-class", action="store_true", help="stage 1 of detector-first: dataset has a single category (every grain = pollen); no seeding, no ignore label")
     p.add_argument("--num-workers", type=int, default=2, help="dataloader workers (throughput only; the A3 recipe used 2)")
     p.add_argument("--seed", type=int, default=20261013)
     p.add_argument("--pollen-row", type=int, default=None,
@@ -271,7 +272,8 @@ def main():
     train_coco = json.loads((data / "train/_annotations.coco.json").read_text())
     cats = sorted(train_coco["categories"], key=lambda c: c["id"])
     real = [c for c in cats if c["name"] != "__ignore__"]
-    assert len(real) == 28, len(real)
+    NC = 1 if a.one_class else 28
+    assert len(real) == NC, (len(real), NC)
     # rfdetr 1.6.4 trains with remap_category_ids=True: contiguous labels in sorted id order,
     # so __ignore__ (the max id) becomes label 28 and the 28 real classes are 0..27.
     ignore_label = len(real) if len(real) != len(cats) else None
@@ -297,7 +299,7 @@ def main():
     if a.color_jitter:
         aug.update({"HueSaturationValue": {"hue_shift_limit": 10, "sat_shift_limit": 20, "val_shift_limit": 15, "p": 0.5},
                     "RandomBrightnessContrast": {"brightness_limit": 0.15, "contrast_limit": 0.15, "p": 0.5}})
-    mc = RFDETR2XLargeConfig(pretrain_weights=a.init, num_classes=28, resolution=1000)
+    mc = RFDETR2XLargeConfig(pretrain_weights=a.init, num_classes=NC, resolution=1000)
     settings = dict(dataset_dir=str(data), output_dir=str(out), epochs=epochs, batch_size=1,
                     grad_accum_steps=16, num_workers=a.num_workers, multi_scale=a.multi_scale, expanded_scales=a.multi_scale,
                     use_ema=True, early_stopping=False, tensorboard=False, wandb=False, run_test=False,
@@ -306,8 +308,9 @@ def main():
                     save_dataset_grids=False, aug_config=aug)
     tc = TrainConfig(**settings)
     module = RFDETRModelModule(mc, tc)
-    assert module.model.class_embed.out_features == 29, module.model.class_embed.out_features
-    init_head = seed_class_head_from_one_class(module.model, a.init, pollen_row_for(data, a.pollen_row))
+    assert module.model.class_embed.out_features == NC + 1, module.model.class_embed.out_features
+    init_head = {"seeded": False, "one_class": True} if a.one_class else \
+        seed_class_head_from_one_class(module.model, a.init, pollen_row_for(data, a.pollen_row))
     if ignore_label is not None:
         patch_criterion_for_ignore(module.criterion, ignore_label)
     dm = RFDETRDataModule(mc, tc)
@@ -316,7 +319,7 @@ def main():
         patch_datamodule_rfs(dm, balance["image_repeat"], tc)
     elif a.balance == "cb":
         patch_criterion_class_weights(module.criterion, balance["class_weight_by_label"])
-    contract = dict(experiment="A4_ignore_cocoinit" if init_head.get("seeded") is False else "A4_ignore_springinit", smoke=a.smoke, max_optimizer_steps=steps,
+    contract = dict(experiment="A6_oneclass_stage1" if a.one_class else ("A4_ignore_cocoinit" if init_head.get("seeded") is False else "A4_ignore_springinit"), smoke=a.smoke, max_optimizer_steps=steps,
                     init_checkpoint=a.init, init_sha256=sha(a.init), init_head=init_head, ignore_label=ignore_label,
                     train_images=n_train, train_coco_sha256=sha(data / "train/_annotations.coco.json"),
                     training_settings=settings, model_config=mc.model_dump(), torch=torch.__version__,
