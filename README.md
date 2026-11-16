@@ -10,6 +10,7 @@ Check annotations → extract specimens → train and evaluate → classify new 
 
 - [Current project context](docs/CURRENT_CONTEXT.md)
 - [Correct working dataset — Fall 2026](data/current/README.md)
+- [Method A November delivery: code, data paths, and held-out results](reports/method_a_new_delivery_2026-11-16/README.md)
 
 - [Next steps](docs/NEXT_STEPS.md)
 - [Detection pilot](docs/DETECTION_PILOT.md)
