@@ -6,6 +6,10 @@
 
 The [broad v1 map](broad_v1/README.md) groups the current 32 YES categories into 28 draft operational groups, preserving fine labels and all 2,283 eligible specimens. It is a separate proposal, not a replacement for the original map or historical results.
 
+## November detector delivery
+
+The separate November training delivery uses the [versioned sponsor-title and 32-to-28 class maps](new_delivery_maps/README.md) with its [Method A preparation and held-out evaluation code](../../scripts/method_a_new_delivery/README.md). The original scans and specimen-level manifests remain on NOTS.
+
 ## Verified inventory
 
 - 83 annotation files and one 15,965,474,680-byte NDPI image in the archive.
