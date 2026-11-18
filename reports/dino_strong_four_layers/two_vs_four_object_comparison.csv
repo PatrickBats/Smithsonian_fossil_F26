@@ -1,0 +1,259 @@
+﻿record_id,true_category,strong_last_two_prediction,last_four_prediction,outcome
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:2,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:7,Polyatriopollenites type,Inaperturopollenites sp.,Ulmipollenites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:3,Alnipollenites verus,Betulaceae,Betulaceae,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:9,Alnipollenites verus,Ulmipollenites sp.,Momipites,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:6,Monocolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:48,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:45,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:12,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:41,Betulaceae,Betulaceae,Ulmipollenites sp.,newly_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:36,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:31,Inaperturopollenites sp.,Inaperturopollenites sp.,Ulmipollenites sp.,newly_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:21,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:33,Taxodium sp.,Taxodium sp.,Momipites,newly_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:29,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:23,Polyatriopollenites type,Inaperturopollenites sp.,Inaperturopollenites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:26,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:47,Psilatricolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:72,Psilatricolpites sp.,Rhoipites sp.,Psilatricolpites sp.,newly_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:70,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:54,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:39,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:64,Taxodium sp.,Inaperturopollenites sp.,Inaperturopollenites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:78,Psilatricolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:84,Alnipollenites verus,Illexpollenites sp.,Betulaceae,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:69,Betulaceae,Ulmipollenites sp.,Ulmipollenites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:98,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:86,Rhoipites sp.,Rhoipites sp.,Rhoipites sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:94,Psilatricolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:88,Psilatricolpites sp.,Quercus sp.,Quercus sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:90,Rhoipites sp.,Rhoipites sp.,Rhoipites sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:91,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:89,Psilatricolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:108,Taxodium sp.,Inaperturopollenites sp.,Monocolpites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:142,Alnipollenites verus,Ulmipollenites sp.,Ulmipollenites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:116,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:141,Taxodium sp.,Inaperturopollenites sp.,Taxodium sp.,newly_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:120,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:121,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:137,Inaperturopollenites sp.,Inaperturopollenites sp.,Inaperturopollenites sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:138,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:139,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:130,Inaperturopollenites sp.,Inaperturopollenites sp.,Inaperturopollenites sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:128,Psilatricolpites sp.,Ericipites sp.,Psilatriletes sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:153,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:154,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:156,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:143,Psilatricolpites sp.,Taxodium sp.,Taxodium sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:185,Alnipollenites verus,Alnipollenites verus,Momipites,newly_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:159,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:186,Psilatricolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:140,Taxodium sp.,Polyatriopollenites type,Taxodium sp.,newly_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:162,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:165,Monocolpites sp.,Polyatriopollenites type,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:198,Inaperturopollenites sp.,Bisaccate,Bisaccate,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:199,Alnipollenites verus,Betulaceae,Betulaceae,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:202,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:201,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:225,Taxodium sp.,Inaperturopollenites sp.,Inaperturopollenites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:203,Psilatricolpites sp.,Taxodium sp.,Taxodium sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:200,Ericipites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:224,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:207,Psilatricolpites sp.,Psilatricolpites sp.,Psilatricolpites sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:208,Psilatricolpites sp.,Taxodium sp.,Taxodium sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:210,Psilatricolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:172,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:215,Bisaccate,Bisaccate,Bisaccate,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:218,Alnipollenites verus,Betulaceae,Betulaceae,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:236,Polyatriopollenites type,Polyatriopollenites type,Polyatriopollenites type,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:237,Inaperturopollenites sp.,Inaperturopollenites sp.,Ulmipollenites sp.,newly_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:242,Taxodium sp.,Bisaccate,Bisaccate,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:246,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:244,Alnipollenites verus,Momipites,Momipites,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:248,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:253,Polyatriopollenites type,Betulaceae,Betulaceae,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:251,Rhoipites sp.,Rhoipites sp.,Rhoipites sp.,both_correct
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:249,Polyatriopollenites type,Platycaryapollenites swasticoidus,Inaperturopollenites sp.,both_wrong
+C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska::ndpviewstate:250,Bisaccate,Bisaccate,Bisaccate,both_correct
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:4,Inaperturopollenites sp.,Inaperturopollenites sp.,Inaperturopollenites sp.,both_correct
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:5,Momipites,Laevigatosporites sp.,Laevigatosporites sp.,both_wrong
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:28,Bisaccate,Platycaryapollenites swasticoidus,Momipites,both_wrong
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:32,Quercus sp.,Ulmipollenites sp.,Ulmipollenites sp.,both_wrong
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:6,Bisaccate,Bisaccate,Bisaccate,both_correct
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:7,Bombacacidites sp.,Platycaryapollenites swasticoidus,Betulaceae,both_wrong
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:42,Bisaccate,Alnipollenites verus,Alnipollenites verus,both_wrong
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:26,Bisaccate,Bisaccate,Bisaccate,both_correct
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:91,Ulmipollenites sp.,Momipites,Momipites,both_wrong
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:52,Bisaccate,Bisaccate,Bisaccate,both_correct
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:51,Bisaccate,Bisaccate,Bisaccate,both_correct
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:61,Bisaccate,Bisaccate,Bisaccate,both_correct
+D1821_1_L_2024_01_22_16_22_31_New_Mex::ndpviewstate:98,Quercus sp.,Ulmipollenites sp.,Inaperturopollenites sp.,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:44,Betulaceae,Alnipollenites verus,Alnipollenites verus,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:45,Ulmipollenites sp.,Ulmipollenites sp.,Ulmipollenites sp.,both_correct
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:40,Ulmipollenites sp.,Ulmipollenites sp.,Inaperturopollenites sp.,newly_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:48,Ulmipollenites sp.,Laevigatosporites sp.,Laevigatosporites sp.,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:50,Ulmipollenites sp.,Platycaryapollenites swasticoidus,Ericipites sp.,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:51,Betulaceae,Alnipollenites verus,Momipites,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:6,Nudopollis sp.,Alnipollenites verus,Alnipollenites verus,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:17,Bombacacidites sp.,Bombacacidites sp.,Momipites,newly_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:12,Bombacacidites sp.,Pistillipollenites sp.,Caryapollenites,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:14,Ulmipollenites sp.,Inaperturopollenites sp.,Inaperturopollenites sp.,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:34,Nudopollis sp.,Momipites,Momipites,both_wrong
+D1821_1_R_2024_01_23_15_01_49_New_Mex::ndpviewstate:73,Bisaccate,Bisaccate,Bisaccate,both_correct
+D1910_2024_02_29_12_46_52_Wyoming::ndpviewstate:39,Platycarya platycarioides,Platycaryapollenites swasticoidus,Platycaryapollenites swasticoidus,both_wrong
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:27,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:25,Illexpollenites sp.,Illexpollenites sp.,Rousea sp.,newly_wrong
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:5,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:24,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:22,Illexpollenites sp.,Illexpollenites sp.,Illexpollenites sp.,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:18,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:10,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:11,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:14,Momipites,Momipites,Caryapollenites,newly_wrong
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:16,Momipites,Bombacacidites sp.,Bombacacidites sp.,both_wrong
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:15,Illexpollenites sp.,Illexpollenites sp.,Illexpollenites sp.,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:42,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:58,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:46,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:47,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:48,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:54,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:51,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:52,Platycaryapollenites swasticoidus,Ericipites sp.,Ericipites sp.,both_wrong
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:62,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:67,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:69,Rousea sp.,Rousea sp.,Rousea sp.,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:72,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:85,Bombacacidites sp.,Rousea sp.,Rousea sp.,both_wrong
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:86,Momipites,Caryapollenites,Momipites,newly_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:83,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:75,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:74,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:96,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:89,Rousea sp.,Rousea sp.,Rousea sp.,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:106,Tetracolporopollenites sp.,Tetracolporopollenites sp.,Tetracolporopollenites sp.,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:113,Momipites,Momipites,Momipites,both_correct
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:110,Momipites,Momipites,Caryapollenites,newly_wrong
+D3407-2_L_2024_02_20_13_28_48_Texas::ndpviewstate:109,Rousea sp.,Rousea sp.,Rousea sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:22,Arecipites sp.,Rousea sp.,Rousea sp.,both_wrong
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:28,Monocolpites sp.,Monocolpites sp.,Monocolpites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:27,Monocolpites sp.,Inaperturopollenites sp.,Inaperturopollenites sp.,both_wrong
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:25,Betulaceae,Betulaceae,Betulaceae,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:31,Arecipites sp.,Rousea sp.,Arecipites sp.,newly_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:32,Monocolpites sp.,Monocolpites sp.,Arecipites sp.,newly_wrong
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:33,Monocolpites sp.,Monocolpites sp.,Psilatricolpites sp.,newly_wrong
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:37,Cicatricosisporites sp.,Cicatricosisporites sp.,Cicatricosisporites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:4,Arecipites sp.,Arecipites sp.,Arecipites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:7,Monocolpites sp.,Laevigatosporites sp.,Laevigatosporites sp.,both_wrong
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:6,Rousea sp.,Rousea sp.,Rousea sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:17,Psilatricolpites sp.,Psilatricolpites sp.,Psilatricolpites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:18,Arecipites sp.,Arecipites sp.,Arecipites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:51,Monocolpites sp.,Monocolpites sp.,Monocolpites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:47,Rousea sp.,Rousea sp.,Rousea sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:46,Monocolpites sp.,Monocolpites sp.,Monocolpites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:54,Monocolpites sp.,Monocolpites sp.,Monocolpites sp.,both_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:56,Arecipites sp.,Quercus sp.,Arecipites sp.,newly_correct
+D4919-A_1_L_2024_02_01_14_07_43_Georgia::ndpviewstate:60,Monocolpites sp.,Caryapollenites,Monocolpites sp.,newly_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:2,Ulmipollenites sp.,Momipites,Momipites,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:6,Betulaceae,Betulaceae,Momipites,newly_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:15,Caryapollenites,Alnipollenites verus,Momipites,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:12,Ulmipollenites sp.,Ulmipollenites sp.,Caryapollenites,newly_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:22,Rhoipites sp.,Rhoipites sp.,Rhoipites sp.,both_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:30,Momipites,Platycaryapollenites swasticoidus,Momipites,newly_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:17,Ulmipollenites sp.,Platycaryapollenites swasticoidus,Platycaryapollenites swasticoidus,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:20,Rhoipites sp.,Rhoipites sp.,Rhoipites sp.,both_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:37,Alnipollenites verus,Momipites,Momipites,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:29,Caryapollenites,Caryapollenites,Momipites,newly_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:28,Caryapollenites,Polyatriopollenites type,Caryapollenites,newly_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:26,Taxodium sp.,Alnipollenites verus,Taxodium sp.,newly_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:34,Laevigatosporites sp.,Laevigatosporites sp.,Laevigatosporites sp.,both_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:44,Ulmipollenites sp.,Platycaryapollenites swasticoidus,Ericipites sp.,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:41,Bombacacidites sp.,Caryapollenites,Caryapollenites,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:36,Bombacacidites sp.,Platycarya platycarioides,Rousea sp.,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:33,Betulaceae,Alnipollenites verus,Bombacacidites sp.,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:47,Rousea sp.,Quercus sp.,Quercus sp.,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:46,Monocolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:53,Caryapollenites,Caryapollenites,Caryapollenites,both_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:52,Caryapollenites,Caryapollenites,Caryapollenites,both_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:60,Ulmipollenites sp.,Platycaryapollenites swasticoidus,Momipites,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:74,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:70,Cupuliferoipollenites sp.,Momipites,Momipites,both_wrong
+D5542_1_L_2024_02_06_10_55_26_Colorado::ndpviewstate:76,Caryapollenites,Bombacacidites sp.,Caryapollenites,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:2,Ulmipollenites sp.,Caryapollenites,Caryapollenites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:3,Ulmipollenites sp.,Bombacacidites sp.,Ulmipollenites sp.,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:6,Momipites,Caryapollenites,Momipites,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:8,Ulmipollenites sp.,Polyatriopollenites type,Ulmipollenites sp.,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:10,Psilatricolpites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:9,Ulmipollenites sp.,Ericipites sp.,Ericipites sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:20,Ulmipollenites sp.,Ulmipollenites sp.,Ulmipollenites sp.,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:24,Bombacacidites sp.,Psilatriletes sp.,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:17,Caryapollenites,Betulaceae,Betulaceae,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:18,Caryapollenites,Caryapollenites,Momipites,newly_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:16,Psilatriletes sp.,Bisaccate,Bisaccate,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:30,Betulaceae,Ericipites sp.,Alnipollenites verus,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:38,Ulmipollenites sp.,Ulmipollenites sp.,Momipites,newly_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:47,Momipites,Momipites,Momipites,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:53,Psilatriletes sp.,Alnipollenites verus,Alnipollenites verus,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:52,Rousea sp.,Bisaccate,Rousea sp.,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:54,Betulaceae,Alnipollenites verus,Alnipollenites verus,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:55,Caryapollenites,Caryapollenites,Caryapollenites,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:57,Ulmipollenites sp.,Alnipollenites verus,Alnipollenites verus,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:59,Caryapollenites,Momipites,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:75,Caryapollenites,Bombacacidites sp.,Rousea sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:74,Bisaccate,Bisaccate,Bisaccate,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:73,Ulmipollenites sp.,Ericipites sp.,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:70,Alnipollenites verus,Pistillipollenites sp.,Alnipollenites verus,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:69,Ulmipollenites sp.,Momipites,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:77,Ulmipollenites sp.,Quercus sp.,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:76,Ulmipollenites sp.,Rhoipites sp.,Rhoipites sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:80,Inaperturopollenites sp.,Ulmipollenites sp.,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:65,Caryapollenites,Ericipites sp.,Inaperturopollenites sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:66,Bombacacidites sp.,Laevigatosporites sp.,Laevigatosporites sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:67,Platycaryapollenites swasticoidus,Momipites,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:88,Laevigatosporites sp.,Laevigatosporites sp.,Laevigatosporites sp.,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:89,Caryapollenites,Alnipollenites verus,Alnipollenites verus,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:99,Laevigatosporites sp.,Psilatriletes sp.,Laevigatosporites sp.,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:94,Psilatriletes sp.,Psilatriletes sp.,Psilatriletes sp.,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:93,Monocolpites sp.,Platycaryapollenites swasticoidus,Caryapollenites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:82,Betulaceae,Momipites,Momipites,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:86,Caryapollenites,Caryapollenites,Caryapollenites,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:83,Cupuliferoipollenites sp.,Rhoipites sp.,Rousea sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:103,Momipites,Momipites,Momipites,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:104,Taxodium sp.,Psilatriletes sp.,Rousea sp.,both_wrong
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:107,Momipites,Momipites,Momipites,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:111,Rousea sp.,Rousea sp.,Rousea sp.,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:109,Momipites,Alnipollenites verus,Momipites,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:116,Arecipites sp.,Arecipites sp.,Arecipites sp.,both_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:130,Caryapollenites,Polyatriopollenites type,Caryapollenites,newly_correct
+D5542_1_R_2024_02_06_14_21_49_Colorado::ndpviewstate:118,Ulmipollenites sp.,Bombacacidites sp.,Betulaceae,both_wrong
+D6627-A-2_R_2024_02_02_17_42_28_Arkansas::ndpviewstate:15,Bisaccate,Bisaccate,Bisaccate,both_correct
+D6627-A-2_R_2024_02_02_17_42_28_Arkansas::ndpviewstate:30,Bisaccate,Bisaccate,Bisaccate,both_correct
+D6627-A-2_R_2024_02_02_17_42_28_Arkansas::ndpviewstate:94,Ericipites sp.,Momipites,Momipites,both_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:20,Caryapollenites,Momipites,Momipites,both_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:39,Alnipollenites verus,Polyatriopollenites type,Betulaceae,both_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:5,Arecipites sp.,Bisaccate,Bisaccate,both_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:3,Monocolpites sp.,Bisaccate,Bisaccate,both_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:105,Momipites,Bisaccate,Bisaccate,both_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:89,Rhoipites sp.,Retipollenites sp.,Retipollenites sp.,both_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:120,Ericipites sp.,Ericipites sp.,Ericipites sp.,both_correct
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:162,Polyatriopollenites type,Polyatriopollenites type,Polyatriopollenites type,both_correct
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:129,Bisaccate,Bisaccate,Bisaccate,both_correct
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:181,Caryapollenites,Caryapollenites,Momipites,newly_wrong
+USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming::ndpviewstate:195,Polyatriopollenites type,Rhoipites sp.,Ulmipollenites sp.,both_wrong
+USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:15,Momipites,Polyatriopollenites type,Momipites,newly_correct
+USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:64,Momipites,Caryapollenites,Momipites,newly_correct
+USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming::ndpviewstate:114,Momipites,Momipites,Momipites,both_correct
+USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:24,Alnipollenites verus,Alnipollenites verus,Alnipollenites verus,both_correct
+USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:39,Bisaccate,Bisaccate,Bisaccate,both_correct
+USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:59,Bisaccate,Bisaccate,Bisaccate,both_correct
+USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:57,Taxodium sp.,Psilatriletes sp.,Taxodium sp.,newly_correct
+USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:66,Bisaccate,Bisaccate,Bisaccate,both_correct
+USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee::ndpviewstate:76,Bisaccate,Bisaccate,Bisaccate,both_correct
+USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:92,Arecipites sp.,Rousea sp.,Arecipites sp.,newly_correct
+USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:40,Arecipites sp.,Laevigatosporites sp.,Monocolpites sp.,both_wrong
+USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:45,Bisaccate,Bisaccate,Bisaccate,both_correct
+USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:35,Betulaceae,Alnipollenites verus,Alnipollenites verus,both_wrong
+USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:46,Pistillipollenites sp.,Pistillipollenites sp.,Pistillipollenites sp.,both_correct
+USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:103,Momipites,Betulaceae,Betulaceae,both_wrong
+USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee::ndpviewstate:31,Taxodium sp.,Taxodium sp.,Taxodium sp.,both_correct

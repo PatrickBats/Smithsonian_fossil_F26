@@ -63,4 +63,4 @@ On 347 expert-located validation crops: strong/last 2=181 correct, 52.16% accura
 
 **Limits:** single-seed exploratory validation, no independent test. The original detector saw 13/14 evaluation slides; 258 is the subset of matched detector crops, not all dataset specimens. Classifier has 28 outputs, but 27 classes have validation support; macro metrics exclude unsupported classes. AP is one-vs-rest classification AP, not detection AP. The legacy `execution` provenance label in the copied trainer still says baseline/mild; actual policy, blocks, LR, completed jobs and their configuration identify this strong/four-layer experiment.
 
-No raw images, crops, pretrained/fine-tuned weights or per-object experiment outputs are included in Git.
+[Confusion matrices and compact comparison tables](../../../reports/dino_strong_four_layers/README.md) are included for review. Raw images, crop pixels, pretrained/fine-tuned weights and full per-object score tensors remain on NOTS.

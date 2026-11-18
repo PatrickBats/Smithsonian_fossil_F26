@@ -1,0 +1,29 @@
+﻿True / Predicted,Pistillipollenites sp.,Tetracolporopollenites sp.,Cicatricosisporites sp.,Rousea sp.,Illexpollenites sp.,Bisaccate,Arecipites sp.,Laevigatosporites sp.,Monocolpites sp.,Caryapollenites,Momipites,Ericipites sp.,Rhoipites sp.,Psilatricolpites sp.,Taxodium sp.,Betulaceae,Alnipollenites verus,Nudopollis sp.,Psilatriletes sp.,Bombacacidites sp.,Polyatriopollenites type,Inaperturopollenites sp.,Quercus sp.,Ulmipollenites sp.,Cupuliferoipollenites sp.,Platycaryapollenites swasticoidus,Platycarya platycarioides,Retipollenites sp.
+Pistillipollenites sp.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tetracolporopollenites sp.,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cicatricosisporites sp.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rousea sp.,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Illexpollenites sp.,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bisaccate,0,0,0,0,0,24,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Arecipites sp.,0,0,0,1,0,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laevigatosporites sp.,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monocolpites sp.,0,0,0,0,0,1,1,1,5,1,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Caryapollenites,0,0,0,1,0,0,0,0,0,7,6,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+Momipites,0,0,0,0,0,1,0,1,0,2,31,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Ericipites sp.,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhoipites sp.,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Psilatricolpites sp.,0,0,0,0,0,0,0,0,0,0,0,0,7,3,3,0,0,0,1,0,0,0,1,0,0,0,0,0
+Taxodium sp.,0,0,0,1,0,1,0,0,1,0,1,0,0,0,20,0,0,0,0,0,0,2,0,0,0,0,0,0
+Betulaceae,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,4,0,0,1,0,0,0,2,0,0,0,0
+Alnipollenites verus,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,10,0,0,0,0,0,0,1,0,0,0,0
+Nudopollis sp.,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Psilatriletes sp.,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Bombacacidites sp.,0,0,0,2,0,0,0,1,0,2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Polyatriopollenites type,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,0,2,0,0,0,0
+Inaperturopollenites sp.,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0
+Quercus sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+Ulmipollenites sp.,0,0,0,0,0,0,0,1,0,2,7,3,1,0,0,1,1,0,0,0,0,2,0,4,0,1,0,0
+Cupuliferoipollenites sp.,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Platycaryapollenites swasticoidus,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Platycarya platycarioides,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Retipollenites sp.,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
