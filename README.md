@@ -8,6 +8,8 @@ Check annotations → extract specimens → train and evaluate → classify new 
 
 ## Files
 
+- [DINO strong augmentation + last-four-block fine-tuning](scripts/classification/dino_strong_four_layers/README.md)
+
 - [Current project context](docs/CURRENT_CONTEXT.md)
 - [Correct working dataset — Fall 2026](data/current/README.md)
 

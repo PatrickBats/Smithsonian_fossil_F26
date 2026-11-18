@@ -18,3 +18,6 @@ reports/detection_pilot_2026-09-24/*.csv -text -whitespace
 reports/initial_report_complete_2026-09-27/IEEEtran.cls -text -whitespace
 reports/initial_report_complete_2026-09-27/IEEEtran.bst -text -whitespace
 reports/initial_report_complete_2026-09-27/template/** -text -whitespace
+
+# Reproducible source hashes and executable Slurm scripts.
+scripts/classification/dino_strong_four_layers/** text eol=lf
