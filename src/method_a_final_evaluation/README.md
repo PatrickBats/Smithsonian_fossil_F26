@@ -9,6 +9,9 @@
   complete training contracts.
 - `evaluation.py`: held-out CV inference, sealed selection, final test inference,
   and aggregate publication/provenance files.
+- `figures.py`: confusion matrix PNG/PDF and per-class counts from final test
+  aggregate counts, with unchanged scientific category identifiers in CSV.
+- `orchestration.py`: light Slurm status monitoring and dependent-stage dispatch.
 - `cli.py`: argument parsing and explicit stage dispatch.
 
 See the [workflow and NOTS paths](../../scripts/method_a_final_evaluation/README.md).

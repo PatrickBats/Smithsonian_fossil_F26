@@ -252,6 +252,14 @@ def report(root, run_root, results):
             },
         },
     )
+    from .figures import render
+
+    figure_counts = render(output)
+    if (
+        figure_counts["targets"] != summary["known"]
+        or figure_counts["correct"] != summary["correct"]
+    ):
+        raise ValueError("Rendered figure counts differ from final results")
     return {
         "status": "published",
         "output": str(output),
