@@ -52,7 +52,7 @@ class Controller:
 
     def submit(self, name, args, gpu=False, short=False, array=None):
         previous = self.state["jobs"].get(name)
-        if previous and previous.get("attempts", 0) >= 8:
+        if previous and previous.get("attempts", 0) >= 24:
             raise RuntimeError(f"Too many attempts: {name}")
         script = (
             self.code
@@ -120,6 +120,98 @@ class Controller:
             "history": history,
         }
         self.event(f"Submitted {name}: {job}")
+
+    def fill_debug(self):
+        """Move queued fits into isolated short GPU steps when debug is free.
+
+        Pending originals are held before replacement so a scheduler race cannot
+        launch two writers for the same model. Running fits are never moved.
+        """
+        raw = subprocess.check_output(
+            ["squeue", "-h", "-u", os.environ["USER"], "-o", "%i|%T|%P"],
+            text=True,
+        )
+        queue = {}
+        for line in raw.splitlines():
+            fields = line.strip().split("|")
+            if len(fields) == 3:
+                queue[fields[0]] = fields[1:]
+        if any(partition == "debug" for _, partition in queue.values()):
+            return
+        names = [
+            name
+            for name, job in self.state["jobs"].items()
+            if name.endswith(("teacher", "model"))
+            and not job.get("short")
+            and job.get("attempts", 0) < 24
+            and queue.get(job["id"]) == ["PENDING", "scavenge"]
+        ][:4]
+        if not names:
+            return
+        held = []
+        manifest = self.work / (
+            "debug_bundle_" + time.strftime("%Y%m%dT%H%M%SZ", time.gmtime()) + ".json"
+        )
+        try:
+            for name in names:
+                original = self.state["jobs"][name]["id"]
+                subprocess.check_call(["scontrol", "hold", original])
+                held.append(original)
+            manifest.write_text(
+                json.dumps(
+                    [
+                        {"name": name, "args": self.state["jobs"][name]["args"]}
+                        for name in names
+                    ],
+                    indent=2,
+                )
+                + "\n"
+            )
+            count = len(names)
+            command = [
+                "sbatch",
+                "--parsable",
+                "--job-name=mixed-final-bundle",
+                f"--gres=gpu:lovelace:{count}",
+                f"--cpus-per-task={4 * count}",
+                f"--mem={32 * count}G",
+                "--output=" + str(self.work / "logs" / "bundle-%j.out"),
+                "--error=" + str(self.work / "logs" / "bundle-%j.err"),
+                "--export=ALL,MIXED_CODE_ROOT="
+                + str(self.code)
+                + ",MIXED_BUNDLE_LOGS="
+                + str(self.work / "logs"),
+                str(
+                    self.code
+                    / "scripts"
+                    / "method_a_final_evaluation"
+                    / "debug_bundle.sbatch"
+                ),
+                str(manifest),
+            ]
+            identifier = (
+                subprocess.check_output(command, text=True).strip().split(";")[0]
+            )
+        except BaseException:
+            for original in held:
+                subprocess.run(["scontrol", "release", original], check=False)
+            raise
+        for name in names:
+            job = self.state["jobs"][name]
+            subprocess.check_call(["scancel", job["id"]])
+            job["history"].append(
+                {
+                    "id": job["id"],
+                    "reason": "Pending fit moved to isolated debug GPU step",
+                }
+            )
+            job.update(
+                id=identifier,
+                attempts=job["attempts"] + 1,
+                bundle_manifest=str(manifest),
+                last_state="active",
+            )
+        self.event(f"Dispatched debug allocation {identifier}: {', '.join(names)}")
 
     def statuses(self):
         ids = sorted({j["id"] for j in self.state["jobs"].values()})
@@ -378,6 +470,7 @@ def main():
     while True:
         if controller.tick() or not watch:
             break
+        controller.fill_debug()
         time.sleep(30)
 
 

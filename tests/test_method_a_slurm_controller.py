@@ -46,6 +46,53 @@ class SlurmControllerTests(unittest.TestCase):
                 controller.state["jobs"]["cv-0-model"]["history"], [{"id": "201"}]
             )
 
+    def test_running_fit_is_not_replaced(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            controller = Controller(
+                root, root / "data", root / "runs", root / "code", "100"
+            )
+            controller.state["jobs"]["cv-0-model"] = {
+                "id": "201",
+                "attempts": 1,
+                "short": False,
+            }
+            with patch(
+                "subprocess.check_output", return_value="201|RUNNING|scavenge\n"
+            ):
+                with patch("subprocess.check_call") as mutation:
+                    controller.fill_debug()
+                    mutation.assert_not_called()
+
+    def test_failed_bundle_submission_releases_pending_fit(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            controller = Controller(
+                root, root / "data", root / "runs", root / "code", "100"
+            )
+            controller.state["jobs"]["cv-0-model"] = {
+                "id": "201",
+                "attempts": 1,
+                "short": False,
+                "args": ["train"],
+            }
+            with patch(
+                "subprocess.check_output",
+                side_effect=[
+                    "201|PENDING|scavenge\n",
+                    RuntimeError("scheduler unavailable"),
+                ],
+            ):
+                with patch("subprocess.check_call") as hold:
+                    with patch("subprocess.run") as release:
+                        with self.assertRaises(RuntimeError):
+                            controller.fill_debug()
+                        hold.assert_called_once_with(["scontrol", "hold", "201"])
+                        release.assert_called_once_with(
+                            ["scontrol", "release", "201"], check=False
+                        )
+            self.assertEqual(controller.state["jobs"]["cv-0-model"]["id"], "201")
+
 
 if __name__ == "__main__":
     unittest.main()

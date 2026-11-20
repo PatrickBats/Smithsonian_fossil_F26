@@ -65,6 +65,16 @@ final joint model, predict test, and publish aggregate results. Run GPU work via
 Fresh outputs must not overwrite completed experiments. Record Slurm submissions
 and the source hash inventory with the run.
 
+The controller also uses otherwise available short debug allocations for up to
+four independent fits. Each fit runs in an exclusive one-GPU Slurm step with
+four CPUs and 32 GB RAM; model states and output directories remain separate.
+The 29-minute allocation saves resumable chunks after 24 minutes. Only pending
+scavenge jobs may be replaced: originals are held before dispatch, then their
+IDs and replacement allocation are retained in `jobs.json`. Running jobs are
+never moved. Short inference jobs take priority over this fallback. A maximum
+of 24 submissions per fit bounds continuation; terminal model failures require
+inspection rather than automatic retries.
+
 ## Interpretation
 
 Correct means an IoU >= 0.50 location match and the correct category for the

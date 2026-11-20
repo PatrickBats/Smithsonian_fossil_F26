@@ -7,6 +7,8 @@ import json
 def main():
     parser = argparse.ArgumentParser()
     sub = parser.add_subparsers(dest="command", required=True)
+    bundle = sub.add_parser("bundle")
+    bundle.add_argument("--manifest", required=True)
     prepare = sub.add_parser("prepare")
     prepare.add_argument("--old-manifest", required=True)
     prepare.add_argument("--new-plan-root", required=True)
@@ -39,7 +41,11 @@ def main():
         p.add_argument("--results", required=True)
     a = vars(parser.parse_args())
     command = a.pop("command")
-    if command in ("prepare", "export"):
+    if command == "bundle":
+        from .bundle import run_bundle
+
+        result = run_bundle(**a)
+    elif command in ("prepare", "export"):
         from . import preparation
 
         result = getattr(preparation, command)(**a)

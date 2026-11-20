@@ -12,6 +12,7 @@
 - `figures.py`: confusion matrix PNG/PDF and per-class counts from final test
   aggregate counts, with unchanged scientific category identifiers in CSV.
 - `orchestration.py`: light Slurm status monitoring and dependent-stage dispatch.
+- `bundle.py`: independent training chunks in exclusive Slurm GPU steps.
 - `cli.py`: argument parsing and explicit stage dispatch.
 
 See the [workflow and NOTS paths](../../scripts/method_a_final_evaluation/README.md).
