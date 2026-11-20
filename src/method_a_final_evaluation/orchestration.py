@@ -131,7 +131,7 @@ class Controller:
                 "-P",
                 "-j",
                 ",".join(ids),
-                "--format=JobID,State,ExitCode",
+                "--format=JobID%60,State%40,ExitCode",
             ],
             text=True,
         )
@@ -140,10 +140,13 @@ class Controller:
             fields = line.split("|")
             if len(fields) >= 3:
                 root = fields[0].split("_")[0]
-                groups.setdefault(root, []).append((fields[1].split()[0], fields[2]))
+                groups.setdefault(root, []).append(
+                    (fields[1].split()[0].rstrip("+"), fields[2])
+                )
         statuses = {}
         for name, job in self.state["jobs"].items():
             values = groups.get(job["id"], [])
+            job["slurm_states"] = values
             expected = (
                 int(job["array"].split("-")[1].split("%")[0]) + 1
                 if job.get("array")
@@ -153,7 +156,7 @@ class Controller:
                 s == "COMPLETED" and code == "0:0" for s, code in values
             ):
                 state = "done"
-            elif any(
+            elif any(code != "0:0" and s == "COMPLETED" for s, code in values) or any(
                 s
                 in {
                     "FAILED",
@@ -180,7 +183,11 @@ class Controller:
         for name, state in states.items():
             if state == "failed":
                 job = self.state["jobs"][name]
-                if name.endswith(("teacher", "model")):
+                retryable = any(
+                    s in {"NODE_FAIL", "PREEMPTED", "TIMEOUT", "BOOT_FAIL"}
+                    for s, _ in job.get("slurm_states", [])
+                )
+                if retryable and name.endswith(("teacher", "model")):
                     args = job["args"]
                     tag = "final" if "final" in name else "fold_" + name.split("-")[1]
                     kind = "teacher" if name.endswith("teacher") else "model"
