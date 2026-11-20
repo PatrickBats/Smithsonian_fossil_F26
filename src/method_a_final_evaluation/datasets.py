@@ -111,10 +111,16 @@ def add_ignore(root, stage, run_root, fold=None):
         by_image.setdefault(ann["image_id"], []).append(ann)
     model = RFDETR2XLarge(pretrain_weights=str(teacher), num_classes=1, resolution=1000)
     count = 0
+    proposal_count = 0
+    known_instance_hits = 0
+    class_histogram = {}
     for im in coco["images"]:
         path = base / "known" / "train" / im["file_name"]
         with Image.open(path) as image:
             pred = model.predict(image.convert("RGB"), threshold=0.30)
+        for cid in pred.class_id:
+            key = str(int(cid))
+            class_histogram[key] = class_histogram.get(key, 0) + 1
         boxes = torch.tensor(
             [
                 [
@@ -127,6 +133,14 @@ def add_ignore(root, stage, run_root, fold=None):
             ],
             dtype=torch.float32,
         )
+        pollen_boxes = torch.tensor(
+            pred.xyxy[pred.class_id == 0], dtype=torch.float32
+        ).reshape(-1, 4)
+        proposal_count += len(pollen_boxes)
+        if len(pollen_boxes) and len(boxes):
+            known_instance_hits += int(
+                (box_iou(pollen_boxes, boxes).max(0).values >= 0.5).sum()
+            )
         for box, score, cid in zip(pred.xyxy, pred.confidence, pred.class_id):
             if int(cid) != 0:
                 continue
@@ -163,6 +177,9 @@ def add_ignore(root, stage, run_root, fold=None):
         "teacher_checkpoint_sha256": file_sha(teacher),
         "teacher_training_contract": read(base / "contract.json"),
         "ignore_boxes": count,
+        "proposal_count": proposal_count,
+        "known_box_instance_hits": known_instance_hits,
+        "proposal_class_histogram": class_histogram,
         "known_boxes": len(coco["annotations"]) - count,
         "test_used": False,
     }

@@ -193,8 +193,15 @@ def train(
             "resume": str(resume) if resume.exists() else None,
         }
     )
-    contract_path.write_text(json.dumps(run_contract, indent=2) + "\n")
+    temporary_contract = contract_path.with_suffix(".tmp")
+    temporary_contract.write_text(json.dumps(run_contract, indent=2) + "\n")
+    temporary_contract.replace(contract_path)
     paused = {"value": False}
+
+    def save_resume(trainer):
+        temporary = resume.with_suffix(".tmp.ckpt")
+        trainer.save_checkpoint(str(temporary))
+        temporary.replace(resume)
 
     def status(value):
         temporary = status_path.with_suffix(".tmp")
@@ -249,7 +256,7 @@ def train(
                 and step % 600 == 0
                 and (batch_idx + 1) % 16 == 0
             ):
-                trainer.save_checkpoint(str(resume))
+                save_resume(trainer)
             # Optional short-queue chunks preserve optimizer, scheduler and EMA.
             budget = float(os.environ.get("MIXED_CHUNK_MINUTES", "165")) * 60
             if (
@@ -259,7 +266,7 @@ def train(
                 and time.monotonic() - started >= budget
                 and (batch_idx + 1) % 16 == 0
             ):
-                trainer.save_checkpoint(str(resume))
+                save_resume(trainer)
                 paused["value"] = True
                 trainer.should_stop = True
 
