@@ -1,0 +1,53 @@
+{
+  "git_revision": "d17490275d5dc719b209b656054bcd80a881c3ce",
+  "previous_revisions": [
+    "f8fb685152fad60076820e784e65aab494ec4178",
+    "05c49e4"
+  ],
+  "python": "3.13.12",
+  "platform": "Linux-5.14.0-427.13.1.el9_4.x86_64-x86_64-with-glibc2.34",
+  "packages": {
+    "rfdetr": "1.6.4",
+    "rfdetr-plus": "1.0.2",
+    "torch": "2.10.0",
+    "torchvision": "0.25.0",
+    "pytorch-lightning": "2.6.6",
+    "openslide-python": "1.4.3",
+    "tifffile": "2026.3.3",
+    "zarr": "3.1.5",
+    "numpy": "2.4.3",
+    "opencv-python": "4.13.0.92",
+    "Pillow": "12.1.1",
+    "matplotlib": "3.10.8"
+  },
+  "files": {
+    "src/method_a_final_evaluation/.___init__.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._cli.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._datasets.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._evaluation.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._figures.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._orchestration.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._preparation.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._protocol.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/._training.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "src/method_a_final_evaluation/__init__.py": "e2a1f6db313e0230df5a7f5e738df28fb0899ae4b6b53bfbbac5a4fe78da5f72",
+    "src/method_a_final_evaluation/bundle.py": "10da5c7ce1dee708181c8a94c371b0b366d50724e2c0787fd4e7da727de8044e",
+    "src/method_a_final_evaluation/cli.py": "2ddef4e347e3a414b83b3447be2513ab705730c1e21a7e0a22bf2025966444e6",
+    "src/method_a_final_evaluation/datasets.py": "20087859dfe773e2cd60c8fdf01202e5e69dc753c4dc7b76ab14663d1851c8c5",
+    "src/method_a_final_evaluation/evaluation.py": "9286b27ccdd633af8418c5edc4e96f614944142cbe5da4acef3bfe29f97741f4",
+    "src/method_a_final_evaluation/figures.py": "8345ae8d088380bb82bcb22317c31328bea0dea497d0ee1bfb9bf260c4d0c740",
+    "src/method_a_final_evaluation/orchestration.py": "3b54e27b2c0ac0df15fd4b01bc69c22600ba76819a8abde1c9fd01b7b5b6a29d",
+    "src/method_a_final_evaluation/preparation.py": "dc027a215f9b56c6ce0a4d1d63f3287798372b532d75a739b791b80070219e55",
+    "src/method_a_final_evaluation/protocol.py": "86d271906195d0e8db5743c6002a0dda8c31eec5015aa03b602eaef898eee4f0",
+    "src/method_a_final_evaluation/training.py": "b782c5e87645702fafa816b5b5cae320d9080b4989b97aa677dde344ffd5c869",
+    "scripts/method_a_final_evaluation/._README.md": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "scripts/method_a_final_evaluation/._cpu.sbatch": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "scripts/method_a_final_evaluation/._gpu.sbatch": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "scripts/method_a_final_evaluation/._run.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "scripts/method_a_final_evaluation/README.md": "7e1ffee5a4c09e72f30680bb37c7eca87e8dfcb3e5370e64de21dec9818cb074",
+    "scripts/method_a_final_evaluation/cpu.sbatch": "7822adc00cba8abda88d8d4ac175ab5311dd8ac2dba010711950db5152269f1e",
+    "scripts/method_a_final_evaluation/debug_bundle.sbatch": "fb95ce9a6ebb878dc9d5e54efd4cabd1152e30f87c8a5b37c67b28a35316827f",
+    "scripts/method_a_final_evaluation/gpu.sbatch": "c066164a44a8db5c072b2b688a1f3b4ce525d0c1ff2039c38c44bb4b18ea2f73",
+    "scripts/method_a_final_evaluation/run.py": "14b35d7b8e6a039a7af753b4533d493dc46448bd6b81202b45c0b196ca5c63be"
+  }
+}

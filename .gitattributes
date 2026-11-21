@@ -14,6 +14,8 @@ docs/sources/data/Fall_2026/*.ndpa -text -whitespace
 # CSV records include CRLF and literal source-label whitespace.
 data/**/*.csv -text -whitespace
 reports/detection_pilot_2026-09-24/*.csv -text -whitespace
+# Final result CSV bytes are hash-recorded; accept CRLF and retain whitespace checks.
+/reports/method_a_mixed_final_2026-11-20/*.csv -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 # Unmodified upstream IEEE template files retain their original formatting.
 reports/initial_report_complete_2026-09-27/IEEEtran.cls -text -whitespace
 reports/initial_report_complete_2026-09-27/IEEEtran.bst -text -whitespace

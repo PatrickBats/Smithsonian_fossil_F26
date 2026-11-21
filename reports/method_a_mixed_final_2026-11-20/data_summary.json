@@ -1,0 +1,110 @@
+{
+  "assignment_digest": "8bc4b9ddf24e5db0f51776bbb727ef01c4fc97796f0897cb871cee7c76b74e99",
+  "crop_count": 2619,
+  "identity_joins": [
+    [
+      "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4220_A_L_2024_02_06_11_51_42_Maryland.ndpi",
+      "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/D4220-A_L_2024-02-06_11_51_42_Maryland.ndpi"
+    ],
+    [
+      "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793471_D3915_L_2024_01_22_10_22_34_Alaska.ndpi",
+      "/rhf/allocations/dsci435/smithsonian_full_sp26/raw/Images_with_annotations_for_CNN_training/USNMPAL_793471_D3915_L_2024-01-22_10_22_34_Alaska.ndpi"
+    ]
+  ],
+  "identity_limit": "Source paths, evidenced alias groups and matching whole-scan thumbnails; full NDPI byte equality not claimed.",
+  "known_records": 2830,
+  "old_inventory_sha256": "8a205bc234d8b4bfc1c34facc484f94d049bfb5c59040e4765842692c8597961",
+  "partitions": {
+    "development": {
+      "by_origin": {
+        "new": {
+          "known": 463,
+          "scans": 17
+        },
+        "old": {
+          "known": 1925,
+          "scans": 58
+        }
+      },
+      "class_support": {
+        "Alnipollenites verus": 74,
+        "Arecipites sp.": 72,
+        "Betulaceae": 63,
+        "Bisaccate": 275,
+        "Bombacacidites sp.": 33,
+        "Caryapollenites": 141,
+        "Cicatricosisporites sp.": 51,
+        "Cupuliferoipollenites sp.": 25,
+        "Ericipites sp.": 50,
+        "Illexpollenites sp.": 28,
+        "Inaperturopollenites sp.": 249,
+        "Laevigatosporites sp.": 136,
+        "Momipites": 292,
+        "Monocolpites sp.": 78,
+        "Nudopollis sp.": 85,
+        "Pistillipollenites sp.": 61,
+        "Platycarya platycarioides": 48,
+        "Platycaryapollenites swasticoidus": 77,
+        "Polyatriopollenites type": 29,
+        "Psilatricolpites sp.": 61,
+        "Psilatriletes sp.": 41,
+        "Quercus sp.": 41,
+        "Retipollenites sp.": 85,
+        "Rhoipites sp.": 78,
+        "Rousea sp.": 70,
+        "Taxodium sp.": 46,
+        "Tetracolporopollenites sp.": 51,
+        "Ulmipollenites sp.": 48
+      },
+      "known": 2388,
+      "scans": 75
+    },
+    "test": {
+      "by_origin": {
+        "new": {
+          "known": 77,
+          "scans": 3
+        },
+        "old": {
+          "known": 365,
+          "scans": 17
+        }
+      },
+      "class_support": {
+        "Alnipollenites verus": 20,
+        "Arecipites sp.": 18,
+        "Betulaceae": 15,
+        "Bisaccate": 41,
+        "Bombacacidites sp.": 9,
+        "Caryapollenites": 9,
+        "Cicatricosisporites sp.": 5,
+        "Cupuliferoipollenites sp.": 9,
+        "Ericipites sp.": 4,
+        "Illexpollenites sp.": 5,
+        "Inaperturopollenites sp.": 17,
+        "Laevigatosporites sp.": 42,
+        "Momipites": 42,
+        "Monocolpites sp.": 39,
+        "Nudopollis sp.": 4,
+        "Pistillipollenites sp.": 3,
+        "Platycarya platycarioides": 8,
+        "Platycaryapollenites swasticoidus": 4,
+        "Polyatriopollenites type": 14,
+        "Psilatricolpites sp.": 17,
+        "Psilatriletes sp.": 12,
+        "Quercus sp.": 11,
+        "Retipollenites sp.": 4,
+        "Rhoipites sp.": 24,
+        "Rousea sp.": 17,
+        "Taxodium sp.": 17,
+        "Tetracolporopollenites sp.": 17,
+        "Ulmipollenites sp.": 15
+      },
+      "known": 442,
+      "scans": 20
+    }
+  },
+  "plans_digest": "b90e33fd716b29b53204d68eded44b527179171ad94e27893f523beeede88c4c",
+  "scan_count": 95,
+  "seed": 20261120
+}

@@ -1,0 +1,32 @@
+{
+  "checkpoint_sha256": "126001e423a1a71faac4163922f1125ef3342ce5a8e8eae53ae4141a37da0700",
+  "matrix_sha256": "27e42dbe6889455c705ed92cf006f7f7a171c881f4429384ba82aab436e3ae1b",
+  "selection_sha256": "b629422da222bef135d7365758b868b2c3400dc9295b8ab4efa7a29558cabae0",
+  "source_code_sha256": {
+    ".___init__.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._cli.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._datasets.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._evaluation.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._figures.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._orchestration.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._preparation.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._protocol.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "._training.py": "8b60c5f19a3a58033a55861f7663342900dbd315b97c2b5f7e6a5ac7daf05097",
+    "__init__.py": "e2a1f6db313e0230df5a7f5e738df28fb0899ae4b6b53bfbbac5a4fe78da5f72",
+    "bundle.py": "10da5c7ce1dee708181c8a94c371b0b366d50724e2c0787fd4e7da727de8044e",
+    "cli.py": "2ddef4e347e3a414b83b3447be2513ab705730c1e21a7e0a22bf2025966444e6",
+    "datasets.py": "20087859dfe773e2cd60c8fdf01202e5e69dc753c4dc7b76ab14663d1851c8c5",
+    "evaluation.py": "9286b27ccdd633af8418c5edc4e96f614944142cbe5da4acef3bfe29f97741f4",
+    "figures.py": "8345ae8d088380bb82bcb22317c31328bea0dea497d0ee1bfb9bf260c4d0c740",
+    "orchestration.py": "3b54e27b2c0ac0df15fd4b01bc69c22600ba76819a8abde1c9fd01b7b5b6a29d",
+    "preparation.py": "dc027a215f9b56c6ce0a4d1d63f3287798372b532d75a739b791b80070219e55",
+    "protocol.py": "86d271906195d0e8db5743c6002a0dda8c31eec5015aa03b602eaef898eee4f0",
+    "training.py": "b782c5e87645702fafa816b5b5cae320d9080b4989b97aa677dde344ffd5c869"
+  },
+  "test_manifest_digest": "8bc4b9ddf24e5db0f51776bbb727ef01c4fc97796f0897cb871cee7c76b74e99",
+  "test_opened": {
+    "assignment_digest": "8bc4b9ddf24e5db0f51776bbb727ef01c4fc97796f0897cb871cee7c76b74e99",
+    "selection_sha256": "b629422da222bef135d7365758b868b2c3400dc9295b8ab4efa7a29558cabae0",
+    "test_sources_digest": "3ece87bbef80d8c757b19d024a4bd3188012ab38b3021c39c102b0f2f95ec3c2"
+  }
+}
