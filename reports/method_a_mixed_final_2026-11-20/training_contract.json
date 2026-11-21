@@ -1,0 +1,77 @@
+{
+  "chunks": [
+    {
+      "job": "2814602",
+      "resume": null
+    },
+    {
+      "job": "2814750",
+      "resume": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120/final/model/resume.ckpt"
+    },
+    {
+      "job": "2814985",
+      "resume": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120/final/model/resume.ckpt"
+    }
+  ],
+  "cosine_schedule_steps": 2400,
+  "dataset_sha256": "c89d04d638f3dd3783d25e936c00b0663202de90c4482e5f6219cc55909e5d68",
+  "fold": null,
+  "generic_sha256": "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+  "gpu": "NVIDIA L40S",
+  "init_path": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120/final/teacher/checkpoint_step_2400.pth",
+  "init_sha256": "4ab229b7e978626d91db371fea5a97129519bf56017644410f404b4bb9fef910",
+  "kind": "model",
+  "partition_contract": {
+    "assignment_digest": "8bc4b9ddf24e5db0f51776bbb727ef01c4fc97796f0897cb871cee7c76b74e99",
+    "fold": null,
+    "images": 2188,
+    "known_boxes": 2604,
+    "stage": "final",
+    "test_used": false,
+    "train_groups_count": 74,
+    "train_groups_digest": "870dd41ff14dca818292bb635fcb3b7e8e728b9cc7233f303f21d7420dd0db46",
+    "train_sources_count": 75,
+    "train_sources_digest": "32acfd55e380d15abc39e9fb46c6930977169be149ffe9ab979a1a51af6ab1aa"
+  },
+  "rfdetr": "1.6.4",
+  "rfdetr_plus": "1.0.2",
+  "settings": {
+    "aug_config": {
+      "HorizontalFlip": {
+        "p": 0.5
+      },
+      "RandomRotate90": {
+        "p": 0.5
+      },
+      "VerticalFlip": {
+        "p": 0.5
+      }
+    },
+    "batch_size": 1,
+    "compute_val_loss": false,
+    "dataset_dir": "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120/datasets/final/ignore",
+    "early_stopping": false,
+    "epochs": 30,
+    "expanded_scales": false,
+    "grad_accum_steps": 16,
+    "log_per_class_metrics": false,
+    "lr": 0.0001,
+    "lr_encoder": 1e-05,
+    "lr_scheduler": "cosine",
+    "multi_scale": false,
+    "num_workers": 2,
+    "output_dir": "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120/final/model",
+    "progress_bar": null,
+    "run_test": false,
+    "save_dataset_grids": false,
+    "seed": 20261120,
+    "tensorboard": false,
+    "use_ema": true,
+    "wandb": false
+  },
+  "smoke": false,
+  "stage": "final",
+  "target_steps": 2400,
+  "test_used": false,
+  "torch": "2.10.0+cu128"
+}

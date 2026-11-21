@@ -1,0 +1,2361 @@
+{
+  "jobs": {
+    "prepare": {
+      "id": "2810411",
+      "attempts": 1,
+      "last_state": "done",
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ]
+    },
+    "export": {
+      "id": "2810583",
+      "attempts": 1,
+      "args": [
+        "export",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": "0-94%16",
+      "history": [],
+      "last_state": "done",
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ],
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ]
+    },
+    "cv-0-assemble": {
+      "id": "2810888",
+      "attempts": 1,
+      "args": [
+        "assemble",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "0"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-1-assemble": {
+      "id": "2810889",
+      "attempts": 1,
+      "args": [
+        "assemble",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "1"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-2-assemble": {
+      "id": "2810890",
+      "attempts": 1,
+      "args": [
+        "assemble",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "2"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-3-assemble": {
+      "id": "2810891",
+      "attempts": 1,
+      "args": [
+        "assemble",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "3"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-4-assemble": {
+      "id": "2810892",
+      "attempts": 1,
+      "args": [
+        "assemble",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "4"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "final-assemble": {
+      "id": "2810893",
+      "attempts": 1,
+      "args": [
+        "assemble",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--stage",
+        "final"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "smoke-teacher": {
+      "id": "2810895",
+      "attempts": 1,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "0",
+        "--kind",
+        "teacher",
+        "--smoke"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "smoke-model": {
+      "id": "2810918",
+      "attempts": 1,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "0",
+        "--kind",
+        "model",
+        "--smoke"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-0-teacher": {
+      "id": "2813452",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "0",
+        "--kind",
+        "teacher"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2810924",
+          "reason": "Pending allocation replaced by isolated debug GPU step"
+        },
+        {
+          "id": "2813283"
+        },
+        {
+          "id": "2813347",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813348"
+        },
+        {
+          "id": "2813451",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T120340Z.json",
+      "last_state": "done",
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ]
+    },
+    "cv-1-teacher": {
+      "id": "2813550",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "1",
+        "--kind",
+        "teacher"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2810925",
+          "reason": "Pending allocation replaced by isolated debug GPU step"
+        },
+        {
+          "id": "2813283"
+        },
+        {
+          "id": "2813350",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813452"
+        },
+        {
+          "id": "2813549",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T122918Z.json",
+      "last_state": "done",
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ]
+    },
+    "cv-2-teacher": {
+      "id": "2813699",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "2",
+        "--kind",
+        "teacher"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2810926",
+          "reason": "Pending allocation replaced by isolated debug GPU step"
+        },
+        {
+          "id": "2813283"
+        },
+        {
+          "id": "2813353",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813452"
+        },
+        {
+          "id": "2813551",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done",
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T125800Z.json"
+    },
+    "cv-3-teacher": {
+      "id": "2813699",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "3",
+        "--kind",
+        "teacher"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2810927",
+          "reason": "Pending allocation replaced by isolated debug GPU step"
+        },
+        {
+          "id": "2813283"
+        },
+        {
+          "id": "2813356",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813452"
+        },
+        {
+          "id": "2813552",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done",
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T125800Z.json"
+    },
+    "cv-4-teacher": {
+      "id": "2813699",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "4",
+        "--kind",
+        "teacher"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2810928",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813348"
+        },
+        {
+          "id": "2813458",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813550"
+        },
+        {
+          "id": "2813686",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done",
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T125800Z.json"
+    },
+    "final-teacher": {
+      "id": "2813699",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "final",
+        "--kind",
+        "teacher"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2810938",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813348"
+        },
+        {
+          "id": "2813461",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813550"
+        },
+        {
+          "id": "2813688",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done",
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T125800Z.json"
+    },
+    "cv-0-ignore": {
+      "id": "2813555",
+      "attempts": 1,
+      "args": [
+        "ignore",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "0"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-1-ignore": {
+      "id": "2813691",
+      "attempts": 1,
+      "args": [
+        "ignore",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "1"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-0-model": {
+      "id": "2814247",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "0",
+        "--kind",
+        "model"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2813696",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813820"
+        },
+        {
+          "id": "2814033",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814034"
+        },
+        {
+          "id": "2814246",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T141009Z.json",
+      "last_state": "done",
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ]
+    },
+    "cv-1-model": {
+      "id": "2814380",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "1",
+        "--kind",
+        "model"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2813698",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813820"
+        },
+        {
+          "id": "2814044",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814247"
+        },
+        {
+          "id": "2814379",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T143528Z.json",
+      "last_state": "done",
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ]
+    },
+    "cv-2-ignore": {
+      "id": "2813770",
+      "attempts": 1,
+      "args": [
+        "ignore",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "2"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-3-ignore": {
+      "id": "2813771",
+      "attempts": 1,
+      "args": [
+        "ignore",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "3"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-4-ignore": {
+      "id": "2813772",
+      "attempts": 1,
+      "args": [
+        "ignore",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--stage",
+        "cv",
+        "--fold",
+        "4"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "final-ignore": {
+      "id": "2813773",
+      "attempts": 1,
+      "args": [
+        "ignore",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--stage",
+        "final"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-2-model": {
+      "id": "2814500",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "2",
+        "--kind",
+        "model"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2813784",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813820"
+        },
+        {
+          "id": "2814048",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814247"
+        },
+        {
+          "id": "2814383",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done",
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T150309Z.json"
+    },
+    "cv-3-model": {
+      "id": "2814500",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "3",
+        "--kind",
+        "model"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2813791",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2813820"
+        },
+        {
+          "id": "2814059",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814247"
+        },
+        {
+          "id": "2814385",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done",
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T150309Z.json"
+    },
+    "cv-4-model": {
+      "id": "2814500",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "cv",
+        "--fold",
+        "4",
+        "--kind",
+        "model"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2813808",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814034"
+        },
+        {
+          "id": "2814249",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814380"
+        },
+        {
+          "id": "2814487",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done",
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T150309Z.json"
+    },
+    "cv-0-predict": {
+      "id": "2814388",
+      "attempts": 1,
+      "args": [
+        "predict",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--stage",
+        "cv",
+        "--fold",
+        "0"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-1-predict": {
+      "id": "2814492",
+      "attempts": 1,
+      "args": [
+        "predict",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--stage",
+        "cv",
+        "--fold",
+        "1"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-2-predict": {
+      "id": "2814582",
+      "attempts": 1,
+      "args": [
+        "predict",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--stage",
+        "cv",
+        "--fold",
+        "2"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-3-predict": {
+      "id": "2814583",
+      "attempts": 1,
+      "args": [
+        "predict",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--stage",
+        "cv",
+        "--fold",
+        "3"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "cv-4-predict": {
+      "id": "2814584",
+      "attempts": 1,
+      "args": [
+        "predict",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--stage",
+        "cv",
+        "--fold",
+        "4"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "select": {
+      "id": "2814597",
+      "attempts": 1,
+      "args": [
+        "select",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "final-model": {
+      "id": "2814985",
+      "attempts": 6,
+      "args": [
+        "train",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--generic-init",
+        "/rhf/allocations/dsci435/Smithsonian_F26/weights/rf-detr-xxlarge.pth",
+        "--generic-sha",
+        "bf418652d5e07ad441599acfadc65bb1767029079e7a343a6d61675ec5d553ae",
+        "--stage",
+        "final",
+        "--kind",
+        "model"
+      ],
+      "gpu": true,
+      "short": false,
+      "array": null,
+      "history": [
+        {
+          "id": "2814601",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814602"
+        },
+        {
+          "id": "2814749",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        },
+        {
+          "id": "2814750"
+        },
+        {
+          "id": "2814984",
+          "reason": "Pending fit moved to isolated debug GPU step"
+        }
+      ],
+      "bundle_manifest": "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/debug_bundle_20261120T161248Z.json",
+      "last_state": "done",
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ]
+    },
+    "final-predict": {
+      "id": "2815107",
+      "attempts": 1,
+      "args": [
+        "predict",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results",
+        "--stage",
+        "final"
+      ],
+      "gpu": true,
+      "short": true,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    },
+    "report": {
+      "id": "2815113",
+      "attempts": 1,
+      "args": [
+        "report",
+        "--root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/processed/method_a_mixed_final_20261120",
+        "--run-root",
+        "/rhf/allocations/dsci435/Smithsonian_F26/model_A/runs/mixed_final_20261120",
+        "--results",
+        "/projects/dsci435/Smithsonian_F26/method_a/mixed_final_20261120/results"
+      ],
+      "gpu": false,
+      "short": false,
+      "array": null,
+      "history": [],
+      "slurm_states": [
+        [
+          "COMPLETED",
+          "0:0"
+        ]
+      ],
+      "last_state": "done"
+    }
+  },
+  "events": [
+    {
+      "utc": "2026-11-20T05:00:37Z",
+      "message": "prepare is active"
+    },
+    {
+      "utc": "2026-11-20T05:07:01Z",
+      "message": "prepare is done"
+    },
+    {
+      "utc": "2026-11-20T05:07:01Z",
+      "message": "Submitted export: 2810583"
+    },
+    {
+      "utc": "2026-11-20T05:07:31Z",
+      "message": "export is active"
+    },
+    {
+      "utc": "2026-11-20T05:20:27Z",
+      "message": "export is done"
+    },
+    {
+      "utc": "2026-11-20T05:20:27Z",
+      "message": "Submitted cv-0-assemble: 2810888"
+    },
+    {
+      "utc": "2026-11-20T05:20:27Z",
+      "message": "Submitted cv-1-assemble: 2810889"
+    },
+    {
+      "utc": "2026-11-20T05:20:27Z",
+      "message": "Submitted cv-2-assemble: 2810890"
+    },
+    {
+      "utc": "2026-11-20T05:20:28Z",
+      "message": "Submitted cv-3-assemble: 2810891"
+    },
+    {
+      "utc": "2026-11-20T05:20:28Z",
+      "message": "Submitted cv-4-assemble: 2810892"
+    },
+    {
+      "utc": "2026-11-20T05:20:28Z",
+      "message": "Submitted final-assemble: 2810893"
+    },
+    {
+      "utc": "2026-11-20T05:20:58Z",
+      "message": "cv-0-assemble is done"
+    },
+    {
+      "utc": "2026-11-20T05:20:58Z",
+      "message": "cv-1-assemble is active"
+    },
+    {
+      "utc": "2026-11-20T05:20:58Z",
+      "message": "cv-2-assemble is active"
+    },
+    {
+      "utc": "2026-11-20T05:20:58Z",
+      "message": "cv-3-assemble is active"
+    },
+    {
+      "utc": "2026-11-20T05:20:58Z",
+      "message": "cv-4-assemble is active"
+    },
+    {
+      "utc": "2026-11-20T05:20:58Z",
+      "message": "final-assemble is active"
+    },
+    {
+      "utc": "2026-11-20T05:20:58Z",
+      "message": "Submitted smoke-teacher: 2810895"
+    },
+    {
+      "utc": "2026-11-20T05:21:28Z",
+      "message": "cv-1-assemble is done"
+    },
+    {
+      "utc": "2026-11-20T05:21:28Z",
+      "message": "smoke-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T05:22:58Z",
+      "message": "cv-2-assemble is done"
+    },
+    {
+      "utc": "2026-11-20T05:22:58Z",
+      "message": "smoke-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T05:22:58Z",
+      "message": "Submitted smoke-model: 2810918"
+    },
+    {
+      "utc": "2026-11-20T05:23:28Z",
+      "message": "cv-3-assemble is done"
+    },
+    {
+      "utc": "2026-11-20T05:23:28Z",
+      "message": "smoke-model is active"
+    },
+    {
+      "utc": "2026-11-20T05:23:58Z",
+      "message": "cv-4-assemble is done"
+    },
+    {
+      "utc": "2026-11-20T05:23:58Z",
+      "message": "smoke-model is done"
+    },
+    {
+      "utc": "2026-11-20T05:23:58Z",
+      "message": "Submitted cv-0-teacher: 2810924"
+    },
+    {
+      "utc": "2026-11-20T05:23:58Z",
+      "message": "Submitted cv-1-teacher: 2810925"
+    },
+    {
+      "utc": "2026-11-20T05:23:58Z",
+      "message": "Submitted cv-2-teacher: 2810926"
+    },
+    {
+      "utc": "2026-11-20T05:23:58Z",
+      "message": "Submitted cv-3-teacher: 2810927"
+    },
+    {
+      "utc": "2026-11-20T05:23:58Z",
+      "message": "Submitted cv-4-teacher: 2810928"
+    },
+    {
+      "utc": "2026-11-20T05:24:29Z",
+      "message": "final-assemble is done"
+    },
+    {
+      "utc": "2026-11-20T05:24:29Z",
+      "message": "cv-0-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T05:24:29Z",
+      "message": "cv-1-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T05:24:29Z",
+      "message": "cv-2-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T05:24:29Z",
+      "message": "cv-3-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T05:24:29Z",
+      "message": "cv-4-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T05:24:29Z",
+      "message": "Submitted final-teacher: 2810938"
+    },
+    {
+      "utc": "2026-11-20T05:24:59Z",
+      "message": "final-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T11:12:26Z",
+      "message": "Dispatched independent training chunks in four-GPU debug allocation 2813283"
+    },
+    {
+      "utc": "2026-11-20T11:38:00Z",
+      "message": "cv-0-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T11:38:00Z",
+      "message": "cv-1-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T11:38:00Z",
+      "message": "cv-2-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T11:38:00Z",
+      "message": "cv-3-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T11:38:00Z",
+      "message": "Submitted cv-0-teacher: 2813347"
+    },
+    {
+      "utc": "2026-11-20T11:38:00Z",
+      "message": "Dispatched debug allocation 2813348: cv-0-teacher, cv-4-teacher, final-teacher"
+    },
+    {
+      "utc": "2026-11-20T11:38:30Z",
+      "message": "Submitted cv-1-teacher: 2813350"
+    },
+    {
+      "utc": "2026-11-20T11:39:00Z",
+      "message": "cv-1-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T11:39:00Z",
+      "message": "Submitted cv-2-teacher: 2813353"
+    },
+    {
+      "utc": "2026-11-20T11:39:30Z",
+      "message": "cv-2-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T11:39:30Z",
+      "message": "Submitted cv-3-teacher: 2813356"
+    },
+    {
+      "utc": "2026-11-20T11:40:00Z",
+      "message": "cv-3-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T12:03:40Z",
+      "message": "cv-0-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:03:40Z",
+      "message": "cv-4-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:03:40Z",
+      "message": "final-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:03:40Z",
+      "message": "Submitted cv-0-teacher: 2813451"
+    },
+    {
+      "utc": "2026-11-20T12:03:40Z",
+      "message": "Dispatched debug allocation 2813452: cv-0-teacher, cv-1-teacher, cv-2-teacher, cv-3-teacher"
+    },
+    {
+      "utc": "2026-11-20T12:04:10Z",
+      "message": "Submitted cv-4-teacher: 2813458"
+    },
+    {
+      "utc": "2026-11-20T12:04:40Z",
+      "message": "cv-4-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T12:04:40Z",
+      "message": "Submitted final-teacher: 2813461"
+    },
+    {
+      "utc": "2026-11-20T12:05:11Z",
+      "message": "final-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T12:29:18Z",
+      "message": "cv-0-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:29:18Z",
+      "message": "cv-1-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:29:18Z",
+      "message": "cv-2-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:29:18Z",
+      "message": "cv-3-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:29:18Z",
+      "message": "Submitted cv-1-teacher: 2813549"
+    },
+    {
+      "utc": "2026-11-20T12:29:18Z",
+      "message": "Dispatched debug allocation 2813550: cv-1-teacher, cv-4-teacher, final-teacher"
+    },
+    {
+      "utc": "2026-11-20T12:29:50Z",
+      "message": "Submitted cv-2-teacher: 2813551"
+    },
+    {
+      "utc": "2026-11-20T12:30:20Z",
+      "message": "cv-2-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T12:30:20Z",
+      "message": "Submitted cv-3-teacher: 2813552"
+    },
+    {
+      "utc": "2026-11-20T12:30:50Z",
+      "message": "cv-3-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T12:30:50Z",
+      "message": "Submitted cv-0-ignore: 2813555"
+    },
+    {
+      "utc": "2026-11-20T12:31:20Z",
+      "message": "cv-0-ignore is active"
+    },
+    {
+      "utc": "2026-11-20T12:54:28Z",
+      "message": "cv-1-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:54:28Z",
+      "message": "cv-4-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:54:28Z",
+      "message": "final-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T12:54:28Z",
+      "message": "Submitted cv-4-teacher: 2813686"
+    },
+    {
+      "utc": "2026-11-20T12:54:58Z",
+      "message": "cv-4-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T12:54:58Z",
+      "message": "Submitted final-teacher: 2813688"
+    },
+    {
+      "utc": "2026-11-20T12:55:28Z",
+      "message": "final-teacher is active"
+    },
+    {
+      "utc": "2026-11-20T12:55:28Z",
+      "message": "Submitted cv-1-ignore: 2813691"
+    },
+    {
+      "utc": "2026-11-20T12:55:58Z",
+      "message": "cv-1-ignore is active"
+    },
+    {
+      "utc": "2026-11-20T12:56:30Z",
+      "message": "cv-0-ignore is done"
+    },
+    {
+      "utc": "2026-11-20T12:56:30Z",
+      "message": "Submitted cv-0-model: 2813696"
+    },
+    {
+      "utc": "2026-11-20T12:57:00Z",
+      "message": "cv-0-model is active"
+    },
+    {
+      "utc": "2026-11-20T12:58:00Z",
+      "message": "cv-1-ignore is done"
+    },
+    {
+      "utc": "2026-11-20T12:58:00Z",
+      "message": "Submitted cv-1-model: 2813698"
+    },
+    {
+      "utc": "2026-11-20T12:58:01Z",
+      "message": "Dispatched debug allocation 2813699: cv-2-teacher, cv-3-teacher, cv-4-teacher, final-teacher"
+    },
+    {
+      "utc": "2026-11-20T12:58:31Z",
+      "message": "cv-1-model is active"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "cv-2-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "cv-3-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "cv-4-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "final-teacher is done"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "Submitted cv-2-ignore: 2813770"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "Submitted cv-3-ignore: 2813771"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "Submitted cv-4-ignore: 2813772"
+    },
+    {
+      "utc": "2026-11-20T13:12:05Z",
+      "message": "Submitted final-ignore: 2813773"
+    },
+    {
+      "utc": "2026-11-20T13:12:35Z",
+      "message": "cv-2-ignore is active"
+    },
+    {
+      "utc": "2026-11-20T13:12:35Z",
+      "message": "cv-3-ignore is active"
+    },
+    {
+      "utc": "2026-11-20T13:12:35Z",
+      "message": "cv-4-ignore is active"
+    },
+    {
+      "utc": "2026-11-20T13:12:35Z",
+      "message": "final-ignore is active"
+    },
+    {
+      "utc": "2026-11-20T13:14:07Z",
+      "message": "cv-2-ignore is done"
+    },
+    {
+      "utc": "2026-11-20T13:14:07Z",
+      "message": "Submitted cv-2-model: 2813784"
+    },
+    {
+      "utc": "2026-11-20T13:14:37Z",
+      "message": "cv-2-model is active"
+    },
+    {
+      "utc": "2026-11-20T13:15:37Z",
+      "message": "cv-3-ignore is done"
+    },
+    {
+      "utc": "2026-11-20T13:15:37Z",
+      "message": "Submitted cv-3-model: 2813791"
+    },
+    {
+      "utc": "2026-11-20T13:16:07Z",
+      "message": "cv-3-model is active"
+    },
+    {
+      "utc": "2026-11-20T13:17:37Z",
+      "message": "cv-4-ignore is done"
+    },
+    {
+      "utc": "2026-11-20T13:17:37Z",
+      "message": "Submitted cv-4-model: 2813808"
+    },
+    {
+      "utc": "2026-11-20T13:18:07Z",
+      "message": "cv-4-model is active"
+    },
+    {
+      "utc": "2026-11-20T13:19:37Z",
+      "message": "final-ignore is done"
+    },
+    {
+      "utc": "2026-11-20T13:19:37Z",
+      "message": "Dispatched debug allocation 2813820: cv-0-model, cv-1-model, cv-2-model, cv-3-model"
+    },
+    {
+      "utc": "2026-11-20T13:44:31Z",
+      "message": "cv-0-model is done"
+    },
+    {
+      "utc": "2026-11-20T13:44:31Z",
+      "message": "cv-1-model is done"
+    },
+    {
+      "utc": "2026-11-20T13:44:31Z",
+      "message": "cv-2-model is done"
+    },
+    {
+      "utc": "2026-11-20T13:44:31Z",
+      "message": "cv-3-model is done"
+    },
+    {
+      "utc": "2026-11-20T13:44:31Z",
+      "message": "Submitted cv-0-model: 2814033"
+    },
+    {
+      "utc": "2026-11-20T13:44:31Z",
+      "message": "Dispatched debug allocation 2814034: cv-0-model, cv-4-model"
+    },
+    {
+      "utc": "2026-11-20T13:45:01Z",
+      "message": "Submitted cv-1-model: 2814044"
+    },
+    {
+      "utc": "2026-11-20T13:45:31Z",
+      "message": "cv-1-model is active"
+    },
+    {
+      "utc": "2026-11-20T13:45:31Z",
+      "message": "Submitted cv-2-model: 2814048"
+    },
+    {
+      "utc": "2026-11-20T13:46:01Z",
+      "message": "cv-2-model is active"
+    },
+    {
+      "utc": "2026-11-20T13:46:01Z",
+      "message": "Submitted cv-3-model: 2814059"
+    },
+    {
+      "utc": "2026-11-20T13:46:31Z",
+      "message": "cv-3-model is active"
+    },
+    {
+      "utc": "2026-11-20T14:10:09Z",
+      "message": "cv-0-model is done"
+    },
+    {
+      "utc": "2026-11-20T14:10:09Z",
+      "message": "cv-4-model is done"
+    },
+    {
+      "utc": "2026-11-20T14:10:09Z",
+      "message": "Submitted cv-0-model: 2814246"
+    },
+    {
+      "utc": "2026-11-20T14:10:09Z",
+      "message": "Dispatched debug allocation 2814247: cv-0-model, cv-1-model, cv-2-model, cv-3-model"
+    },
+    {
+      "utc": "2026-11-20T14:10:39Z",
+      "message": "Submitted cv-4-model: 2814249"
+    },
+    {
+      "utc": "2026-11-20T14:11:09Z",
+      "message": "cv-4-model is active"
+    },
+    {
+      "utc": "2026-11-20T14:35:28Z",
+      "message": "cv-0-model is done"
+    },
+    {
+      "utc": "2026-11-20T14:35:28Z",
+      "message": "cv-1-model is done"
+    },
+    {
+      "utc": "2026-11-20T14:35:28Z",
+      "message": "cv-2-model is done"
+    },
+    {
+      "utc": "2026-11-20T14:35:28Z",
+      "message": "cv-3-model is done"
+    },
+    {
+      "utc": "2026-11-20T14:35:28Z",
+      "message": "Submitted cv-1-model: 2814379"
+    },
+    {
+      "utc": "2026-11-20T14:35:28Z",
+      "message": "Dispatched debug allocation 2814380: cv-1-model, cv-4-model"
+    },
+    {
+      "utc": "2026-11-20T14:35:58Z",
+      "message": "Submitted cv-2-model: 2814383"
+    },
+    {
+      "utc": "2026-11-20T14:36:28Z",
+      "message": "cv-2-model is active"
+    },
+    {
+      "utc": "2026-11-20T14:36:28Z",
+      "message": "Submitted cv-3-model: 2814385"
+    },
+    {
+      "utc": "2026-11-20T14:36:58Z",
+      "message": "cv-3-model is active"
+    },
+    {
+      "utc": "2026-11-20T14:36:58Z",
+      "message": "Submitted cv-0-predict: 2814388"
+    },
+    {
+      "utc": "2026-11-20T14:37:28Z",
+      "message": "cv-0-predict is active"
+    },
+    {
+      "utc": "2026-11-20T15:01:06Z",
+      "message": "cv-1-model is done"
+    },
+    {
+      "utc": "2026-11-20T15:01:06Z",
+      "message": "cv-4-model is done"
+    },
+    {
+      "utc": "2026-11-20T15:01:06Z",
+      "message": "Submitted cv-4-model: 2814487"
+    },
+    {
+      "utc": "2026-11-20T15:01:36Z",
+      "message": "cv-4-model is active"
+    },
+    {
+      "utc": "2026-11-20T15:01:36Z",
+      "message": "Submitted cv-1-predict: 2814492"
+    },
+    {
+      "utc": "2026-11-20T15:02:06Z",
+      "message": "cv-0-predict is done"
+    },
+    {
+      "utc": "2026-11-20T15:02:06Z",
+      "message": "cv-1-predict is active"
+    },
+    {
+      "utc": "2026-11-20T15:03:08Z",
+      "message": "cv-1-predict is done"
+    },
+    {
+      "utc": "2026-11-20T15:03:09Z",
+      "message": "Dispatched debug allocation 2814500: cv-2-model, cv-3-model, cv-4-model"
+    },
+    {
+      "utc": "2026-11-20T15:18:20Z",
+      "message": "cv-2-model is done"
+    },
+    {
+      "utc": "2026-11-20T15:18:20Z",
+      "message": "cv-3-model is done"
+    },
+    {
+      "utc": "2026-11-20T15:18:20Z",
+      "message": "cv-4-model is done"
+    },
+    {
+      "utc": "2026-11-20T15:18:21Z",
+      "message": "Submitted cv-2-predict: 2814582"
+    },
+    {
+      "utc": "2026-11-20T15:18:22Z",
+      "message": "Submitted cv-3-predict: 2814583"
+    },
+    {
+      "utc": "2026-11-20T15:18:22Z",
+      "message": "Submitted cv-4-predict: 2814584"
+    },
+    {
+      "utc": "2026-11-20T15:18:52Z",
+      "message": "cv-2-predict is active"
+    },
+    {
+      "utc": "2026-11-20T15:18:52Z",
+      "message": "cv-3-predict is active"
+    },
+    {
+      "utc": "2026-11-20T15:18:52Z",
+      "message": "cv-4-predict is active"
+    },
+    {
+      "utc": "2026-11-20T15:19:55Z",
+      "message": "cv-2-predict is done"
+    },
+    {
+      "utc": "2026-11-20T15:20:59Z",
+      "message": "cv-3-predict is done"
+    },
+    {
+      "utc": "2026-11-20T15:21:30Z",
+      "message": "cv-4-predict is done"
+    },
+    {
+      "utc": "2026-11-20T15:21:32Z",
+      "message": "Submitted select: 2814597"
+    },
+    {
+      "utc": "2026-11-20T15:22:02Z",
+      "message": "select is done"
+    },
+    {
+      "utc": "2026-11-20T15:22:04Z",
+      "message": "Submitted final-model: 2814601"
+    },
+    {
+      "utc": "2026-11-20T15:22:04Z",
+      "message": "Dispatched debug allocation 2814602: final-model"
+    },
+    {
+      "utc": "2026-11-20T15:46:52Z",
+      "message": "final-model is done"
+    },
+    {
+      "utc": "2026-11-20T15:46:54Z",
+      "message": "Submitted final-model: 2814749"
+    },
+    {
+      "utc": "2026-11-20T15:46:54Z",
+      "message": "Dispatched debug allocation 2814750: final-model"
+    },
+    {
+      "utc": "2026-11-20T16:12:46Z",
+      "message": "final-model is done"
+    },
+    {
+      "utc": "2026-11-20T16:12:48Z",
+      "message": "Submitted final-model: 2814984"
+    },
+    {
+      "utc": "2026-11-20T16:12:48Z",
+      "message": "Dispatched debug allocation 2814985: final-model"
+    },
+    {
+      "utc": "2026-11-20T16:25:51Z",
+      "message": "final-model is done"
+    },
+    {
+      "utc": "2026-11-20T16:25:52Z",
+      "message": "Submitted final-predict: 2815107"
+    },
+    {
+      "utc": "2026-11-20T16:26:22Z",
+      "message": "final-predict is active"
+    },
+    {
+      "utc": "2026-11-20T16:26:53Z",
+      "message": "final-predict is done"
+    },
+    {
+      "utc": "2026-11-20T16:26:54Z",
+      "message": "Submitted report: 2815113"
+    },
+    {
+      "utc": "2026-11-20T16:27:24Z",
+      "message": "report is done"
+    },
+    {
+      "utc": "2026-11-20T16:27:24Z",
+      "message": "Final mixed-delivery test assessment completed"
+    }
+  ]
+}
