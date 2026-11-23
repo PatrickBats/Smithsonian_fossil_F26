@@ -1,0 +1,37 @@
+{
+ "fold": 2,
+ "status": "completed",
+ "checkpoint": "/home/alanyang/Smithsonian_F26/model_A/runs/A4_cv_cocoinit/fold_2/checkpoint_final_ema.pth",
+ "results": [
+  {
+   "threshold": 0.25,
+   "known": 94,
+   "detected": 89,
+   "correct": 46
+  },
+  {
+   "threshold": 0.3,
+   "known": 94,
+   "detected": 88,
+   "correct": 45
+  },
+  {
+   "threshold": 0.4,
+   "known": 94,
+   "detected": 86,
+   "correct": 44
+  },
+  {
+   "threshold": 0.5,
+   "known": 94,
+   "detected": 76,
+   "correct": 41
+  },
+  {
+   "threshold": 0.75,
+   "known": 94,
+   "detected": 36,
+   "correct": 25
+  }
+ ]
+}

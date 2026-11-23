@@ -1,0 +1,75 @@
+{
+ "known_specimens": 98,
+ "held_out_scans": 4,
+ "detected": 92,
+ "correct": 56,
+ "known_recall_iou50": 0.9387755102040817,
+ "end_to_end_success": 0.5714285714285714,
+ "class_accuracy_among_matches": 0.6086956521739131,
+ "predictions_after_nms": 102,
+ "unmatched_predictions_unreviewed": 10,
+ "threshold": 0.3,
+ "match_iou": 0.5,
+ "per_class": [
+  {
+   "category": "Arecipites sp.",
+   "support": 1,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Inaperturopollenites sp.",
+   "support": 29,
+   "slide_support": 3,
+   "detected": 26,
+   "correct": 18
+  },
+  {
+   "category": "Laevigatosporites sp.",
+   "support": 51,
+   "slide_support": 3,
+   "detected": 50,
+   "correct": 35
+  },
+  {
+   "category": "Monocolpites sp.",
+   "support": 4,
+   "slide_support": 3,
+   "detected": 4,
+   "correct": 0
+  },
+  {
+   "category": "Psilatricolpites sp.",
+   "support": 1,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Retipollenites sp.",
+   "support": 1,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Rhoipites sp.",
+   "support": 4,
+   "slide_support": 2,
+   "detected": 4,
+   "correct": 0
+  },
+  {
+   "category": "Rousea sp.",
+   "support": 7,
+   "slide_support": 1,
+   "detected": 5,
+   "correct": 3
+  }
+ ],
+ "interpretation": "Sparse labels: unmatched predictions are unreviewed, not verified false positives.",
+ "fold": 3,
+ "checkpoint": "/home/alanyang/Smithsonian_F26/model_A/runs/A4_cv_cocoinit/fold_3/checkpoint_final_ema.pth",
+ "invalid_slot_predictions": 0
+}

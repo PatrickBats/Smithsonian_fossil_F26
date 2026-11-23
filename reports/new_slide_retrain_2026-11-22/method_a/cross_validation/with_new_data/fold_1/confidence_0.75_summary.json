@@ -1,0 +1,103 @@
+{
+ "known_specimens": 94,
+ "held_out_scans": 4,
+ "detected": 26,
+ "correct": 12,
+ "known_recall_iou50": 0.2765957446808511,
+ "end_to_end_success": 0.1276595744680851,
+ "class_accuracy_among_matches": 0.46153846153846156,
+ "predictions_after_nms": 30,
+ "unmatched_predictions_unreviewed": 4,
+ "threshold": 0.75,
+ "match_iou": 0.5,
+ "per_class": [
+  {
+   "category": "Alnipollenites verus",
+   "support": 1,
+   "slide_support": 1,
+   "detected": 0,
+   "correct": 0
+  },
+  {
+   "category": "Cupuliferoipollenites sp.",
+   "support": 7,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Inaperturopollenites sp.",
+   "support": 9,
+   "slide_support": 1,
+   "detected": 2,
+   "correct": 1
+  },
+  {
+   "category": "Monocolpites sp.",
+   "support": 12,
+   "slide_support": 4,
+   "detected": 0,
+   "correct": 0
+  },
+  {
+   "category": "Psilatricolpites sp.",
+   "support": 6,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 1
+  },
+  {
+   "category": "Psilatriletes sp.",
+   "support": 2,
+   "slide_support": 2,
+   "detected": 0,
+   "correct": 0
+  },
+  {
+   "category": "Quercus sp.",
+   "support": 8,
+   "slide_support": 1,
+   "detected": 6,
+   "correct": 6
+  },
+  {
+   "category": "Retipollenites sp.",
+   "support": 3,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Rhoipites sp.",
+   "support": 30,
+   "slide_support": 2,
+   "detected": 12,
+   "correct": 3
+  },
+  {
+   "category": "Rousea sp.",
+   "support": 14,
+   "slide_support": 3,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Taxodium sp.",
+   "support": 1,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 1
+  },
+  {
+   "category": "Tetracolporopollenites sp.",
+   "support": 1,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  }
+ ],
+ "interpretation": "Sparse labels: unmatched predictions are unreviewed, not verified false positives.",
+ "fold": 1,
+ "checkpoint": "/home/alanyang/Smithsonian_F26/model_A/runs/A4_cv_cocoinit/fold_1/checkpoint_final_ema.pth",
+ "invalid_slot_predictions": 0
+}
