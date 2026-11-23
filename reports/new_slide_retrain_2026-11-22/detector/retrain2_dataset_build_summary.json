@@ -1,0 +1,300 @@
+{
+ "out": "/home/alanyang/Smithsonian_F26/processed/coco_detector_v3",
+ "smoke": false,
+ "conf": 0.3,
+ "iou": 0.5,
+ "old_repeat": 3,
+ "seed": 20261120,
+ "train": {
+  "image_entries": 44719,
+  "old_entries": 14355,
+  "new_entries": 30364,
+  "labels": 68342,
+  "ignore_boxes": 28440,
+  "old_share_of_entries": 0.321,
+  "new_tiles_with_ignore": 14808,
+  "new_labels": 41615
+ },
+ "val": {
+  "images": 2825,
+  "old_images": 1325,
+  "new_images": 1500,
+  "old_boxes": 1469,
+  "new_boxes": 1653
+ },
+ "detector_head_rows_fired": {
+  "0": 65238
+ },
+ "per_new_slide": {
+  "22257_360300_105AM_53_L_2024_05_06_08_52_16": {
+   "tiles": 1153,
+   "labels": 1309,
+   "ignore": 1532,
+   "tiles_with_ignore": 777
+  },
+  "46427_L860033_R_2024-02-10 12.52.53": {
+   "tiles": 284,
+   "labels": 298,
+   "ignore": 175,
+   "tiles_with_ignore": 123
+  },
+  "48371_L860033_L_2024-02-13 10.33.29": {
+   "tiles": 192,
+   "labels": 199,
+   "ignore": 168,
+   "tiles_with_ignore": 105
+  },
+  "48728_L440119_R - 2024-01-22 17.15.40": {
+   "tiles": 913,
+   "labels": 1038,
+   "ignore": 347,
+   "tiles_with_ignore": 285
+  },
+  "48735_L440120_L - 2024-01-21 22.51.50": {
+   "tiles": 318,
+   "labels": 345,
+   "ignore": 248,
+   "tiles_with_ignore": 166
+  },
+  "48739_L440123_L - 2024-01-22 00.11.37": {
+   "tiles": 193,
+   "labels": 200,
+   "ignore": 63,
+   "tiles_with_ignore": 49
+  },
+  "49283_L860079_Ladriges_L_2025_01_31_10_16_03": {
+   "tiles": 4406,
+   "labels": 5685,
+   "ignore": 5450,
+   "tiles_with_ignore": 2947
+  },
+  "49283_L860079_Ladriges_R_2025_01_31_17_45_32": {
+   "tiles": 2633,
+   "labels": 5706,
+   "ignore": 4112,
+   "tiles_with_ignore": 1755
+  },
+  "49284_L860079_Ladriges_R_2025_01_31_17_28_23": {
+   "tiles": 1762,
+   "labels": 4377,
+   "ignore": 3947,
+   "tiles_with_ignore": 1345
+  },
+  "54237_TADP1_92Q-1-33_L_2025_01_30_17_05_07": {
+   "tiles": 690,
+   "labels": 777,
+   "ignore": 265,
+   "tiles_with_ignore": 207
+  },
+  "54237_TADP1_92Q-1-33_R_2025_01_30_22_26_12": {
+   "tiles": 727,
+   "labels": 789,
+   "ignore": 209,
+   "tiles_with_ignore": 170
+  },
+  "54239_TADP1_92Q-1-39.5_R_2024_11_11_18_37_43": {
+   "tiles": 491,
+   "labels": 528,
+   "ignore": 85,
+   "tiles_with_ignore": 77
+  },
+  "54241_TADP1_92Q-1-45.5_L_2025_01_30_16_49_03": {
+   "tiles": 873,
+   "labels": 995,
+   "ignore": 477,
+   "tiles_with_ignore": 340
+  },
+  "54241_TADP1_92Q-1-45.5_R_2025_01_30_22_10_05": {
+   "tiles": 791,
+   "labels": 891,
+   "ignore": 442,
+   "tiles_with_ignore": 319
+  },
+  "54246_TADP1_92Q-1-59.5_L_2025_01_30_16_33_00": {
+   "tiles": 629,
+   "labels": 727,
+   "ignore": 389,
+   "tiles_with_ignore": 302
+  },
+  "54246_TADP1_92Q-1-59.5_R_2025_01_30_21_53_57": {
+   "tiles": 864,
+   "labels": 961,
+   "ignore": 370,
+   "tiles_with_ignore": 289
+  },
+  "54301_TADP1_120Q-1-79_R_2025_01_30_21_21_42": {
+   "tiles": 2895,
+   "labels": 3777,
+   "ignore": 2174,
+   "tiles_with_ignore": 1465
+  },
+  "54312_TADP1_127Q-1-63_R_2024_11_11_19_41_50": {
+   "tiles": 572,
+   "labels": 612,
+   "ignore": 65,
+   "tiles_with_ignore": 60
+  },
+  "54347_IBED_T42.950_TADP-1A-128Q-2_2.5-3.5_2025_06_02_10_23_29": {
+   "tiles": 859,
+   "labels": 1033,
+   "ignore": 584,
+   "tiles_with_ignore": 387
+  },
+  "54356_TADP1_128Q-2-34.5_R_2025_01_30_12_14_58": {
+   "tiles": 183,
+   "labels": 187,
+   "ignore": 89,
+   "tiles_with_ignore": 68
+  },
+  "54452_TADP1_232Q-1-50.5_R_2024_11_12_11_36_13": {
+   "tiles": 335,
+   "labels": 348,
+   "ignore": 62,
+   "tiles_with_ignore": 53
+  },
+  "54471_TADP1_232Q-2-10.5_L_2025_01_29_01_16_10": {
+   "tiles": 641,
+   "labels": 687,
+   "ignore": 307,
+   "tiles_with_ignore": 229
+  },
+  "54776_TADP1_280Q-2-23_L_2025_03_31_11_07_32": {
+   "tiles": 382,
+   "labels": 410,
+   "ignore": 115,
+   "tiles_with_ignore": 90
+  },
+  "55179_TADP1_384Q-2-64_R_2025_04_03_13_26_02": {
+   "tiles": 211,
+   "labels": 222,
+   "ignore": 22,
+   "tiles_with_ignore": 20
+  },
+  "55184_TADP1_384Q-2-114.5_R_2025_04_03_13_41_38": {
+   "tiles": 405,
+   "labels": 426,
+   "ignore": 71,
+   "tiles_with_ignore": 66
+  },
+  "55253_L440190_L_2025_01_31_09_44_45": {
+   "tiles": 298,
+   "labels": 315,
+   "ignore": 153,
+   "tiles_with_ignore": 117
+  },
+  "55365_L_2026_03_17_12_22_07": {
+   "tiles": 813,
+   "labels": 928,
+   "ignore": 323,
+   "tiles_with_ignore": 267
+  },
+  "55365_R_2026_03_17_15_33_49": {
+   "tiles": 575,
+   "labels": 629,
+   "ignore": 170,
+   "tiles_with_ignore": 144
+  },
+  "55372_L_2026_03_17_13_10_19": {
+   "tiles": 222,
+   "labels": 226,
+   "ignore": 124,
+   "tiles_with_ignore": 82
+  },
+  "55378_L_2026_03_17_13_58_32": {
+   "tiles": 624,
+   "labels": 664,
+   "ignore": 250,
+   "tiles_with_ignore": 192
+  },
+  "55378_R_2026_03_19_10_08_43": {
+   "tiles": 712,
+   "labels": 774,
+   "ignore": 310,
+   "tiles_with_ignore": 246
+  },
+  "CP_2012_5_2aR_2026_09_29_15_17_06": {
+   "tiles": 249,
+   "labels": 349,
+   "ignore": 230,
+   "tiles_with_ignore": 154
+  },
+  "C_418058_W_Nassichuk_L_2025_01_14_20_55_37": {
+   "tiles": 133,
+   "labels": 345,
+   "ignore": 97,
+   "tiles_with_ignore": 58
+  },
+  "D1555_RAS_60_2023_04_20_15_40_35": {
+   "tiles": 73,
+   "labels": 1234,
+   "ignore": 983,
+   "tiles_with_ignore": 73
+  },
+  "DG92_1_W_2_WHOLE_Sawdonia_type_2026_10_22_12_37_04": {
+   "tiles": 195,
+   "labels": 257,
+   "ignore": 218,
+   "tiles_with_ignore": 133
+  },
+  "GT-17A-6U-1_21-31cm_L_2024_12_16_12_17_28": {
+   "tiles": 374,
+   "labels": 426,
+   "ignore": 1216,
+   "tiles_with_ignore": 359
+  },
+  "GT-17A-6U-1_21-31cm_R_2024_12_16_18_06_07": {
+   "tiles": 362,
+   "labels": 436,
+   "ignore": 1265,
+   "tiles_with_ignore": 349
+  },
+  "GT-17A-6U-1_31-41cm_L_2024_12_16_12_36_28": {
+   "tiles": 276,
+   "labels": 318,
+   "ignore": 332,
+   "tiles_with_ignore": 215
+  },
+  "Lake_Kemp_Dam_USNM40609_4_WHOLE_2026_06_04_17_02_21": {
+   "tiles": 107,
+   "labels": 113,
+   "ignore": 87,
+   "tiles_with_ignore": 46
+  },
+  "TOTA_1B-1K-2_111-112_cm_R_2025_01_28_19_05_22": {
+   "tiles": 224,
+   "labels": 229,
+   "ignore": 210,
+   "tiles_with_ignore": 122
+  },
+  "TOTA_1B-1K-2_143-144_cm_R_2025_01_28_18_33_28": {
+   "tiles": 151,
+   "labels": 154,
+   "ignore": 72,
+   "tiles_with_ignore": 58
+  },
+  "TOTA_1B-1K-2_63-64_cm_L_2025_01_28_21_00_35": {
+   "tiles": 201,
+   "labels": 210,
+   "ignore": 133,
+   "tiles_with_ignore": 89
+  },
+  "Une-1_FH2212_32_R-4248-17C_COR_L_2026_05_21_14_07_14": {
+   "tiles": 470,
+   "labels": 503,
+   "ignore": 175,
+   "tiles_with_ignore": 146
+  },
+  "Une-4_FH2212_19_R-4248-14A_COR_L_2026_05_21_12_15_26": {
+   "tiles": 328,
+   "labels": 345,
+   "ignore": 107,
+   "tiles_with_ignore": 87
+  },
+  "21827_Contamana_R_2025_07_15_09_06_44": {
+   "tiles": 575,
+   "labels": 633,
+   "ignore": 217,
+   "tiles_with_ignore": 177
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "known_specimens": 94,
+ "held_out_scans": 4,
+ "detected": 36,
+ "correct": 25,
+ "known_recall_iou50": 0.3829787234042553,
+ "end_to_end_success": 0.26595744680851063,
+ "class_accuracy_among_matches": 0.6944444444444444,
+ "predictions_after_nms": 37,
+ "unmatched_predictions_unreviewed": 1,
+ "threshold": 0.75,
+ "match_iou": 0.5,
+ "per_class": [
+  {
+   "category": "Arecipites sp.",
+   "support": 4,
+   "slide_support": 2,
+   "detected": 0,
+   "correct": 0
+  },
+  {
+   "category": "Bombacacidites sp.",
+   "support": 1,
+   "slide_support": 1,
+   "detected": 0,
+   "correct": 0
+  },
+  {
+   "category": "Cicatricosisporites sp.",
+   "support": 2,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Inaperturopollenites sp.",
+   "support": 13,
+   "slide_support": 3,
+   "detected": 9,
+   "correct": 8
+  },
+  {
+   "category": "Laevigatosporites sp.",
+   "support": 52,
+   "slide_support": 2,
+   "detected": 23,
+   "correct": 16
+  },
+  {
+   "category": "Monocolpites sp.",
+   "support": 5,
+   "slide_support": 2,
+   "detected": 0,
+   "correct": 0
+  },
+  {
+   "category": "Psilatricolpites sp.",
+   "support": 8,
+   "slide_support": 3,
+   "detected": 1,
+   "correct": 0
+  },
+  {
+   "category": "Psilatriletes sp.",
+   "support": 2,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 1
+  },
+  {
+   "category": "Retipollenites sp.",
+   "support": 2,
+   "slide_support": 2,
+   "detected": 0,
+   "correct": 0
+  },
+  {
+   "category": "Rousea sp.",
+   "support": 5,
+   "slide_support": 1,
+   "detected": 1,
+   "correct": 0
+  }
+ ],
+ "interpretation": "Sparse labels: unmatched predictions are unreviewed, not verified false positives.",
+ "fold": 2,
+ "checkpoint": "/home/alanyang/Smithsonian_F26/model_A/runs/A4_cv_cocoinit/fold_2/checkpoint_final_ema.pth",
+ "invalid_slot_predictions": 0
+}

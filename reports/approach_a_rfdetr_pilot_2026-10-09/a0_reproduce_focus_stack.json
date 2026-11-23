@@ -1,0 +1,14 @@
+{
+  "weights": "/rhf/allocations/dsci435/Smithsonian_F26/weights/rfdetr(2xl)_focus_stack.pth",
+  "coco_dir": "/rhf/allocations/dsci435/smithsonian_full_sp26/processed/coco/coco_focus_stack",
+  "split": "test",
+  "n_images": 986,
+  "AP50_95": 0.6423194432720489,
+  "AP50": 0.8793929446768347,
+  "f1": 0.8185626807765595,
+  "precision": 0.8416169648774022,
+  "recall": 0.7967377666248432,
+  "threshold": 0.43109914660453796,
+  "n_gt": 1594,
+  "seconds": 48.028815507888794
+}

@@ -1,0 +1,89 @@
+{
+ "top_pred_score>=0.0": {
+  "other non-priority (cls2)": {
+   "cls2": 1170,
+   "cls1": 6,
+   "missed": 4,
+   "cls0": 2
+  },
+  "Momipites species (cls2)": {
+   "cls2": 36,
+   "cls1": 3
+  },
+  "other priority category (cls2)": {
+   "cls2": 87,
+   "cls1": 4
+  },
+  "Momipites sp (cls1)": {
+   "cls2": 92,
+   "cls1": 54,
+   "cls0": 1
+  },
+  "Bisaccate (cls0)": {
+   "cls0": 4
+  }
+ },
+ "top_pred_score>=0.3": {
+  "other non-priority (cls2)": {
+   "cls2": 1094,
+   "missed": 81,
+   "cls1": 5,
+   "cls0": 2
+  },
+  "Momipites species (cls2)": {
+   "cls2": 36,
+   "cls1": 3
+  },
+  "other priority category (cls2)": {
+   "cls2": 86,
+   "missed": 1,
+   "cls1": 4
+  },
+  "Momipites sp (cls1)": {
+   "cls2": 91,
+   "cls1": 53,
+   "missed": 2,
+   "cls0": 1
+  },
+  "Bisaccate (cls0)": {
+   "cls0": 4
+  }
+ },
+ "mean_best_scores": {
+  "Bisaccate (cls0)": {
+   "n": 4,
+   "best0": 0.7447478324174881,
+   "best1": 0.005628089886158705,
+   "best2": 0.13604319654405117,
+   "frac_best1_gt_best2": 0.0
+  },
+  "Momipites sp (cls1)": {
+   "n": 147,
+   "best0": 0.015004245089176966,
+   "best1": 0.39032423549464773,
+   "best2": 0.5410989436770783,
+   "frac_best1_gt_best2": 0.3673469387755102
+  },
+  "Momipites species (cls2)": {
+   "n": 39,
+   "best0": 0.01716682642029646,
+   "best1": 0.24683991762307975,
+   "best2": 0.6947158655295005,
+   "frac_best1_gt_best2": 0.07692307692307693
+  },
+  "other non-priority (cls2)": {
+   "n": 1182,
+   "best0": 0.014967724178207001,
+   "best1": 0.06255528499378607,
+   "best2": 0.7128687470098689,
+   "frac_best1_gt_best2": 0.005076142131979695
+  },
+  "other priority category (cls2)": {
+   "n": 91,
+   "best0": 0.03374175862460346,
+   "best1": 0.17285459447693038,
+   "best2": 0.7197532801182716,
+   "frac_best1_gt_best2": 0.04395604395604396
+  }
+ }
+}

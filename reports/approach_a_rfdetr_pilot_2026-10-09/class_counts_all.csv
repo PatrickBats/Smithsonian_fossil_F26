@@ -1,0 +1,34 @@
+class,train,val,test,unassigned,total
+Alnipollenites verus,62,23,7,0,92
+Arecipites sp.,65,11,5,0,81
+Betulaceae,54,13,11,0,78
+Bisaccate,160,32,121,0,313
+Bombacacidites sp.,20,17,3,0,40
+Caryapollenites sp.,80,12,3,0,95
+Caryapollenites veripites,42,10,3,0,55
+Cicatricosisporites sp.,42,1,9,0,52
+Cupuliferoipollenites sp.,15,3,9,0,27
+Ericipites sp.,47,3,4,0,54
+Illexpollenites sp.,25,3,4,0,32
+Inaperturopollenites sp.,30,7,6,0,43
+Laevigatosporites sp.,21,3,14,0,38
+Momipites flexus,34,1,3,0,38
+Momipites sp,144,27,13,0,184
+Momipites ventifluminis,58,1,2,0,61
+Momipites wyomingensis,21,21,9,0,51
+Monocolpites sp.,51,25,4,0,80
+Nudopollis sp.,85,3,1,0,89
+Pistillipollenites sp.,61,1,2,0,64
+Platycarya platycarioides,52,1,3,0,56
+Platycaryapollenites swasticoidus,77,2,2,0,81
+Polyatriopollenites type,28,9,6,0,43
+Psilatricolpites sp.,26,18,17,0,61
+Psilatriletes sp.,27,6,15,0,48
+Quercus sp.,38,3,3,0,44
+Retipollenites sp.,73,0,2,0,75
+Rhoipites sp.,41,6,18,0,65
+Rousea sp.,34,12,6,0,52
+Taxodium sp.,25,33,3,0,61
+Tetracolporopollenites sp.,40,8,19,0,67
+Ulmipollenites sp.,27,32,4,0,63
+other_palynomorph,6036,1336,1154,560,9086

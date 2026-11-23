@@ -1,0 +1,78 @@
+{
+  "classes": [
+    "Bisaccate",
+    "Momipites sp",
+    "other_palynomorph"
+  ],
+  "images": {
+    "train": 3954,
+    "val": 1113,
+    "test": 1064
+  },
+  "boxes_per_class": {
+    "train": {
+      "Bisaccate": 168,
+      "Momipites sp": 147,
+      "other_palynomorph": 7627
+    },
+    "val": {
+      "Bisaccate": 32,
+      "Momipites sp": 28,
+      "other_palynomorph": 1847
+    },
+    "test": {
+      "Bisaccate": 29,
+      "Momipites sp": 12,
+      "other_palynomorph": 1353
+    }
+  },
+  "priority_records_inside_any_tile": 1354,
+  "priority_records_matched_to_box": 1352,
+  "tile_split_moves": {
+    "old_train->new_train": 2128,
+    "old_train->new_test": 896,
+    "old_train->new_val": 1057,
+    "old_val->new_train": 1120,
+    "old_val->new_val": 56,
+    "old_test->new_train": 706,
+    "old_test->new_test": 168
+  },
+  "record_in_tile_no_box": 2,
+  "box_with_conflicting_records": 0,
+  "dropped_slides_no_new_split": {
+    "Giraffe_20_1_95_R_Giraffe_2025_01_13_19_48_21": 168,
+    "Giraffe_20_3_47_BLEACHED_R_Giraffe_2025_01_14_09_06_36": 168,
+    "Giraffe_26_3_146_L_Giraffe_2025_01_13_16_06_02": 112,
+    "USNMPAL_792738_D1392_A_R_2024_01_25_13_58_00_Wyoming": 56,
+    "USNMPAL_792954_D1890-4_L_2024_09_19_11_55_30_Kentucky": 112,
+    "D5406_1_L_2024_02_09_10_25_26_Colorado": 112
+  },
+  "new_val_test_slides_seen_in_checkpoint_training": {
+    "val": [
+      "C_418114_W_Nassichuk_L_2025_01_14_16_15_48_Alaska",
+      "D1821_1_L_2024_01_22_16_22_31_New_Mex",
+      "D1821_1_R_2024_01_23_15_01_49_New_Mex",
+      "D1910_2024_02_29_12_46_52_Wyoming",
+      "D3407-2_L_2024_02_20_13_28_48_Texas",
+      "D4919-A_1_L_2024_02_01_14_07_43_Georgia",
+      "D5542_1_L_2024_02_06_10_55_26_Colorado",
+      "D5542_1_R_2024_02_06_14_21_49_Colorado",
+      "D6627-A-2_R_2024_02_02_17_42_28_Arkansas",
+      "USNMPAL_792673_D1166_A_L_2023_11_09_12_47_47_Wyoming",
+      "USNMPAL_792673_D1166_A_R_2023_11_09_15_17_21_Wyoming",
+      "USNMPAL_793367_D3702_L_2024_02_02_15_49_54_Tennessee",
+      "USNMPAL_793367_D3702_R_2024_02_05_12_01_01_Tennessee"
+    ],
+    "test": [
+      "C_418070_W_Nassichuk_R_2025_01_21_14_17_12_Alaska",
+      "C_418109_W_Nassichuk_R_2025_01_21_10_57_19_Alaska",
+      "D3202_C_R_2024_02_20_18_12_34_Kentucky",
+      "D3516-A_1_L_2024_02_20_12_51_02_Montana",
+      "D3516-A_1_R_2024_02_20_18_31_40_Montana",
+      "D3516-B_2_L_2024_02_20_14_24_29_Montana",
+      "USNMPAL_792727_D1376_2024_01_22_16_00_33_Wyoming",
+      "USNMPAL_792851_D1644_2024_01_26_11_12_23_California",
+      "USNMPAL_792852_D1667-A_L_2024_02_20_14_05_57_Kentucky"
+    ]
+  }
+}
